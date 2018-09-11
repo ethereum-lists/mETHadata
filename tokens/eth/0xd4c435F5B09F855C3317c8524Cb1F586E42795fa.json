@@ -16,18 +16,18 @@
     "url": "https://cindicator.com"
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@Cindicator",
     "chat": "",
     "facebook": "https://www.facebook.com/crowdindicator",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2062875",
+    "github": "https://github.com/cindicator",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "https://www.reddit.com/r/Cindicator",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/cindicator_news",
+    "twitter": "https://twitter.com/crowd_indicator",
     "youtube": ""
   }
 }

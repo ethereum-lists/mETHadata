@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://press.swarm.city/",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/groups/SwarmCity/about/",
+    "forum": "https://bitcointalk.org/index.php?topic=1794644.0",
+    "github": "https://github.com/swarmcity",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/SwarmCity/",
     "slack": "https://swarm-slack-invite.herokuapp.com",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/swarmcity",
+    "twitter": "https://twitter.com/swarmcitydapp",
     "youtube": ""
   }
 }

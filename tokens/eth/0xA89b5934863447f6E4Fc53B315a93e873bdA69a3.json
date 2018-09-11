@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@LuminoCoin",
     "chat": "",
     "facebook": "https://www.facebook.com/luminocoin",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/LuminoCoin",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
-    "slack": "",
+    "reddit": "https://www.reddit.com/user/luminocoin",
+    "slack": "https://luminocoin.slack.com/",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/LuminoCoin/",
     "youtube": ""
   }
 }

@@ -18,16 +18,16 @@
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/PayPiePlatform",
+    "forum": "https://bitcointalk.org/index.php?topic=2061671.0",
+    "github": "https://github.com/PayPie",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/PayPie/",
     "slack": "",
     "telegram": "https://t.me/PayPieTokens",
-    "twitter": "",
+    "twitter": "https://twitter.com/PayPiePlatform",
     "youtube": ""
   }
 }

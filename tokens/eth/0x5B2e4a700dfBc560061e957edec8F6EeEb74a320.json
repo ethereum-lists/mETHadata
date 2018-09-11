@@ -18,16 +18,16 @@
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/ins.ecosystem",
+    "forum": "https://bitcointalk.org/index.php?topic=2208591.0",
+    "github": "https://github.com/ins-ecosystem/",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/INS_Ecosystem/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/ins_ecosystem",
+    "twitter": "https://twitter.com/INS_Ecosystem",
     "youtube": ""
   }
 }

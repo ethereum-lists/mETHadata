@@ -12,21 +12,21 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "mailto:Support@blox.io",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blox.io/blog",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/blox.io/",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/CoinDashio",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Blox_io/",
     "slack": "",
-    "telegram": "",
+    "telegram": "https://t.me/blox_product_discussion",
     "twitter": "https://www.twitter.com/CoinDashio",
     "youtube": ""
   }

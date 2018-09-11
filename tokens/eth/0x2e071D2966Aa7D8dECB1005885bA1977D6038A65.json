@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "support@etheroll.com",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@etheroll",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/etheroll/?ref=br_rs",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/bokkypoobah/TokenTrader/wiki/DICE-%E2%80%90-Etheroll",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "https://www.reddit.com/user/etheroll",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/GameEtheroll",
+    "twitter": "https://twitter.com/etheroll",
     "youtube": ""
   }
 }

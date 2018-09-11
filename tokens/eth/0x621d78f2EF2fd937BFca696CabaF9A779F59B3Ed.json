@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "info@dcorp.it",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@DCORP",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/DecentralizedCorporation",
+    "forum": "https://bitcointalk.org/index.php?topic=1928628.msg19144362#msg19144362",
+    "github": "https://github.com/frankbonnet/DCORP",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/dcorp/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/joinchat/ErLl70MDUkz_ip7HsxXjGA",
+    "twitter": "https://twitter.com/DcorpVC/timelines/869083629560905728?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fwww.dcorp.it%2F",
     "youtube": ""
   }
 }

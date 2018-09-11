@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/icobox-io",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/icobox.io",
     "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
-    "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "slack": "https://slack.icobox.io/",
+    "telegram": "tg://resolve?domain=ICOSen",
+    "twitter": "https://twitter.com/ICOBox_Japan",
     "youtube": ""
   }
 }

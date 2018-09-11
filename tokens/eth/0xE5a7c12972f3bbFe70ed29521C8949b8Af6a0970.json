@@ -16,18 +16,18 @@
     "url": "w"
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/iconominet",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/iconomi.net",
+    "forum": "https://bitcointalk.org/index.php?topic=2111984.0",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/ICONOMI/",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/iconominet",
     "youtube": ""
   }
 }

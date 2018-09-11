@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "mailto:mailto:support@digix.io",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@digix",
     "chat": "",
     "facebook": "",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1515335.0",
+    "github": "https://github.com/digixglobal",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "https://www.reddit.com/r/digix",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/DigixDAO",
+    "twitter": "https://twitter.com/digixglobal",
     "youtube": ""
   }
 }

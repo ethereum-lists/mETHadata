@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/changefinance",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/changefinance",
+    "forum": "https://bitcointalk.org/index.php?topic=2087937.0",
+    "github": "https://github.com/ChangeFinance",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/getchange/",
     "slack": "https://coinchange.slack.com",
     "telegram": "https://t.me/joinchat/GWX8HkLwpOoocINbLXfRtg",
-    "twitter": "",
+    "twitter": "https://twitter.com/changefinance",
     "youtube": ""
   }
 }

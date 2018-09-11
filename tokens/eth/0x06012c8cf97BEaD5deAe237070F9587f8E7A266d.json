@@ -18,7 +18,7 @@
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/CryptoKitties/",
     "forum": "",
     "github": "",
     "gitter": "",
@@ -28,7 +28,7 @@
     "slack": "",
     "discord": "https://discord.gg/3GvT66U",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/cryptokitties",
     "youtube": ""
   }
 }

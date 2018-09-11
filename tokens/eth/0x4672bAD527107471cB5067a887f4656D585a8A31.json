@@ -18,16 +18,16 @@
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/DropilCoin/",
+    "forum": "https://bitcointalk.org/index.php?topic=2795128.0",
+    "github": "https://github.com/Dropil",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/dropil/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/DropilCoin",
+    "twitter": "https://twitter.com/dropilcoin",
     "youtube": ""
   }
 }

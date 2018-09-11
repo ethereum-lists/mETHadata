@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "mailto:mailto:Contact@iex.ec",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/iex-ec",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/iexecteam/",
+    "forum": "https://bitcointalk.org/index.php?topic=1746241.0",
+    "github": "https://github.com/iExecBlockchainComputing",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/iexec/",
     "slack": "https://52.44.51.109:3000",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/joinchat/FswFJw6AaL-kpQeWdBSwRA",
+    "twitter": "https://twitter.com/iEx_ec",
     "youtube": ""
   }
 }

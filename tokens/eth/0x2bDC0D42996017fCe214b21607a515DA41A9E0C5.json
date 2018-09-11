@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "support@skincoin.org",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@skincoin",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/skincoin/",
+    "forum": "https://bitcointalk.org/index.php?topic=1944508.0",
     "github": "https://github.com/Steamtradenet/smart-contract",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://telegram.me/skincoin",
+    "twitter": "https://twitter.com/skincoin_org",
     "youtube": ""
   }
 }

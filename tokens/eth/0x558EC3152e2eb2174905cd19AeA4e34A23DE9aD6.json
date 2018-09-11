@@ -18,16 +18,16 @@
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/breadapp/",
+    "forum": "https://bitcointalk.org/index.php?topic=2639694.0",
     "github": "https://github.com/breadwallet",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/breadwallet",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/joinchat/HB6JsUq7-w-y6l5DrfRV-A",
+    "twitter": "https://twitter.com/breadtoken",
     "youtube": ""
   }
 }

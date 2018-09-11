@@ -4,7 +4,7 @@
   "decimals": 0,
   "name": "OHNI",
   "ens_address": "",
-  "website": "",
+  "website": "http://ohni.io/",
   "logo": {
     "src": "",
     "width": "",
@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "mailto:customer.service@ohni.io",
     "url": ""
   },
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/ohniio/",
+    "forum": "https://bitcointalk.org/index.php?topic=2278934.0",
+    "github": "https://github.com/ttmohni/Ohni",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Ohni_Official/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/OhniGroup",
+    "twitter": "https://twitter.com/ohni_io",
     "youtube": ""
   }
 }

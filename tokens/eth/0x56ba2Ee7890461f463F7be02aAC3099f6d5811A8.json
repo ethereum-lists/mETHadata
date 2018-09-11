@@ -16,17 +16,17 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@blockcat",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/BlockCATio/",
+    "forum": "https://bitcointalk.org/index.php?topic=1971103.0",
+    "github": "https://github.com/BlockCatIO",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/BlockCat/",
     "slack": "https://slack.blockcat.io",
-    "telegram": "",
+    "telegram": "https://t.me/blockcatio",
     "twitter": "https://twitter.com/blockcatio",
     "youtube": ""
   }

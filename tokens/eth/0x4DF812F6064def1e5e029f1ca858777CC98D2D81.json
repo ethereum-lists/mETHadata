@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "mailto:info@xaurum.org",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@xaurumofficial",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/xaurumofficial",
+    "forum": "https://bitcointalk.org/index.php?topic=3110765.0",
+    "github": "https://github.com/XaurumTeam/XaurumOnEthereum",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/xaurum/",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/xaurumofficial?lang=en",
     "youtube": ""
   }
 }

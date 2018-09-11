@@ -15,17 +15,18 @@
     "url": "https://cashaa.com"
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/cashaa",
     "chat": "",
     "facebook": "https://www.facebook.com/cashaaLtd",
-    "github": "",
+    "github": "https://github.com/cashaadev",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Cashaa/",
     "slack": "",
     "telegram": "https://t.me/CashaaLtd",
     "twitter": "https://twitter.com/CashaaLTD",
-    "youtube": "https://www.youtube.com/channel/UCwRJjX6dNz49j3Pc0ROZJbg"
+    "youtube": "https://www.youtube.com/channel/UCwRJjX6dNz49j3Pc0ROZJbg",
+    "forum": "https://bitcointalk.org/index.php?topic=2272412.0"
   }
 }

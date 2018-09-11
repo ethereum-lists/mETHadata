@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/swissborg",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/swissborg",
+    "forum": "https://bitcointalk.org/index.php?topic=2161736.0",
+    "github": "https://github.com/SwissBorg",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/swissborg/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/SwissBorgChat",
+    "twitter": "https://twitter.com/swissborg",
     "youtube": ""
   }
 }

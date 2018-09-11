@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "mailto:mailto:contact@singulardtv.com",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@SingularDTV",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/SingularDTV/",
+    "forum": "https://bitcointalk.org/index.php?topic=1943123.0",
+    "github": "https://github.com/SingularDTV",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/SingularDTV/",
     "slack": "https://slack.singulardtv.com",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "http://www.telegram.me/SingularDTV",
+    "twitter": "https://twitter.com/SingularDTV",
     "youtube": ""
   }
 }

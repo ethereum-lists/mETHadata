@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "mailto:mailto:mailto:foundation@hellogold.org",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/hellogold",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/HelloGoldFoundation/",
     "forum": "",
     "github": "https://github.com/myHelloGold/Foundation",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
-    "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "reddit": "https://www.reddit.com/r/HelloGold/",
+    "slack": "https://hellogold-foundation-slack.herokuapp.com/",
+    "telegram": "https://web.telegram.org/#/im?p=@HelloGoldFoundation",
+    "twitter": "https://twitter.com/FoundationHG?lang=en",
     "youtube": ""
   }
 }

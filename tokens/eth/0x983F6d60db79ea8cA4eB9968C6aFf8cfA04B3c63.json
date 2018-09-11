@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "mailto:pr@sonm.io",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.sonm.io/",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/SONMproject/",
+    "forum": "https://bitcointalk.org/index.php?topic=1845114.0",
     "github": "https://github.com/sonm-io",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
-    "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "reddit": "https://www.reddit.com/r/SONM/",
+    "slack": "https://sonmio.slack.com/join/shared_invite/enQtMjc2MTk2NjQ5ODc4LWNlMzdkZjU5YTJiMWVkODBlZjU1NjQyMzY5M2MxM2U1ODRhOWQ5ZDUyZjg1YTgyNzVlYTY2OTAzNTdkZjFmN2E",
+    "telegram": "https://t.me/sonm_eng",
+    "twitter": "https://twitter.com/sonmdevelopment",
     "youtube": ""
   }
 }

@@ -18,16 +18,16 @@
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/humaniq.co/",
+    "forum": "https://bitcointalk.org/index.php?topic=1711764.0",
+    "github": "https://github.com/humaniq",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/search?q=Humaniq",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/HMQtrader",
+    "twitter": "https://twitter.com/Humaniq_co",
     "youtube": ""
   }
 }

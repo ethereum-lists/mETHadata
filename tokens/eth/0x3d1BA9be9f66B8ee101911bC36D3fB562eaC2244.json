@@ -16,17 +16,18 @@
     "url": "https://rivetzintl.com"
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.rivetz.com/",
     "chat": "https://discord.gg/VNrDBUV",
     "facebook": "https://www.facebook.com/Rivetz-1409224065995167",
-    "github": "",
+    "github": "https://github.com/rivetz",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Rivetz/",
     "slack": "",
     "telegram": "https://t.me/rivet_group",
     "twitter": "https://twitter.com/rivetzcorp",
-    "youtube": "https://www.youtube.com/watch?v=GbC65mIMjnw"
+    "youtube": "https://www.youtube.com/watch?v=GbC65mIMjnw",
+    "forum": "https://bitcointalk.org/index.php?topic=1989333.0"
   }
 }

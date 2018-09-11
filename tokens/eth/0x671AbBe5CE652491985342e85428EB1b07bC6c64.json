@@ -18,16 +18,16 @@
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/QAUProject",
+    "forum": "https://bitcointalk.org/index.php?topic=1870606.0",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/quantumproject/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/QuantumProject",
+    "twitter": "https://twitter.com/qauProject",
     "youtube": ""
   }
 }

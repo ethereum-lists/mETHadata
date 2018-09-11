@@ -16,17 +16,17 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@ChainTrade/",
     "chat": "",
     "facebook": "https://www.facebook.com/ChainTrade",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2209841",
+    "github": "https://github.com/ChainTrade",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
-    "slack": "",
-    "telegram": "",
+    "reddit": "https://www.reddit.com/r/chaintrade/",
+    "slack": "http://slack.chaintrade.net/",
+    "telegram": "https://t.me/ChainTrade",
     "twitter": "https://twitter.com/ChainTrade",
     "youtube": "https://www.youtube.com/channel/UCUuSL2luzBpErQ32mHhp10Q"
   }

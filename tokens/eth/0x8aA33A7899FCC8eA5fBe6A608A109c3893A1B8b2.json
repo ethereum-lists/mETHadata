@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "team@dao.casino",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@dao.casino",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/Dao.casino",
+    "forum": "https://bitcointalk.org/index.php?topic=1928183.0",
     "github": "https://github.com/daocasino",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
-    "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "reddit": "https://www.reddit.com/r/DaoCasino/",
+    "slack": "https://dao.casino/slack-invite.html",
+    "telegram": "https://t.me/daocasino",
+    "twitter": "https://twitter.com/daocasino",
     "youtube": ""
   }
 }

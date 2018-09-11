@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "mailto:mailto:mailto:mailto:mailto:mailto:CONTACT@GOLEMPROJECT.NET",
     "url": ""
   },
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/golemproject/",
+    "forum": "https://bitcointalk.org/index.php?topic=1655002.0",
+    "github": "https://github.com/golemfactory/golem",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/GolemProject/",
     "slack": "https://golemproject.org:3000",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/GolemProject",
+    "twitter": "https://twitter.com/golemproject",
     "youtube": ""
   }
 }

@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@voisecom",
     "chat": "",
     "facebook": "",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1846376.0",
+    "github": "https://github.com/voisecom/SmartContract/blob/master/smartcontract.sol",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/voise/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/voisecom",
+    "twitter": "https://twitter.com/voisecom",
     "youtube": ""
   }
 }

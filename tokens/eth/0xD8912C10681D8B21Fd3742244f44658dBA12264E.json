@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "mailto:support@plutus.it",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/plutus-it",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Plutusit/",
     "forum": "https://bitcointalk.org/index.php?topic=1870606.760",
-    "github": "",
+    "github": "https://github.com/PlutusIt",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/plutus/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/plutus_group",
+    "twitter": "https://twitter.com/PlutusIT",
     "youtube": ""
   }
 }

@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/internxt",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://web.facebook.com/internxt/",
+    "forum": "https://bitcointalk.org/index.php?topic=2073473",
+    "github": "https://github.com/internxt",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/internxt/",
     "slack": "",
     "telegram": "https://t.me/internxt_io",
-    "twitter": "",
+    "twitter": "https://twitter.com/internxt_io",
     "youtube": ""
   }
 }

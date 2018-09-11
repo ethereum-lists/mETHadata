@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "support@rexmls.com",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.rexmls.com/@REXMLS",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/theREXmls/?ref=br_rs",
+    "forum": "https://bitcointalk.org/index.php?topic=1923612.20",
     "github": "https://github.com/rexmls/RexToken",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/REXMLS/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/rexmls",
+    "twitter": "https://twitter.com/rexmls",
     "youtube": ""
   }
 }

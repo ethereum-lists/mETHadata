@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@augurproject",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/augurproject",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/AugurProject/augur/wiki/Reputation-Tokens-(REP)",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "https://www.reddit.com/r/Augur",
     "slack": "https://invite.augur.net",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/AugurProject",
     "youtube": ""
   },
   "deprecation": {

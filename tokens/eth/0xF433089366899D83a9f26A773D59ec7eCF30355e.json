@@ -16,18 +16,18 @@
     "url": "https://support.metalpay.com"
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/metalpay",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/metalpaysme/",
+    "forum": "https://bitcointalk.org/index.php?topic=1935014.0",
+    "github": "https://github.com/MetalPay",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/MetalPay/",
     "slack": "https://www.metalpay.chat",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/metalpay",
+    "twitter": "https://twitter.com/metalpaysme",
     "youtube": ""
   }
 }

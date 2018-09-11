@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@Tokencard",
     "chat": "",
     "facebook": "",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1887092.0",
+    "github": "https://github.com/tokencard",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/TokenCard/",
     "slack": "https://tokencard-team.herokuapp.com",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/TokenCard",
+    "twitter": "https://twitter.com/tokencard_io",
     "youtube": ""
   }
 }

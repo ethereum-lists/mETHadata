@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.status.im/",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/ethstatus",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/status-im",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/statusim/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/StatusNetworkChat",
+    "twitter": "https://twitter.com/ethstatus",
     "youtube": ""
   }
 }

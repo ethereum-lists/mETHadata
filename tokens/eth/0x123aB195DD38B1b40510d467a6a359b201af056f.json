@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/legolas-exchange",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/LGO.Group/",
+    "forum": "https://bitcointalk.org/index.php?topic=2383397.0",
+    "github": "https://github.com/LegolasExchange/LegolasToken",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/LegolasExchange/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/legolasannouncements",
+    "twitter": "https://twitter.com/LGOGroup_?lang=en",
     "youtube": ""
   }
 }

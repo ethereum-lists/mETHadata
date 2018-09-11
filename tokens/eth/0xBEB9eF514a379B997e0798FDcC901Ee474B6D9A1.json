@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/melonport-blog",
     "chat": "https://chat.melonport.com",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/melonproject",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Melonport/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/melonport",
+    "twitter": "https://twitter.com/melonport",
     "youtube": ""
   }
 }

@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "mailto:mailto:info@gnosis.pm",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.gnosis.pm/",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/Gnosis.pm/",
+    "forum": "https://bitcointalk.org/index.php?topic=1529098.0",
+    "github": "https://github.com/gnosis",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/gnosisPM/",
     "slack": "https://slack.gnosis.pm",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://telegram.me/gnosispm",
+    "twitter": "https://twitter.com/gnosisPM",
     "youtube": ""
   }
 }

@@ -18,15 +18,15 @@
   "social": {
     "blog": "https://blog.decentraland.org",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/decentraland/",
+    "forum": "https://bitcointalk.org/index.php?topic=2065128.0",
     "github": "https://github.com/decentraland",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/decentraland/",
     "slack": "https://slack.decentraland.org",
-    "telegram": "",
+    "telegram": "https://t.me/dcl_market",
     "twitter": "https://twitter.com/decentraland",
     "youtube": ""
   }

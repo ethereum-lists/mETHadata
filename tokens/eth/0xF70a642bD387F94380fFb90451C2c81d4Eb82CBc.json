@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.starbase.co/",
     "chat": "https://starbase.rocket.chat",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/StarbaseCo/",
+    "forum": "https://bitcointalk.org/index.php?topic=1779533",
+    "github": "https://github.com/starbaseco",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/starbase/",
     "slack": "https://starbase-community.slack.com",
     "telegram": "https://t.me/starbase",
-    "twitter": "",
+    "twitter": "https://twitter.com/starbaseco",
     "youtube": ""
   }
 }

@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "NucleusVision",
   "ens_address": "",
-  "website": "",
+  "website": "https://nucleus.vision/",
   "logo": {
     "src": "",
     "width": "",
@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@NucleusVision",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/NucleusVision-1626428670765385/",
+    "forum": "https://bitcointalk.org/index.php?topic=2461585.0",
+    "github": "https://github.com/NucleusVision",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/NucleusVision/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/NucleusVision",
+    "twitter": "https://twitter.com/NucleusVision",
     "youtube": ""
   }
 }

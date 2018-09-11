@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@bonpay",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/bonpaycom",
+    "forum": "https://bitcointalk.org/index.php?topic=2375768",
+    "github": "https://github.com/bonpay",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Bonpay/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/bonpay_eng",
+    "twitter": "https://twitter.com/Bonpay_com",
     "youtube": ""
   }
 }

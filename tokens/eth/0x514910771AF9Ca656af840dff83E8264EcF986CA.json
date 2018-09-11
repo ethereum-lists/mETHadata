@@ -19,15 +19,15 @@
     "blog": "",
     "chat": "",
     "facebook": "",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2196514.0",
+    "github": "https://github.com/smartcontractkit/chainlink-ruby",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Chainlink/",
     "slack": "https://chainlinknetwork.slack.com",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/chainlink",
     "youtube": ""
   }
 }

@@ -18,16 +18,16 @@
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/agrellofoundation/",
+    "forum": "https://bitcointalk.org/index.php?topic=1934422.0",
+    "github": "https://github.com/Agrello",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/agrello",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/agrello",
+    "twitter": "https://twitter.com/AgrelloOfficial",
     "youtube": ""
   }
 }

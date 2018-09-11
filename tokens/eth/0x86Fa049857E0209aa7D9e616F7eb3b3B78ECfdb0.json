@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/eosio",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/eosblockchain",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/eosio",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/eos/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/EOSProject",
+    "twitter": "https://twitter.com/eos_io",
     "youtube": ""
   }
 }

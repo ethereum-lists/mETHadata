@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "team@firstblood.io",
     "url": ""
   },
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/firstbloodio",
+    "forum": "https://bitcointalk.org/index.php?topic=1543891.0",
+    "github": "https://github.com/firstbloodio",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/FirstBloodio/",
     "slack": "https://slack.firstblood.io",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/firstbloodio",
     "youtube": ""
   }
 }

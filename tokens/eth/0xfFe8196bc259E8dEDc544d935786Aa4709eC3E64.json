@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/hedge-token",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/hedgetoken/",
+    "forum": "https://bitcointalk.org/index.php?topic=2142867",
+    "github": "https://github.com/HedgeToken/Hedge-Token",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/HedgeToken/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/joinchat/F5fglQ7DVPV2wi4JK8Mw9A",
+    "twitter": "https://twitter.com/hedgetoken",
     "youtube": ""
   }
 }

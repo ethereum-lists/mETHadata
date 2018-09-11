@@ -18,16 +18,16 @@
   "social": {
     "blog": "https://blog.vdice.io",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/vDice.io",
+    "forum": "https://bitcointalk.org/index.php?topic=1691524.0",
+    "github": "https://github.com/jamesgroton/vDice-Contract-Code",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/vDice/",
     "slack": "https://vdice-slack-invite-page.stamplayapp.com",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/vdice_io",
     "youtube": ""
   }
 }

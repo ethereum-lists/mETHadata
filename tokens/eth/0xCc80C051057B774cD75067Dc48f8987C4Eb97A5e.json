@@ -18,16 +18,16 @@
   "social": {
     "blog": "https://blog.ethfinex.com/",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://facebook.com/ethfinex",
+    "forum": "https://bitcointalk.org/index.php?topic=2824735.0",
     "github": "https://github.com/ethfinex/",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/ethfinex/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/joinchat/GgM7eBFC-BdMYaC_3hN4Kg",
+    "twitter": "https://twitter.com/ethfinex",
     "youtube": ""
   }
 }

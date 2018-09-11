@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "support@lunyr.com",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/lunyr",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/lunyrinc/",
     "forum": "",
     "github": "https://github.com/lunyr",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Lunyr/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/lunyrcommunity",
+    "twitter": "https://twitter.com/LunyrInc",
     "youtube": ""
   }
 }

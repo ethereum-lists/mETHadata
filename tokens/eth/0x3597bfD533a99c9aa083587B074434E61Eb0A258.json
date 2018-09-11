@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "mailto:mailto:info@dentwireless.com",
     "url": ""
   },
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/dentcoin",
+    "forum": "https://bitcointalk.org/index.php?topic=1974825.0",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/dentcoin/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/dentcoin",
+    "twitter": "https://twitter.com/dentcoin",
     "youtube": ""
   }
 }

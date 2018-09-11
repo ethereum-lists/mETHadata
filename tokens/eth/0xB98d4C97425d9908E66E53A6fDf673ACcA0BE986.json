@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/arcblock",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/arcblock.io/",
+    "forum": "https://bitcointalk.org/index.php?topic=2699379",
+    "github": "https://github.com/arcblock",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/arcblock/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/ArcBlock",
+    "twitter": "https://twitter.com/ArcBlock_io",
     "youtube": ""
   }
 }

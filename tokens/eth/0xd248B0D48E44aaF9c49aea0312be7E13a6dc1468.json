@@ -4,7 +4,7 @@
   "decimals": 1,
   "name": "SGT",
   "ens_address": "",
-  "website": "",
+  "website": "https://status.im/",
   "logo": {
     "src": "",
     "width": "",
@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@status.im",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/ethstatus",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/status-im",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/statusim/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/ETHStatus",
+    "twitter": "https://twitter.com/ethstatus",
     "youtube": ""
   }
 }

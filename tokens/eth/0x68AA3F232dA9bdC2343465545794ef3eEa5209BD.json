@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.mothership.cx/",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/mothershipcx/",
+    "forum": "https://bitcointalk.org/index.php?topic=2003693.0",
+    "github": "https://github.com/mothershipcx",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Mothershipexchange/",
     "slack": "",
     "telegram": "https://t.me/mothershipcx",
-    "twitter": "",
+    "twitter": "https://twitter.com/MothershipCX",
     "youtube": ""
   }
 }

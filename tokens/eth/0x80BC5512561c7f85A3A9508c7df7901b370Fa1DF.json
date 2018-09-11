@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@trade.io",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/trade.io",
+    "forum": "https://bitcointalk.org/index.php?topic=2367245",
+    "github": "https://github.com/trade-io",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
     "telegram": "https://t.me/TradeToken",
-    "twitter": "",
+    "twitter": "https://twitter.com/TradeToken",
     "youtube": ""
   }
 }

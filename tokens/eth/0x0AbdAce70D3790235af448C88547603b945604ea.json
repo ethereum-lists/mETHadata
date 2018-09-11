@@ -18,15 +18,15 @@
   "social": {
     "blog": "https://blog.district0x.io",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/district0x",
+    "forum": "https://bitcointalk.org/index.php?topic=2009966.0",
     "github": "https://github.com/district0x",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/district0x/",
     "slack": "https://district0x-slack.herokuapp.com",
-    "telegram": "",
+    "telegram": "https://t.me/district0x",
     "twitter": "https://twitter.com/district0x",
     "youtube": ""
   }

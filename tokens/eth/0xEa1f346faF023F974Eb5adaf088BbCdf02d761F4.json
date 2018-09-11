@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@Blocktix",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/blocktix/",
+    "forum": "https://bitcointalk.org/index.php?topic=1764196.0",
+    "github": "https://github.com/blocktix",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/blocktix/",
     "slack": "https://slack.blocktix.io",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/blocktix",
     "youtube": ""
   }
 }

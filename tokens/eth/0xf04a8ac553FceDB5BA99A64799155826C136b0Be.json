@@ -16,18 +16,18 @@
     "url": "info@flixxo.com"
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@flixxo",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "http://facebook.com/flixxook",
+    "forum": "https://bitcointalk.org/index.php?topic=2168758.0",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Flixxo/",
     "slack": "",
     "telegram": "t.me/flixxo",
-    "twitter": "",
+    "twitter": "https://twitter.com/flixxo",
     "youtube": ""
   }
 }
