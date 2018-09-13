@@ -2,9 +2,9 @@
 
 An open database of metadata related to contracts and addresses on Ethereum and compatible chains.
 
-A fork of (ethereum-lists/tokens)[https://github.com/ethereum-lists/tokens].
+A fork of [ethereum-lists/tokens](https://github.com/ethereum-lists/tokens).
 
-'''Work in progress''', please don't use yet.
+*Work in progress*, please don't use yet.
 
 # Tokens
 
