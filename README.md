@@ -2,7 +2,7 @@
 
 An open database of metadata related to contracts and addresses on Ethereum and compatible chains.
 
-A fork of [ethereum-lists/tokens](https://github.com/ethereum-lists/tokens).
+Created out of a merger between [ethereum-lists/tokens](https://github.com/ethereum-lists/tokens) and the [Trivial.co](https://trivial.co/) token database.
 
 *Work in progress*, please don't use yet.
 
