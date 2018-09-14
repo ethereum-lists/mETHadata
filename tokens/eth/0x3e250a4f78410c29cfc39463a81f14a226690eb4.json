@@ -1,0 +1,33 @@
+{
+  "symbol": "DRPS",
+  "address": "0x3e250a4f78410c29cfc39463a81f14a226690eb4",
+  "decimals": 8,
+  "name": "DRP Security",
+  "ens_address": "",
+  "website": "https://www.dcorp.it/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@dcorp.it",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/DCORP-1929877313957912/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/frank-bonnet-3b890865/",
+    "reddit": "https://www.reddit.com/r/dcorp/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/DcorpVC",
+    "youtube": ""
+  }
+}

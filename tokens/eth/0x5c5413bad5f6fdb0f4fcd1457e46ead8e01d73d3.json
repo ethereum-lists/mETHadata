@@ -1,0 +1,33 @@
+{
+  "symbol": "UAH",
+  "address": "0x5c5413bad5f6fdb0f4fcd1457e46ead8e01d73d3",
+  "decimals": 18,
+  "name": "UAHPAY",
+  "ens_address": "",
+  "website": "http://www.uahpay.com.ua/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@uahpay.com.ua",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

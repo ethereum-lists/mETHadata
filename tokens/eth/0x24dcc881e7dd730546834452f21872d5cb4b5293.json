@@ -1,0 +1,33 @@
+{
+  "symbol": "SCRL",
+  "address": "0x24dcc881e7dd730546834452f21872d5cb4b5293",
+  "decimals": 18,
+  "name": "Scroll",
+  "ens_address": "",
+  "website": "https://scroll.network/scrl/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/OfficialScroll/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/IGswQk2xBnqipPeMBrhYxw",
+    "twitter": "https://twitter.com/OfficialScroll",
+    "youtube": ""
+  }
+}

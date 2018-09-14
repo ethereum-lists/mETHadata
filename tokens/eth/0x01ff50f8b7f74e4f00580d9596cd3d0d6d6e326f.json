@@ -1,0 +1,33 @@
+{
+  "symbol": "BFT",
+  "address": "0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f",
+  "decimals": 18,
+  "name": "BF Token",
+  "ens_address": "",
+  "website": "https://bnktothefuture.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://blog.bnktothefuture.com/",
+    "chat": "",
+    "facebook": "https://bnktothefuture.com/facebook",
+    "forum": "",
+    "github": "https://github.com/BankToTheFuture/bft",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/bf_token",
+    "twitter": "https://twitter.com/BankToTheFuture",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "SAI",
+  "address": "0x59adcf176ed2f6788a41b8ea4c4904518e62b6a4",
+  "decimals": 18,
+  "name": "SAI",
+  "ens_address": "",
+  "website": "https://makerdao.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://chat.makerdao.com/home",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/makerdao",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/10146072/",
+    "reddit": "https://www.reddit.com/r/MakerDAO/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/makerdao",
+    "youtube": ""
+  }
+}

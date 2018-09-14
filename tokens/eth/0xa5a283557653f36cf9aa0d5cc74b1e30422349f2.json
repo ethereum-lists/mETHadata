@@ -1,0 +1,33 @@
+{
+  "symbol": "UETL",
+  "address": "0xa5a283557653f36cf9aa0d5cc74b1e30422349f2",
+  "decimals": 8,
+  "name": "UselessEthTokenLite",
+  "ens_address": "",
+  "website": "http://uselessethtokenlite.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://discordapp.com/invite/44gXkKF",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/UselessToken",
+    "slack": "",
+    "telegram": "https://t.me/UselessEthTokenLite",
+    "twitter": "https://twitter.com/Useless_Token",
+    "youtube": ""
+  }
+}

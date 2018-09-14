@@ -1,0 +1,33 @@
+{
+  "symbol": "BTCQ",
+  "address": "0xd7aa94f17d60be06414973a45ffa77efd6443f0f",
+  "decimals": 8,
+  "name": "Bitcoin Quick",
+  "ens_address": "",
+  "website": "https://bitcoinquick.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@bitcoinquick.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/BitcoinQuick/BitcoinQuickOfficial",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BitcoinQuick",
+    "twitter": "https://twitter.com/BitcoinQuick",
+    "youtube": ""
+  }
+}

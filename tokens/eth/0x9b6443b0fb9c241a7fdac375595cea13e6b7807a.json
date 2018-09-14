@@ -1,0 +1,33 @@
+{
+  "symbol": "RCC",
+  "address": "0x9b6443b0fb9c241a7fdac375595cea13e6b7807a",
+  "decimals": 18,
+  "name": "Reality Clash Coin",
+  "ens_address": "",
+  "website": "https://reality-clash.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@reality-clash.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/RealityClash-298707873925397/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FxE2a0MV0xW4RWBhuOIQGw",
+    "twitter": "https://twitter.com/reality_clash",
+    "youtube": ""
+  }
+}

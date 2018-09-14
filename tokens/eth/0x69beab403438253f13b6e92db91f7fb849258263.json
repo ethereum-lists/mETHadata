@@ -1,0 +1,33 @@
+{
+  "symbol": "NTK",
+  "address": "0x69beab403438253f13b6e92db91f7fb849258263",
+  "decimals": 18,
+  "name": "NeuroToken",
+  "ens_address": "",
+  "website": "https://neuromation.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://neuromation.io/en/news/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/neuromation/",
+    "forum": "",
+    "github": "https://github.com/neuromation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Neuromation/",
+    "slack": "",
+    "telegram": "https://t.me/Neuromation",
+    "twitter": "https://twitter.com/neuromation_io",
+    "youtube": ""
+  }
+}

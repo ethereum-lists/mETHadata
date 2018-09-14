@@ -1,0 +1,33 @@
+{
+  "symbol": "STCn",
+  "address": "0x420c42ce1370c0ec3ca87d9be64a7002e78e6709",
+  "decimals": 0,
+  "name": "Stop Tabac Coin",
+  "ens_address": "",
+  "website": "http://www.stop-tabac.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Stoptabaccoin/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/StopTabacCoin",
+    "twitter": "https://twitter.com/STbCoin",
+    "youtube": ""
+  }
+}

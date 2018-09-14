@@ -1,0 +1,33 @@
+{
+  "symbol": "TRAK",
+  "address": "0x12759512d326303b45f1cec8f7b6fd96f387778e",
+  "decimals": 18,
+  "name": "TrakInvest Token",
+  "ens_address": "",
+  "website": "https://trakinvest.ai/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Trakinvest/",
+    "forum": "",
+    "github": "https://github.com/ankit-trakinvest/trakinvest/tree/master/blockchain/tokens",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TrakInvest/",
+    "slack": "",
+    "telegram": "https://t.me/trakinvest",
+    "twitter": "https://twitter.com/TrakInvest",
+    "youtube": ""
+  }
+}

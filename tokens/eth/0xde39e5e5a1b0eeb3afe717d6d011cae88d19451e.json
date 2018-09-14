@@ -1,0 +1,33 @@
+{
+  "symbol": "FUDD",
+  "address": "0xde39e5e5a1b0eeb3afe717d6d011cae88d19451e",
+  "decimals": 8,
+  "name": "DimonCoin",
+  "ens_address": "",
+  "website": "https://dimoncoin.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "mailto:mailto:fud@dimoncoin.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/DimonCoin-120112948666326/",
+    "forum": "",
+    "github": "https://github.com/dimoncoin/DimonCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/DimonCoinFUDD",
+    "twitter": "https://twitter.com/DimonCoin",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "FYP",
+  "address": "0x8f0921f30555624143d427b340b1156914882c10",
+  "decimals": 18,
+  "name": "Flyp.me Token",
+  "ens_address": "",
+  "website": "https://flyp.me/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://steemit.com/@flypme",
+    "chat": "",
+    "facebook": "https://facebook.com/flypme",
+    "forum": "",
+    "github": "https://github.com/flypme",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/flypme/",
+    "slack": "",
+    "telegram": "https://t.me/flypme",
+    "twitter": "https://twitter.com/flyp_me",
+    "youtube": ""
+  }
+}

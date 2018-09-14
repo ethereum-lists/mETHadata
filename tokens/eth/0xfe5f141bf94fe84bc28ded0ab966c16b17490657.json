@@ -1,0 +1,33 @@
+{
+  "symbol": "LBA",
+  "address": "0xfe5f141bf94fe84bc28ded0ab966c16b17490657",
+  "decimals": 18,
+  "name": "Libra Credit",
+  "ens_address": "",
+  "website": "https://www.mycred.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://web.facebook.com/Libra-credit-network-191105808142986/",
+    "forum": "",
+    "github": "https://github.com/libracredit",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Libra_Credit/",
+    "slack": "",
+    "telegram": "https://t.me/libraofficial",
+    "twitter": "https://twitter.com/LibraCredit",
+    "youtube": ""
+  }
+}

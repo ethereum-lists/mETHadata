@@ -1,0 +1,33 @@
+{
+  "symbol": "CVT",
+  "address": "0xbe428c3867f05dea2a89fc76a102b544eac7f772",
+  "decimals": 18,
+  "name": "CyberVeinToken",
+  "ens_address": "",
+  "website": "http://www.cybervein.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Cybervein-280314169173689/",
+    "forum": "",
+    "github": "https://github.com/Cyberveinofficial",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "http://reddit.com/r/cyberveinofficial",
+    "slack": "",
+    "telegram": "https://t.me/Cyberveinofficial",
+    "twitter": "https://twitter.com/CyberVeinGroup",
+    "youtube": ""
+  }
+}

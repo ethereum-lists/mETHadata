@@ -1,0 +1,33 @@
+{
+  "symbol": "PYLNT",
+  "address": "0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e",
+  "decimals": 18,
+  "name": "Pylon Token",
+  "ens_address": "",
+  "website": "https://pylon-network.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://pylon-network.org/blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/KlenergyTechOfficial/",
+    "forum": "",
+    "github": "https://github.com/klenergy",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/PylonNetwork/",
+    "slack": "",
+    "telegram": "https://t.me/pylonnetworkofficialtelegram",
+    "twitter": "https://twitter.com/KlenergyTech",
+    "youtube": ""
+  }
+}

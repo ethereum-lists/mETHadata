@@ -1,0 +1,33 @@
+{
+  "symbol": "PRIX",
+  "address": "0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a",
+  "decimals": 8,
+  "name": "Privatix",
+  "ens_address": "",
+  "website": "https://privatix.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://facebook.com/privatix.ltd",
+    "forum": "",
+    "github": "https://github.com/Privatix",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/privatix",
+    "slack": "",
+    "telegram": "https://t.me/Privatix",
+    "twitter": "https://twitter.com/Privatix1",
+    "youtube": ""
+  }
+}

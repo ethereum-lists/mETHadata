@@ -1,0 +1,33 @@
+{
+  "symbol": "DRP",
+  "address": "0x22c10728343e9d49ef25080f74a223878a3d4052",
+  "decimals": 8,
+  "name": "Digital Rupiah",
+  "ens_address": "",
+  "website": "https://digitalrupiah.id",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@digitalrupiah.id",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Digital-Rupiah-1867588756893094",
+    "forum": "",
+    "github": "https://github.com/RupiahDigital/RupiahContract",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://digitalrupiah.slack.com/join/shared_invite/MjE5MTg5NjMyMzkwLTE1MDExMjQ4NzEtMzYxZDBmZDhlOQ",
+    "telegram": "",
+    "twitter": "https://twitter.com/rupiah_digital",
+    "youtube": ""
+  }
+}

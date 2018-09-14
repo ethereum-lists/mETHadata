@@ -1,0 +1,33 @@
+{
+  "symbol": "ENT",
+  "address": "0x9901ed1e649c4a77c7fff3dfd446ffe3464da747",
+  "decimals": 18,
+  "name": "Hut34 Entropy",
+  "ens_address": "",
+  "website": "https://hut34.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/hut34project",
+    "forum": "",
+    "github": "https://github.com/hut34",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FfSBbxBbWS8SGjMQ4O3wBQ",
+    "twitter": "https://twitter.com/hut34project",
+    "youtube": ""
+  }
+}

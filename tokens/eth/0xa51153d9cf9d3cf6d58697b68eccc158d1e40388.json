@@ -1,0 +1,33 @@
+{
+  "symbol": "PME",
+  "address": "0xa51153d9cf9d3cf6d58697b68eccc158d1e40388",
+  "decimals": 18,
+  "name": "Peermine",
+  "ens_address": "",
+  "website": "http://peermine.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

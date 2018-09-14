@@ -1,0 +1,33 @@
+{
+  "symbol": "NOAH",
+  "address": "0x58a4884182d9e835597f405e5f258290e46ae7c2",
+  "decimals": 18,
+  "name": "NOAHCOIN",
+  "ens_address": "",
+  "website": "https://noahcoin.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://fb.me/NOAHCOINOfficial",
+    "forum": "",
+    "github": "https://github.com/NoahFoundation/NoahCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/NOAHCOINOfficial/",
+    "slack": "",
+    "telegram": "https://t.me/noahproject",
+    "twitter": "https://twitter.com/NOAHCOIN_Proj",
+    "youtube": ""
+  }
+}

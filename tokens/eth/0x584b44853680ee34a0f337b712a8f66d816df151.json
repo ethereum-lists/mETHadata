@@ -1,0 +1,33 @@
+{
+  "symbol": "AIDOC",
+  "address": "0x584b44853680ee34a0f337b712a8f66d816df151",
+  "decimals": 18,
+  "name": "AI Doctor",
+  "ens_address": "",
+  "website": "http://www.aidoc.me/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AIDOCMe",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/AIDOC/",
+    "slack": "",
+    "telegram": "https://t.me/AidocMeEn",
+    "twitter": "https://twitter.com/aidocme",
+    "youtube": ""
+  }
+}

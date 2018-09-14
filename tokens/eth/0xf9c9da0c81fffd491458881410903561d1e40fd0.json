@@ -1,0 +1,33 @@
+{
+  "symbol": "ARENA",
+  "address": "0xf9c9da0c81fffd491458881410903561d1e40fd0",
+  "decimals": 18,
+  "name": "Arena",
+  "ens_address": "",
+  "website": "https://projectarena.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@projectarena.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://join.slack.com/t/arena-global/shared_invite/MjE1NjQxNDg5NTM2LTE1MDA3MTU3MDItYmU5YThjNzA3Mw",
+    "telegram": "",
+    "twitter": "https://twitter.com/ArenaPlatform",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "GTA",
+  "address": "0xfa2632a88bd0c11535a38f98a98db8251ccbaa9e",
+  "decimals": 18,
+  "name": "GROUP TOKEN ALIANCE",
+  "ens_address": "",
+  "website": "http://groupco.in/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@groupco.in",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/GROUP-TOKEN-Alliance-1396616337116414/about/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/GROUP_TOKEN",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "B2X",
+  "address": "0x9c9891f7795eb127ba4783b671573275ff3a83a9",
+  "decimals": 8,
+  "name": "BtcSegwit2X",
+  "ens_address": "",
+  "website": "http://b2x.technology/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/btcsegwit2x",
+    "twitter": "https://twitter.com/Btcsegwit2x",
+    "youtube": ""
+  }
+}

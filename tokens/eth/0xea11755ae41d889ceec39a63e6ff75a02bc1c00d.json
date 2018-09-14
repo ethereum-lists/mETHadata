@@ -1,0 +1,33 @@
+{
+  "symbol": "CTXC",
+  "address": "0xea11755ae41d889ceec39a63e6ff75a02bc1c00d",
+  "decimals": 18,
+  "name": "Cortex Coin",
+  "ens_address": "",
+  "website": "http://www.cortexlabs.ai/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CTXCBlockchain",
+    "forum": "",
+    "github": "https://github.com/CortexFoundation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Cortex_Official/",
+    "slack": "",
+    "telegram": "https://t.me/CortexBlockchain",
+    "twitter": "https://twitter.com/CTXCBlockchain",
+    "youtube": ""
+  }
+}

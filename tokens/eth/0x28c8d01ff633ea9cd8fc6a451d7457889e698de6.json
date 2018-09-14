@@ -1,0 +1,33 @@
+{
+  "symbol": "ETG",
+  "address": "0x28c8d01ff633ea9cd8fc6a451d7457889e698de6",
+  "decimals": 0,
+  "name": "ETG",
+  "ens_address": "",
+  "website": "http://ethereumgold.info",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "dev@ethereumgold.info",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Ethereum-Gold-ETG-127521641285006/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GzPNJhCuW5Lw862j_qJy3g",
+    "twitter": "https://twitter.com/ethereumgoldetg",
+    "youtube": ""
+  }
+}

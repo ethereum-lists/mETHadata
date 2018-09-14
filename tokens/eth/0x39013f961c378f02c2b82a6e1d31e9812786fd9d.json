@@ -1,0 +1,33 @@
+{
+  "symbol": "SMS",
+  "address": "0x39013f961c378f02c2b82a6e1d31e9812786fd9d",
+  "decimals": 3,
+  "name": "Speed Mining Service",
+  "ens_address": "",
+  "website": "https://smscoin.jp/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@smscoin.jp",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Speed-MiningCoLtd-802432413251366/",
+    "forum": "",
+    "github": "https://github.com/Speed-Mining/SMSCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/Speed_Mining",
+    "youtube": ""
+  }
+}

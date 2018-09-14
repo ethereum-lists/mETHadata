@@ -1,0 +1,33 @@
+{
+  "symbol": "FLIP",
+  "address": "0xc997d07b0bc607b6d1bcb6fb9d4a5579c466c3e5",
+  "decimals": 0,
+  "name": "Flip",
+  "ens_address": "",
+  "website": "http://www.etherflip.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/over18?dest=https%3A%2F%2Fwww.reddit.com%2Fr%2FEtherFlip%2F",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

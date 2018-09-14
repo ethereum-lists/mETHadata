@@ -1,0 +1,33 @@
+{
+  "symbol": "SHIP",
+  "address": "0xe25b0bba01dc5630312b6a21927e578061a13f55",
+  "decimals": 18,
+  "name": "ShipChain SHIP",
+  "ens_address": "",
+  "website": "https://www.shipchain.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/shipchain",
+    "forum": "",
+    "github": "https://github.com/shipchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/shipchain/",
+    "slack": "",
+    "telegram": "https://t.me/shipchain",
+    "twitter": "https://twitter.com/ShipChain",
+    "youtube": ""
+  }
+}

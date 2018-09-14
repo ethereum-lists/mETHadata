@@ -1,0 +1,33 @@
+{
+  "symbol": "HAO",
+  "address": "0xc9b89f6b5301f554b9adc6d4a871c3279820de40",
+  "decimals": 18,
+  "name": "hentaisolo",
+  "ens_address": "",
+  "website": "http://hentaisolo.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

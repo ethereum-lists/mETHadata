@@ -1,0 +1,33 @@
+{
+  "symbol": "CPC",
+  "address": "0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090",
+  "decimals": 18,
+  "name": "CPChain",
+  "ens_address": "",
+  "website": "http://www.cpchain.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://www.cpchain.io/news.html",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/CPChain/",
+    "forum": "",
+    "github": "https://github.com/cpchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CPChain_Official/",
+    "slack": "",
+    "telegram": "https://t.me/cpchain",
+    "twitter": "https://twitter.com/cpchain_io",
+    "youtube": ""
+  }
+}

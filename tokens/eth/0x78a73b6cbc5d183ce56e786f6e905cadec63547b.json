@@ -1,0 +1,33 @@
+{
+  "symbol": "FT",
+  "address": "0x78a73b6cbc5d183ce56e786f6e905cadec63547b",
+  "decimals": 18,
+  "name": "Fabric Token",
+  "ens_address": "",
+  "website": "https://fabrictoken.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://fabrictoken.io/blog/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/fabrictoken/",
+    "forum": "",
+    "github": "https://github.com/FabricToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/FabricToken/",
+    "slack": "",
+    "telegram": "https://t.me/fabric_token",
+    "twitter": "https://twitter.com/fabric_token",
+    "youtube": ""
+  }
+}

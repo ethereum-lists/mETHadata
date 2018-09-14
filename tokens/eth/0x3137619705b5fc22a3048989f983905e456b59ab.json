@@ -1,0 +1,33 @@
+{
+  "symbol": "EVR",
+  "address": "0x3137619705b5fc22a3048989f983905e456b59ab",
+  "decimals": 8,
+  "name": "Everus",
+  "ens_address": "",
+  "website": "https://everus.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/everusworld/",
+    "forum": "",
+    "github": "https://github.com/EverusWorld",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/everus/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/everusworld",
+    "youtube": ""
+  }
+}

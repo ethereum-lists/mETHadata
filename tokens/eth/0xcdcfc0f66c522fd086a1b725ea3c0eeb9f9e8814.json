@@ -1,0 +1,33 @@
+{
+  "symbol": "AURA",
+  "address": "0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814",
+  "decimals": 18,
+  "name": "Aurora DAO",
+  "ens_address": "",
+  "website": "https://auroradao.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/auroradao/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FT1IVA8AWHiyUkU3adehxA",
+    "twitter": "https://twitter.com/aurora_dao",
+    "youtube": ""
+  }
+}

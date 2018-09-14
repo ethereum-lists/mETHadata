@@ -1,0 +1,33 @@
+{
+  "symbol": "NEXO",
+  "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+  "decimals": 18,
+  "name": "Nexo",
+  "ens_address": "",
+  "website": "http://nexo.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/NexoFinance",
+    "forum": "",
+    "github": "https://github.com/nexofinance/NEXO-Token/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Nexo/",
+    "slack": "",
+    "telegram": "https://t.me/nexofinance",
+    "twitter": "https://twitter.com/NexoFinance",
+    "youtube": ""
+  }
+}

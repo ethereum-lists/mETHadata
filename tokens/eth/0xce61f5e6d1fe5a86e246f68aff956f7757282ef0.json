@@ -1,0 +1,33 @@
+{
+  "symbol": "1LIFE",
+  "address": "0xce61f5e6d1fe5a86e246f68aff956f7757282ef0",
+  "decimals": 18,
+  "name": "LIFECREDIT",
+  "ens_address": "",
+  "website": "http://www.pinkexc.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "admin@pinkexc.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Choose-LIFE-505108983187521/?ref=bookmarks",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://join.slack.com/t/pinkexclife/shared_invite/MjQwMTM4MzQzNjIzLTE1MDUxMTk4NTYtNjc3NGI5Mjk0Mw",
+    "telegram": "https://t.me/pinkexclife",
+    "twitter": "https://twitter.com/pinkexc",
+    "youtube": ""
+  }
+}

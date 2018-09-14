@@ -1,0 +1,33 @@
+{
+  "symbol": "eBCC",
+  "address": "0x76e82406a5040b605c6d30caf4802e7eb3184bbc",
+  "decimals": 6,
+  "name": "eBitcoinCash",
+  "ens_address": "",
+  "website": "https://ebcc.tech",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "mailto:support@ebcc.tech",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/EBCC-726533964202222/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ebcctoken",
+    "twitter": "https://twitter.com/EBCC15",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "GNX",
+  "address": "0x6ec8a24cabdc339a06a172f8223ea557055adaa5",
+  "decimals": 9,
+  "name": "Genaro X",
+  "ens_address": "",
+  "website": "https://genaro.network/en",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/GenaroNetwork/",
+    "forum": "",
+    "github": "https://github.com/GenaroNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/GenaroNetwork/",
+    "slack": "",
+    "telegram": "https://t.me/GenaroNetworkOfficial",
+    "twitter": "https://twitter.com/GenaroNetwork",
+    "youtube": ""
+  }
+}

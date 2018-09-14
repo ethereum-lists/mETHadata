@@ -1,0 +1,33 @@
+{
+  "symbol": "ANGL",
+  "address": "0xc499ea948a1ad5d8eaf12abd2f67975c4dbe21aa",
+  "decimals": 18,
+  "name": "Angel Token",
+  "ens_address": "",
+  "website": "https://angelinvestors.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@angelinvestors.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://angelinvestors.io/slack",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

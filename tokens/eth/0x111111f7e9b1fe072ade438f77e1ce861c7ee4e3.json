@@ -1,0 +1,33 @@
+{
+  "symbol": "CAT",
+  "address": "0x111111f7e9b1fe072ade438f77e1ce861c7ee4e3",
+  "decimals": 18,
+  "name": "Consumer Activity Token",
+  "ens_address": "",
+  "website": "https://www.bitclave.com/en/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@bitclave.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://fb.me/bitclave",
+    "forum": "",
+    "github": "https://github.com/bitclave/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company-beta/6399312/",
+    "reddit": "",
+    "slack": "https://open.kakao.com/o/ggIjGzC",
+    "telegram": "https://t.me/BitClaveCommunity",
+    "twitter": "https://twitter.com/bitclave",
+    "youtube": ""
+  }
+}

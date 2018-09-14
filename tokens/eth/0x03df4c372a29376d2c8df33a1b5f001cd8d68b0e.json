@@ -1,0 +1,33 @@
+{
+  "symbol": "BTCM",
+  "address": "0x03df4c372a29376d2c8df33a1b5f001cd8d68b0e",
+  "decimals": 8,
+  "name": "Bitcoinereum",
+  "ens_address": "",
+  "website": "http://www.bitcoinereum.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/btcmtoken",
+    "youtube": ""
+  }
+}

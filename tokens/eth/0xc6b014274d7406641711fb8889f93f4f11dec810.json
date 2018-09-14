@@ -1,0 +1,33 @@
+{
+  "symbol": "NAO",
+  "address": "0xc6b014274d7406641711fb8889f93f4f11dec810",
+  "decimals": 18,
+  "name": "normikaivo",
+  "ens_address": "",
+  "website": "http://normikaivo.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

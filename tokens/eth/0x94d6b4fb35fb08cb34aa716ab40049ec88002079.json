@@ -1,0 +1,33 @@
+{
+  "symbol": "CNX",
+  "address": "0x94d6b4fb35fb08cb34aa716ab40049ec88002079",
+  "decimals": 8,
+  "name": "Cryptonex ",
+  "ens_address": "",
+  "website": "https://cryptonex.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "mailto:mailto:support@cryptonex.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Cryptonex.org",
+    "forum": "",
+    "github": "https://github.com/Cryptonex/source",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/cryptonexCNX",
+    "twitter": "https://twitter.com/Cryptonex_CNX",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "ETHG",
+  "address": "0xae258d5322b59d64df9eb483e3b1733332c3b66c",
+  "decimals": 8,
+  "name": "EtherGold",
+  "ens_address": "",
+  "website": "https://ethergoldtoken.info",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

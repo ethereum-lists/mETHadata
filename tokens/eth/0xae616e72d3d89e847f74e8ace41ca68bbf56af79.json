@@ -1,0 +1,33 @@
+{
+  "symbol": "GOOD",
+  "address": "0xae616e72d3d89e847f74e8ace41ca68bbf56af79",
+  "decimals": 6,
+  "name": "Good Karma",
+  "ens_address": "",
+  "website": "http://goodomy.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/goodomytoken/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Goodomy/",
+    "slack": "",
+    "telegram": "https://t.me/Goodomy_community",
+    "twitter": "https://twitter.com/goodomy_token",
+    "youtube": ""
+  }
+}

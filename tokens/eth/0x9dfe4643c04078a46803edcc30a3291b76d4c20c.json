@@ -1,0 +1,33 @@
+{
+  "symbol": "GEN",
+  "address": "0x9dfe4643c04078a46803edcc30a3291b76d4c20c",
+  "decimals": 18,
+  "name": "Genesis",
+  "ens_address": "",
+  "website": "http://genesiscoin.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://www.thegenesisforum.com/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/TheGenesisCoin/GenesisCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Genesis_Coin/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/EnbX8Q9P5b34lnomjt06Nw",
+    "twitter": "https://twitter.com/thegenesiscoin",
+    "youtube": ""
+  }
+}

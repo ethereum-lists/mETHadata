@@ -1,0 +1,33 @@
+{
+  "symbol": "DEEP",
+  "address": "0x983877018633c0940b183cd38d1b58bee34f7301",
+  "decimals": 8,
+  "name": "Deep Gold",
+  "ens_address": "",
+  "website": "https://deep.gold",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@deep.gold",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://steemit.com/@deepgold/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/deepgold",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/deepgold",
+    "twitter": "https://twitter.com/deepgoldnews",
+    "youtube": ""
+  }
+}

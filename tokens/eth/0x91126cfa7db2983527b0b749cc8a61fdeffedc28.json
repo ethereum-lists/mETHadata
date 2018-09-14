@@ -1,0 +1,33 @@
+{
+  "symbol": "DONE",
+  "address": "0x91126cfa7db2983527b0b749cc8a61fdeffedc28",
+  "decimals": 16,
+  "name": "Donation Efficiency Token",
+  "ens_address": "",
+  "website": "https://www.donationefficiency.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "donationefficiency@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/DONE_Token",
+    "youtube": ""
+  }
+}

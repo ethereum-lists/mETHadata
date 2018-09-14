@@ -1,0 +1,33 @@
+{
+  "symbol": "DEEM",
+  "address": "0x45321004790a4dae7ba19217a10574d55739efc7",
+  "decimals": 18,
+  "name": "REDEEM Token",
+  "ens_address": "",
+  "website": "https://www.redemption.cloud/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "mailto:mailto:ico@redemption.cloud",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/RedemptionTech/",
+    "forum": "",
+    "github": "https://github.com/RedemptionTech",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Redemption_ICO/",
+    "slack": "https://redemptioncloud.slack.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/Redemption_Tech",
+    "youtube": ""
+  }
+}

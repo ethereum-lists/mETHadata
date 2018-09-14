@@ -1,0 +1,33 @@
+{
+  "symbol": "ELTC",
+  "address": "0x1f103fd7c4fa908c25387da70ed287b632bd22a2",
+  "decimals": 18,
+  "name": "eLTC",
+  "ens_address": "",
+  "website": "https://bitcointalk.org/index.php?topic=2241418.0",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

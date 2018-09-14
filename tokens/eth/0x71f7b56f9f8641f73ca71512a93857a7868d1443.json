@@ -1,0 +1,33 @@
+{
+  "symbol": "KMR",
+  "address": "0x71f7b56f9f8641f73ca71512a93857a7868d1443",
+  "decimals": 18,
+  "name": "Kamera",
+  "ens_address": "",
+  "website": "https://www.kameratoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/kameratoken/",
+    "forum": "",
+    "github": "https://github.com/kameraDevelop",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/CryptoKamera",
+    "slack": "",
+    "telegram": "https://t.me/kameratoken",
+    "twitter": "https://twitter.com/kameratoken",
+    "youtube": ""
+  }
+}

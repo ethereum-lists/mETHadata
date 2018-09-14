@@ -1,0 +1,33 @@
+{
+  "symbol": "ETH",
+  "address": "0xETH0000000000000000000000000000000000000",
+  "decimals": 0,
+  "name": "Ethereum",
+  "ens_address": "",
+  "website": "https://www.ethereum.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.ethereum.org/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ethereumproject",
+    "forum": "",
+    "github": "https://github.com/ethereum",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ethereum",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/ethereum",
+    "youtube": ""
+  }
+}
