@@ -16,14 +16,14 @@
     "url": ""
   },
   "social": {
-    "blog": "",
-    "chat": "",
+    "blog": "https://blog.golemproject.net",
+    "chat": "https://chat.golem.network/home",
     "facebook": "https://www.facebook.com/golemproject/",
     "forum": "https://bitcointalk.org/index.php?topic=1655002.0",
     "github": "https://github.com/golemfactory/golem",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/company/17948664/",
     "reddit": "https://www.reddit.com/r/GolemProject/",
     "slack": "https://golemproject.org:3000",
     "telegram": "https://t.me/GolemProject",
