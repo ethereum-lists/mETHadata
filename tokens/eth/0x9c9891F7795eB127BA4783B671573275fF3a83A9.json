@@ -1,6 +1,6 @@
 {
   "symbol": "B2X",
-  "address": "0x9c9891f7795eb127ba4783b671573275ff3a83a9",
+  "address": "0x9c9891F7795eB127BA4783B671573275fF3a83A9",
   "decimals": 8,
   "name": "BtcSegwit2X",
   "ens_address": "",

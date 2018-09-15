@@ -1,6 +1,6 @@
 {
   "symbol": "USD_S",
-  "address": "0x1daaf3d62582639c6a7eabb467e2db9b56fafbbd",
+  "address": "0x1dAAF3d62582639C6a7EaBb467E2db9b56faFbBD",
   "decimals": 18,
   "name": "USD Static",
   "ens_address": "",

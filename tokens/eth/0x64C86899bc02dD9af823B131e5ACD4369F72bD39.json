@@ -1,6 +1,6 @@
 {
   "symbol": "RENT",
-  "address": "0x64c86899bc02dd9af823b131e5acd4369f72bd39",
+  "address": "0x64C86899bc02dD9af823B131e5ACD4369F72bD39",
   "decimals": 18,
   "name": "Rent Token",
   "ens_address": "",
