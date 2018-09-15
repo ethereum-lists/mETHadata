@@ -1,8 +1,8 @@
 {
-  "symbol": "",
+  "symbol": "INSP",
   "address": "0x52903256dd18D85c2Dc4a6C999907c9793eA61E3",
   "decimals": 0,
-  "name": "",
+  "name": "INS Promo",
   "ens_address": "",
   "website": "https://ins.world/",
   "logo": {
@@ -16,10 +16,10 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.ins.world/",
     "chat": "",
     "facebook": "https://www.facebook.com/ins.ecosystem",
-    "forum": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2208591.0",
     "github": "",
     "gitter": "",
     "instagram": "",
@@ -28,6 +28,6 @@
     "slack": "",
     "telegram": "https://t.me/ins_ecosystem",
     "twitter": "https://twitter.com/ins_ecosystem",
-    "youtube": ""
+    "youtube": "https://www.youtube.com/channel/UCyAkkLSuxsuwBIRo6u1keHA/featured"
   }
 }

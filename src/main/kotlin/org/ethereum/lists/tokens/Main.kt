@@ -22,7 +22,7 @@ fun main(args: Array<String>) {
                 checkTokenFile(it)
                 val jsonObject = Parser().parse(it.reader()) as JsonObject
                 jsonArray.add(jsonObject)
-
+                jsonArray.checkFields(mandatoryFields, optionalFields)
             } catch (e: Exception) {
                 println("Problem with $it: $e")
 
@@ -30,7 +30,7 @@ fun main(args: Array<String>) {
             }
         }
 
-        jsonArray.checkFields(mandatoryFields, optionalFields)
+
         jsonArray.writeJSON("full", singleNetworkTokenDirectory.name)
         val minified = jsonArray.copyFields(mandatoryFields)
         minified.writeJSON("minified", singleNetworkTokenDirectory.name)
