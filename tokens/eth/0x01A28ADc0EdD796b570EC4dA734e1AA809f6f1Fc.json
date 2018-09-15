@@ -1,0 +1,33 @@
+{
+  "symbol": "EDASH",
+  "address": "0x01a28adc0edd796b570ec4da734e1aa809f6f1fc",
+  "decimals": 18,
+  "name": "eDash",
+  "ens_address": "",
+  "website": "http://edashcoin.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

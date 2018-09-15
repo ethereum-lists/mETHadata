@@ -1,0 +1,33 @@
+{
+  "symbol": "QKC",
+  "address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+  "decimals": 18,
+  "name": "QuarkChain ",
+  "ens_address": "",
+  "website": "https://quarkchain.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/QuarkChain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/quarkchainio/",
+    "slack": "",
+    "telegram": "https://t.me/quarkchainio",
+    "twitter": "https://twitter.com/Quark_Chain",
+    "youtube": ""
+  }
+}

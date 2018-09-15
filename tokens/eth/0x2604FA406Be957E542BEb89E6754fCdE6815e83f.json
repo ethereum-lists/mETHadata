@@ -1,0 +1,33 @@
+{
+  "symbol": "PKT",
+  "address": "0x2604fa406be957e542beb89e6754fcde6815e83f",
+  "decimals": 18,
+  "name": "Playkey Token",
+  "ens_address": "",
+  "website": "https://playkey.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/playkeyICO/",
+    "forum": "",
+    "github": "https://github.com/Playkey/ico-contracts",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company-beta/3584689/",
+    "reddit": "https://www.reddit.com/r/Playkey/",
+    "slack": "",
+    "telegram": "https://t.me/playkey_io",
+    "twitter": "https://twitter.com/Playkey_EN",
+    "youtube": ""
+  }
+}

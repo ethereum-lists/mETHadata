@@ -1,0 +1,33 @@
+{
+  "symbol": "PCC",
+  "address": "0xfb7da9863e030495db8b4d067d665fc8433fff85",
+  "decimals": 18,
+  "name": "PCC Token",
+  "ens_address": "",
+  "website": "https://pccico.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@pccico.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/pccicoofficial",
+    "twitter": "https://twitter.com/PornCorn_Video",
+    "youtube": ""
+  }
+}

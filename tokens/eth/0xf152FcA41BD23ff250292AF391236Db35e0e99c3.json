@@ -1,0 +1,33 @@
+{
+  "symbol": "EETH",
+  "address": "0xf152fca41bd23ff250292af391236db35e0e99c3",
+  "decimals": 8,
+  "name": "eEthereum",
+  "ens_address": "",
+  "website": "http://eeth.work",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/erc20Ethereum",
+    "youtube": ""
+  }
+}

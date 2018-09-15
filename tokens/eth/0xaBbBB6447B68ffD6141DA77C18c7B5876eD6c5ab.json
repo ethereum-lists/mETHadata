@@ -1,0 +1,33 @@
+{
+  "symbol": "DATx",
+  "address": "0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab",
+  "decimals": 18,
+  "name": "DATx",
+  "ens_address": "",
+  "website": "https://www.datx.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@datxofficial",
+    "chat": "",
+    "facebook": "https://www.facebook.com/DATx-210156636211492/",
+    "forum": "",
+    "github": "https://github.com/DATx-Protocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/DatxOfficial",
+    "slack": "",
+    "telegram": "https://t.me/datxofficial01",
+    "twitter": "https://twitter.com/DATxOfficial",
+    "youtube": ""
+  }
+}

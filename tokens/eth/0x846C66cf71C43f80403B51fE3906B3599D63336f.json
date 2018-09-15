@@ -1,0 +1,33 @@
+{
+  "symbol": "PMA",
+  "address": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
+  "decimals": 18,
+  "name": "PumaPay",
+  "ens_address": "",
+  "website": "https://pumapay.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/PumaPay/",
+    "forum": "",
+    "github": "https://github.com/pumapayio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/PumaPay/",
+    "slack": "",
+    "telegram": "https://t.me/PumaPay",
+    "twitter": "https://www.twitter.com/PumaPay/",
+    "youtube": ""
+  }
+}

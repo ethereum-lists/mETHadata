@@ -1,0 +1,33 @@
+{
+  "symbol": "EDOGE",
+  "address": "0x8a7b7b9b2f7d0c63f66171721339705a6188a7d5",
+  "decimals": 18,
+  "name": "EtherDoge",
+  "ens_address": "",
+  "website": "https://etherdoge.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "ATX",
+  "address": "0x1a0f2ab46ec630f9fd638029027b552afa64b94c",
+  "decimals": 18,
+  "name": "Aston X",
+  "ens_address": "",
+  "website": "https://www.aston.company/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/astonofficial/",
+    "forum": "",
+    "github": "https://github.com/astonx/astonx-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/u/Aston_company",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/aston_company",
+    "youtube": ""
+  }
+}

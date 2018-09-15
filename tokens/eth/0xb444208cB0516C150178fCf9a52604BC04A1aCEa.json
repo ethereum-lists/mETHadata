@@ -1,0 +1,33 @@
+{
+  "symbol": "GRMD",
+  "address": "0xb444208cb0516c150178fcf9a52604bc04a1acea",
+  "decimals": 18,
+  "name": "GreenMed",
+  "ens_address": "",
+  "website": "https://www.greenmed.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@greenmed.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.greenmed.io/blog/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/GreenmedApp/",
+    "forum": "",
+    "github": "https://github.com/GreenMed/Token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/GreenMed/",
+    "slack": "https://greenmed-ico.slack.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/GreenMed_Team",
+    "youtube": ""
+  }
+}

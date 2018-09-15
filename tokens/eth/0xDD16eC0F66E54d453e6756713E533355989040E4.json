@@ -1,0 +1,33 @@
+{
+  "symbol": "TEN",
+  "address": "0xdd16ec0f66e54d453e6756713e533355989040e4",
+  "decimals": 18,
+  "name": "Tokenomy",
+  "ens_address": "",
+  "website": "https://www.tokenomy.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TOKENOMY/",
+    "forum": "",
+    "github": "https://github.com/tokenomy",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://t.me/tokenomyinfo",
+    "twitter": "https://twitter.com/tokenomy",
+    "youtube": ""
+  }
+}

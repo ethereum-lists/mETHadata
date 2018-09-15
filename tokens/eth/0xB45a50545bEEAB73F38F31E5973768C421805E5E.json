@@ -1,0 +1,33 @@
+{
+  "symbol": "TKR",
+  "address": "0xb45a50545beeab73f38f31e5973768c421805e5e",
+  "decimals": 18,
+  "name": "TKRToken",
+  "ens_address": "",
+  "website": "https://www.trackr.im/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@cryptoinsight.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://fb.me/cryptoinsight.io",
+    "forum": "",
+    "github": "https://github.com/trackr-im",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/cryptoinsightio",
+    "youtube": ""
+  }
+}

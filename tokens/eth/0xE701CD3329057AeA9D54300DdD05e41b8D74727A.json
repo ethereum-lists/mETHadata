@@ -1,0 +1,33 @@
+{
+  "symbol": "10MT",
+  "address": "0xe701cd3329057aea9d54300ddd05e41b8d74727a",
+  "decimals": 10,
+  "name": "10M Token",
+  "ens_address": "",
+  "website": "https://www.10mtoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tenmillions.token.5",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GoQE_0JH4-Ids_G4X6Japw",
+    "twitter": "https://twitter.com/10m_token",
+    "youtube": ""
+  }
+}

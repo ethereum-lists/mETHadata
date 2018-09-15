@@ -1,0 +1,33 @@
+{
+  "symbol": "ATS",
+  "address": "0x2daee1aa61d60a252dc80564499a69802853583a",
+  "decimals": 4,
+  "name": "Authorship Token",
+  "ens_address": "",
+  "website": "http://authorship.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://authorship.com/category/blog/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/authorship_com",
+    "youtube": ""
+  }
+}

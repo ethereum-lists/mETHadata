@@ -1,0 +1,33 @@
+{
+  "symbol": "HELP",
+  "address": "0xe8c5e942b76099c0c6d78271bad3ca002fa7c531",
+  "decimals": 0,
+  "name": "HELP",
+  "ens_address": "",
+  "website": "https://www.helpproject.info/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.helpproject.info/category/blog/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/HelpProject5/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/HelpProject5",
+    "youtube": ""
+  }
+}

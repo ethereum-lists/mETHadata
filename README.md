@@ -60,4 +60,4 @@ This list is maintained by volunteers in the community &amp; people like you aro
 
 This is a project which emerged from the ashes of [MyEtherWallet/ethereum-lists](https://github.com/MyEtherWallet/ethereum-lists) after the split of MyEtherWallet and MyCrypto. For some more context see [this blog post](https://walleth.org/2018/02/15/ethereum-lists).
 
-In September 2018, ethereum-lists was forked into mETHadata, with merged in token metadata from Trivial.co, and with the goal of creating a more universal open database of metadata related to addresses and contracts.
+In September 2018, ethereum-lists (~800 tokens) was forked into mETHadata, and merged with token metadata from Trivial.co (~1000 tokens), and with the goal of creating a more universal open database of metadata related to addresses and contracts.

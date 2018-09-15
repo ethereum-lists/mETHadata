@@ -1,0 +1,33 @@
+{
+  "symbol": "TPL",
+  "address": "0x8866d52303e372c2a2936d8ea09afd87bcbd8cf2",
+  "decimals": 10,
+  "name": "Trust Pool Token",
+  "ens_address": "",
+  "website": "https://www.trustpool.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

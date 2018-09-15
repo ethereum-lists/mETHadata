@@ -1,0 +1,33 @@
+{
+  "symbol": "KCS",
+  "address": "0x039b5649a59967e3e936d7471f9c3700100ee1ab",
+  "decimals": 6,
+  "name": "Kucoin Shares",
+  "ens_address": "",
+  "website": "https://www.kucoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/kucoinexchangepage",
+    "forum": "",
+    "github": "http://github.com/Kucoin/Docs",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/kucoin",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FMqUpg1_vED9MSDJPPcFkg",
+    "twitter": "https://twitter.com/kucoincom",
+    "youtube": ""
+  }
+}

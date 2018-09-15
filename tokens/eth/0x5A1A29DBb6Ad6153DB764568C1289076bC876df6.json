@@ -1,0 +1,33 @@
+{
+  "symbol": "NKC",
+  "address": "0x5a1a29dbb6ad6153db764568c1289076bc876df6",
+  "decimals": 18,
+  "name": "NeworkCoin",
+  "ens_address": "",
+  "website": "http://nework.pro/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/neworkglobal",
+    "twitter": "",
+    "youtube": ""
+  }
+}

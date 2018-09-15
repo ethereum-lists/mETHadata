@@ -1,0 +1,33 @@
+{
+  "symbol": "HT",
+  "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+  "decimals": 18,
+  "name": "HuobiToken",
+  "ens_address": "",
+  "website": "https://www.huobi.pro/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/huobiproofficial",
+    "twitter": "https://twitter.com/HUOBI_Pro",
+    "youtube": ""
+  }
+}

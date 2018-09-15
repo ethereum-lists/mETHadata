@@ -1,0 +1,33 @@
+{
+  "symbol": "CHP",
+  "address": "0xf3db7560e820834658b590c96234c333cd3d5e5e",
+  "decimals": 18,
+  "name": "Poker Chips",
+  "ens_address": "",
+  "website": "https://coinpoker.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CoinPokerOfficial/",
+    "forum": "",
+    "github": "https://github.com/CoinPokerOfficial/ico-smartcontracts",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/coinpoker/",
+    "slack": "",
+    "telegram": "https://t.me/officialcoinpoker",
+    "twitter": "https://twitter.com/CoinPoker_OFF",
+    "youtube": ""
+  }
+}

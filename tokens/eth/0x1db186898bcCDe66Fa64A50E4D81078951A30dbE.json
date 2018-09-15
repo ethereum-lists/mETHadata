@@ -1,0 +1,33 @@
+{
+  "symbol": "LLA",
+  "address": "0x1db186898bccde66fa64a50e4d81078951a30dbe",
+  "decimals": 18,
+  "name": "Lalena",
+  "ens_address": "",
+  "website": "https://www.lalena.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/lalena-co",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/11272066/",
+    "reddit": "",
+    "slack": "http://slack-invite.lalena.club/",
+    "telegram": "https://t.me/LalenaClubhouse",
+    "twitter": "https://twitter.com/lalena_co",
+    "youtube": ""
+  }
+}

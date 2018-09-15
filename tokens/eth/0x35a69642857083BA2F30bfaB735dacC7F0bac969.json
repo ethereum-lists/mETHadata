@@ -1,0 +1,33 @@
+{
+  "symbol": "BBN",
+  "address": "0x35a69642857083ba2f30bfab735dacc7f0bac969",
+  "decimals": 18,
+  "name": "BBNToken",
+  "ens_address": "",
+  "website": "https://www.banyanbbt.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://blog.banyanbbt.org/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BanyanNetwork/",
+    "slack": "",
+    "telegram": "http://t.me/bbnglobalfans",
+    "twitter": "https://twitter.com/banyan_network",
+    "youtube": ""
+  }
+}

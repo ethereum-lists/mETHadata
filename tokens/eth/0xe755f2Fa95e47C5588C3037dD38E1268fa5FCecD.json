@@ -1,0 +1,33 @@
+{
+  "symbol": "HOWL",
+  "address": "0xe755f2fa95e47c5588c3037dd38e1268fa5fcecd",
+  "decimals": 18,
+  "name": "HOWL",
+  "ens_address": "",
+  "website": "http://www.howltoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

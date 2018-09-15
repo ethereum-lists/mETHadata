@@ -1,0 +1,33 @@
+{
+  "symbol": "TRUE",
+  "address": "0xa4d17ab1ee0efdd23edc2869e7ba96b89eecf9ab",
+  "decimals": 18,
+  "name": "TRUE Token",
+  "ens_address": "",
+  "website": "https://www.truechain.pro/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.truechain.pro/news",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/truechain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/truechain/",
+    "slack": "",
+    "telegram": "http://www.t.me/truechainglobal",
+    "twitter": "https://www.twitter.com/truechaingroup",
+    "youtube": ""
+  }
+}

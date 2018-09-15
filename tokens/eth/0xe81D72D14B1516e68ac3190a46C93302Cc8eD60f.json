@@ -1,0 +1,33 @@
+{
+  "symbol": "CL",
+  "address": "0xe81d72d14b1516e68ac3190a46c93302cc8ed60f",
+  "decimals": 18,
+  "name": "Coinlancer",
+  "ens_address": "",
+  "website": "https://www.coinlancer.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://facebook.com/coinlancer",
+    "forum": "",
+    "github": "https://github.com/coinlancer",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/Coinlancer",
+    "twitter": "https://twitter.com/Coin_Lancer",
+    "youtube": ""
+  }
+}

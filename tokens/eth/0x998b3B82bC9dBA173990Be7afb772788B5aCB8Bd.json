@@ -1,0 +1,33 @@
+{
+  "symbol": "BANCA",
+  "address": "0x998b3b82bc9dba173990be7afb772788b5acb8bd",
+  "decimals": 18,
+  "name": "BANCA Token",
+  "ens_address": "",
+  "website": "https://www.banca.world/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://web.facebook.com/banca.official/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Banca/",
+    "slack": "",
+    "telegram": "https://t.me/banca_official",
+    "twitter": "https://twitter.com/Banca_Official",
+    "youtube": ""
+  }
+}

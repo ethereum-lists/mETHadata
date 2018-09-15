@@ -1,0 +1,33 @@
+{
+  "symbol": "ZLA",
+  "address": "0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16",
+  "decimals": 18,
+  "name": "Zilla Token",
+  "ens_address": "",
+  "website": "https://www.zla.io/en",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ZILLAtoken/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ZILLAtoken/",
+    "slack": "",
+    "telegram": "https://t.me/zilla_app",
+    "twitter": "https://twitter.com/zillatoken",
+    "youtube": ""
+  }
+}

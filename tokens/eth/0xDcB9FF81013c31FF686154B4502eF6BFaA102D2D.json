@@ -1,0 +1,33 @@
+{
+  "symbol": "GOOC",
+  "address": "0xdcb9ff81013c31ff686154b4502ef6bfaa102d2d",
+  "decimals": 8,
+  "name": "Goochain",
+  "ens_address": "",
+  "website": "http://www.goochain.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

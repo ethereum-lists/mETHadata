@@ -1,0 +1,33 @@
+{
+  "symbol": "TSS",
+  "address": "0x28481cdc0e4fa79164491d47e8837edeb3993f20",
+  "decimals": 18,
+  "name": "TssToken",
+  "ens_address": "",
+  "website": "https://www.tsstoken.com/index.php",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@tsstoken.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tsstoken",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/tsstoken",
+    "twitter": "https://twitter.com/tsstoken",
+    "youtube": ""
+  }
+}

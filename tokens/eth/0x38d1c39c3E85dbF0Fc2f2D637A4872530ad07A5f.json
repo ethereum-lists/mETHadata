@@ -1,0 +1,33 @@
+{
+  "symbol": "NDO",
+  "address": "0x38d1c39c3e85dbf0fc2f2d637a4872530ad07a5f",
+  "decimals": 4,
+  "name": "NONDO",
+  "ens_address": "",
+  "website": "https://nondo.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@nondo.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Nondo.io/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/NONDO_NDO",
+    "youtube": ""
+  }
+}

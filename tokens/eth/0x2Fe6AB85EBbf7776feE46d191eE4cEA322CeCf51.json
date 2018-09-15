@@ -1,0 +1,33 @@
+{
+  "symbol": "CDT",
+  "address": "0x2fe6ab85ebbf7776fee46d191ee4cea322cecf51",
+  "decimals": 18,
+  "name": "CoinDash",
+  "ens_address": "",
+  "website": "https://www.coindash.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.coindash.io/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/coindash.io/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://coindashslack.stamplayapp.com/",
+    "telegram": "https://t.me/joinchat/HllhIg5XT8OYxjeLrZqtGw",
+    "twitter": "",
+    "youtube": ""
+  }
+}

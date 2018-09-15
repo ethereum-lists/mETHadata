@@ -1,0 +1,33 @@
+{
+  "symbol": "UGC",
+  "address": "0xf485c5e679238f9304d986bb2fc28fe3379200e5",
+  "decimals": 18,
+  "name": "UG Coin",
+  "ens_address": "",
+  "website": "http://www.ugchain.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ugchain/",
+    "forum": "",
+    "github": "https://github.com/ugchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ugChain/",
+    "slack": "",
+    "telegram": "https://t.me/ugChainOfficial",
+    "twitter": "https://twitter.com/ugChain",
+    "youtube": ""
+  }
+}

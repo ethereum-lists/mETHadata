@@ -1,0 +1,33 @@
+{
+  "symbol": "IWT",
+  "address": "0x77faed976e187f26b49e78be8418ab074a341f26",
+  "decimals": 18,
+  "name": "Integrative Wallet Token",
+  "ens_address": "",
+  "website": "https://iwtoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@iwtoken.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/iwtoken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/iwtoken",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/iwtoken",
+    "youtube": ""
+  }
+}

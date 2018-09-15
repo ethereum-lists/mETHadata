@@ -1,0 +1,33 @@
+{
+  "symbol": "GRX",
+  "address": "0x219218f117dc9348b358b8471c55a073e5e0da0b",
+  "decimals": 18,
+  "name": "Gold Reward Token",
+  "ens_address": "",
+  "website": "https://goldreward.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Goldreward/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/AAAAAEH3O3kOexOTBEuZFg",
+    "twitter": "https://twitter.com/GoldReward_GRX",
+    "youtube": ""
+  }
+}

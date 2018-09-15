@@ -1,0 +1,33 @@
+{
+  "symbol": "BZT",
+  "address": "0x0d5516103752b3954d95621f470a8261151da2e4",
+  "decimals": 18,
+  "name": "Bloomzed Token",
+  "ens_address": "",
+  "website": "https://bloomzed.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/bloomzedinfo",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Bloomzed/",
+    "slack": "",
+    "telegram": "https://t.me/bloomzed",
+    "twitter": "https://twitter.com/BloomzedInfo",
+    "youtube": ""
+  }
+}

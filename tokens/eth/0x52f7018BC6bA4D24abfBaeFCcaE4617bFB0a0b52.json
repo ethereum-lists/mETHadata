@@ -1,0 +1,33 @@
+{
+  "symbol": "YACHT",
+  "address": "0x52f7018bc6ba4d24abfbaefccae4617bfb0a0b52",
+  "decimals": 9,
+  "name": "YachtCoin",
+  "ens_address": "",
+  "website": "https://www.cryptoyacht.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/cryptoyacht",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "ZIP",
+  "address": "0x93e24ce396a9e7d7de4a5bc616cf5fcab0476626",
+  "decimals": 8,
+  "name": "ZipCoin",
+  "ens_address": "",
+  "website": "https://zip-coin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "zipcoinproject@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ZipCoin/",
+    "slack": "https://join.slack.com/t/zip-coin/shared_invite/enQtMjY0MzczODAxNDYyLTg4ZTU1ZmE3ZGI2MDY1NzQ5OTFkOGIwNjhhNjNiOGNmNjlhMDc3YmEwYTZkNzUyNzQ0M2I0NGQxMGY3YzNkNGQ",
+    "telegram": "",
+    "twitter": "https://twitter.com/ZipCoinProject",
+    "youtube": ""
+  }
+}
