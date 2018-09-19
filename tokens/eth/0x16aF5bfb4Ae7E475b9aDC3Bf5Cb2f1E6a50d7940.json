@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
-    "chat": "",
-    "facebook": "",
+    "blog": "http://blog.fanship.world/",
+    "chat": "https://open.kakao.com/o/geCfE8K",
+    "facebook": "https://www.facebook.com/FanshipWorld/",
     "forum": "",
     "github": "",
     "gitter": "",
-    "instagram": "",
+    "instagram": "https://www.instagram.com/fanship_world/",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Fanshipworld/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/fanship",
+    "twitter": "http://twitter.com/fanship_world/",
     "youtube": ""
   }
 }
