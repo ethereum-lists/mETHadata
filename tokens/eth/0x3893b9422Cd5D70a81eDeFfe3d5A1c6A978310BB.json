@@ -1,0 +1,33 @@
+{
+  "symbol": "MITH",
+  "address": "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB",
+  "decimals": 18,
+  "name": "Mithril ",
+  "ens_address": "",
+  "website": "https://mith.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/MithrilToken",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/mithrilchat",
+    "twitter": "https://twitter.com/MithrilToken",
+    "youtube": ""
+  }
+}

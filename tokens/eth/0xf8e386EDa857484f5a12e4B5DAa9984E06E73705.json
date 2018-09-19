@@ -16,17 +16,17 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.indorse.io/",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://facebook.com/joinindorse",
+    "forum": "https://bitcointalk.org/index.php?topic=2047503.0",
+    "github": "https://github.com/indorseio",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "https://www.reddit.com/r/indorse",
     "slack": "https://slack.indorse.io",
-    "telegram": "",
+    "telegram": "https://t.me/indorseio",
     "twitter": "https://twitter.com/joinindorse",
     "youtube": ""
   }

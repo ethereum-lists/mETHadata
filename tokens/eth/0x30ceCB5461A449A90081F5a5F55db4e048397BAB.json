@@ -1,0 +1,33 @@
+{
+  "symbol": "TRCT",
+  "address": "0x30ceCB5461A449A90081F5a5F55db4e048397BAB",
+  "decimals": 8,
+  "name": "Tracto",
+  "ens_address": "",
+  "website": "http://www.tracto.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://www.tracto.org/news/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tracto.org/",
+    "forum": "",
+    "github": "https://github.com/tracto2/Tracto-ERC20",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/tracto14",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "SHNZ",
+  "address": "0x8b0C9f462C239c963d8760105CBC935C63D85680",
+  "decimals": 8,
+  "name": "ShizzleNizzle",
+  "ens_address": "",
+  "website": "http://www.shizzlenizzle.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@shizzlenizzle.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SHNZ4/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/shizzlenizzle",
+    "twitter": "https://twitter.com/ShizzleNizzle4",
+    "youtube": ""
+  }
+}

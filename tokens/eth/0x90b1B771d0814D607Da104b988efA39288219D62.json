@@ -1,0 +1,33 @@
+{
+  "symbol": "MEDI",
+  "address": "0x90b1B771d0814D607Da104b988efA39288219D62",
+  "decimals": 18,
+  "name": "MediBond",
+  "ens_address": "",
+  "website": "http://medibond.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/MediBond-1165154073584630/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GsFtikLXi6x1DuD6ju7CgQ",
+    "twitter": "https://twitter.com/medibondproj",
+    "youtube": ""
+  }
+}

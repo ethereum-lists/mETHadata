@@ -1,0 +1,33 @@
+{
+  "symbol": "OCN",
+  "address": "0x4092678e4E78230F46A1534C0fbc8fA39780892B",
+  "decimals": 18,
+  "name": "OCoin",
+  "ens_address": "",
+  "website": "http://www.ocoins.cc/home/index.php",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.valuewalk.com/2018/01/odyssey-ocoin-qtum-blockchain/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/OdysseyProtocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/OdysseyOCN/",
+    "slack": "",
+    "telegram": "https://t.me/OdysseyOfficial",
+    "twitter": "https://twitter.com/ODYSSEYPROTOCOL",
+    "youtube": ""
+  }
+}

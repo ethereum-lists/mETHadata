@@ -16,18 +16,18 @@
     "url": "https://hi.wings.ai"
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.wings.ai/",
     "chat": "",
     "facebook": "",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1477055.0",
+    "github": "https://github.com/WingsDao",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/wings-stiftung/",
+    "reddit": "https://www.reddit.com/r/WingsDAO/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://telegram.me/wingschat",
+    "twitter": "https://twitter.com/wingsplatform",
     "youtube": ""
   }
 }

@@ -1,0 +1,33 @@
+{
+  "symbol": "EKT",
+  "address": "0xBAb165dF9455AA0F2AeD1f2565520B91DDadB4c8",
+  "decimals": 8,
+  "name": "EDUCare",
+  "ens_address": "",
+  "website": "http://ekt8.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/EKTcoin/",
+    "forum": "",
+    "github": "https://github.com/EducationEKT/EKT",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/G87p8hAR8y4n_doleuXDqA",
+    "twitter": "https://twitter.com/EKTcoin",
+    "youtube": ""
+  }
+}

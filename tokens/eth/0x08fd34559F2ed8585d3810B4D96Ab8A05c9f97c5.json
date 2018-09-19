@@ -1,0 +1,33 @@
+{
+  "symbol": "CLRT",
+  "address": "0x08fd34559F2ed8585d3810B4D96Ab8A05c9f97c5",
+  "decimals": 18,
+  "name": "ClusterToken",
+  "ens_address": "",
+  "website": "https://www.clustertoken.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/ClusterToken",
+    "youtube": ""
+  }
+}

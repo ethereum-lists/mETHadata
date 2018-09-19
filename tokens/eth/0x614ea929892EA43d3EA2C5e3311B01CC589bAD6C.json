@@ -1,0 +1,33 @@
+{
+  "symbol": "ENO",
+  "address": "0x614ea929892EA43d3EA2C5e3311B01CC589bAD6C",
+  "decimals": 18,
+  "name": "Ethino",
+  "ens_address": "",
+  "website": "https://www.ethino.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@ethino.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ethino/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Gw2mJBEVeULdXrJn7WPhZQ/",
+    "twitter": "https://twitter.com/Ethino_Casino",
+    "youtube": ""
+  }
+}

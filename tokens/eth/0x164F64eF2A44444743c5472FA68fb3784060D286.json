@@ -1,0 +1,33 @@
+{
+  "symbol": "T8C",
+  "address": "0x164F64eF2A44444743c5472FA68fb3784060D286",
+  "decimals": 3,
+  "name": "T8Coin",
+  "ens_address": "",
+  "website": "http://t8coin.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "www.twitter.com/t8coin",
+    "youtube": ""
+  }
+}

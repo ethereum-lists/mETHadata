@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "info@patientory.com",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@patientory",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/patientory",
+    "forum": "https://bitcointalk.org/index.php?topic=1886446.0",
+    "github": "https://github.com/Patientory",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
-    "slack": "",
+    "linkedin": "https://www.linkedin.com/company/patientory/",
+    "reddit": "https://www.reddit.com/r/PTOY/",
+    "slack": "https://patientory.com/slack/",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/patientory",
     "youtube": ""
   }
 }

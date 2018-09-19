@@ -1,0 +1,33 @@
+{
+  "symbol": "FC",
+  "address": "0xe6923E9b56Db1EeD1c9f430Ea761DA7565e260Fe",
+  "decimals": 2,
+  "name": "FaceCoin",
+  "ens_address": "",
+  "website": "http://facecoin.tech/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://facecoin.slack.com/join/shared_invite/MjI5NzUzNDU0Nzg2LTE1MDMzNjY5MzktZjAwNGQ0YTEzZQ",
+    "telegram": "",
+    "twitter": "https://twitter.com/facecointech",
+    "youtube": ""
+  }
+}

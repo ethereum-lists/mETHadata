@@ -1,0 +1,33 @@
+{
+  "symbol": "BCD",
+  "address": "0x660B612ec57754d949AC1A09D0c2937A010dEe05",
+  "decimals": 6,
+  "name": "BitCAD",
+  "ens_address": "",
+  "website": "http://bitcad.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "media@bitcad.me",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bitcadplatform",
+    "forum": "",
+    "github": "https://github.com/BitCADplatform",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/bitcadplatform/",
+    "linkedin": "https://www.linkedin.com/company/bitcad/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/bitcad",
+    "twitter": "https://twitter.com/bitcadplatform",
+    "youtube": ""
+  }
+}

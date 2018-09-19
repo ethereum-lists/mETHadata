@@ -1,0 +1,33 @@
+{
+  "symbol": "SPNK",
+  "address": "0x1EAb19e6623E8cBcAfc252E275F5b51C27656fAF",
+  "decimals": 8,
+  "name": "Spank",
+  "ens_address": "",
+  "website": "http://spankstream.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "spankstream@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/spankstream",
+    "youtube": ""
+  }
+}

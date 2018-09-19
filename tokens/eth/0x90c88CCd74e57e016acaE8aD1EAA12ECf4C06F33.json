@@ -1,0 +1,33 @@
+{
+  "symbol": "IBTC",
+  "address": "0x90c88CCd74e57e016acaE8aD1EAA12ECf4C06F33",
+  "decimals": 18,
+  "name": "IBTC",
+  "ens_address": "",
+  "website": "http://ibtc.fun",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@ibtctoken.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FNH590OePKXIG4kci-Z--w",
+    "twitter": "https://twitter.com/ibtctoken",
+    "youtube": ""
+  }
+}

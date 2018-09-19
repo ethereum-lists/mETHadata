@@ -1,0 +1,33 @@
+{
+  "symbol": "CIX",
+  "address": "0x1175a66a5c3343Bbf06AA818BB482DdEc30858E0",
+  "decimals": 18,
+  "name": "Cryptonetix",
+  "ens_address": "",
+  "website": "http://www.cryptonetix.com/#/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://facebook.com/cryptonetix",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "http://www.linkedin.com/company/cryptonetix",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "http://twitter.com/cryptonetix",
+    "youtube": ""
+  }
+}

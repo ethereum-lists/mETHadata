@@ -1,0 +1,33 @@
+{
+  "symbol": "ETHP",
+  "address": "0xEBc86d834756621444a8a26B4cF81B625fe310cD",
+  "decimals": 18,
+  "name": "EtherPower",
+  "ens_address": "",
+  "website": "http://etherpower-pos-token.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/EtherPowerMoon",
+    "youtube": ""
+  }
+}

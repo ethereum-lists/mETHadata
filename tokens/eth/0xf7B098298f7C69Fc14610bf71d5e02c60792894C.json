@@ -4,7 +4,7 @@
   "decimals": 3,
   "name": "GUP",
   "ens_address": "",
-  "website": "",
+  "website": "https://www.matchpool.com/",
   "logo": {
     "src": "",
     "width": "",
@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
-    "chat": "",
-    "facebook": "",
+    "blog": "https://medium.com/@matchpool",
+    "chat": "https://chat.matchpool.com/home",
+    "facebook": "https://www.facebook.com/matchpoolhq/",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/Matchpool/",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/11044252/",
+    "reddit": "https://www.reddit.com/r/Matchpool/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/matchpool",
+    "twitter": "https://twitter.com/matchpool",
     "youtube": ""
   }
 }

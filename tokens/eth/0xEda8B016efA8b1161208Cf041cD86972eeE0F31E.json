@@ -1,0 +1,33 @@
+{
+  "symbol": "IHT",
+  "address": "0xEda8B016efA8b1161208Cf041cD86972eeE0F31E",
+  "decimals": 18,
+  "name": "I HOUSE TOKEN",
+  "ens_address": "",
+  "website": "https://ihtcoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ihtcoin/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/IHTcoin/",
+    "slack": "",
+    "telegram": "http://t.me/IHTcoin",
+    "twitter": "https://twitter.com/ihtcoin",
+    "youtube": ""
+  }
+}

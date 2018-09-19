@@ -1,0 +1,33 @@
+{
+  "symbol": "BTRN",
+  "address": "0x03C780cD554598592B97b7256dDAad759945b125",
+  "decimals": 18,
+  "name": "BTRN",
+  "ens_address": "",
+  "website": "https://biotron.io/#/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Biotron/",
+    "slack": "",
+    "telegram": "https://t.me/biotronfoundation",
+    "twitter": "https://twitter.com/BiotronI",
+    "youtube": ""
+  }
+}

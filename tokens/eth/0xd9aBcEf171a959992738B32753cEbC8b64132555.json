@@ -1,0 +1,33 @@
+{
+  "symbol": "MCEX",
+  "address": "0xd9aBcEf171a959992738B32753cEbC8b64132555",
+  "decimals": 0,
+  "name": "Miami Crypto Exchange",
+  "ens_address": "",
+  "website": "https://www.miami.exchange/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/mercurycash",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://t.me/mercurycash",
+    "twitter": "https://twitter.com/miaexchange",
+    "youtube": ""
+  }
+}

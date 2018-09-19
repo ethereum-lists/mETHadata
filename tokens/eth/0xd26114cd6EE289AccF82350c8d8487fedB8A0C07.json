@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "omg@omise.co",
     "url": ""
   },
   "social": {
-    "blog": "",
-    "chat": "",
-    "facebook": "",
-    "forum": "",
+    "blog": "https://blog.omisego.network/",
+    "chat": "https://chat.omisego.network/",
+    "facebook": "https://www.facebook.com/OmiseGO/",
+    "forum": "https://bitcointalk.org/index.php?topic=2042193.0",
     "github": "https://github.com/omisego",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/omise_go/",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/omise_go",
     "youtube": ""
   }
 }

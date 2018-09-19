@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "projectstallman@openanx.org",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@OAX_Foundation",
     "chat": "",
     "facebook": "",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1943946.20",
+    "github": "https://github.com/openanx",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "https://www.reddit.com/r/OpenANX",
     "slack": "https://openanx.slack.com",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/openanxteam",
+    "twitter": "https://twitter.com/OAX_Foundation",
     "youtube": ""
   }
 }

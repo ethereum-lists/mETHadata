@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@presearch",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/presearch.io/",
+    "forum": "https://bitcointalk.org/index.php?topic=2004713.0",
+    "github": "https://github.com/presearchofficial",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Presearch/",
     "slack": "",
     "telegram": "https://t.me/presearch",
-    "twitter": "",
+    "twitter": "https://twitter.com/presearchnews",
     "youtube": ""
   }
 }

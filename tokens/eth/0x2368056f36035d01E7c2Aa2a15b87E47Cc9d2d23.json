@@ -1,0 +1,33 @@
+{
+  "symbol": "GSD",
+  "address": "0x2368056f36035d01E7c2Aa2a15b87E47Cc9d2d23",
+  "decimals": 18,
+  "name": "GetSeeds Token",
+  "ens_address": "",
+  "website": "https://getseeds.info",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://web.facebook.com/seeders.getseeds/",
+    "forum": "",
+    "github": "https://github.com/Getseeds-GSD/Getseeds-Token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/getseedschat",
+    "twitter": "https://twitter.com/GetseedsGSD",
+    "youtube": ""
+  }
+}

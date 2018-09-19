@@ -1,0 +1,33 @@
+{
+  "symbol": "EXN",
+  "address": "0x0766e79A6fD74469733e8330b3b461C0320fF059",
+  "decimals": 18,
+  "name": "EXN",
+  "ens_address": "",
+  "website": "http://www.exchangen.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

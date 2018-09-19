@@ -1,0 +1,33 @@
+{
+  "symbol": "JPY_S",
+  "address": "0x5F54C1512d036a0dD92744EE0A55Ed183dde0484",
+  "decimals": 18,
+  "name": "JPY Static",
+  "ens_address": "",
+  "website": "http://staticoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "genkifs@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/genkifs/staticoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

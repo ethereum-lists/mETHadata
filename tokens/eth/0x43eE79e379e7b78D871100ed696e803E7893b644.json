@@ -1,0 +1,33 @@
+{
+  "symbol": "UGT",
+  "address": "0x43eE79e379e7b78D871100ed696e803E7893b644",
+  "decimals": 18,
+  "name": "UG Token",
+  "ens_address": "",
+  "website": "http://ugchain.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ugChain",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ugChain/",
+    "slack": "",
+    "telegram": "https://t.me/ugChainOfficial",
+    "twitter": "https://twitter.com/ugChain",
+    "youtube": ""
+  }
+}

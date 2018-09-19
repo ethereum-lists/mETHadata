@@ -1,0 +1,33 @@
+{
+  "symbol": "SENT",
+  "address": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
+  "decimals": 8,
+  "name": "SENTinel",
+  "ens_address": "",
+  "website": "https://sentinelgroup.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/sentinel-official",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/sentinelsecuritygroup",
+    "twitter": "https://twitter.com/SentinelGroupio",
+    "youtube": ""
+  }
+}

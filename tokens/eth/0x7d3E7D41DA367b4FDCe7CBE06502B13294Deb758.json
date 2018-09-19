@@ -1,0 +1,33 @@
+{
+  "symbol": "SSS",
+  "address": "0x7d3E7D41DA367b4FDCe7CBE06502B13294Deb758",
+  "decimals": 8,
+  "name": "SSS",
+  "ens_address": "",
+  "website": "http://www.sharechain.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ShareChain-512768539075466/",
+    "forum": "",
+    "github": "https://github.com/sharechain/ShareChain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "fdX",
+  "address": "0x52A7cB918c11A16958bE40CBA7E31e32a499a465",
+  "decimals": 18,
+  "name": "fidentiaX",
+  "ens_address": "",
+  "website": "https://www.fidentiax.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/fidentiaX",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/fidentiax/",
+    "slack": "",
+    "telegram": "https://t.me/fidentiaX",
+    "twitter": "https://twitter.com/fidentiaX",
+    "youtube": ""
+  }
+}

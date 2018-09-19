@@ -1,0 +1,33 @@
+{
+  "symbol": "MAYY",
+  "address": "0xBfA4d71a51B9e0968Be4Bc299F8BA6cBb2f86789",
+  "decimals": 18,
+  "name": "Mayweather Yes",
+  "ens_address": "",
+  "website": "https://predictiontoken.github.io/#MAY",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@BitClave",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://facebook.com/bitclave",
+    "forum": "https://bitcointalk.org/index.php?topic=2005370",
+    "github": "https://github.com/bitclave/",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/BitClave/",
     "slack": "https://slack.bitclave.com",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/BitClaveCommunity",
+    "twitter": "https://twitter.com/BitClave",
     "youtube": ""
   }
 }

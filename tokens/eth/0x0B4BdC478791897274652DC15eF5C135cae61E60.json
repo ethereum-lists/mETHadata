@@ -1,0 +1,33 @@
+{
+  "symbol": "DAX",
+  "address": "0x0B4BdC478791897274652DC15eF5C135cae61E60",
+  "decimals": 18,
+  "name": "DAEX",
+  "ens_address": "",
+  "website": "https://daex.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/DAEX_Blockchain/",
+    "slack": "",
+    "telegram": "https://t.me/DAEXOfficial_en",
+    "twitter": "https://twitter.com/DaexBlockchain",
+    "youtube": ""
+  }
+}

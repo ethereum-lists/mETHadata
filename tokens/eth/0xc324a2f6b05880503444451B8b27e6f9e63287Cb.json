@@ -1,0 +1,33 @@
+{
+  "symbol": "XUC",
+  "address": "0xc324a2f6b05880503444451B8b27e6f9e63287Cb",
+  "decimals": 18,
+  "name": "Exchange Union Coin",
+  "ens_address": "",
+  "website": "https://www.exchangeunion.com/xuc",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ExchangeUnion/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company-beta/18154224",
+    "reddit": "",
+    "slack": "https://exchange-union.slack.com/",
+    "telegram": "https://t.me/exchangeunion",
+    "twitter": "https://twitter.com/exchange_union",
+    "youtube": ""
+  }
+}

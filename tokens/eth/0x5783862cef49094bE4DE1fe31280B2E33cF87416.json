@@ -1,0 +1,33 @@
+{
+  "symbol": "KRT",
+  "address": "0x5783862cef49094bE4DE1fe31280B2E33cF87416",
+  "decimals": 4,
+  "name": "KredX Token",
+  "ens_address": "",
+  "website": "https://kredx.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/kredX",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

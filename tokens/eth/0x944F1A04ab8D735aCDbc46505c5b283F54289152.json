@@ -1,0 +1,33 @@
+{
+  "symbol": "GBTS",
+  "address": "0x944F1A04ab8D735aCDbc46505c5b283F54289152",
+  "decimals": 18,
+  "name": "Gamerbits",
+  "ens_address": "",
+  "website": "https://www.gbits.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Gamerbits/",
+    "slack": "",
+    "telegram": "https://t.me/gamerbits",
+    "twitter": "https://twitter.com/Gamerbits_",
+    "youtube": ""
+  }
+}

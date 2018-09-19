@@ -1,0 +1,33 @@
+{
+  "symbol": "WAB",
+  "address": "0x4BBbC57aF270138Ef2FF2C50DbfAD684e9E0e604",
+  "decimals": 18,
+  "name": "WABnetwork",
+  "ens_address": "",
+  "website": "https://wab.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@WABnetwork",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/WABnetwork/Token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/u/WABnetwork",
+    "slack": "",
+    "telegram": "https://t.me/WABgroup",
+    "twitter": "https://twitter.com/WABnetwork",
+    "youtube": ""
+  }
+}

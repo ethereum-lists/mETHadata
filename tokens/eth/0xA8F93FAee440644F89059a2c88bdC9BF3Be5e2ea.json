@@ -1,0 +1,33 @@
+{
+  "symbol": "CASH",
+  "address": "0xA8F93FAee440644F89059a2c88bdC9BF3Be5e2ea",
+  "decimals": 18,
+  "name": "Cash Poker Pro",
+  "ens_address": "",
+  "website": "https://cashpokerpro.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "cashppro@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cashppro",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/cashpokerpro",
+    "twitter": "https://twitter.com/CashPokPro",
+    "youtube": ""
+  }
+}

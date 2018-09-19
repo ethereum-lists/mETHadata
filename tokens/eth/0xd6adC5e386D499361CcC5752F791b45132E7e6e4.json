@@ -1,0 +1,33 @@
+{
+  "symbol": "MSC",
+  "address": "0xd6adC5e386D499361CcC5752F791b45132E7e6e4",
+  "decimals": 0,
+  "name": "MSC",
+  "ens_address": "",
+  "website": "http://www.monspacecoin.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@monspacecoin.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/monspace.coin.5",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/MscoinCoin",
+    "youtube": ""
+  }
+}

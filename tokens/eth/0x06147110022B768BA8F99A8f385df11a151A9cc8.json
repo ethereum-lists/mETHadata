@@ -1,0 +1,33 @@
+{
+  "symbol": "ACE",
+  "address": "0x06147110022B768BA8F99A8f385df11a151A9cc8",
+  "decimals": 0,
+  "name": "ACE Token",
+  "ens_address": "",
+  "website": "https://tokenstars.com/ace/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TokenStars/",
+    "forum": "",
+    "github": "https://github.com/tokenstars/ace-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TokenStars/",
+    "slack": "",
+    "telegram": "https://t.me/TokenStars_en",
+    "twitter": "https://twitter.com/TokenStars",
+    "youtube": ""
+  }
+}

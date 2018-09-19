@@ -1,0 +1,33 @@
+{
+  "symbol": "INDI",
+  "address": "0xE8c09672cfb9cFcE6E2edBB01057d9fa569F97c1",
+  "decimals": 18,
+  "name": "Indicoin",
+  "ens_address": "",
+  "website": "https://www.indicoin.org.in/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@indicoin.org.in",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.indicoin.org.in/blog.php",
+    "chat": "",
+    "facebook": "https://facebook.com/indicoin.crypto",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/indicoin.org.in",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/Indicoin/",
+    "slack": "",
+    "telegram": "https://www.telegram.me/indicoin",
+    "twitter": "https://twitter.com/indi_coin",
+    "youtube": ""
+  }
+}

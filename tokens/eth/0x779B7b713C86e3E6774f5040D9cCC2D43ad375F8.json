@@ -12,13 +12,13 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "stakepool@stakepool.co",
     "url": "stakepool@stakepool.co"
   },
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/POS-Mining-Co-StakePoolco-136398393631970/",
     "forum": "",
     "github": "",
     "gitter": "",
@@ -27,7 +27,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/POSMiningCo",
     "youtube": ""
   }
 }

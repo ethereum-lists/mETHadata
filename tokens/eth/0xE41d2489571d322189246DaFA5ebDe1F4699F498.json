@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "team@0xproject.com",
     "url": ""
   },
   "social": {
-    "blog": "",
-    "chat": "",
-    "facebook": "",
-    "forum": "",
+    "blog": "https://blog.0xproject.com/latest",
+    "chat": "https://chat.0xproject.com/home",
+    "facebook": "https://www.facebook.com/0xProject/?ref=br_rs",
+    "forum": "https://bitcointalk.org/index.php?topic=2087992.60",
     "github": "https://github.com/0xProject",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/0xProject/",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/0xproject",
     "youtube": ""
   }
 }

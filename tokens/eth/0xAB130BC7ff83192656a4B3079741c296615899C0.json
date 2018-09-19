@@ -1,0 +1,33 @@
+{
+  "symbol": "MAYN",
+  "address": "0xAB130BC7ff83192656a4B3079741c296615899C0",
+  "decimals": 18,
+  "name": "Mayweather No",
+  "ens_address": "",
+  "website": "https://predictiontoken.github.io/#MAY",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "DCNT",
+  "address": "0x6678E467FA5cCfBDC264d12f4B8b28fE4661606B",
+  "decimals": 1,
+  "name": "Decent Token",
+  "ens_address": "",
+  "website": "http://www.decentweb.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

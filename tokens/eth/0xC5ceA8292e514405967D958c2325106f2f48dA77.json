@@ -1,0 +1,33 @@
+{
+  "symbol": "PRFT",
+  "address": "0xC5ceA8292e514405967D958c2325106f2f48dA77",
+  "decimals": 18,
+  "name": "Proof",
+  "ens_address": "",
+  "website": "https://www.proofsuite.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@proofsuite.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/proofsuite/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://twitter.com/proofsuite",
+    "slack": "http://slack.proofsuite.com/",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

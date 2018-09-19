@@ -1,0 +1,33 @@
+{
+  "symbol": "KODA",
+  "address": "0xDdE2D979e8d39BB8416eAfcFC1758f3CaB2C9C72",
+  "decimals": 0,
+  "name": "Known Origin Digital Asset",
+  "ens_address": "",
+  "website": "https://knownorigin.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/knownorigin_io",
+    "twitter": "https://twitter.com/knownorigin_io",
+    "youtube": ""
+  }
+}

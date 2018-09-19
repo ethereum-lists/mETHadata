@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@jetcoins",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/jetcoins/?ref=bookmarks",
     "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Jetcoin/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "tg://join?invite=ERrH8w3gjAsfmdCrgjGCOQ",
+    "twitter": "https://twitter.com/jetcoins",
     "youtube": ""
   }
 }

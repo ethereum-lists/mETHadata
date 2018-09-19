@@ -1,0 +1,33 @@
+{
+  "symbol": "CM",
+  "address": "0x7A79ABD3905ef37b8D243c4C28ceE73a751EB076",
+  "decimals": 18,
+  "name": "CoinsMet",
+  "ens_address": "",
+  "website": "http://www.coinsmet.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "i@coinsmet.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/coins.met.1",
+    "forum": "https://discord.gg/pqvVDg8",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/coinsmet",
+    "twitter": "https://twitter.com/coinsmet/",
+    "youtube": ""
+  }
+}

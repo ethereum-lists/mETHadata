@@ -1,0 +1,33 @@
+{
+  "symbol": "BOX",
+  "address": "0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f",
+  "decimals": 18,
+  "name": "ContentBox",
+  "ens_address": "",
+  "website": "https://contentbox.one/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/contentboxone/",
+    "forum": "",
+    "github": "https://github.com/BOXFoundation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ContentBoxOfficial/",
+    "slack": "",
+    "telegram": "https://t.me/BoxCommunity",
+    "twitter": "https://twitter.com/Contentbox_one",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "DOCK",
+  "address": "0xE5Dada80Aa6477e85d09747f2842f7993D0Df71C",
+  "decimals": 18,
+  "name": "DockToken",
+  "ens_address": "",
+  "website": "https://dock.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/getdock.io/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/dockio",
+    "slack": "",
+    "telegram": "https://t.me/dockio",
+    "twitter": "https://twitter.com/dock_io",
+    "youtube": ""
+  }
+}

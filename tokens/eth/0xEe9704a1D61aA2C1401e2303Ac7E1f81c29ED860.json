@@ -1,0 +1,33 @@
+{
+  "symbol": "clash",
+  "address": "0xEe9704a1D61aA2C1401e2303Ac7E1f81c29ED860",
+  "decimals": 0,
+  "name": "clash",
+  "ens_address": "",
+  "website": "https://clashcoin.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/clashcoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/Clashcoin",
+    "slack": "https://clashcoin.co/https//clashcoin.slack.com",
+    "telegram": "https://t.me/Clashcoin",
+    "twitter": "https://twitter.com/clashcoin_clash",
+    "youtube": ""
+  }
+}

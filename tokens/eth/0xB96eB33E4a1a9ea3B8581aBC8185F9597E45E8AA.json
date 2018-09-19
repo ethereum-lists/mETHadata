@@ -1,0 +1,33 @@
+{
+  "symbol": "HEC",
+  "address": "0xB96eB33E4a1a9ea3B8581aBC8185F9597E45E8AA",
+  "decimals": 18,
+  "name": "HeroCoin",
+  "ens_address": "",
+  "website": "https://herochain.org/en/index.html",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/HeroChain-184496238960821/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/herocoin",
+    "twitter": "https://twitter.com/HeroChainHEC",
+    "youtube": ""
+  }
+}

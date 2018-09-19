@@ -1,0 +1,33 @@
+{
+  "symbol": "XET",
+  "address": "0x054C64741dBafDC19784505494029823D89c3b13",
+  "decimals": 8,
+  "name": "ETERNAL TOKEN",
+  "ens_address": "",
+  "website": "https://www.atom-solutions.jp/en/xetchange.php",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/atom-solutions",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/xetofficial",
+    "twitter": "https://twitter.com/AdminXet",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "ADU",
+  "address": "0x21692A811335301907ECD6343743791802Ba7Cfd",
+  "decimals": 18,
+  "name": "aducoin",
+  "ens_address": "",
+  "website": "http://dorepota.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

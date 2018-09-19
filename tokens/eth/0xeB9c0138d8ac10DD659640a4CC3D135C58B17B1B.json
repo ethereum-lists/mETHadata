@@ -1,0 +1,33 @@
+{
+  "symbol": "DTC",
+  "address": "0xeB9c0138d8ac10DD659640a4CC3D135C58B17B1B",
+  "decimals": 2,
+  "name": "DTC",
+  "ens_address": "",
+  "website": "https://dmtcoin.info/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@dmtcoin.info",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Digital-Media-Token-2010970575801455/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Crypto_Currency_News/comments/72mpig/digital_media_token/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/dmtcoin",
+    "youtube": ""
+  }
+}

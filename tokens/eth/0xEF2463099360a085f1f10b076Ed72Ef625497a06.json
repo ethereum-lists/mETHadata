@@ -1,0 +1,33 @@
+{
+  "symbol": "SHP",
+  "address": "0xEF2463099360a085f1f10b076Ed72Ef625497a06",
+  "decimals": 18,
+  "name": "Sharpe Platform Token",
+  "ens_address": "",
+  "website": "https://sharpe.capital/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/sharpecapital",
+    "forum": "",
+    "github": "https://github.com/sharpe-capital",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SharpeCapital/",
+    "slack": "",
+    "telegram": "https://t.me/sharpecapital",
+    "twitter": "https://twitter.com/sharpecapital",
+    "youtube": ""
+  }
+}

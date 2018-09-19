@@ -1,0 +1,33 @@
+{
+  "symbol": "ETHX",
+  "address": "0x494BBAf0124285E6eCB4Dfd9eAc76E18A9bf470F",
+  "decimals": 18,
+  "name": "Ethereum X",
+  "ens_address": "",
+  "website": "http://ethereumx.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hitashi@ethereumx.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ethereumx/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/Ethereum_X",
+    "twitter": "https://twitter.com/Ethereum_X_io/",
+    "youtube": ""
+  }
+}

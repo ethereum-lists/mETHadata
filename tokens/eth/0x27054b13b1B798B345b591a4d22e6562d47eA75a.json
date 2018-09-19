@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@airswap",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/airswapio",
+    "forum": "https://bitcointalk.org/index.php?topic=2208855.0",
+    "github": "https://github.com/airswap",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/AirSwap/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/airswapofficial",
+    "twitter": "https://twitter.com/airswap",
     "youtube": ""
   }
 }

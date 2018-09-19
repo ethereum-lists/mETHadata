@@ -1,0 +1,33 @@
+{
+  "symbol": "BITS",
+  "address": "0xB72627650F1149Ea5e54834b2f468E5d430E67bf",
+  "decimals": 8,
+  "name": "Bitsoko Community",
+  "ens_address": "",
+  "website": "https://bitsoko.co.ke/home/index.html",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@bitsoko.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bitsoko/",
+    "forum": "",
+    "github": "https://github.com/bitsoko-services/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/Bitsoko",
+    "youtube": ""
+  }
+}

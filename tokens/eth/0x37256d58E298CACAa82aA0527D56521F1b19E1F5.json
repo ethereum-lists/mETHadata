@@ -1,0 +1,33 @@
+{
+  "symbol": "EALP",
+  "address": "0x37256d58E298CACAa82aA0527D56521F1b19E1F5",
+  "decimals": 18,
+  "name": "Ethereum Alpes",
+  "ens_address": "",
+  "website": "https://www.ethereumalps.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@ethereumalps.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/EthereumAlps/",
+    "forum": "https://discord.gg/cCcBMuP",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/EthereumAlps/",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "LYM",
+  "address": "0x57aD67aCf9bF015E4820Fbd66EA1A21BED8852eC",
+  "decimals": 18,
+  "name": "Lympo tokens",
+  "ens_address": "",
+  "website": "https://lympo.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Lympo.io/",
+    "forum": "",
+    "github": "https://github.com/LympoICO",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/LYMPO/",
+    "slack": "",
+    "telegram": "https://t.me/lympo",
+    "twitter": "https://twitter.com/Lympo_io",
+    "youtube": ""
+  }
+}

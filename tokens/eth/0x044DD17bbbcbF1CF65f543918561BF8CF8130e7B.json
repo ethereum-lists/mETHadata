@@ -1,0 +1,33 @@
+{
+  "symbol": "EGR",
+  "address": "0x044DD17bbbcbF1CF65f543918561BF8CF8130e7B",
+  "decimals": 3,
+  "name": "Engraved Token",
+  "ens_address": "",
+  "website": "https://engraved.tech",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@engraved.tech",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/engravedTech",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GshO5UJrdVC_kZhqIK9LAw",
+    "twitter": "https://twitter.com/engravedTech",
+    "youtube": ""
+  }
+}

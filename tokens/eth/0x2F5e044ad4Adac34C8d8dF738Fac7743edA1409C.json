@@ -1,0 +1,33 @@
+{
+  "symbol": "AGO",
+  "address": "0x2F5e044ad4Adac34C8d8dF738Fac7743edA1409C",
+  "decimals": 18,
+  "name": "Agora",
+  "ens_address": "",
+  "website": "https://theagora.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@theagora.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TheAgoraICO/",
+    "forum": "",
+    "github": "https://github.com/AgoraMarket/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TheAgoraMarketplace/",
+    "slack": "https://join.slack.com/t/theagoramarketplace/shared_invite/MjIzNDcyOTYxODQyLTE1MDIxNjAzNzQtMjAyOThmZGZmYg",
+    "telegram": "",
+    "twitter": "https://twitter.com/TheAgoraICO",
+    "youtube": ""
+  }
+}

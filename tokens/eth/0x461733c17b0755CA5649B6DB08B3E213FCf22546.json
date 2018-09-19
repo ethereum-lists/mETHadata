@@ -1,0 +1,33 @@
+{
+  "symbol": "ATN",
+  "address": "0x461733c17b0755CA5649B6DB08B3E213FCf22546",
+  "decimals": 18,
+  "name": "ATN",
+  "ens_address": "",
+  "website": "https://atn.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/atnio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ATN/",
+    "slack": "",
+    "telegram": "https://t.me/ATN_Blockchain_EN",
+    "twitter": "https://twitter.com/atn_io",
+    "youtube": ""
+  }
+}

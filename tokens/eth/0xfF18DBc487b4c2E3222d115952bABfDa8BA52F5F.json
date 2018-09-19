@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://token.lifelabs.io/life-news/",
     "chat": "",
-    "facebook": "",
+    "facebook": "http://www.facebook.com/LIFElabsHQ/",
     "forum": "https://bitcointalk.org/index.php?topic=2196925.new;topicseen",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/LIFEtoken/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/joinchat/HFVijQ3hyhyQZa6LQCE-NQ/",
+    "twitter": "http://www.twitter.com/LIFElabsHQ/",
     "youtube": ""
   }
 }

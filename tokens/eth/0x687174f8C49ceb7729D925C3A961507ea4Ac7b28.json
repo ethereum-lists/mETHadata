@@ -1,0 +1,33 @@
+{
+  "symbol": "GAT",
+  "address": "0x687174f8C49ceb7729D925C3A961507ea4Ac7b28",
+  "decimals": 18,
+  "name": "GAT Token",
+  "ens_address": "",
+  "website": "https://www.gatcoin.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/gatcoinofficial",
+    "forum": "",
+    "github": "https://github.com/gatcoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/GATCOIN/",
+    "slack": "",
+    "telegram": "https://t.me/gatcoin",
+    "twitter": "https://twitter.com/gatcoin",
+    "youtube": ""
+  }
+}

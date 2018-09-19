@@ -1,0 +1,33 @@
+{
+  "symbol": "BPT",
+  "address": "0x2160E6c0aE8cA7D62fE1F57fC049F8363283Ff5f",
+  "decimals": 18,
+  "name": "Blockpass Token",
+  "ens_address": "",
+  "website": "https://blockpasscompany.github.io/blockpass-website/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

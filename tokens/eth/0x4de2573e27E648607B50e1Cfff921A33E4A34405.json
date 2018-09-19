@@ -1,0 +1,33 @@
+{
+  "symbol": "LST",
+  "address": "0x4de2573e27E648607B50e1Cfff921A33E4A34405",
+  "decimals": 18,
+  "name": "Lendroid Support Token",
+  "ens_address": "",
+  "website": "https://lendroid.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.lendroid.com/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/lendroidproject/",
+    "slack": "",
+    "telegram": "https://t.me/lendroidproject",
+    "twitter": "https://twitter.com/lendroidproject",
+    "youtube": ""
+  }
+}

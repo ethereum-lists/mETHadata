@@ -1,0 +1,33 @@
+{
+  "symbol": "AIR",
+  "address": "0xA2f4FCb0FDe2dD59f7a1873e121bc5623e3164Eb",
+  "decimals": 0,
+  "name": "Air phase 1",
+  "ens_address": "",
+  "website": "http://aira.life/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "ar@aira.life",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/airalab",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/aira_robonomics/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/DE0JAAxEzDvyUWwS2jcjYA",
+    "twitter": "https://twitter.com/AIRA_Robonomics",
+    "youtube": ""
+  }
+}

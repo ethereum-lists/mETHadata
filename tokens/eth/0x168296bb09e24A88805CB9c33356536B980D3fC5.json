@@ -1,0 +1,33 @@
+{
+  "symbol": "RHOC",
+  "address": "0x168296bb09e24A88805CB9c33356536B980D3fC5",
+  "decimals": 8,
+  "name": "RChain",
+  "ens_address": "",
+  "website": "https://rchain.coop/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@rchain.coop",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/rchaincooperative/",
+    "forum": "https://discordapp.com/invite/fvY8qhx",
+    "github": "https://github.com/rchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/rchain-cooperative/",
+    "reddit": "https://www.reddit.com/r/RChain/",
+    "slack": "",
+    "telegram": "https://t.me/rchain_coop",
+    "twitter": "https://twitter.com/rchain_coop",
+    "youtube": ""
+  }
+}

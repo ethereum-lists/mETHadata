@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@info_62555",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/opusfoundation/",
+    "forum": "https://bitcointalk.org/index.php?topic=2011065.0",
+    "github": "https://github.com/Opus-foundation/contracts",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/company/11203966/",
     "reddit": "https://www.reddit.com/r/opusfoundation",
     "slack": "https://slack.opus-foundation.org",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/opusfoundation",
+    "twitter": "https://twitter.com/opusfoundation",
     "youtube": ""
   }
 }

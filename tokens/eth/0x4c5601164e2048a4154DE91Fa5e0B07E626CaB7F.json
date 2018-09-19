@@ -1,0 +1,33 @@
+{
+  "symbol": "FNL",
+  "address": "0x4c5601164e2048a4154DE91Fa5e0B07E626CaB7F",
+  "decimals": 3,
+  "name": "Funnel",
+  "ens_address": "",
+  "website": "http://www.adfunnel.tech/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AdFunnelTech/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/adfunnelproject",
+    "twitter": "https://twitter.com/AdFunnelTech",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "SXS",
+  "address": "0x6ceE948C9d593c58Cba5Dfa70482444899D1341c",
+  "decimals": 18,
+  "name": "SPECTRE SUBSCRIBER TOKEN",
+  "ens_address": "",
+  "website": "https://spectre.ai/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/spectrepage/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Spectre_ai/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GjkGkw7IfwUVuPiWxctD4g",
+    "twitter": "https://twitter.com/SpectreAI",
+    "youtube": ""
+  }
+}

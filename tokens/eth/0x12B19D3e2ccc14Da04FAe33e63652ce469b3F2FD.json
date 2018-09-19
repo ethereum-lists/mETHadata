@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.gridplus.io/",
     "chat": "",
     "facebook": "",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2015773.0",
+    "github": "https://github.com/gridplus",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/GridPlus/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/joinchat/GEb54Asz9AYq2cLZk6syHA",
+    "twitter": "https://twitter.com/gridplus_energy?lang=en",
     "youtube": ""
   }
 }

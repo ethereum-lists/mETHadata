@@ -1,0 +1,33 @@
+{
+  "symbol": "PST",
+  "address": "0xE3feDAeCD47aa8EAb6b23227b0eE56F092C967a9",
+  "decimals": 18,
+  "name": "Primas",
+  "ens_address": "",
+  "website": "https://primas.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/summer.primas",
+    "forum": "",
+    "github": "https://github.com/primasio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Primas/",
+    "slack": "https://slack.primas.io/",
+    "telegram": "https://t.me/primasofficial",
+    "twitter": "https://twitter.com/PrimasOfficial",
+    "youtube": ""
+  }
+}

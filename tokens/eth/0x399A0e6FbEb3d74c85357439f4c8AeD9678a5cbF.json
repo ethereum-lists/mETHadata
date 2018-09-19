@@ -12,19 +12,19 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "info@DisLedger.com",
+    "email": "info@disledger.com",
     "url": ""
   },
   "social": {
     "blog": "",
     "chat": "",
     "facebook": "",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2039103",
+    "github": "https://github.com/disledger/",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/DisLedger/",
     "slack": "",
     "telegram": "https://t.me/DisLedger_Launch",
     "twitter": "https://twitter.com/DisledgerInfo",

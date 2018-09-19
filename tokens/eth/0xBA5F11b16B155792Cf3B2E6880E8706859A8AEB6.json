@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@aeronaero",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/aeronpublic",
+    "forum": "https://bitcointalk.org/index.php?topic=2078239.0",
+    "github": "https://github.com/aeronaero/aeron",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/24983043/",
+    "reddit": "https://www.reddit.com/r/AeronAero/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/aeronaero",
+    "twitter": "https://twitter.com/aeron_aero",
     "youtube": ""
   }
 }

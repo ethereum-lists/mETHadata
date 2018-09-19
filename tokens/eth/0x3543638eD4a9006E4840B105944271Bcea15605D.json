@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/unetwork",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://github.com/U-Network/unetwork",
+    "forum": "https://bitcointalk.org/index.php?topic=2907130.0",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/UNetwork/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/UNetworkEN",
+    "twitter": "https://twitter.com/UNetworkHQ",
     "youtube": ""
   }
 }

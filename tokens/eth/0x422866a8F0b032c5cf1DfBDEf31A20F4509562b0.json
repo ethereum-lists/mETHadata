@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/adshares",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/adshares/",
+    "forum": "https://bitcointalk.org/index.php?topic=1994545.0",
+    "github": "https://github.com/adshares",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/adshares/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/adshares",
+    "twitter": "https://twitter.com/adsharesNet",
     "youtube": ""
   }
 }

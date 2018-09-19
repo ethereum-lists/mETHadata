@@ -1,0 +1,33 @@
+{
+  "symbol": "TFD",
+  "address": "0xE5F166c0D8872B68790061317BB6CcA04582C912",
+  "decimals": 18,
+  "name": "TE-FOOD",
+  "ens_address": "",
+  "website": "https://ico.tefoodint.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tefoodintl/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TE_FOOD/",
+    "slack": "",
+    "telegram": "https://t.me/tefood",
+    "twitter": "https://twitter.com/TE_FOOD",
+    "youtube": ""
+  }
+}

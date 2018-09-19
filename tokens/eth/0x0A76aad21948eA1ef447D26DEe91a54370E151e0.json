@@ -1,0 +1,33 @@
+{
+  "symbol": "ELITE",
+  "address": "0x0A76aad21948eA1ef447D26DEe91a54370E151e0",
+  "decimals": 18,
+  "name": "Ethereum Lite",
+  "ens_address": "",
+  "website": "http://ethereumlite.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

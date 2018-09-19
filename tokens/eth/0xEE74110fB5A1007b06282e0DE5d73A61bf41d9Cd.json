@@ -1,0 +1,33 @@
+{
+  "symbol": "BHPC",
+  "address": "0xEE74110fB5A1007b06282e0DE5d73A61bf41d9Cd",
+  "decimals": 18,
+  "name": "BHPCash",
+  "ens_address": "",
+  "website": "https://bhpcash.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/BHPFinancialGroupGlobal",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/bhpfinance",
+    "twitter": "https://twitter.com/BHPFinance",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "ETHD",
+  "address": "0xdbFb423E9bBF16294388e07696A5120E4CeBA0C5",
+  "decimals": 18,
+  "name": "Ethereum Dark",
+  "ens_address": "",
+  "website": "https://www.ethereumdark.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@ethereumdark.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/abi2018/wz37da",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/EthDark/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "http://www.twitter.com/ethereum_dark",
+    "youtube": ""
+  }
+}

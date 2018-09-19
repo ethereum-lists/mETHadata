@@ -18,16 +18,16 @@
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/civictechnologiesinc",
+    "forum": "https://bitcointalk.org/index.php?topic=1942882.0",
+    "github": "https://github.com/civicteam",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/civic-technologies",
+    "reddit": "https://www.reddit.com/r/civicplatform/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/civicplatform",
+    "twitter": "https://twitter.com/civickey",
     "youtube": ""
   }
 }

@@ -1,0 +1,33 @@
+{
+  "symbol": "EZT",
+  "address": "0x5e6016Ae7d7C49d347dcF834860B9f3Ee282812b",
+  "decimals": 8,
+  "name": "EZToken",
+  "ens_address": "",
+  "website": "https://ico.ezpos.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/eztoken.io/",
+    "forum": "",
+    "github": "https://github.com/ezpos",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/EZPOS",
+    "slack": "",
+    "telegram": "https://t.me/eztokensupport",
+    "twitter": "https://twitter.com/eztoken",
+    "youtube": ""
+  }
+}

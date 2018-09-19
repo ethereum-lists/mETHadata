@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "info@chronobank.io",
     "url": "https://chronobank.io/faq"
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@Chronobank",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/ChronoBank.io",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/ChronoBank",
     "gitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "instagram": "https://www.instagram.com/chronobank.io/",
+    "linkedin": "https://www.linkedin.com/company/15204618/",
+    "reddit": "https://www.reddit.com/r/ChronoBank/",
     "slack": "https://chronobank.herokuapp.com",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://telegram.me/chronobank",
+    "twitter": "https://twitter.com/ChronobankNews",
     "youtube": ""
   }
 }

@@ -1,0 +1,33 @@
+{
+  "symbol": "MGX",
+  "address": "0xC79d440551A03f84f863b1f259F135794C8A7190",
+  "decimals": 18,
+  "name": "MEGA X",
+  "ens_address": "",
+  "website": "https://megax.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@megax.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/megaxcoin/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/megaxcoin/",
+    "linkedin": "https://www.linkedin.com/company/13470856/",
+    "reddit": "https://www.reddit.com/r/megax/",
+    "slack": "",
+    "telegram": "https://t.me/Megaxcoin",
+    "twitter": "https://twitter.com/megaXcoin",
+    "youtube": ""
+  }
+}

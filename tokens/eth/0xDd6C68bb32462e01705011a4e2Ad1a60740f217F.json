@@ -1,0 +1,33 @@
+{
+  "symbol": "HBT",
+  "address": "0xDd6C68bb32462e01705011a4e2Ad1a60740f217F",
+  "decimals": 15,
+  "name": "Hubiits",
+  "ens_address": "",
+  "website": "https://www.hubii.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@hubii.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/hubiinews/",
+    "forum": "https://discord.gg/Nt35Qzt",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/hubiinetwork/",
+    "slack": "",
+    "telegram": "https://t.me/hubiinetwork",
+    "twitter": "https://twitter.com/hubiinetwork",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "LLT",
+  "address": "0x6D5caC36c1AE39f41d52393b7a425d0A610ad9f2",
+  "decimals": 8,
+  "name": "LLToken",
+  "ens_address": "",
+  "website": "https://www.lltoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/lltoken_com",
+    "twitter": "",
+    "youtube": ""
+  }
+}

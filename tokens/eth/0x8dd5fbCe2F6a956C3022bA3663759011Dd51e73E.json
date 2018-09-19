@@ -1,0 +1,33 @@
+{
+  "symbol": "TUSD",
+  "address": "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E",
+  "decimals": 18,
+  "name": "TrueUSD",
+  "ens_address": "",
+  "website": "https://www.trusttoken.com/trueusd/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TrustToken/?fref=ts",
+    "forum": "",
+    "github": "https://github.com/trusttoken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TrustToken/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg",
+    "twitter": "https://twitter.com/TrustToken",
+    "youtube": ""
+  }
+}

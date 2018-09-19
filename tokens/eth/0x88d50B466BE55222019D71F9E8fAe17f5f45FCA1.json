@@ -1,0 +1,33 @@
+{
+  "symbol": "CPT",
+  "address": "0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1",
+  "decimals": 8,
+  "name": "Cryptaur",
+  "ens_address": "",
+  "website": "https://cryptaur.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cryptaur/",
+    "forum": "",
+    "github": "https://github.com/Cryptaur",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Cryptaur/",
+    "slack": "",
+    "telegram": "https://t.me/cryptaur",
+    "twitter": "https://www.twitter.com/cryptaur",
+    "youtube": ""
+  }
+}

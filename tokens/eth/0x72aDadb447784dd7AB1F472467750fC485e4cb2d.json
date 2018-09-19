@@ -1,0 +1,33 @@
+{
+  "symbol": "WRC",
+  "address": "0x72aDadb447784dd7AB1F472467750fC485e4cb2d",
+  "decimals": 6,
+  "name": "Worldcore",
+  "ens_address": "",
+  "website": "https://worldcore.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://facebook.com/worldcoresocial",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "http://linkedin.com/company/worldcore",
+    "reddit": "https://www.reddit.com/r/worldcore/",
+    "slack": "",
+    "telegram": "http://t.me/worldcore",
+    "twitter": "http://twitter.com/worldcoresocial",
+    "youtube": ""
+  }
+}

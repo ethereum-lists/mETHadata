@@ -1,0 +1,33 @@
+{
+  "symbol": "DIG",
+  "address": "0x093e5C256Ff8B32c7F1377f4C20e331674C77F00",
+  "decimals": 8,
+  "name": "Dignity",
+  "ens_address": "",
+  "website": "https://cryptobontix.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/DignityCoin/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/HGxGFEy2uFpDPWxCw4vD4A",
+    "twitter": "https://twitter.com/cryptobontix",
+    "youtube": ""
+  }
+}

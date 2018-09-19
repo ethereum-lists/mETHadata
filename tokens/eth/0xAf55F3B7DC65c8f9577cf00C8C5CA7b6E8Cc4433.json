@@ -1,0 +1,33 @@
+{
+  "symbol": "ENTRC",
+  "address": "0xAf55F3B7DC65c8f9577cf00C8C5CA7b6E8Cc4433",
+  "decimals": 8,
+  "name": "Enter-Coin",
+  "ens_address": "",
+  "website": "https://entercoin.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@entercoin.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/entrcoin/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/entercoin/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/entercoinar",
+    "twitter": "https://twitter.com/enter_coin",
+    "youtube": ""
+  }
+}

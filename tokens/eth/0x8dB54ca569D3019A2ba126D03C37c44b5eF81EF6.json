@@ -1,0 +1,33 @@
+{
+  "symbol": "DXT",
+  "address": "0x8dB54ca569D3019A2ba126D03C37c44b5eF81EF6",
+  "decimals": 8,
+  "name": "DataWallet Token",
+  "ens_address": "",
+  "website": "https://datawallet.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/datawallethq/",
+    "slack": "",
+    "telegram": "https://t.me/datawallet",
+    "twitter": "https://twitter.com/DataWalletHQ",
+    "youtube": ""
+  }
+}

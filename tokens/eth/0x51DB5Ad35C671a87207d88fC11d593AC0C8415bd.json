@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/moeda",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/moedabanking/",
+    "forum": "https://bitcointalk.org/index.php?topic=2027555.0",
+    "github": "https://github.com/moedabank",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/moeda/",
+    "reddit": "https://www.reddit.com/r/MoedaBanking/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/moedaproject",
+    "twitter": "https://twitter.com/moedabanking",
     "youtube": ""
   }
 }

@@ -1,0 +1,33 @@
+{
+  "symbol": "ABS",
+  "address": "0x7731EE8B0b0ab88977BE7922849eB767bBE8DA15",
+  "decimals": 18,
+  "name": "cryptoabs",
+  "ens_address": "",
+  "website": "http://adtli.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/CryptoABS",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

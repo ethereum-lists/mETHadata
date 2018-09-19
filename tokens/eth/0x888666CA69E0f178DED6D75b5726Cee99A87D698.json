@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "ICN",
   "ens_address": "",
-  "website": "",
+  "website": "https://www.iconomi.net/",
   "logo": {
     "src": "",
     "width": "",
@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/iconominet",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/iconomi.net",
+    "forum": "https://bitcointalk.org/index.php?topic=1789926.0",
     "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/iconominet/",
+    "reddit": "https://www.reddit.com/r/ICONOMI/",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/iconominet",
     "youtube": ""
   }
 }

@@ -1,0 +1,33 @@
+{
+  "symbol": "CRC",
+  "address": "0xF41e5Fbc2F6Aac200Dd8619E121CE1f05D150077",
+  "decimals": 18,
+  "name": "CryCash Token",
+  "ens_address": "",
+  "website": "https://crycash.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/crycash.io/",
+    "forum": "",
+    "github": "https://github.com/CRYCASH/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/crycashio_official/",
+    "slack": "",
+    "telegram": "https://t.me/crycash",
+    "twitter": "https://twitter.com/cry_cash",
+    "youtube": ""
+  }
+}

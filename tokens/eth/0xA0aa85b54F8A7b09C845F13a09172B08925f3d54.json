@@ -1,0 +1,33 @@
+{
+  "symbol": "SISA",
+  "address": "0xA0aa85b54F8A7b09C845F13a09172B08925f3d54",
+  "decimals": 18,
+  "name": "SISA Token",
+  "ens_address": "",
+  "website": "https://sisa.fund/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SISA.FUND/",
+    "forum": "",
+    "github": "https://github.com/SISAteam/SISA-Token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/teamSISA",
+    "twitter": "https://twitter.com/sisa_fund",
+    "youtube": ""
+  }
+}

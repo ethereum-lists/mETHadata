@@ -1,0 +1,33 @@
+{
+  "symbol": "COSM",
+  "address": "0xC4Bcd64CB216D49fD3C643A32762F34626b45a1a",
+  "decimals": 18,
+  "name": "CosmoCoin",
+  "ens_address": "",
+  "website": "https://cosmochain.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/cosmochain",
+    "forum": "",
+    "github": "https://github.com/cosmochain/CosmoCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/cosmochainofficial",
+    "slack": "",
+    "telegram": "https://t.me/cosmochain_english",
+    "twitter": "https://twitter.com/Cosmochain",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "EARTH",
+  "address": "0x900b4449236a7bb26b286601dD14d2bDe7a6aC6c",
+  "decimals": 8,
+  "name": "EARTH Token",
+  "ens_address": "",
+  "website": "https://earth-token.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/earthtoken",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/EarthToken/",
+    "slack": "",
+    "telegram": "https://t.me/earthtokenofficial",
+    "twitter": "https://twitter.com/earthtokens",
+    "youtube": ""
+  }
+}

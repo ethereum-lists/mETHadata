@@ -1,0 +1,33 @@
+{
+  "symbol": "YEE",
+  "address": "0x922105fAd8153F516bCfB829f56DC097a0E1D705",
+  "decimals": 18,
+  "name": "Yee - A Blockchain-powered & Cloud-based Social Ecosystem",
+  "ens_address": "",
+  "website": "http://www.yeefoundation.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/YeeToken/",
+    "slack": "",
+    "telegram": "https://t.me/yeeofficialEn",
+    "twitter": "https://twitter.com/YeeToken",
+    "youtube": ""
+  }
+}

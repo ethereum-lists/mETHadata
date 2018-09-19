@@ -1,0 +1,33 @@
+{
+  "symbol": "RARE",
+  "address": "0x5dDAB66DA218Fb05dfeDA07f1AfC4ea0738ee234",
+  "decimals": 8,
+  "name": "RARE",
+  "ens_address": "",
+  "website": "http://peperium.life/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/j4de3gg",
+    "youtube": ""
+  }
+}

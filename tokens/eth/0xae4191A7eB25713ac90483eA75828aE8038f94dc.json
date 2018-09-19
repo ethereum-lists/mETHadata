@@ -1,0 +1,33 @@
+{
+  "symbol": "EZEC",
+  "address": "0xae4191A7eB25713ac90483eA75828aE8038f94dc",
+  "decimals": 18,
+  "name": "eZEC",
+  "ens_address": "",
+  "website": "https://bitcointalk.org/index.php?topic=2251063.0",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ezectoken",
+    "twitter": "https://twitter.com/eZECToken",
+    "youtube": ""
+  }
+}

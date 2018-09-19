@@ -1,0 +1,33 @@
+{
+  "symbol": "MyB",
+  "address": "0x94298F1e0Ab2DFaD6eEFfB1426846a3c29D98090",
+  "decimals": 8,
+  "name": "MyBit Token",
+  "ens_address": "",
+  "website": "https://mybit.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@mybit.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/MyBitDApp/",
+    "forum": "",
+    "github": "https://github.com/MyBitFoundation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/17953642/",
+    "reddit": "https://www.reddit.com/user/MyBit_DApp/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/MyBit_DApp",
+    "youtube": ""
+  }
+}

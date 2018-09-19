@@ -1,0 +1,33 @@
+{
+  "symbol": "HUB",
+  "address": "0x19AEA60E2FD6AC54EcF2576292C8Fc7046429C37",
+  "decimals": 18,
+  "name": "UHUB",
+  "ens_address": "",
+  "website": "https://uhub.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/uhub.io/",
+    "forum": "",
+    "github": "https://github.com/uhubproject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/uhub_io",
+    "twitter": "https://twitter.com/uhub_io",
+    "youtube": ""
+  }
+}

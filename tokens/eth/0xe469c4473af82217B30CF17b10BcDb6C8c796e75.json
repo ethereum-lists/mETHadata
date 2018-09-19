@@ -1,0 +1,33 @@
+{
+  "symbol": "EXRN",
+  "address": "0xe469c4473af82217B30CF17b10BcDb6C8c796e75",
+  "decimals": 0,
+  "name": "EXRNchain",
+  "ens_address": "",
+  "website": "https://exrnchain.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/etherdelta/etherdelta.github.io/blob/master/tokenGuides/EXRN.ejs",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/EXRNchain/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/EXRNToken",
+    "youtube": ""
+  }
+}

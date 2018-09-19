@@ -1,0 +1,33 @@
+{
+  "symbol": "EBCH",
+  "address": "0x415116BAD878730F5Db008Ff381A73222128AD39",
+  "decimals": 18,
+  "name": "EBitCoinCash",
+  "ens_address": "",
+  "website": "http://ebch.tech",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

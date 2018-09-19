@@ -1,0 +1,33 @@
+{
+  "symbol": "CAPP",
+  "address": "0x04F2E7221fdb1B52A68169B25793E51478fF0329",
+  "decimals": 2,
+  "name": "Cappasity",
+  "ens_address": "",
+  "website": "https://ico.cappasity.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cappasity",
+    "forum": "",
+    "github": "https://github.com/CappasityTech",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/cappasity/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/cappasity/",
+    "slack": "",
+    "telegram": "https://t.me/artoken",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "RNTB",
+  "address": "0x1FE70bE734e473e5721ea57C8B5B01e6Caa52686",
+  "decimals": 18,
+  "name": "RNTB Token",
+  "ens_address": "",
+  "website": "https://bitrent.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bitrentplatform/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BitRent/",
+    "slack": "",
+    "telegram": "https://t.me/bitrentio",
+    "twitter": "https://twitter.com/bit_rent",
+    "youtube": ""
+  }
+}

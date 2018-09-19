@@ -1,0 +1,33 @@
+{
+  "symbol": "eREAL",
+  "address": "0x15f173b7aca7Cd4a01d6f8360e65fb4491d270C1",
+  "decimals": 18,
+  "name": "eREAL",
+  "ens_address": "",
+  "website": "https://ereal.cash/en/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/ereal/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GACY40JExuZ2WdgGTwD6YQ",
+    "twitter": "https://twitter.com/eREAL_coin",
+    "youtube": ""
+  }
+}

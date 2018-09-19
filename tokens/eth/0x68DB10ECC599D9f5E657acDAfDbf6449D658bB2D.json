@@ -1,0 +1,33 @@
+{
+  "symbol": "GGS",
+  "address": "0x68DB10ECC599D9f5E657acDAfDbf6449D658bB2D",
+  "decimals": 18,
+  "name": "Gilgames",
+  "ens_address": "",
+  "website": "https://ico.gilgam.es/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@gilgam.es",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://fb.me/gilgames.platform",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://ico.gilgam.es/slack",
+    "telegram": "",
+    "twitter": "https://twitter.com/gilgam_es",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "UCASH",
+  "address": "0x92e52a1A235d9A103D970901066CE910AAceFD37",
+  "decimals": 8,
+  "name": "UCASH",
+  "ens_address": "",
+  "website": "https://u.cash/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/udotcash",
+    "forum": "",
+    "github": "https://github.com/udotcash",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ucash/",
+    "slack": "",
+    "telegram": "https://t.me/ucash",
+    "twitter": "https://twitter.com/udotcash",
+    "youtube": ""
+  }
+}

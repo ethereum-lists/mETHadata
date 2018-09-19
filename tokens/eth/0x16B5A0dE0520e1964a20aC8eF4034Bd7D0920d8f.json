@@ -1,0 +1,33 @@
+{
+  "symbol": "TIO",
+  "address": "0x16B5A0dE0520e1964a20aC8eF4034Bd7D0920d8f",
+  "decimals": 18,
+  "name": "Tio",
+  "ens_address": "",
+  "website": "https://tokens.tiotourguides.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@tiotourguides.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tiotourguides",
+    "forum": "",
+    "github": "https://github.com/tios123/Tio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/TioTourGuides",
+    "youtube": ""
+  }
+}

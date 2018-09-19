@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://media.zapproject.org/",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/officialzapstore/",
     "forum": "",
     "github": "https://github.com/zapproject",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://reddit.com/r/ZapStore",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/ZapStore",
+    "twitter": "https://twitter.com/zaporacles",
     "youtube": ""
   }
 }

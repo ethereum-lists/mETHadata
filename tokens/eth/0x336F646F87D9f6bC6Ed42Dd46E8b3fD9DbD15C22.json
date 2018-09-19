@@ -1,0 +1,33 @@
+{
+  "symbol": "CCT",
+  "address": "0x336F646F87D9f6bC6Ed42Dd46E8b3fD9DbD15C22",
+  "decimals": 18,
+  "name": "Crystal Clear Token",
+  "ens_address": "",
+  "website": "http://crystal-clear.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "ccs@crystal-clear.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CCSer/",
+    "forum": "",
+    "github": "https://github.com/CrystalClearS",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/CrystalClearICO",
+    "twitter": "https://twitter.com/CCS_Crystal",
+    "youtube": ""
+  }
+}

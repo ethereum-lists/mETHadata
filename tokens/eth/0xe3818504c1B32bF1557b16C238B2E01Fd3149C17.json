@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "info@pillarproject.io",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@pullnews",
     "chat": "",
     "facebook": "",
-    "forum": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2048187",
     "github": "https://github.com/twentythirty/PillarToken",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/pillarproject/",
+    "reddit": "https://www.reddit.com/r/PillarProject/",
     "slack": "https://pillarproject.slack.com",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/joinchat/FWJrO0NziLGZZQeDPaykPQ",
+    "twitter": "https://twitter.com/PillarWallet",
     "youtube": ""
   }
 }

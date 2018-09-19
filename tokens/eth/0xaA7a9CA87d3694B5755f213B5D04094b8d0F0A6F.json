@@ -1,0 +1,33 @@
+{
+  "symbol": "TRAC",
+  "address": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
+  "decimals": 18,
+  "name": "OriginTrail",
+  "ens_address": "",
+  "website": "https://origintrail.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/origintrail/",
+    "forum": "",
+    "github": "https://github.com/origintrail",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/origintrail",
+    "slack": "",
+    "telegram": "https://t.me/origintrail",
+    "twitter": "https://twitter.com/origin_trail",
+    "youtube": ""
+  }
+}

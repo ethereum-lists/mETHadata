@@ -1,0 +1,33 @@
+{
+  "symbol": "PNY",
+  "address": "0xD317fF47DC7e1423e5e050870A66332833E5fD88",
+  "decimals": 0,
+  "name": "Pinky Token",
+  "ens_address": "",
+  "website": "https://pinky.live/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@pinky.live",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

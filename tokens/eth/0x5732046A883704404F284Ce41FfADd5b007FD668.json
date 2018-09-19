@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Bluezelle",
   "ens_address": "",
-  "website": "",
+  "website": "https://bluzelle.com/",
   "logo": {
     "src": "",
     "width": "",
@@ -16,18 +16,18 @@
     "url": "w"
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.bluzelle.com/",
     "chat": "",
     "facebook": "",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2345293.0",
+    "github": "https://github.com/njmurarka/bluzelle",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Bluzelle/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/bluzelle",
+    "twitter": "https://twitter.com/bluzellehq",
     "youtube": ""
   }
 }

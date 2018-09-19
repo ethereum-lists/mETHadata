@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/nimiq-network",
     "chat": "",
     "facebook": "",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1952324.0",
+    "github": "https://github.com/nimiq-network",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Nimiq/",
     "slack": "https://nimiq-slackin.herokuapp.com",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/joinchat/AAAAAEJW-ozFwo7Er9jpHw",
+    "twitter": "https://twitter.com/nimiq",
     "youtube": ""
   }
 }

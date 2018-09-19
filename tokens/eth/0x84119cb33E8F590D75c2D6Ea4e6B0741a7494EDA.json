@@ -1,0 +1,33 @@
+{
+  "symbol": "WTT",
+  "address": "0x84119cb33E8F590D75c2D6Ea4e6B0741a7494EDA",
+  "decimals": 0,
+  "name": "GigaWatt",
+  "ens_address": "",
+  "website": "https://www.giga-watt.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "press@giga-watt.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/gigawattcom",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/gigawatt_mining/",
+    "linkedin": "https://www.linkedin.com/company/giga-watt-inc./",
+    "reddit": "",
+    "slack": "https://slack.giga-watt.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/gigawatt_mining",
+    "youtube": ""
+  }
+}

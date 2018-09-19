@@ -1,0 +1,33 @@
+{
+  "symbol": "ARTE",
+  "address": "0x5f6E7fb7Fe92EA7822472bB0E8f1BE60D6A4EA50",
+  "decimals": 18,
+  "name": "Artemine",
+  "ens_address": "",
+  "website": "https://www.artemine.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/artemine/",
+    "slack": "",
+    "telegram": "https://t.me/artemine",
+    "twitter": "https://twitter.com/arteminetoken",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "ATMT",
+  "address": "0x331A550a2C7f96384eb69127AA0eA9AD4b5Da099",
+  "decimals": 18,
+  "name": "ATMToken",
+  "ens_address": "",
+  "website": "http://www.atmt.site",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/lamassu/lamassu-machine",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/27107977/",
+    "reddit": "https://www.reddit.com/r/atmtoken/",
+    "slack": "https://join.slack.com/t/atmtoken-workspace/shared_invite/enQtMjYwNjAwOTU0NDE5LWIzOTk3MDVkY2QwNGIzZDY5MmE0OGViMzhjNzhkNDc3ZTBiZmQ0ZDgwZGJkYzZhODdlNDM1MTBlZjEyMjE3NDA",
+    "telegram": "https://t.me/ATMToken",
+    "twitter": "https://twitter.com/ATMTTOKEN",
+    "youtube": ""
+  }
+}

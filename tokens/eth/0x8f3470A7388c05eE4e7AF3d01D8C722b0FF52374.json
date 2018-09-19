@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "http://veritas.veritaseum.com/index.php/blog",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/reggiemiddletonfintech/",
+    "forum": "https://bitcointalk.org/index.php?topic=1887061.0",
     "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/reggiemiddleton",
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/ReggieMiddleton",
     "youtube": ""
   }
 }

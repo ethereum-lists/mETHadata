@@ -12,21 +12,21 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "justin@substratum.net",
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://substratum.net/blog/",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/substratumnet/",
+    "forum": "https://bitcointalk.org/index.php?topic=2054963.0",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "https://www.reddit.com/r/SubstratumNetwork",
     "slack": "http://x.co/SubSlack",
-    "telegram": "",
+    "telegram": "https://t.me/SubstratumCommunity",
     "twitter": "https://twitter.com/SubstratumNet",
     "youtube": ""
   }

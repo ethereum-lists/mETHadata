@@ -1,0 +1,33 @@
+{
+  "symbol": "ROC",
+  "address": "0x1BcBc54166F6bA149934870b60506199b6C9dB6D",
+  "decimals": 10,
+  "name": "ROC",
+  "ens_address": "",
+  "website": "https://ico.rasputinonline.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@rasputinonline.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/rasputinonline/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/RasputinOnline",
+    "youtube": ""
+  }
+}

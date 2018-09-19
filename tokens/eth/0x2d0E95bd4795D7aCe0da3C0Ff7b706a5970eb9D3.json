@@ -1,0 +1,33 @@
+{
+  "symbol": "SOC",
+  "address": "0x2d0E95bd4795D7aCe0da3C0Ff7b706a5970eb9D3",
+  "decimals": 18,
+  "name": "All Sports Coin",
+  "ens_address": "",
+  "website": "https://www.allsportschain.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/allsportscoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/IKxIbxAzKRn5vnz8vYuCBQ",
+    "twitter": "https://twitter.com/allsportschain",
+    "youtube": ""
+  }
+}

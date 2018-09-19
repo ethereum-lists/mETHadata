@@ -16,17 +16,17 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/sensay",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/sensaybot/",
+    "forum": "https://bitcointalk.org/index.php?topic=2096600.0",
+    "github": "https://github.com/sensay/",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/sensetoken/",
     "slack": "",
-    "telegram": "",
+    "telegram": "https://t.me/SenseToken",
     "twitter": "https://twitter.com/sensay",
     "youtube": ""
   }

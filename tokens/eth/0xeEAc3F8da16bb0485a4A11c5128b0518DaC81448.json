@@ -1,0 +1,33 @@
+{
+  "symbol": "TEU",
+  "address": "0xeEAc3F8da16bb0485a4A11c5128b0518DaC81448",
+  "decimals": 18,
+  "name": "20-footEqvUnit",
+  "ens_address": "",
+  "website": "https://300cubits.tech/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@300cubits.tech",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/300cubits.tech",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/F_3VmEOalqkahP3H-DbKBw",
+    "twitter": "https://twitter.com/300cubits_tech",
+    "youtube": ""
+  }
+}

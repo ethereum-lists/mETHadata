@@ -1,0 +1,33 @@
+{
+  "symbol": "EPOSY",
+  "address": "0xce3d9c3F3D302436D12f18ECA97A3b00e97bE7cd",
+  "decimals": 0,
+  "name": "PredictionToken",
+  "ens_address": "",
+  "website": "https://predictiontoken.github.io/#EPOS",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

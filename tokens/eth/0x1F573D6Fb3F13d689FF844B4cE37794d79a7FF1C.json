@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.bancor.network/",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/bancor/",
+    "forum": "https://bitcointalk.org/index.php?topic=1789222.0",
     "github": "https://github.com/bancorprotocol",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/Bancor/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/bancor",
+    "twitter": "https://twitter.com/Bancor",
     "youtube": ""
   }
 }

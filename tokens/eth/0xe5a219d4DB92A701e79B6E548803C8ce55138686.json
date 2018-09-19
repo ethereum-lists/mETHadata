@@ -1,0 +1,33 @@
+{
+  "symbol": "EUR_R",
+  "address": "0xe5a219d4DB92A701e79B6E548803C8ce55138686",
+  "decimals": 18,
+  "name": "EUR Risk",
+  "ens_address": "",
+  "website": "http://staticoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "genkifs@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/genkifs/staticoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

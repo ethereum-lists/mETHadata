@@ -1,0 +1,33 @@
+{
+  "symbol": "TGT",
+  "address": "0xAc3Da587eac229C9896D919aBC235CA4Fd7f72c1",
+  "decimals": 1,
+  "name": "Target Coin",
+  "ens_address": "",
+  "website": "https://www.tgtcoins.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/targetcoinfund/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/Target_Coin",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FJeVV0HwLpRAZB9MyJI0lQ",
+    "twitter": "https://twitter.com/TargetCoin",
+    "youtube": ""
+  }
+}

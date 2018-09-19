@@ -1,0 +1,33 @@
+{
+  "symbol": "AID",
+  "address": "0x37E8789bB9996CaC9156cD5F5Fd32599E6b91289",
+  "decimals": 18,
+  "name": "AidCoin",
+  "ens_address": "",
+  "website": "https://www.aidcoin.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AidCoinCo/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/AidCoin/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/BOsPJxAaEb2YQqr0DzPxzg",
+    "twitter": "https://twitter.com/aid_coin",
+    "youtube": ""
+  }
+}

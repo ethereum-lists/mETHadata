@@ -1,0 +1,33 @@
+{
+  "symbol": "REAL",
+  "address": "0x9214eC02CB71CbA0ADA6896b8dA260736a67ab10",
+  "decimals": 18,
+  "name": "Real Estate Asset Ledger",
+  "ens_address": "",
+  "website": "https://www.real.markets/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/realestateassetledger",
+    "forum": "",
+    "github": "https://github.com/RealEstateAssetLedger/real_contract",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/RealToken/",
+    "slack": "",
+    "telegram": "https://t.me/realplatform",
+    "twitter": "https://twitter.com/real_token",
+    "youtube": ""
+  }
+}

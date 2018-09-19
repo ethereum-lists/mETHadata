@@ -1,0 +1,33 @@
+{
+  "symbol": "CENNZ",
+  "address": "0x1122B6a0E00DCe0563082b6e2953f3A943855c1F",
+  "decimals": 18,
+  "name": "Centrality Token",
+  "ens_address": "",
+  "website": "https://www.centrality.ai/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://facebook.com/centralityai",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/centralityai",
+    "youtube": ""
+  }
+}

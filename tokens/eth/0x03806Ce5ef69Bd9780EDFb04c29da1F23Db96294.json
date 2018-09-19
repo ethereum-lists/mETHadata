@@ -1,0 +1,33 @@
+{
+  "symbol": "TSL",
+  "address": "0x03806Ce5ef69Bd9780EDFb04c29da1F23Db96294",
+  "decimals": 18,
+  "name": "Energo",
+  "ens_address": "",
+  "website": "http://www.energolabs.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/EnergoLabs",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/EnergoEnglishCommunity",
+    "twitter": "https://twitter.com/energo2017",
+    "youtube": ""
+  }
+}

@@ -16,17 +16,17 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.request.network/",
     "chat": "",
     "facebook": "",
-    "forum": "",
-    "github": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2137740.0",
+    "github": "https://github.com/RequestNetwork/",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "https://www.reddit.com/r/requestnetwork",
     "slack": "https://requestnetwork.slack.com",
-    "telegram": "",
+    "telegram": "https://t.me/requestnetwork",
     "twitter": "https://twitter.com/requestnetwork",
     "youtube": ""
   }

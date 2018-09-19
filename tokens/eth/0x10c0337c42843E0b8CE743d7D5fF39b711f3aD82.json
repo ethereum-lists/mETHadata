@@ -1,0 +1,33 @@
+{
+  "symbol": "WND",
+  "address": "0x10c0337c42843E0b8CE743d7D5fF39b711f3aD82",
+  "decimals": 18,
+  "name": "Windy",
+  "ens_address": "",
+  "website": "https://wndtoken.com/home",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://twitter.com/WndToken",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://wndtoken.slack.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/WndToken",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "BWT",
+  "address": "0xcA3Ea3061d638E02113aA960340c98343b5aCd62",
+  "decimals": 18,
+  "name": "Bittwatt",
+  "ens_address": "",
+  "website": "https://bittwatt.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/energyforthe21century/",
+    "forum": "",
+    "github": "https://github.com/bittwatt/BittWattToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Bittwatt/",
+    "slack": "",
+    "telegram": "https://t.me/bittwatt",
+    "twitter": "https://twitter.com/BittwattPteLtd",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "symbol": "ZIPT",
+  "address": "0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980",
+  "decimals": 18,
+  "name": "Zippie",
+  "ens_address": "",
+  "website": "https://zippie.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/zippiehq",
+    "forum": "",
+    "github": "https://github.com/zippiehq",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Zippie/",
+    "slack": "",
+    "telegram": "https://t.me/zippiehq",
+    "twitter": "https://twitter.com/zippiehq",
+    "youtube": ""
+  }
+}

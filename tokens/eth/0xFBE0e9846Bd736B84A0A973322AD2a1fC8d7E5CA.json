@@ -1,0 +1,33 @@
+{
+  "symbol": "FTC",
+  "address": "0xFBE0e9846Bd736B84A0A973322AD2a1fC8d7E5CA",
+  "decimals": 0,
+  "name": "Fuck Trump Coin",
+  "ens_address": "",
+  "website": "https://fucktrumpcoin.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/FuckTrumpCoin/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/fucktrumpcoin",
+    "youtube": ""
+  }
+}

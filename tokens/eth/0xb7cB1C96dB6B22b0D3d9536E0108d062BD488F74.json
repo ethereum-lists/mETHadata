@@ -4,7 +4,7 @@
   "decimals": 18,
   "name": "Walton",
   "ens_address": "",
-  "website": "",
+  "website": "http://www.waltonchain.org/",
   "logo": {
     "src": "",
     "width": "",
@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
+    "email": "services@waltonchain.org",
     "url": ""
   },
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/waltonchain/",
+    "forum": "https://bitcointalk.org/index.php?topic=2127069.80",
+    "github": "https://github.com/WaltonChain",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
-    "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "reddit": "https://www.reddit.com/r/waltonchain/",
+    "slack": "https://waltonchain.slack.com/join/shared_invite/enQtMjgxMDcxNzU5MDEwLWI1ZTc3MDZlNmI4ZjA1YjhiMDEzN2VlZmY2M2EzNmM4Yjg1NjFjYjlmNTcxOGVlMGRiNWE2M2NlYTg2MWNmNWQ",
+    "telegram": "https://t.me/waltonchain_en",
+    "twitter": "https://twitter.com/Waltonchain",
     "youtube": ""
   }
 }

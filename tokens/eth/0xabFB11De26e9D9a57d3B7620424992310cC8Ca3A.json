@@ -1,0 +1,33 @@
+{
+  "symbol": "NGC",
+  "address": "0xabFB11De26e9D9a57d3B7620424992310cC8Ca3A",
+  "decimals": 18,
+  "name": "NAGA",
+  "ens_address": "",
+  "website": "https://www.nagaico.com/pl/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/nagadevelopment/contracts",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/nagaico",
+    "twitter": "https://twitter.com/thenagaico",
+    "youtube": ""
+  }
+}
