@@ -34,30 +34,38 @@
     </div>
 
 
+    {% for net in tokens %}
+      {% for token in tokens[net] %}
+
     <table class="col-md-8 offset-2">
       <tr>
         <td valign="top">
       <img src="https://trivial.co/static/vendor/icons/svg/color/bnt.svg"><br><br>
-      <a href="https://github.com/ethereum-lists/mETHadata/edit/master/tokens/eth/0x009e864923b49263c7F10D19B7f8Ab7a9A5AAd33.json">edit</a>
+      <a href="https://github.com/ethereum-lists/mETHadata/edit/master/tokens/{{net}}/{{token.address}}.json">edit</a>
     </td>
-    <td style="padding-left:10px">
-      <b>Bancor (BNT)</b><br>
-      <a href="http://trivial.co/t/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C">0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C</a><br>
+    <td style="padding-left:10px; padding-bottom:30px">
+      <b>{{token.name}} ({{token.symbol}})</b><br>
+      <a href="http://trivial.co/t/{{token.address}}">{{token.address}}</a><br>
       <br>
-      Website: <a href="..">https://www.bancor.network/</a><br>
-      Blog: <a href="..">https://blog.bancor.network/</a><br>
-      Facebook: <a href="..">https://www.facebook.com/bancor/</a><br>
-      Reddit: <a href="..">https://www.reddit.com/r/Bancor/</a><br>
-      Telegram: <a href="..">https://t.me/bancor</a><br>
-      Twitter: <a href="..">https://twitter.com/Bancor</a><br>
+      {% if token.website %}
+        Website: <a href="{{token.website}}">{{token.website}}</a><br>
+      {% endif %}
+
+      {% for site in token.social %}
+        {% if token.social[site] %}
+          {{site|title}}: <a href="{{token.social[site]}}">{{token.social[site]}}</a><br>
+        {% endif %}
+      {% endfor %}
     </td>
     <td valign="top">
        <b>ERC-20 token</b><br>
-       decimals: <b>8</b><br>
-       symbol: <b>BNT</b><br>
+       decimals: <b>{{token.decimals}}</b><br>
+       symbol: <b>{{token.symbol}}</b><br>
     </td>
   </tr>
 </table>
+  {% endfor %}
+  {%endfor%}
 
 <!--
     <div class="container">
