@@ -39,8 +39,10 @@
 
     <table class="col-md-8 offset-2">
       <tr>
-        <td valign="top">
-      <img src="https://trivial.co/static/vendor/icons/svg/color/bnt.svg"><br><br>
+        <td valign="top" style="width:80px">
+          {% if token.logo and token.logo.src %}
+          <img src="{{token['logo']['src']}}" style="width:40px"><br><br>
+      {% endif %}
       <a href="https://github.com/ethereum-lists/mETHadata/edit/master/tokens/{{net}}/{{token.address}}.json">edit</a>
     </td>
     <td style="padding-left:10px; padding-bottom:30px">

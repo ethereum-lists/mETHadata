@@ -22,13 +22,13 @@ tokens = {}
 for network in TOKEN_LIST:
     tokens[network] = []
 
-    for token_addr in TOKEN_LIST[network]:
-        path = "../tokens/"
-        fpath = os.path.join(path, network, token_addr+".json")
+#    for token_addr in TOKEN_LIST[network]:
+    path = "../tokens/"
+#    fpath = os.path.join(path, network, token_addr+".json")
 
 #        for dirname in os.listdir(path):
-#            for fname in os.listdir(os.path.join(path, dirname)):
-#                fpath = os.path.join(path, dirname, fname)
+    for fname in os.listdir(os.path.join(path, network)):
+        fpath = os.path.join(path, network, fname)
 
         with open(fpath) as f:
             token = json.loads(f.read())
