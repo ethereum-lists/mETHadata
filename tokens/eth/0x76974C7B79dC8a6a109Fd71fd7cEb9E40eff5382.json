@@ -16,18 +16,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@dowcoin",
     "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/dowcoin/",
+    "forum": "https://bitcointalk.org/index.php?topic=3279944",
+    "github": "https://github.com/dowtoken",
     "gitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "instagram": "https://www.instagram.com/dowcoin/",
+    "linkedin": "https://www.linkedin.com/in/dowcoin-dow-blockchain-technology-8ba2b6167/",
+    "reddit": "https://www.reddit.com/user/dowcoin/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
-    "youtube": ""
+    "telegram": "https://t.me/dowcoin",
+    "twitter": "https://twitter.com/dowcoin",
+    "youtube": "https://www.youtube.com/channel/UCGKi3bk5x9K5qnsZgSMUeSg"
   }
 }
