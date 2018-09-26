@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://fabrictoken.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x78a73b6cbc5d183ce56e786f6e905cadec63547b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x78a73b6cbc5d183ce56e786f6e905cadec63547b.png"
   },
   "support": {
     "email": "",

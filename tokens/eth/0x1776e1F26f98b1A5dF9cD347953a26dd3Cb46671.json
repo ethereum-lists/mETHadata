@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://numer.ai/homepage",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671.png"
   },
   "support": {
     "email": "contact@numer.ai",

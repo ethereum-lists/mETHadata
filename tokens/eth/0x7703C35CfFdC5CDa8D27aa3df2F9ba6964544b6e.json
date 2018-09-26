@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://pylon-network.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e.png"
   },
   "support": {
     "email": "",

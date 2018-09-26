@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.clearpoll.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x705ee96c1c160842c92c1aecfcffccc9c412e3d9.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x705ee96c1c160842c92c1aecfcffccc9c412e3d9.png"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.senderon.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x73b534fb6f07381a29a60b01eed5ae57d4ee24d7.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x73b534fb6f07381a29a60b01eed5ae57d4ee24d7.png"
   },
   "support": {
     "email": "devteam@senderon.org",

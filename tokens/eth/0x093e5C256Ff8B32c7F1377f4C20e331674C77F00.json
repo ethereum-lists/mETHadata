@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://cryptobontix.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x093e5c256ff8b32c7f1377f4c20e331674c77f00.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x093e5c256ff8b32c7f1377f4c20e331674c77f00.png"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.ethbits.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b9743f556d65e757c4c650b4555baf354cb8bd3.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b9743f556d65e757c4c650b4555baf354cb8bd3.png"
   },
   "support": {
     "email": "mr@ethbits.com",

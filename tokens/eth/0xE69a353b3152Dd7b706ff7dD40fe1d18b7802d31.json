@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://adhive.tv",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31.png"
   },
   "support": {
     "email": "info@adhive.tv",

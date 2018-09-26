@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.aidcoin.co/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x37e8789bb9996cac9156cd5f5fd32599e6b91289.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x37e8789bb9996cac9156cd5f5fd32599e6b91289.png"
   },
   "support": {
     "email": "",

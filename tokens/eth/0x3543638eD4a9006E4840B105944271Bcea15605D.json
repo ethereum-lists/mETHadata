@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://u.network/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3543638ed4a9006e4840b105944271bcea15605d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3543638ed4a9006e4840b105944271bcea15605d.png"
   },
   "support": {
     "email": "",

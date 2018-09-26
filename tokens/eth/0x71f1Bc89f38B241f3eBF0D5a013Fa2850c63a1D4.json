@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://www.zloadr.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x71f1bc89f38b241f3ebf0d5a013fa2850c63a1d4.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x71f1bc89f38b241f3ebf0d5a013fa2850c63a1d4.png"
   },
   "support": {
     "email": "",

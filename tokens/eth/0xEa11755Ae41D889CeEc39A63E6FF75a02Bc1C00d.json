@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://www.cortexlabs.ai/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea11755ae41d889ceec39a63e6ff75a02bc1c00d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea11755ae41d889ceec39a63e6ff75a02bc1c00d.png"
   },
   "support": {
     "email": "",

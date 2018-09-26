@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://daex.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0b4bdc478791897274652dc15ef5c135cae61e60.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0b4bdc478791897274652dc15ef5c135cae61e60.png"
   },
   "support": {
     "email": "",

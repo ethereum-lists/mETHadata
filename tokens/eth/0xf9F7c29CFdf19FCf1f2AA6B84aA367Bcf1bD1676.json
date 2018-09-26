@@ -9,7 +9,8 @@
     "src": "https://delphifund.org/wp-content/uploads/2018/04/delphi400x400.jpg",
     "width": "400",
     "height": "400",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf9f7c29cfdf19fcf1f2aa6b84aa367bcf1bd1676.png"
   },
   "support": {
     "email": "support@delphifund.org",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://cubeint.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x622dffcc4e83c64ba959530a5a5580687a57581b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/auto.svg"
   },
   "support": {
     "email": "",

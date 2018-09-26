@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.streamr.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0cf0ee63788a0849fe5297f3407f701e122cc023.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0cf0ee63788a0849fe5297f3407f701e122cc023.png"
   },
   "support": {
     "email": "contact@streamr.com",

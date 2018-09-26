@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.creditbit.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaef38fbfbf932d1aef3b808bc8fbd8cd8e1f8bc5.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaef38fbfbf932d1aef3b808bc8fbd8cd8e1f8bc5.png"
   },
   "support": {
     "email": "",

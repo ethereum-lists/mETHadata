@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://augur.net",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1985365e9f78359a9b6ad760e32412f4a445e862.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/rep.svg"
   },
   "support": {
     "email": "",

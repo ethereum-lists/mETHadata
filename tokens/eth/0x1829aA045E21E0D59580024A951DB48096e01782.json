@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://fuzex.co/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1829aa045e21e0d59580024a951db48096e01782.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1829aa045e21e0d59580024a951db48096e01782.png"
   },
   "support": {
     "email": "",

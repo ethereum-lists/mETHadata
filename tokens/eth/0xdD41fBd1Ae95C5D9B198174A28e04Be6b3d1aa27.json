@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://lightyearstoken.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd41fbd1ae95c5d9b198174a28e04be6b3d1aa27.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd41fbd1ae95c5d9b198174a28e04be6b3d1aa27.png"
   },
   "support": {
     "email": "team@lightyearstoken.com",

@@ -9,7 +9,8 @@
     "src": "https://drive.google.com/file/d/1D8Oh0j1l_Q7MFbqyGmNFHNE2pw-lyXmw/view",
     "width": "32",
     "height": "32",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8d80de8a78198396329dfa769ad54d24bf90e7aa.png"
   },
   "support": {
     "email": "hello@nami.io",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://vezt.co/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9720b467a710382a232a32f540bdced7d662a10b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9720b467a710382a232a32f540bdced7d662a10b.png"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://nimiq.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcfb98637bcae43c13323eaa1731ced2b716962fd.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcfb98637bcae43c13323eaa1731ced2b716962fd.png"
   },
   "support": {
     "email": "",

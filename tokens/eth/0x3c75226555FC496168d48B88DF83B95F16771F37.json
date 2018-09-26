@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://droplex.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3c75226555fc496168d48b88df83b95f16771f37.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3c75226555fc496168d48b88df83b95f16771f37.png"
   },
   "support": {
     "email": "support@droplex.org",

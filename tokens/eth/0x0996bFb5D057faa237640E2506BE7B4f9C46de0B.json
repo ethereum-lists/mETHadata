@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://rendertoken.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0996bfb5d057faa237640e2506be7b4f9c46de0b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0996bfb5d057faa237640e2506be7b4f9c46de0b.png"
   },
   "support": {
     "email": "info@rendertoken.com",

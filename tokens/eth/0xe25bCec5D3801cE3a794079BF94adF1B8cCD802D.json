@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.matrix.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d.png"
   },
   "support": {
     "email": "",

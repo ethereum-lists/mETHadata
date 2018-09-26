@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://smartift.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a187d5285d316bcbc9adafc08b51d70a0d8e000.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a187d5285d316bcbc9adafc08b51d70a0d8e000.png"
   },
   "support": {
     "email": "ico@smartift.com",

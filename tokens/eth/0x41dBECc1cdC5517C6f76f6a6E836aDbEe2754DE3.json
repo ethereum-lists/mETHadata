@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://medicalchain.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3.png"
   },
   "support": {
     "email": "",

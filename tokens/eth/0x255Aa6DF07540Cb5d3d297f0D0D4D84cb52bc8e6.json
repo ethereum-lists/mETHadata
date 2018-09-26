@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://raiden.network",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/rdn.svg"
   },
   "support": {
     "email": "contact@raiden.network",

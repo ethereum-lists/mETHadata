@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://tronlab.com/en.html",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf230b790e05390fc8295f4d3f60332c93bed42e2.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/trx.svg"
   },
   "support": {
     "email": "service@tronlab.com",

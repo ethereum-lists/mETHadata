@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://trakinvest.ai/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12759512d326303b45f1cec8f7b6fd96f387778e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12759512d326303b45f1cec8f7b6fd96f387778e.png"
   },
   "support": {
     "email": "",

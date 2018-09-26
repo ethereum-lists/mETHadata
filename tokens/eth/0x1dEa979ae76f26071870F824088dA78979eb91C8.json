@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://spindle.zone/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1dea979ae76f26071870f824088da78979eb91c8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1dea979ae76f26071870f824088da78979eb91c8.png"
   },
   "support": {
     "email": "",

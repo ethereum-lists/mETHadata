@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.iconomi.net/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x888666ca69e0f178ded6d75b5726cee99a87d698.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/icn.svg"
   },
   "support": {
     "email": "",

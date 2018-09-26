@@ -9,7 +9,8 @@
     "src": "https://gateway.ipfs.io/ipfs/QmSDhPfF52qV7KcYMQ6kosvxc9TnMY45fMHst2hJEscUoh",
     "width": 4167,
     "height": 4167,
-    "ipfs_hash": "QmSDhPfF52qV7KcYMQ6kosvxc9TnMY45fMHst2hJEscUoh"
+    "ipfs_hash": "QmSDhPfF52qV7KcYMQ6kosvxc9TnMY45fMHst2hJEscUoh",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf67451dc8421f0e0afeb52faa8101034ed081ed9.png"
   },
   "support": {
     "email": "raithe@gmail.com",

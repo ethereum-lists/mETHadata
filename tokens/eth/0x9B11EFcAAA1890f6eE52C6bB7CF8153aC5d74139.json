@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.atmchain.io/en.html",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b11efcaaa1890f6ee52c6bb7cf8153ac5d74139.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/atm.svg"
   },
   "support": {
     "email": "",

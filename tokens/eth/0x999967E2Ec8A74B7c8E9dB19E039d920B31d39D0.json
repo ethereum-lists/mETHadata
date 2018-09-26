@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://tiesdb.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0.png"
   },
   "support": {
     "email": "",

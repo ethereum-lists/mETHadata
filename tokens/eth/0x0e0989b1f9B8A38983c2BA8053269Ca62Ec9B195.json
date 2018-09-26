@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://po.et",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/poe.svg"
   },
   "support": {
     "email": "contact@po.et",

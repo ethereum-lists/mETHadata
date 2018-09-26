@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://sharex.vc/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2567c677473d110d75a8360c35309e63b1d52429.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2567c677473d110d75a8360c35309e63b1d52429.png"
   },
   "support": {
     "email": "",

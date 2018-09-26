@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://futurax.global",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc92d6e3e64302c59d734f3292e2a13a13d7e1817.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc92d6e3e64302c59d734f3292e2a13a13d7e1817.png"
   },
   "support": {
     "email": "support@futurax.global",

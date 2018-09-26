@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.linkey.info/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x49bd2da75b1f7af1e4dfd6b1125fecde59dbec58.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x49bd2da75b1f7af1e4dfd6b1125fecde59dbec58.png"
   },
   "support": {
     "email": "",

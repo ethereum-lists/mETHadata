@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.centra.tech",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x96a65609a7b84e8842732deb08f56c3e21ac6f8a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x96a65609a7b84e8842732deb08f56c3e21ac6f8a.png"
   },
   "support": {
     "email": "upport@centra.tech",

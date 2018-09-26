@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.bananacoin.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x865d176351f287fe1b0010805b110d08699c200a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/bco.svg"
   },
   "support": {
     "email": "",

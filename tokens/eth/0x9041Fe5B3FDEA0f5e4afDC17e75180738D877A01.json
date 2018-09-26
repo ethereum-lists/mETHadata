@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://chain.pro/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9041fe5b3fdea0f5e4afdc17e75180738d877a01.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9041fe5b3fdea0f5e4afdc17e75180738d877a01.png"
   },
   "support": {
     "email": "",

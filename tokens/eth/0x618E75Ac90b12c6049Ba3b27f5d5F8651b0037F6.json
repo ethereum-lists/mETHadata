@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://liquid.plus",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/qash.svg"
   },
   "support": {
     "email": "",

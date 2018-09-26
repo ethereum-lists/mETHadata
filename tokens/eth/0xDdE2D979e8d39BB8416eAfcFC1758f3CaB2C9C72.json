@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://knownorigin.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdde2d979e8d39bb8416eafcfc1758f3cab2c9c72.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdde2d979e8d39bb8416eafcfc1758f3cab2c9c72.png"
   },
   "support": {
     "email": "",

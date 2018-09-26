@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://musiconomi.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x138a8752093f4f9a79aaedf48d4b9248fab93c9c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x138a8752093f4f9a79aaedf48d4b9248fab93c9c.png"
   },
   "support": {
     "email": "musiconomi@musiconomi.com",

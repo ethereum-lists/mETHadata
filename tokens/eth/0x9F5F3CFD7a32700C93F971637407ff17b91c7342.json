@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://home.scry.info/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9f5f3cfd7a32700c93f971637407ff17b91c7342.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9f5f3cfd7a32700c93f971637407ff17b91c7342.png"
   },
   "support": {
     "email": "",

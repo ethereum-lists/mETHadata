@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.etheremon.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x95daaab98046846bf4b2853e23cba236fa394a31.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x95daaab98046846bf4b2853e23cba236fa394a31.png"
   },
   "support": {
     "email": "contact@etheremon.com",

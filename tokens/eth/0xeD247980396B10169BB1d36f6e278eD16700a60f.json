@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://avalon.nu",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xed247980396b10169bb1d36f6e278ed16700a60f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xed247980396b10169bb1d36f6e278ed16700a60f.png"
   },
   "support": {
     "email": "hello@avalon.nu",

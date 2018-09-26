@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://polymath.network",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/poly.svg"
   },
   "support": {
     "email": "support@polymath.zendesk.com",

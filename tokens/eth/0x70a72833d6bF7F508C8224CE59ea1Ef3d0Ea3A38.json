@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://utrust.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/utk.svg"
   },
   "support": {
     "email": "contact@utrust.io",

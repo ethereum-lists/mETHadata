@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://blackmooncrypto.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdf6ef343350780bf8c3410bf062e0c015b1dd671.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdf6ef343350780bf8c3410bf062e0c015b1dd671.png"
   },
   "support": {
     "email": "account@blackmooncrypto.com",

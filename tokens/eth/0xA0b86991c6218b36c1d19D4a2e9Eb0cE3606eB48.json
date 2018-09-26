@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.centre.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
   },
   "support": {
     "email": "",

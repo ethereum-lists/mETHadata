@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://zsc.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63.png"
   },
   "support": {
     "email": "info@zsc.io",

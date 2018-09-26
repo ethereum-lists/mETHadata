@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://eidoo.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xced4e93198734ddaff8492d525bd258d49eb388e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/edo.svg"
   },
   "support": {
     "email": "info@eidoo.io",

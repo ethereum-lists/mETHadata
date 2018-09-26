@@ -9,7 +9,8 @@
     "src": "http://egretia.io/static/logo-356.png",
     "width": "356",
     "height": "356",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8e1b448ec7adfc7fa35fc2e885678bd323176e34.png"
   },
   "support": {
     "email": "contact@egretia.io",

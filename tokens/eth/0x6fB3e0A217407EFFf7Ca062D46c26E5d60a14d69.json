@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://iotex.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69.png"
   },
   "support": {
     "email": "hello@iotex.io",

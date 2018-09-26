@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://omisego.network",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/omg.svg"
   },
   "support": {
     "email": "omg@omise.co",

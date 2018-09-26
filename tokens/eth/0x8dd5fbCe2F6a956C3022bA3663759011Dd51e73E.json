@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.trusttoken.com/trueusd/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e.png"
   },
   "support": {
     "email": "",

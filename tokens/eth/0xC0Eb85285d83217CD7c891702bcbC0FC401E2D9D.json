@@ -9,7 +9,8 @@
     "src": "https://hive-project.net/images/hive-logo.png",
     "width": 151,
     "height": 64,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc0eb85285d83217cd7c891702bcbc0fc401e2d9d.png"
   },
   "support": {
     "email": "support@hive-project.net",

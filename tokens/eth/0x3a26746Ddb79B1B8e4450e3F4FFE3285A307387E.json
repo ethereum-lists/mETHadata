@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://etherbtc.io/faq",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e.png"
   },
   "support": {
     "email": "payments@etherbtc.io",

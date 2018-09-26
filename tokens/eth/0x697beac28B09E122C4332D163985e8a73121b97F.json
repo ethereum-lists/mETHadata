@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://theqrl.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x697beac28b09e122c4332d163985e8a73121b97f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/qrl.svg"
   },
   "support": {
     "email": "",

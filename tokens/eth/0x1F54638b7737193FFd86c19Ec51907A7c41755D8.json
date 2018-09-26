@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://sola.foundation",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1f54638b7737193ffd86c19ec51907a7c41755d8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1f54638b7737193ffd86c19ec51907a7c41755d8.png"
   },
   "support": {
     "email": "hi@sola.foundation",

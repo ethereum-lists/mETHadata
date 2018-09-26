@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.kucoin.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x039b5649a59967e3e936d7471f9c3700100ee1ab.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/kcs.svg"
   },
   "support": {
     "email": "",

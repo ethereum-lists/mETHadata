@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.arcblock.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb98d4c97425d9908e66e53a6fdf673acca0be986.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/abt.svg"
   },
   "support": {
     "email": "contact@arcblock.io",

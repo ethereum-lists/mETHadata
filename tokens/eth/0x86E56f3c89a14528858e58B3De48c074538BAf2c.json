@@ -9,7 +9,8 @@
     "src": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/450e60bc-bad7-4058-822d-b88ed4e82262.png",
     "width": 120,
     "height": 120,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x86e56f3c89a14528858e58b3de48c074538baf2c.png"
   },
   "support": {
     "email": "bd@evolution.land ",

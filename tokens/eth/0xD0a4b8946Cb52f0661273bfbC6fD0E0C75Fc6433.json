@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.stormtoken.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/storm.svg"
   },
   "support": {
     "email": "info@stormtoken.com",

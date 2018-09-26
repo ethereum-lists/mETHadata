@@ -9,7 +9,8 @@
     "src": "https://etherscan.io/token/images/nuggettoken_28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1.png"
   },
   "support": {
     "email": "nuggets-token@nuggets.life",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://sentinelgroup.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037.png"
   },
   "support": {
     "email": "",

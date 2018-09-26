@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://balicoin.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x013a06558f07d9e6f9a00c95a33f3a0e0255176b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x013a06558f07d9e6f9a00c95a33f3a0e0255176b.png"
   },
   "support": {
     "email": "",

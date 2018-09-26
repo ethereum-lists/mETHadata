@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://crypterium.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x80a7e048f37a50500351c204cb407766fa3bae7f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/crpt.svg"
   },
   "support": {
     "email": "support@crypterium.io",

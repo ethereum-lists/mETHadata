@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://www.kan.land/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1410434b0346f5be678d0fb554e5c7ab620f8f4a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1410434b0346f5be678d0fb554e5c7ab620f8f4a.png"
   },
   "support": {
     "email": "",

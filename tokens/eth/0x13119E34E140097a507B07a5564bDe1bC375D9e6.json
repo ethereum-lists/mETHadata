@@ -7,10 +7,11 @@
   "decimals": 18,
   "website": "",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13119e34e140097a507b07a5564bde1bc375d9e6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13119e34e140097a507b07a5564bde1bc375d9e6.png"
   },
   "support": {
     "email": "",

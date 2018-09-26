@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.decent.bet/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b68bfae21df5a510931a262cecf63f41338f264.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b68bfae21df5a510931a262cecf63f41338f264.png"
   },
   "support": {
     "email": "",

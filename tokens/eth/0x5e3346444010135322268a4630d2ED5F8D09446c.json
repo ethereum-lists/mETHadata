@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://LockChain.co",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e3346444010135322268a4630d2ed5f8d09446c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e3346444010135322268a4630d2ed5f8d09446c.png"
   },
   "support": {
     "email": "team@lockchain.co",

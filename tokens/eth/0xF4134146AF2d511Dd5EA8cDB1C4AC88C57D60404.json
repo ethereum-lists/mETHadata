@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://suncontract.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404.png"
   },
   "support": {
     "email": "",

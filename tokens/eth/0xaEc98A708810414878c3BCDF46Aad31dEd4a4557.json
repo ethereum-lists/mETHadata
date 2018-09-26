@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://300tokensparta.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaec98a708810414878c3bcdf46aad31ded4a4557.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaec98a708810414878c3bcdf46aad31ded4a4557.png"
   },
   "support": {
     "email": "",

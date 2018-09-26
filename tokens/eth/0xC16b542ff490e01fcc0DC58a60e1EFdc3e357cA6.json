@@ -10,7 +10,8 @@
     "src": "https://rockmining.blob.core.windows.net/logo/fullLogo.png",
     "width": 132,
     "height": 132,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc16b542ff490e01fcc0dc58a60e1efdc3e357ca6.png"
   },
   "support": {
     "email": "",

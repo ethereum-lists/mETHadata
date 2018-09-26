@@ -6,5 +6,10 @@
   "social": {
     "twitter": "https://twitter.com/GNSPS",
     "github": "https://github.com/GNSPS"
+  },
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": ""
   }
 }

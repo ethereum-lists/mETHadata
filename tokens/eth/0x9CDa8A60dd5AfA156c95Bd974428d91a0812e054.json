@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://tatatutoken.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9cda8a60dd5afa156c95bd974428d91a0812e054.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9cda8a60dd5afa156c95bd974428d91a0812e054.png"
   },
   "support": {
     "email": "",

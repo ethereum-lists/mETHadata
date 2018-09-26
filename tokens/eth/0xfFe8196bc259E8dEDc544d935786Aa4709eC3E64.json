@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.hedge-crypto.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffe8196bc259e8dedc544d935786aa4709ec3e64.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffe8196bc259e8dedc544d935786aa4709ec3e64.png"
   },
   "support": {
     "email": "info@hedge-crypto.com",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.vechain.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd850942ef8811f2a866692a623011bde52a462c1.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/ven.svg"
   },
   "support": {
     "email": "support@vechain.com",

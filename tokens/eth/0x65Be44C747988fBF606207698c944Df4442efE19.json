@@ -9,7 +9,8 @@
     "src": "https://etherscan.io/token/images/fucktoken_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65be44c747988fbf606207698c944df4442efe19.png"
   },
   "support": {
     "email": "contact@fucktoken.com",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.pillarproject.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3818504c1b32bf1557b16c238b2e01fd3149c17.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/plr.svg"
   },
   "support": {
     "email": "info@pillarproject.io",

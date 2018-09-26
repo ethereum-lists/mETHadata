@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://ico.1worldonline.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23.png"
   },
   "support": {
     "email": "support@1worldonline.com",

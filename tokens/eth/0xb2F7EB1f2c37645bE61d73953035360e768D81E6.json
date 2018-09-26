@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://cobinhood.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb2f7eb1f2c37645be61d73953035360e768d81e6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/cob.svg"
   },
   "support": {
     "email": "support@cobinhood.com",

@@ -9,7 +9,8 @@
     "src": "https://globcoin.io/assets/img/favicon-128x128.png",
     "width": "128",
     "height": "128",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdb0f69306ff8f949f258e83f6b87ee5d052d0b23.png"
   },
   "support": {
     "email": "community@globcoin.io",

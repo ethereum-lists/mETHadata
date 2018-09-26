@@ -9,7 +9,8 @@
     "src": "https://daostack.io/daostack2828.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x543ff227f64aa17ea132bf9886cab5db55dcaddf.png"
   },
   "support": {
     "email": "support@daostack.io",

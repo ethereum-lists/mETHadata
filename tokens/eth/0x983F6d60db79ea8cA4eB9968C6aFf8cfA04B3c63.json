@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://sonm.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/snm.svg"
   },
   "support": {
     "email": "pr@sonm.io",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://ugchain.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x43ee79e379e7b78d871100ed696e803e7893b644.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x43ee79e379e7b78d871100ed696e803e7893b644.png"
   },
   "support": {
     "email": "",

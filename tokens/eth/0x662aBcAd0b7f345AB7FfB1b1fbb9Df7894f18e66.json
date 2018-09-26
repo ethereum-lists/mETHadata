@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://cartaxi.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66.png"
   },
   "support": {
     "email": "info@cartaxi.io",

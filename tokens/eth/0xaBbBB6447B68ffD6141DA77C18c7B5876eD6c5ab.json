@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.datx.co/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab.png"
   },
   "support": {
     "email": "",

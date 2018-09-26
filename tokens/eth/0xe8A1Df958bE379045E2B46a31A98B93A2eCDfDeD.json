@@ -9,7 +9,8 @@
     "src": "https://ethersportz.com/ESZCoin200by200.png",
     "width": 200,
     "height": 200,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe8a1df958be379045e2b46a31a98b93a2ecdfded.png"
   },
   "support": {
     "email": "info@ethersportz.com",

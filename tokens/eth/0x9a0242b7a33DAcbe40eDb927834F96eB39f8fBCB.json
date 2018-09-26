@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://getbabb.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb.png"
   },
   "support": {
     "email": "",

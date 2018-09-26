@@ -9,7 +9,8 @@
     "src": "https://hurify.co/wp-content/uploads/2018/03/hurify_fav_icon.png",
     "width": "300",
     "height": "302",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcdb7ecfd3403eef3882c65b761ef9b5054890a47.png"
   },
   "support": {
     "email": "support@hurify.co",

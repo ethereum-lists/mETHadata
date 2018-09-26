@@ -9,7 +9,8 @@
     "src": "https://dragonchain.com/assets/images/dragon.png",
     "width": 813,
     "height": 879,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/drgn.svg"
   },
   "support": {
     "email": "support@dragonchain.com",

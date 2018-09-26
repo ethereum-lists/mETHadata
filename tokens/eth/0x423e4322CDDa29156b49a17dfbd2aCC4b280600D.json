@@ -9,7 +9,8 @@
     "src": "https://mycarcoin.com/Carcoin/img/logo-carcoin.png",
     "width": 291,
     "height": 291,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x423e4322cdda29156b49a17dfbd2acc4b280600d.png"
   },
   "support": {
     "email": "support@mycarcoin.com",

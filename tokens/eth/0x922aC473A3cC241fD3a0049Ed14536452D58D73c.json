@@ -9,7 +9,8 @@
     "src": "https://vetri.global/static/img/vld-icon.png",
     "width": "512px",
     "height": "512px",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x922ac473a3cc241fd3a0049ed14536452d58d73c.png"
   },
   "support": {
     "email": "info@vetri.global",

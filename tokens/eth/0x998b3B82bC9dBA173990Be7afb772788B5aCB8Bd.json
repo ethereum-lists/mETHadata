@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.banca.world/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x998b3b82bc9dba173990be7afb772788b5acb8bd.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x998b3b82bc9dba173990be7afb772788b5acb8bd.png"
   },
   "support": {
     "email": "",

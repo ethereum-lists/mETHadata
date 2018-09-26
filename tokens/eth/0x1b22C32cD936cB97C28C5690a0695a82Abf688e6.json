@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://mywish.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b22c32cd936cb97c28c5690a0695a82abf688e6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b22c32cd936cb97c28c5690a0695a82abf688e6.png"
   },
   "support": {
     "email": "",

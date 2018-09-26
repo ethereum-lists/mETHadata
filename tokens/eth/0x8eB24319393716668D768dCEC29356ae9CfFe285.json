@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://singularitynet.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8eb24319393716668d768dcec29356ae9cffe285.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/agi.svg"
   },
   "support": {
     "email": "support@singularitynet.io",

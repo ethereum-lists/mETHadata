@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://jesuscoin.network/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe2d82dc7da0e6f882e96846451f4fabcc8f90528.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe2d82dc7da0e6f882e96846451f4fabcc8f90528.png"
   },
   "support": {
     "email": "",

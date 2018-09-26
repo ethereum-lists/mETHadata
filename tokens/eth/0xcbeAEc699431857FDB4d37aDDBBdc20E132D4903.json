@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://yoyow.org/index_en.html",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcbeaec699431857fdb4d37addbbdc20e132d4903.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/yoyow.svg"
   },
   "support": {
     "email": "",

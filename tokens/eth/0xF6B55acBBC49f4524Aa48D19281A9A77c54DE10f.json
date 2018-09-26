@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.wolk.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf6b55acbbc49f4524aa48d19281a9a77c54de10f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf6b55acbbc49f4524aa48d19281a9a77c54de10f.png"
   },
   "support": {
     "email": "services@wolk.com",

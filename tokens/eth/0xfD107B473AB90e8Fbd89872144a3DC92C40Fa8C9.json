@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://lalaworld.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9.png"
   },
   "support": {
     "email": "hello@lalaworld.io",

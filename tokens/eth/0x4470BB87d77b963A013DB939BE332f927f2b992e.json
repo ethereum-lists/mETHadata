@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.adex.network",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4470bb87d77b963a013db939be332f927f2b992e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/adx.svg"
   },
   "support": {
     "email": "",

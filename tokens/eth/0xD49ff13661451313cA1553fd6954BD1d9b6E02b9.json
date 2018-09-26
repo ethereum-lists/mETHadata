@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://electrify.asia/#home",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9.png"
   },
   "support": {
     "email": "",

@@ -9,7 +9,8 @@
     "src": "https://www.beyond-the-void.net/nxc.png",
     "width": 300,
     "height": 300,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x45e42d659d9f9466cd5df622506033145a9b89bc.png"
   },
   "support": {
     "email": "contact@beyond-the-void.net",

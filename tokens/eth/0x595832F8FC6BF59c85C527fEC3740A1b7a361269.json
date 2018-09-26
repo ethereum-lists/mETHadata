@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://powerledger.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x595832f8fc6bf59c85c527fec3740a1b7a361269.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/powr.svg"
   },
   "support": {
     "email": "mc@powerledger.io",

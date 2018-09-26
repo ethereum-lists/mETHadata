@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://dcc.finance",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffa93aacf49297d51e211817452839052fdfb961.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffa93aacf49297d51e211817452839052fdfb961.png"
   },
   "support": {
     "email": "contact@dcc.finance",

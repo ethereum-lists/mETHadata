@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.blockcdn.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1e797ce986c3cff4472f7d38d5c4aba55dfefe40.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1e797ce986c3cff4472f7d38d5c4aba55dfefe40.png"
   },
   "support": {
     "email": "",

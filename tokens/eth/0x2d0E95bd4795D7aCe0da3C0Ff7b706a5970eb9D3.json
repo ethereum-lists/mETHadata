@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.allsportschain.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3.png"
   },
   "support": {
     "email": "",

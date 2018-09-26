@@ -9,7 +9,8 @@
     "src": "https://www.theabyss.com/static/img/abyss_28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6.png"
   },
   "support": {
     "email": "support@theabyss.com",

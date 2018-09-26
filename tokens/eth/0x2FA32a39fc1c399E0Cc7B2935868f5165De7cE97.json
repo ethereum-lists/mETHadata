@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://payfair.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2fa32a39fc1c399e0cc7b2935868f5165de7ce97.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2fa32a39fc1c399e0cc7b2935868f5165de7ce97.png"
   },
   "support": {
     "email": "",

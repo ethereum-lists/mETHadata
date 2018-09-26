@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.crowdholding.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd9a12cde03a86e800496469858de8581d3a5353d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd9a12cde03a86e800496469858de8581d3a5353d.png"
   },
   "support": {
     "email": "hello@crowdholding.com",

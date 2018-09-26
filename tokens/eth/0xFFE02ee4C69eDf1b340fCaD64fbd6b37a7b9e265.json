@@ -9,7 +9,8 @@
     "src": "https://etherscan.io/token/images/nanjcoin_28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265.png"
   },
   "support": {
     "email": "support@nanjcoin.com",

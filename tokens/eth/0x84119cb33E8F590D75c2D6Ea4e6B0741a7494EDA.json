@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.giga-watt.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda.png"
   },
   "support": {
     "email": "press@giga-watt.com",

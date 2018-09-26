@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://ebitcoincash.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xafc39788c51f0c1ff7b55317f3e70299e521fff6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xafc39788c51f0c1ff7b55317f3e70299e521fff6.png"
   },
   "support": {
     "email": "team@ebitcoincash.io",

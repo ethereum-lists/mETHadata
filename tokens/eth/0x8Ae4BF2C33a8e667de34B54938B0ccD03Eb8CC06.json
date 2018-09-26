@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://patientory.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06.png"
   },
   "support": {
     "email": "info@patientory.com",

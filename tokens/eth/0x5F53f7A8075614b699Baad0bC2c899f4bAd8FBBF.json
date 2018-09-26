@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.rebellious.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf.png"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://oyster.ws",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1844b21593262668b7248d0f57a220caaba46ab9.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/prl.svg"
   },
   "support": {
     "email": "contact@oyster.ws",

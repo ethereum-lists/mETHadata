@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://wings.ai",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x667088b212ce3d06a1b553a7221e1fd19000d9af.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/wings.svg"
   },
   "support": {
     "email": "support@url.ai",

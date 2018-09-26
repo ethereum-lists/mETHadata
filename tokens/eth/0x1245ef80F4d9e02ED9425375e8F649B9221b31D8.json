@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.arbitragect.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1245ef80f4d9e02ed9425375e8f649b9221b31d8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1245ef80f4d9e02ed9425375e8f649b9221b31d8.png"
   },
   "support": {
     "email": "support@arbitragect.com",

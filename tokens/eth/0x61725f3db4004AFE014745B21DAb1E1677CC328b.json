@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.daxt.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x61725f3db4004afe014745b21dab1e1677cc328b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x61725f3db4004afe014745b21dab1e1677cc328b.png"
   },
   "support": {
     "email": "concierge@blockex.com",

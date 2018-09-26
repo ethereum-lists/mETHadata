@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://enjincoin.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/enj.svg"
   },
   "support": {
     "email": "info@enjin.com",

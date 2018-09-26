@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://swarm.fund",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a.png"
   },
   "support": {
     "email": "info@swarm.fund",

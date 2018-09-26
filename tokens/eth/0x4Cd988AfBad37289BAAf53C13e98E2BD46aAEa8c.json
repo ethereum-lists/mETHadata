@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://bihu.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cd988afbad37289baaf53c13e98e2bd46aaea8c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cd988afbad37289baaf53c13e98e2bd46aaea8c.png"
   },
   "support": {
     "email": "wow@bihu.com",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://experty.io/en",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5c743a35e903f6c584514ec617acee0611cf44f3.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5c743a35e903f6c584514ec617acee0611cf44f3.png"
   },
   "support": {
     "email": "",

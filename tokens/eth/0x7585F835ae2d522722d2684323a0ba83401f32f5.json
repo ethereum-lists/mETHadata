@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.hellogold.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7585f835ae2d522722d2684323a0ba83401f32f5.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7585f835ae2d522722d2684323a0ba83401f32f5.png"
   },
   "support": {
     "email": "",

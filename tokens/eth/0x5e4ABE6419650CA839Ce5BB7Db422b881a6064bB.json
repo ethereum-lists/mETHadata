@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.cryptowi.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e4abe6419650ca839ce5bb7db422b881a6064bb.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e4abe6419650ca839ce5bb7db422b881a6064bb.png"
   },
   "support": {
     "email": "admin@cryptowi.com",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.ttc.eco/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9389434852b94bbad4c8afed5b7bdbc5ff0c2275.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9389434852b94bbad4c8afed5b7bdbc5ff0c2275.png"
   },
   "support": {
     "email": "",

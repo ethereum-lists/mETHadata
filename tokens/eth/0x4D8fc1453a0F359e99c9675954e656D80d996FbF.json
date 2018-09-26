@@ -9,7 +9,8 @@
     "src": "https://etherscan.io/token/images/beetoken_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4d8fc1453a0f359e99c9675954e656d80d996fbf.png"
   },
   "support": {
     "email": "",

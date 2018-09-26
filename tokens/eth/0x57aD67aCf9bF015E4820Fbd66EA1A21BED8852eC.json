@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://lympo.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec.png"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://mitrav.co",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7fc408011165760ee31be2bf20daf450356692af.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7fc408011165760ee31be2bf20daf450356692af.png"
   },
   "support": {
     "email": "support@mitrav.co",

@@ -9,7 +9,8 @@
     "src": "http://www.growchain.us/data/logo.png",
     "width": "300",
     "height": "286",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0a9a9ce600d08bf9b76f49fa4e7b38a67ebeb1e6.png"
   },
   "support": {
     "email": "admin@growchain.net"

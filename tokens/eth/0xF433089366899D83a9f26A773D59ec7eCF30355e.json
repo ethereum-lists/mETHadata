@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.metalpay.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf433089366899d83a9f26a773d59ec7ecf30355e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/mtl.svg"
   },
   "support": {
     "email": "support@metalpay.co",

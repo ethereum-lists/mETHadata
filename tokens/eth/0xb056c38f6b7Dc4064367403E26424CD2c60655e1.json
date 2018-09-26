@@ -9,7 +9,8 @@
     "src": "https://www.ceek.io/wp-content/uploads/2018/04/coin.png",
     "width": "317",
     "height": "308",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb056c38f6b7dc4064367403e26424cd2c60655e1.png"
   },
   "support": {
     "email": "success@ceek.com",

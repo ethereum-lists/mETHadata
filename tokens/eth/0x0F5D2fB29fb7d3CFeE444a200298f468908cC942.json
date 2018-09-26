@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://decentraland.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f5d2fb29fb7d3cfee444a200298f468908cc942.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/mana.svg"
   },
   "support": {
     "email": "",

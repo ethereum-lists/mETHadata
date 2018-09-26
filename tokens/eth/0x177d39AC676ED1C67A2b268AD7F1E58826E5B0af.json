@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.coindash.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/cdt.svg"
   },
   "support": {
     "email": "support@blox.io",

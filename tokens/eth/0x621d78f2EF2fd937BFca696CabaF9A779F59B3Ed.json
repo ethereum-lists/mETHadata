@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.dcorp.it",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed.png"
   },
   "support": {
     "email": "info@dcorp.it",

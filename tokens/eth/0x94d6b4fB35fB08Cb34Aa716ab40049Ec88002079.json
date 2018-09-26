@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://cryptonex.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x94d6b4fb35fb08cb34aa716ab40049ec88002079.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/cnx.svg"
   },
   "support": {
     "email": "support@cryptonex.org",

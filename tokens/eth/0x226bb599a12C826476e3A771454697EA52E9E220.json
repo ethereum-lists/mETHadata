@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://propy.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x226bb599a12c826476e3a771454697ea52e9e220.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x226bb599a12c826476e3a771454697ea52e9e220.png"
   },
   "support": {
     "email": "ico@propy.com",

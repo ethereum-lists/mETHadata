@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://smscoin.jp/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x39013f961c378f02c2b82a6e1d31e9812786fd9d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x39013f961c378f02c2b82a6e1d31e9812786fd9d.png"
   },
   "support": {
     "email": "support@smscoin.jp",

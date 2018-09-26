@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.ethereumcash.technology",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5d21ef5f25a985380b65c8e943a0082feda0db84.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5d21ef5f25a985380b65c8e943a0082feda0db84.png"
   },
   "support": {
     "email": "",

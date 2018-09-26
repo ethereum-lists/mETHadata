@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://lookrev.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x253c7dd074f4bacb305387f922225a4f737c08bd.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x253c7dd074f4bacb305387f922225a4f737c08bd.png"
   },
   "support": {
     "email": "contact@lookrev.com",

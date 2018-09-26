@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://tbitbot.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xafe60511341a37488de25bef351952562e31fcc1.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xafe60511341a37488de25bef351952562e31fcc1.png"
   },
   "support": {
     "email": "info@tbitbot.com",

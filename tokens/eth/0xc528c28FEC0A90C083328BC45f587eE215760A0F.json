@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.endor.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc528c28fec0a90c083328bc45f587ee215760a0f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc528c28fec0a90c083328bc45f587ee215760a0f.png"
   },
   "support": {
     "email": "info@endor.com",

@@ -9,7 +9,8 @@
     "src": "https://static.red-lang.org/pr/logo/red-token-logo_sq_128x128.png",
     "width": "128",
     "height": "128",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f.png"
   },
   "support": {
     "email": "token@red-lang.org",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.domraider.io/en/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab.png"
   },
   "support": {
     "email": "",

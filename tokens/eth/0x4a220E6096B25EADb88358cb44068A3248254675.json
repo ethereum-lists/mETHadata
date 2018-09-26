@@ -9,7 +9,8 @@
     "src": "https://developer.quant.network/quant-q-token_28x28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4a220e6096b25eadb88358cb44068a3248254675.png"
   },
   "support": {
     "email": "support@quant.network",

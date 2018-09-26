@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://veros.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xedbaf3c5100302dcdda53269322f3730b1f0416d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xedbaf3c5100302dcdda53269322f3730b1f0416d.png"
   },
   "support": {
     "email": "",

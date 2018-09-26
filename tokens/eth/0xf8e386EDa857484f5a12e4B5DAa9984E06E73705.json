@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://indorse.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf8e386eda857484f5a12e4b5daa9984e06e73705.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf8e386eda857484f5a12e4b5daa9984e06e73705.png"
   },
   "support": {
     "email": "",

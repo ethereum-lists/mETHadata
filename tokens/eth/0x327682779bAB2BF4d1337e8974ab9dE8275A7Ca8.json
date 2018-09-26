@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://blockport.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x327682779bab2bf4d1337e8974ab9de8275a7ca8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/bpt.svg"
   },
   "support": {
     "email": "support@blockport.io",

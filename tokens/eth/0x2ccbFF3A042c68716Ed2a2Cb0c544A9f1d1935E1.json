@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://dmarket.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1.png"
   },
   "support": {
     "email": "support@dmarket.io",

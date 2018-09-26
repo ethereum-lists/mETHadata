@@ -9,7 +9,8 @@
     "src": "https://image.ibb.co/e9kStm/Pitch_Apply_Token_logo_500x500.png",
     "width": "500",
     "height": "500",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfcac7a7515e9a9d7619fa77a1fa738111f66727e.png"
   },
   "support": {
     "email": "hello@pitchapply.com",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://transcodium.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb0280743b44bf7db4b6be482b2ba7b75e5da096c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb0280743b44bf7db4b6be482b2ba7b75e5da096c.png"
   },
   "support": {
     "email": "",

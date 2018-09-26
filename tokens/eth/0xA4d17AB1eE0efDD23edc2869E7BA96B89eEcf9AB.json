@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.truechain.pro/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa4d17ab1ee0efdd23edc2869e7ba96b89eecf9ab.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa4d17ab1ee0efdd23edc2869e7ba96b89eecf9ab.png"
   },
   "support": {
     "email": "",

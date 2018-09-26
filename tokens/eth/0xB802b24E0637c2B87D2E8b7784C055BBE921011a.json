@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://emovieventure.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb802b24e0637c2b87d2e8b7784c055bbe921011a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb802b24e0637c2b87d2e8b7784c055bbe921011a.png"
   },
   "support": {
     "email": "support@emovieventure.com",

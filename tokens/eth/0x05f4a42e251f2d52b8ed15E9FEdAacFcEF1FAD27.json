@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.zilliqa.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/zil.svg"
   },
   "support": {
     "email": "enquiry@zilliqa.com",

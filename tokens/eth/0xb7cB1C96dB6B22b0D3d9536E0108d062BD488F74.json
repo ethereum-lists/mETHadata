@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://www.waltonchain.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/wtc.svg"
   },
   "support": {
     "email": "services@waltonchain.org",

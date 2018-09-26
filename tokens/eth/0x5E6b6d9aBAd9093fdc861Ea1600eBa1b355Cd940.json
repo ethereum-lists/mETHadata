@@ -9,7 +9,8 @@
     "src": "http://etherscan.io/token/images/iotchain28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/itc.svg"
   },
   "support": {
     "email": "support@iotchain.io",

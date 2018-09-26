@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://bitmart.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x986ee2b944c42d017f52af21c4c69b84dbea35d8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x986ee2b944c42d017f52af21c4c69b84dbea35d8.png"
   },
   "support": {
     "email": "support@bitmart.com",

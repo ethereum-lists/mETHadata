@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://airswap.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27054b13b1b798b345b591a4d22e6562d47ea75a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/ast.svg"
   },
   "support": {
     "email": "team@airswap.io",

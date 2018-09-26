@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://iethereum.trade",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b.png"
   },
   "support": {
     "email": "vitalik@iethereum.trade",

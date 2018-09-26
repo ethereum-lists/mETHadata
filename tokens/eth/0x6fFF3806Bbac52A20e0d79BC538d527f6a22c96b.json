@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://commodityadnetwork.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b.png"
   },
   "support": {
     "email": "support@commodityadnetwork.com",

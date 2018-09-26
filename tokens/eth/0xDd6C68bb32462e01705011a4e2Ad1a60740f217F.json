@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.hubii.network/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6c68bb32462e01705011a4e2ad1a60740f217f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6c68bb32462e01705011a4e2ad1a60740f217f.png"
   },
   "support": {
     "email": "info@hubii.com",

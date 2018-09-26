@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://icos.icobox.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x014b50466590340d41307cc54dcee990c8d58aa8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x014b50466590340d41307cc54dcee990c8d58aa8.png"
   },
   "support": {
     "email": "khovratovich@gmail.com",

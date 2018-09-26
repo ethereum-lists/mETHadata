@@ -9,7 +9,8 @@
     "src": "https://dragonglass.com/wp-content/uploads/2018/06/LogoX132_color_2.png",
     "width": "132",
     "height": "132",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6aedbf8dff31437220df351950ba2a3362168d1b.png"
   },
   "support": {
     "email": "support@dragonglass.com",

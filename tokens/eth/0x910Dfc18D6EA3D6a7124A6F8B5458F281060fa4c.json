@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://x8currency.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c.png"
   },
   "support": {
     "email": "info@x8currency.com",

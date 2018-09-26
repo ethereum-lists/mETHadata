@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://dadi.cloud",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba.png"
   },
   "support": {
     "email": "support@dadi.co",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.vite.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b793e49237758dbd8b752afc9eb4b329d5da016.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b793e49237758dbd8b752afc9eb4b329d5da016.png"
   },
   "support": {
     "email": "",

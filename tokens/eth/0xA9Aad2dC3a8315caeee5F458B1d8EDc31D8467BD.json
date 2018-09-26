@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://btcmoon.info",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa9aad2dc3a8315caeee5f458b1d8edc31d8467bd.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa9aad2dc3a8315caeee5f458b1d8edc31d8467bd.png"
   },
   "support": {
     "email": "",

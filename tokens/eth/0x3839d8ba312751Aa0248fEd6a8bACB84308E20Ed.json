@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://bezop.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3839d8ba312751aa0248fed6a8bacb84308e20ed.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3839d8ba312751aa0248fed6a8bacb84308e20ed.png"
   },
   "support": {
     "email": "",

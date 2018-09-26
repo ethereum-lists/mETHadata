@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://minereum.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1a95b271b0535d15fa49932daba31ba612b52946.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1a95b271b0535d15fa49932daba31ba612b52946.png"
   },
   "support": {
     "email": "",

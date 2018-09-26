@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://ico.cappasity.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x04f2e7221fdb1b52a68169b25793e51478ff0329.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x04f2e7221fdb1b52a68169b25793e51478ff0329.png"
   },
   "support": {
     "email": "",

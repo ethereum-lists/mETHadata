@@ -9,7 +9,8 @@
     "src": "https://etherscan.io/token/images/gizer2_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe638dc39b6adbee8526b5c22380b4b45daf46d8e.png"
   },
   "support": {
     "email": "support@gizer.io",

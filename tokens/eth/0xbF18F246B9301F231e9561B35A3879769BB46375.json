@@ -9,7 +9,8 @@
     "src": "https://tombcare.com/images/logo.png",
     "width": "45",
     "height": "45",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbf18f246b9301f231e9561b35a3879769bb46375.png"
   },
   "support": {
     "email": "support@tombcare.com",

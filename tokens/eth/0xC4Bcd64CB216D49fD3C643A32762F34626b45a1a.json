@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://cosmochain.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc4bcd64cb216d49fd3c643a32762f34626b45a1a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc4bcd64cb216d49fd3c643a32762f34626b45a1a.png"
   },
   "support": {
     "email": "",

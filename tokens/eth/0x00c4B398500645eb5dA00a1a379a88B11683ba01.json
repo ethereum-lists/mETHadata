@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.eximchain.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x00c4b398500645eb5da00a1a379a88b11683ba01.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x00c4b398500645eb5da00a1a379a88b11683ba01.png"
   },
   "support": {
     "email": "",

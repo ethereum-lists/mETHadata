@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://cln.network",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4162178b78d6985480a308b2190ee5517460406d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4162178b78d6985480a308b2190ee5517460406d.png"
   },
   "support": {
     "email": "cln@colu.com",

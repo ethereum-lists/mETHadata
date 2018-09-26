@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://olympuslabs.io/web",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x263c618480dbe35c300d8d5ecda19bbb986acaed.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x263c618480dbe35c300d8d5ecda19bbb986acaed.png"
   },
   "support": {
     "email": "",

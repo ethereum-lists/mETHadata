@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://everus.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3137619705b5fc22a3048989f983905e456b59ab.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3137619705b5fc22a3048989f983905e456b59ab.png"
   },
   "support": {
     "email": "",

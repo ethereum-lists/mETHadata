@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://bro-consortium.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891.png"
   },
   "support": {
     "email": "info@brat.red",

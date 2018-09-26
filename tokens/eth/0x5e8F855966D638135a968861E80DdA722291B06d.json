@@ -9,7 +9,8 @@
     "src": "https://coinve.st/assets/images/Coinvest_Profile.png",
     "width": "250",
     "height": "250",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e8f855966d638135a968861e80dda722291b06d.png"
   },
   "support": {
     "email": "support@coinve.st",

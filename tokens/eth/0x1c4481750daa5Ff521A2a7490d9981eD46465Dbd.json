@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://blockmason.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1c4481750daa5ff521a2a7490d9981ed46465dbd.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/bcpt.svg"
   },
   "support": {
     "email": "support@blockmason.io",

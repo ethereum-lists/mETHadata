@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://etherscan.io/token/TokenCard",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaaaf91d9b90df800df4f55c205fd6989c977e73a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/tkn.svg"
   },
   "support": {
     "email": "",

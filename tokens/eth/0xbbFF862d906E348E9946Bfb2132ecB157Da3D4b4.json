@@ -9,7 +9,8 @@
     "src": "https://oss.sharder.org/sharder/Token/Token-logo-132x132.png",
     "width": "132",
     "height": "132",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbbff862d906e348e9946bfb2132ecb157da3d4b4.png"
   },
   "support": {
     "email": "service@sharder.org",

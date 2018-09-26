@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://ico.ezpos.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e6016ae7d7c49d347dcf834860b9f3ee282812b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e6016ae7d7c49d347dcf834860b9f3ee282812b.png"
   },
   "support": {
     "email": "",
