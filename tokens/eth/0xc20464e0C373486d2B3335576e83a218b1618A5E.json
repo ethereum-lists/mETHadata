@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://datarius.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc20464e0c373486d2b3335576e83a218b1618a5e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc20464e0c373486d2b3335576e83a218b1618a5e.png"
   },
   "support": {
     "email": "",

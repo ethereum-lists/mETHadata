@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://bitqy.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf0f8b0b8dbb1124261fc8d778e2287e3fd2cf4f5.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/bq.svg"
   },
   "support": {
     "email": "",

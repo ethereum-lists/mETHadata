@@ -9,7 +9,8 @@
     "src": "https://amo.foundation/wordpress/wp-content/uploads/2018/05/symbol.png",
     "width": "200",
     "height": "200",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169.png"
   },
   "support": {
     "email": "support@amo.foundation",

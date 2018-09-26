@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://ethbet.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d.png"
   },
   "support": {
     "email": "team@ethbet.io",

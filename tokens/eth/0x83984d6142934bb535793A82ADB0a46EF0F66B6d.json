@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://remme.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x83984d6142934bb535793a82adb0a46ef0f66b6d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x83984d6142934bb535793a82adb0a46ef0f66b6d.png"
   },
   "support": {
     "email": "",

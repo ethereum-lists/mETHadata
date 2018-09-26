@@ -9,7 +9,8 @@
     "src": "https://www.gse.network/static/media/gse-logo.png",
     "width": "120",
     "height": "120",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe530441f4f73bdb6dc2fa5af7c3fc5fd551ec838.png"
   },
   "support": {
     "email": "info@gselab.org"

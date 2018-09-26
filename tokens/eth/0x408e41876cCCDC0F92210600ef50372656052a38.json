@@ -9,7 +9,8 @@
     "src": "https://republicprotocol.github.io/files/logo/128x128.png",
     "width": "128",
     "height": "128",
-    "ipfs_hash": "QmYKRbioKtew8ktcVy86QmxyZ2YjN2JSbKoCQpkuLiyywe"
+    "ipfs_hash": "QmYKRbioKtew8ktcVy86QmxyZ2YjN2JSbKoCQpkuLiyywe",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x408e41876cccdc0f92210600ef50372656052a38.png"
   },
   "support": {
     "email": "support@republicprotocol.com",

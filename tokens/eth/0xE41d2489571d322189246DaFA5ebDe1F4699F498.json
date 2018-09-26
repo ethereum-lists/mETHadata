@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://0xproject.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe41d2489571d322189246dafa5ebde1f4699f498.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/zrx.svg"
   },
   "support": {
     "email": "team@0xproject.com",

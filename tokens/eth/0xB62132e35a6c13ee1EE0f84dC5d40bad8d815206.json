@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://nexo.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206.png"
   },
   "support": {
     "email": "",

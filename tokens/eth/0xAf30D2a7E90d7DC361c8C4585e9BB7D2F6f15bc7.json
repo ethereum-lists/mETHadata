@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://firstblood.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7.png"
   },
   "support": {
     "email": "team@firstblood.io",

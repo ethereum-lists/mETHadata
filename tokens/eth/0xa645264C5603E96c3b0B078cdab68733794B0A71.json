@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://mysterium.network",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa645264c5603e96c3b0b078cdab68733794b0a71.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa645264c5603e96c3b0b078cdab68733794b0a71.png"
   },
   "support": {
     "email": "",

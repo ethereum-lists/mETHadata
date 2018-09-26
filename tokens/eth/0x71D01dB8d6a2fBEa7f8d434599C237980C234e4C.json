@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://gladius.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x71d01db8d6a2fbea7f8d434599c237980c234e4c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x71d01db8d6a2fbea7f8d434599c237980c234e4c.png"
   },
   "support": {
     "email": "",

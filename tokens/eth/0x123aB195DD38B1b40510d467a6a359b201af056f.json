@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://legolas.exchange/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x123ab195dd38b1b40510d467a6a359b201af056f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x123ab195dd38b1b40510d467a6a359b201af056f.png"
   },
   "support": {
     "email": "",

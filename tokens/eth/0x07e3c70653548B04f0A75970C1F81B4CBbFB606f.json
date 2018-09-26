@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.agrello.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x07e3c70653548b04f0a75970c1f81b4cbbfb606f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/dlt.svg"
   },
   "support": {
     "email": "support@agrello.org",

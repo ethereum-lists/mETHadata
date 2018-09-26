@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://adtoken.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd.png"
   },
   "support": {
     "email": "hello@metax.io",

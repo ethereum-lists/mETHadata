@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://covesting.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe2fb6529ef566a080e6d23de0bd351311087d567.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe2fb6529ef566a080e6d23de0bd351311087d567.png"
   },
   "support": {
     "email": "",

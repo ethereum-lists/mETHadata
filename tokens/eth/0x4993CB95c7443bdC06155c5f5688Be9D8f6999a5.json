@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4993cb95c7443bdc06155c5f5688be9d8f6999a5.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4993cb95c7443bdc06155c5f5688be9d8f6999a5.png"
   },
   "support": {
     "email": "",

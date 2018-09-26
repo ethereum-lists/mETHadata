@@ -9,7 +9,8 @@
     "src": "https://raw.githubusercontent.com/ETHLend/logos/master/LEND_128x128.png",
     "width": 128,
     "height": 128,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/lend.svg"
   },
   "support": {
     "email": "support@ethlend.io",

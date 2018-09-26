@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://macroverse.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xab6cf87a50f17d7f5e1feaf81b6fe9ffbe8ebf84.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xab6cf87a50f17d7f5e1feaf81b6fe9ffbe8ebf84.png"
   },
   "support": {
     "email": "crowdsale@macroverse.io",

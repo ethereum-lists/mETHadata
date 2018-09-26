@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.snip.network",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x44f588aeeb8c44471439d1270b3603c66a9262f1.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x44f588aeeb8c44471439d1270b3603c66a9262f1.png"
   },
   "support": {
     "email": "info@snip.today",

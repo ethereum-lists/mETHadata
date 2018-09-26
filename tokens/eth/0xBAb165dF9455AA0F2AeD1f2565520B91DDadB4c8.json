@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://ekt8.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbab165df9455aa0f2aed1f2565520b91ddadb4c8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbab165df9455aa0f2aed1f2565520b91ddadb4c8.png"
   },
   "support": {
     "email": "",

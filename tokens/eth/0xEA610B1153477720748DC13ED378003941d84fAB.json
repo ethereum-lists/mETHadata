@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://alismedia.jp",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea610b1153477720748dc13ed378003941d84fab.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea610b1153477720748dc13ed378003941d84fab.png"
   },
   "support": {
     "email": "info@alismedia.jp",

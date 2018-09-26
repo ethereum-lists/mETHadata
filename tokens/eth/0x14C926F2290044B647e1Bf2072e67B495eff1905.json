@@ -9,7 +9,8 @@
     "src": "https://image.ibb.co/jPRLCx/icon_default_1.png",
     "width": 250,
     "height": 250,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x14c926f2290044b647e1bf2072e67b495eff1905.png"
   },
   "support": {
     "email": "team@bethereum.com",

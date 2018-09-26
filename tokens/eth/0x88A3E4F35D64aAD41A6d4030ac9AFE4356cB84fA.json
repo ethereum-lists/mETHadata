@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://presearch.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa.png"
   },
   "support": {
     "email": "support@presearch.io",

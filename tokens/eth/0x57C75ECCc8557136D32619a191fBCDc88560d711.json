@@ -9,7 +9,8 @@
     "src": "https://veridocglobal.com/Themes/veridoc/Content/img/logo.png",
     "width": "350",
     "height": "145",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x57c75eccc8557136d32619a191fbcdc88560d711.png"
   },
   "support": {
     "email": "admin@veridocglobal.com",

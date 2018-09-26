@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://coinstarter.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a005c9a89bd72a4bd27721e7a09a3c11d2b03c4.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a005c9a89bd72a4bd27721e7a09a3c11d2b03c4.png"
   },
   "support": {
     "email": "support@coinstarter.com",

@@ -9,7 +9,8 @@
     "src": "https://eosdac.io/wp-content/uploads/2018/03/eosdaclogo1-200-jpeg.jpg",
     "width": "200",
     "height": "200",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba.png"
   },
   "support": {
     "email": "hello@eosdac.io",

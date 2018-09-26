@@ -9,7 +9,8 @@
     "src": "http://res.5milesapp.com/image/upload/v1512116368/ico/cmt28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/cmt.svg"
   },
   "support": {
     "email": "contact@5miles.com",

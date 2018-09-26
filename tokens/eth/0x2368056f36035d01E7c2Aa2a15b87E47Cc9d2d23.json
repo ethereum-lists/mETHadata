@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://getseeds.info",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2368056f36035d01e7c2aa2a15b87e47cc9d2d23.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2368056f36035d01e7c2aa2a15b87e47cc9d2d23.png"
   },
   "support": {
     "email": "",

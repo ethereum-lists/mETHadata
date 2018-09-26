@@ -9,7 +9,8 @@
     "src": "https://ethernet.cash/images/logo28x28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x039f5050de4908f9b5ddf40a4f3aa3f329086387.png"
   },
   "support": {
     "email": "contact@ethernet.cash",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://ico.fluzfluz.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x954b5de09a55e59755acbda29e1eb74a45d30175.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x954b5de09a55e59755acbda29e1eb74a45d30175.png"
   },
   "support": {
     "email": "ico@fluzfluz.com",

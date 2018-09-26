@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://aditus.net",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8810c63470d38639954c6b41aac545848c46484a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8810c63470d38639954c6b41aac545848c46484a.png"
   },
   "support": {
     "email": "info@aditus.net",

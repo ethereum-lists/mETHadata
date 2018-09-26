@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.thetatoken.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3883f5e181fccaf8410fa61e12b59bad963fb645.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/theta.svg"
   },
   "support": {
     "email": "support@thetatoken.org",

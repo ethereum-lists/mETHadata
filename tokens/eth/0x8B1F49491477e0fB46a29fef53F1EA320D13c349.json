@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.micromoney.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8b1f49491477e0fb46a29fef53f1ea320d13c349.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8b1f49491477e0fb46a29fef53f1ea320d13c349.png"
   },
   "support": {
     "email": "",

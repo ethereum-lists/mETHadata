@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.coinlancer.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe81d72d14b1516e68ac3190a46c93302cc8ed60f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe81d72d14b1516e68ac3190a46c93302cc8ed60f.png"
   },
   "support": {
     "email": "",

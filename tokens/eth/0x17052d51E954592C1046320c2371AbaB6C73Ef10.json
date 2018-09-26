@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://athenianwarriortoken.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17052d51e954592c1046320c2371abab6c73ef10.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17052d51e954592c1046320c2371abab6c73ef10.png"
   },
   "support": {
     "email": "",

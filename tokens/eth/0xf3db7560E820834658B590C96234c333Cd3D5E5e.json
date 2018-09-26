@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://coinpoker.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf3db7560e820834658b590c96234c333cd3d5e5e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf3db7560e820834658b590c96234c333cd3d5e5e.png"
   },
   "support": {
     "email": "",

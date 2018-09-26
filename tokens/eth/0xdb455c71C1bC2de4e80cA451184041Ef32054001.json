@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://jury.online/ico",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdb455c71c1bc2de4e80ca451184041ef32054001.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdb455c71c1bc2de4e80ca451184041ef32054001.png"
   },
   "support": {
     "email": "",

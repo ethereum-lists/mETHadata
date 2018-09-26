@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.icon.foundation",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb5a5f22694352c15b00323844ad545abb2b11028.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/icx.svg"
   },
   "support": {
     "email": "hello@icon.foundation",

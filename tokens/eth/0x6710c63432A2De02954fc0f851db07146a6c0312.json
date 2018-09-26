@@ -9,7 +9,8 @@
     "src": "https://blockchain.syncfab.com/assets/img/mfg-logo.png",
     "width": "500",
     "height": "500",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6710c63432a2de02954fc0f851db07146a6c0312.png"
   },
   "support": {
     "email": "support@syncfab.com",

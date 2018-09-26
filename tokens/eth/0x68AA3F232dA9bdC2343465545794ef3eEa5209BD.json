@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://mothership.cx",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68aa3f232da9bdc2343465545794ef3eea5209bd.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68aa3f232da9bdc2343465545794ef3eea5209bd.png"
   },
   "support": {
     "email": "hello@mothership.cx",

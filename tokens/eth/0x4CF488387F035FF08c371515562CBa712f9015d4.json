@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://wepower.network",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cf488387f035ff08c371515562cba712f9015d4.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/wpr.svg"
   },
   "support": {
     "email": "team@wepower.network",

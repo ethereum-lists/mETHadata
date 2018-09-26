@@ -9,7 +9,8 @@
     "src": "https://www.telco.in/logo.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/tel.svg"
   },
   "support": {
     "email": "tokensupport@telco.in",

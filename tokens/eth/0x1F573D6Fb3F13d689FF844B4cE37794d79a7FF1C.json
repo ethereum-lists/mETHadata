@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.bancor.network/discover",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/bnt.svg"
   },
   "support": {
     "email": "",

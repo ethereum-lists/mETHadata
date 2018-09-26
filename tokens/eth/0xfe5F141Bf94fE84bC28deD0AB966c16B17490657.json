@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.mycred.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfe5f141bf94fe84bc28ded0ab966c16b17490657.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfe5f141bf94fe84bc28ded0ab966c16b17490657.png"
   },
   "support": {
     "email": "",

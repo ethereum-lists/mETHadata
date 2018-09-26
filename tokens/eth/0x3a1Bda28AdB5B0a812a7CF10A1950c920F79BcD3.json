@@ -9,7 +9,8 @@
     "src": "https://tokensale.gameflip.com/img/ico/flip_logo_64x64.png",
     "width": 64,
     "height": 64,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3.png"
   },
   "support": {
     "email": "support@gameflip.com",

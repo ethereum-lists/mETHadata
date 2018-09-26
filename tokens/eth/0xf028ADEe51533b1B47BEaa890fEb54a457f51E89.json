@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://bmchain.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf028adee51533b1b47beaa890feb54a457f51e89.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf028adee51533b1b47beaa890feb54a457f51e89.png"
   },
   "support": {
     "email": "support@bmchain.io",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://bitbounce.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be.png"
   },
   "support": {
     "email": "stewart@team.bitbounce.io",

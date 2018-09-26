@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://prps.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd4cffeef10f60eca581b5e1146b5aca4194a4c3b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd4cffeef10f60eca581b5e1146b5aca4194a4c3b.png"
   },
   "support": {
     "email": "support@gamingforgood.net",

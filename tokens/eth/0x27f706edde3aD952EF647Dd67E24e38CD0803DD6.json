@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://uetoken.com/#",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27f706edde3ad952ef647dd67e24e38cd0803dd6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27f706edde3ad952ef647dd67e24e38cd0803dd6.png"
   },
   "support": {
     "email": "",

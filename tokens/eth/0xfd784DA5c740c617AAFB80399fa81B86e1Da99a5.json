@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://www.itschain.cn",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd784da5c740c617aafb80399fa81b86e1da99a5.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd784da5c740c617aafb80399fa81b86e1da99a5.png"
   },
   "support": {
     "email": "itschain01@gmail.com",

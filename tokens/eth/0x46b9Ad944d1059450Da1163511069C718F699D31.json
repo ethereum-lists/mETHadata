@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://credits.com/en",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x46b9ad944d1059450da1163511069c718f699d31.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/cs.svg"
   },
   "support": {
     "email": "",

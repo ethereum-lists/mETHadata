@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://zap.store",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104.png"
   },
   "support": {
     "email": "hello@zapproject.org",

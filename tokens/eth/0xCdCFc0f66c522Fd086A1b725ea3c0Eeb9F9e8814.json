@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://auroradao.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814.png"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://dowcoin.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x76974c7b79dc8a6a109fd71fd7ceb9e40eff5382.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x76974c7b79dc8a6a109fd71fd7ceb9e40eff5382.png"
   },
   "support": {
     "email": "dowcoin@gmail.com",

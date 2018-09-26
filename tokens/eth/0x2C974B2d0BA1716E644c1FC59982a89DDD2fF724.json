@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.viberate.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/vib.svg"
   },
   "support": {
     "email": "support@viberate.com",

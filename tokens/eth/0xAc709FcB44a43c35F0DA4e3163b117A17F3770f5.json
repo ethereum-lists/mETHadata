@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://arcade.city",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xac709fcb44a43c35f0da4e3163b117a17f3770f5.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xac709fcb44a43c35f0da4e3163b117a17f3770f5.png"
   },
   "support": {
     "email": "",

@@ -9,7 +9,8 @@
     "src": "https://etherscan.io/token/images/rentberry_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c.png"
   },
   "support": {
     "email": "hello@rentberry.com",

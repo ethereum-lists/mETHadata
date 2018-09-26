@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.farmatrust.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2aec18c5500f21359ce1bea5dc1777344df4c0dc.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2aec18c5500f21359ce1bea5dc1777344df4c0dc.png"
   },
   "support": {
     "email": "contact@farmatrust.com",

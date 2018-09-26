@@ -9,7 +9,8 @@
     "src": "https://betterbetting.org/assets/images/bb-token-icon_w28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x763186eb8d4856d536ed4478302971214febc6a9.png"
   },
   "support": {
     "email": "info@betterbetting.org",

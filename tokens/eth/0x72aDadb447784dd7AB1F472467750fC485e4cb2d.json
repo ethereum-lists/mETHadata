@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://worldcore.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x72adadb447784dd7ab1f472467750fc485e4cb2d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x72adadb447784dd7ab1f472467750fc485e4cb2d.png"
   },
   "support": {
     "email": "",

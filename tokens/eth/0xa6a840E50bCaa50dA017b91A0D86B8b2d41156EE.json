@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://echolink.info/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee.png"
   },
   "support": {
     "email": "",

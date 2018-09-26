@@ -9,7 +9,8 @@
     "src": "https://lemochip.hellobyebye.com/logo.png",
     "width": "110",
     "height": "72",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb5ae848edb296c21259b7467331467d2647eecdf.png"
   },
   "support": {
     "email": "foundation@lemochain.com",

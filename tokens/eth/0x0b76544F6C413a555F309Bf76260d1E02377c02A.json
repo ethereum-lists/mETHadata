@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://intchain.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0b76544f6c413a555f309bf76260d1e02377c02a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0b76544f6c413a555f309bf76260d1e02377c02a.png"
   },
   "support": {
     "email": "",

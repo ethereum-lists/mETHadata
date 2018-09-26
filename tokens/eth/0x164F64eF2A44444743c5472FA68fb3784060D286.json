@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://t8coin.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x164f64ef2a44444743c5472fa68fb3784060d286.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x164f64ef2a44444743c5472fa68fb3784060d286.png"
   },
   "support": {
     "email": "",

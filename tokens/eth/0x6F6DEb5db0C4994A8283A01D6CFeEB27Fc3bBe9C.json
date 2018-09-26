@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://smartbillions.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6f6deb5db0c4994a8283a01d6cfeeb27fc3bbe9c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/smart.svg"
   },
   "support": {
     "email": "contact@smartbillions.com",

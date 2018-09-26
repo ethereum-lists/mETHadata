@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://adshares.net",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x422866a8f0b032c5cf1dfbdef31a20f4509562b0.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x422866a8f0b032c5cf1dfbdef31a20f4509562b0.png"
   },
   "support": {
     "email": "office@adshares.net",

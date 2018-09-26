@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://rockchain.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc9de4b7f0c3d991e967158e4d4bfa4b51ec0b114.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc9de4b7f0c3d991e967158e4d4bfa4b51ec0b114.png"
   },
   "support": {
     "email": "yosra.helal@rockchain.org",

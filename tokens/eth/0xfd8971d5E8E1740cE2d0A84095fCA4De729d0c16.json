@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.zla.io/en",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16.png"
   },
   "support": {
     "email": "",

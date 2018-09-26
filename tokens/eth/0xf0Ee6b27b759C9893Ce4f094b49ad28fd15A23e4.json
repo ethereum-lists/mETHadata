@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://enigma.co/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/eng.svg"
   },
   "support": {
     "email": "info@enigma.co",

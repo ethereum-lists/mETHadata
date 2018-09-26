@@ -10,7 +10,8 @@
     "src": "https://mftu.net/tokeninfo/cyfm/0x3f06B5D78406cD97bdf10f5C420B241D32759c80.png",
     "width": "200",
     "height": "200",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3f06b5d78406cd97bdf10f5c420b241d32759c80.png"
   },
   "support": {
     "email": "service@cyberfmradio.com",

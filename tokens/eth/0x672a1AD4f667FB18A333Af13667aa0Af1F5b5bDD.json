@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://verify.as",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/cred.svg"
   },
   "support": {
     "email": "team@verify.as",

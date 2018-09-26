@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.carvertical.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xda6cb58a0d0c01610a29c5a65c303e13e885887c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xda6cb58a0d0c01610a29c5a65c303e13e885887c.png"
   },
   "support": {
     "email": "info@carvertical.com",

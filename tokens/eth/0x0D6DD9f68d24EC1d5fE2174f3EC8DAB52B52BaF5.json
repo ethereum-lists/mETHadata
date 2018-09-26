@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.kmcc.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d6dd9f68d24ec1d5fe2174f3ec8dab52b52baf5.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d6dd9f68d24ec1d5fe2174f3ec8dab52b52baf5.png"
   },
   "support": {
     "email": "dwgoforit@gmail.com",

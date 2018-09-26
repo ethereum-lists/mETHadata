@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://www.mercuryprotocol.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb3bd49e28f8f832b8d1e246106991e546c323502.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb3bd49e28f8f832b8d1e246106991e546c323502.png"
   },
   "support": {
     "email": "info@mercuryprotocol.com",

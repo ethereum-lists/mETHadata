@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://lendroid.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4de2573e27e648607b50e1cfff921a33e4a34405.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4de2573e27e648607b50e1cfff921a33e4a34405.png"
   },
   "support": {
     "email": "",

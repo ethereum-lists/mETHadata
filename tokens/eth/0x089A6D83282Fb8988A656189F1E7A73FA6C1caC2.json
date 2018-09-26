@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.prospectors.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x089a6d83282fb8988a656189f1e7a73fa6c1cac2.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x089a6d83282fb8988a656189f1e7a73fa6c1cac2.png"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://ori.network/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49.png"
   },
   "support": {
     "email": "",

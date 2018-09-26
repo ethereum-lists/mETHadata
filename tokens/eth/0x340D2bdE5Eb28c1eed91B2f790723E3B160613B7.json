@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://blockv.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x340d2bde5eb28c1eed91b2f790723e3b160613b7.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x340d2bde5eb28c1eed91b2f790723e3b160613b7.png"
   },
   "support": {
     "email": "jessica@blockv.io",

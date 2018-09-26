@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.exchangeunion.com/xuc",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc324a2f6b05880503444451b8b27e6f9e63287cb.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/xuc.svg"
   },
   "support": {
     "email": "",

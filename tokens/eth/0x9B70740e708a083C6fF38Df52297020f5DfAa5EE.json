@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://daneel.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b70740e708a083c6ff38df52297020f5dfaa5ee.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b70740e708a083c6ff38df52297020f5dfaa5ee.png"
   },
   "support": {
     "email": "information@daneel.io",

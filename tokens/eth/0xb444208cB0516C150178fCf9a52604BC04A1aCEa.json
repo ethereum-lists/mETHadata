@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.greenmed.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb444208cb0516c150178fcf9a52604bc04a1acea.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb444208cb0516c150178fcf9a52604bc04a1acea.png"
   },
   "support": {
     "email": "info@greenmed.io",

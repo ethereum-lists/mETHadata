@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://modum.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/mod.svg"
   },
   "support": {
     "email": "token@modum.io",

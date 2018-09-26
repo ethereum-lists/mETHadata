@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://tierion.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/tnt.svg"
   },
   "support": {
     "email": "team@tierion.com",

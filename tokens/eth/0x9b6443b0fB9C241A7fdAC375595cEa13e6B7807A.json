@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://reality-clash.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b6443b0fb9c241a7fdac375595cea13e6b7807a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b6443b0fb9c241a7fdac375595cea13e6b7807a.png"
   },
   "support": {
     "email": "info@reality-clash.com",

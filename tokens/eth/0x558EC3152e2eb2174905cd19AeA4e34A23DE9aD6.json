@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://token.breadapp.com/en",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/brd.svg"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.bytether.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfad572db566e5234ac9fc3d570c4edc0050eaa92.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfad572db566e5234ac9fc3d570c4edc0050eaa92.png"
   },
   "support": {
     "email": "",

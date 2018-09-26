@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://datawallet.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8db54ca569d3019a2ba126d03c37c44b5ef81ef6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8db54ca569d3019a2ba126d03c37c44b5ef81ef6.png"
   },
   "support": {
     "email": "",

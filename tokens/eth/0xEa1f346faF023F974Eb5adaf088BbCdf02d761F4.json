@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.blocktix.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea1f346faf023f974eb5adaf088bbcdf02d761f4.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/tix.svg"
   },
   "support": {
     "email": "info@blocktix.io",

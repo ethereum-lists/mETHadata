@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://0xbitcoin.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb6ed7644c69416d67b522e20bc294a9a9b405b31.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb6ed7644c69416d67b522e20bc294a9a9b405b31.png"
   },
   "support": {
     "email": "admin@0xbitcoin.org",

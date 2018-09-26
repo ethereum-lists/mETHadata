@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://idice.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5a84969bb663fb64f6d015dcf9f622aedc796750.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5a84969bb663fb64f6d015dcf9f622aedc796750.png"
   },
   "support": {
     "email": "",

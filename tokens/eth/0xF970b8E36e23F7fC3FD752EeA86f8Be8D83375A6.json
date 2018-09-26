@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://ripiocredit.network",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/rcn.svg"
   },
   "support": {
     "email": "",

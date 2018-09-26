@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://bnktothefuture.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f.png"
   },
   "support": {
     "email": "",

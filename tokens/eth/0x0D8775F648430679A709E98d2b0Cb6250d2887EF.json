@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://basicattentiontoken.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d8775f648430679a709e98d2b0cb6250d2887ef.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/bat.svg"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://link.smartcontract.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x514910771af9ca656af840dff83e8264ecf986ca.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x514910771af9ca656af840dff83e8264ecf986ca.png"
   },
   "support": {
     "email": "support@smartcontract.com",

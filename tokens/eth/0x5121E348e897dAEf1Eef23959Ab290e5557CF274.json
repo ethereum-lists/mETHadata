@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://polynetwork.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5121e348e897daef1eef23959ab290e5557cf274.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5121e348e897daef1eef23959ab290e5557cf274.png"
   },
   "support": {
     "email": "",

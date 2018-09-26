@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://bitrent.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1fe70be734e473e5721ea57c8b5b01e6caa52686.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1fe70be734e473e5721ea57c8b5b01e6caa52686.png"
   },
   "support": {
     "email": "",

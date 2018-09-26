@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://substratum.net",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/sub.svg"
   },
   "support": {
     "email": "justin@substratum.net",

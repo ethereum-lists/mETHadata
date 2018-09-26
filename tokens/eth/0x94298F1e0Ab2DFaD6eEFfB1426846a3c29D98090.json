@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://mybit.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x94298f1e0ab2dfad6eeffb1426846a3c29d98090.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x94298f1e0ab2dfad6eeffb1426846a3c29d98090.png"
   },
   "support": {
     "email": "info@mybit.io",

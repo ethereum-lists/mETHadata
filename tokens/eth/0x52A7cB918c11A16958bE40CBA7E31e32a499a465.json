@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.fidentiax.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x52a7cb918c11a16958be40cba7e31e32a499a465.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x52a7cb918c11a16958be40cba7e31e32a499a465.png"
   },
   "support": {
     "email": "",

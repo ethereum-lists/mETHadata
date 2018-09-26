@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://www.tracto.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x30cecb5461a449a90081f5a5f55db4e048397bab.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x30cecb5461a449a90081f5a5f55db4e048397bab.png"
   },
   "support": {
     "email": "",

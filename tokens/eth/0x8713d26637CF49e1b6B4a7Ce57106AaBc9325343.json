@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://cnntoken.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8713d26637cf49e1b6b4a7ce57106aabc9325343.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8713d26637cf49e1b6b4a7ce57106aabc9325343.png"
   },
   "support": {
     "email": "",

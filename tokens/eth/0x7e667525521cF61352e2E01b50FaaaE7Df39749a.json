@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.cryptomart.me",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7e667525521cf61352e2e01b50faaae7df39749a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7e667525521cf61352e2e01b50faaae7df39749a.png"
   },
   "support": {
     "email": "",

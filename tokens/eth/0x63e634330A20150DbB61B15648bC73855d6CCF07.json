@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://blocklancer.net",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x63e634330a20150dbb61b15648bc73855d6ccf07.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x63e634330a20150dbb61b15648bc73855d6ccf07.png"
   },
   "support": {
     "email": "contact@blocklancer.net",

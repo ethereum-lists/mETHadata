@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://cardstack.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1ed2b1eaed8e968bc36eb90a914660a71827a5e9.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1ed2b1eaed8e968bc36eb90a914660a71827a5e9.png"
   },
   "support": {
     "email": "support@cardstack.com",

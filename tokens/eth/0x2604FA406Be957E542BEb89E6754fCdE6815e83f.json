@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://playkey.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2604fa406be957e542beb89e6754fcde6815e83f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2604fa406be957e542beb89e6754fcde6815e83f.png"
   },
   "support": {
     "email": "",

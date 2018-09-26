@@ -9,7 +9,8 @@
     "src": "https://merculet.io/static/image/newimg/logo.png",
     "width": "356",
     "height": "366",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a77e40936bbc27e80e9a3f526368c967869c86d.png"
   },
   "support": {
     "email": "support@merculet.io",

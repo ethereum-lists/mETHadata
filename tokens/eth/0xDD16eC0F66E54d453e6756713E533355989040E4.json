@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.tokenomy.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd16ec0f66e54d453e6756713e533355989040e4.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd16ec0f66e54d453e6756713e533355989040e4.png"
   },
   "support": {
     "email": "",

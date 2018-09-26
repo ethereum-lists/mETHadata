@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://bitnation.co",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82.png"
   },
   "support": {
     "email": "usersupport@bitnation.co",

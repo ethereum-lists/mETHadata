@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://livestars.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24a77c1f17c547105e14813e517be06b0040aa76.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24a77c1f17c547105e14813e517be06b0040aa76.png"
   },
   "support": {
     "email": "info@livestars.io",

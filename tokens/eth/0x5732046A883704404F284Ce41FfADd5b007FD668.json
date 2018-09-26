@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://bluzelle.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5732046a883704404f284ce41ffadd5b007fd668.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/blz.svg"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://zippie.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xedd7c94fd7b4971b916d15067bc454b9e1bad980.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xedd7c94fd7b4971b916d15067bc454b9e1bad980.png"
   },
   "support": {
     "email": "",

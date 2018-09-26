@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://blockarray.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa5f8fc0921880cb7342368bd128eb8050442b1a1.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/ary.svg"
   },
   "support": {
     "email": "",

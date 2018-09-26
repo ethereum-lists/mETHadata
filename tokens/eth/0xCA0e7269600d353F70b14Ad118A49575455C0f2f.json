@@ -10,7 +10,8 @@
     "src": "https://s3.eu-west-2.amazonaws.com/amlt/AMLT_logo_mew.png",
     "width": "128",
     "height": "128",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xca0e7269600d353f70b14ad118a49575455c0f2f.png"
   },
   "support": {
     "email": "amlt@coinfirm.io ",

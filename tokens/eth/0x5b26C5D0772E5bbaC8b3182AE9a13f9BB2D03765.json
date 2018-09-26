@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://tokensale.liveedu.tv",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.png"
   },
   "support": {
     "email": "support@liveedu.tv",

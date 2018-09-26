@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://atn.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x461733c17b0755ca5649b6db08b3e213fcf22546.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x461733c17b0755ca5649b6db08b3e213fcf22546.png"
   },
   "support": {
     "email": "",

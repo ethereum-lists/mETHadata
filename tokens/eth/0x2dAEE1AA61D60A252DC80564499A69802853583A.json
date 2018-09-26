@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://authorship.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2daee1aa61d60a252dc80564499a69802853583a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2daee1aa61d60a252dc80564499a69802853583a.png"
   },
   "support": {
     "email": "",

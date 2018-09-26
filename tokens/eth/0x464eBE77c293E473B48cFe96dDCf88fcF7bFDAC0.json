@@ -9,7 +9,8 @@
     "src": "https://kryll.io/external/K_256px.png",
     "width": "512",
     "height": "512",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0.png"
   },
   "support": {
     "email": "support@kryll.io",

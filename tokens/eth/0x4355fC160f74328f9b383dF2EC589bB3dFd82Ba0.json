@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://opus-foundation.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4355fc160f74328f9b383df2ec589bb3dfd82ba0.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4355fc160f74328f9b383df2ec589bb3dfd82ba0.png"
   },
   "support": {
     "email": "info@opus-foundation.com",

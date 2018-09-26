@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://selfkey.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7.png"
   },
   "support": {
     "email": "support@selfkey.org",

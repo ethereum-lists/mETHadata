@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://napoleonx.ai/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28b5e12cce51f15594b0b91d5b5adaa70f684a02.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28b5e12cce51f15594b0b91d5b5adaa70f684a02.png"
   },
   "support": {
     "email": "",

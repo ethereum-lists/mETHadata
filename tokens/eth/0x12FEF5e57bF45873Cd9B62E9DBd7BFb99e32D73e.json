@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://cofound.it/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e.png"
   },
   "support": {
     "email": "support@cofound.it",

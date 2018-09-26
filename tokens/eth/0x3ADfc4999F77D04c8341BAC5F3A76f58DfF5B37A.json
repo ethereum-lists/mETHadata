@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://privatix.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a.png"
   },
   "support": {
     "email": "",

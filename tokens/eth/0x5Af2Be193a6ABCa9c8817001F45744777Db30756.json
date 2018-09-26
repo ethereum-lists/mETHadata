@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.bitquence.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5af2be193a6abca9c8817001f45744777db30756.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5af2be193a6abca9c8817001f45744777db30756.png"
   },
   "support": {
     "email": "info@bitquence.com",

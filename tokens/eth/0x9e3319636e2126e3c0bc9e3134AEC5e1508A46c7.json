@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.universa.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7.png"
   },
   "support": {
     "email": "support@universa.io",

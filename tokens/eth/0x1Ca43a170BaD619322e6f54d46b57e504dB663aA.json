@@ -9,7 +9,8 @@
     "src": "https://artwook.com/logo/akc-line.png",
     "width": "256",
     "height": "256",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1ca43a170bad619322e6f54d46b57e504db663aa.png"
   },
   "support": {
     "email": "contact@artwook.com",

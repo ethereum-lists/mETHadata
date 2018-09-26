@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://postoken.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xee609fe292128cad03b786dbb9bc2634ccdbe7fc.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xee609fe292128cad03b786dbb9bc2634ccdbe7fc.png"
   },
   "support": {
     "email": "contact@postoken.org",

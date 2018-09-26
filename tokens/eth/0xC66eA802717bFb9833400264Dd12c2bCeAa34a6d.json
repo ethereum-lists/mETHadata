@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://makerdao.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc66ea802717bfb9833400264dd12c2bceaa34a6d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc66ea802717bfb9833400264dd12c2bceaa34a6d.png"
   },
   "support": {
     "email": "support@makerdao.com",

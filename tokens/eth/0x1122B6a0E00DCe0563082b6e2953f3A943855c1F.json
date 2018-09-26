@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.centrality.ai/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1122b6a0e00dce0563082b6e2953f3a943855c1f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1122b6a0e00dce0563082b6e2953f3a943855c1f.png"
   },
   "support": {
     "email": "",

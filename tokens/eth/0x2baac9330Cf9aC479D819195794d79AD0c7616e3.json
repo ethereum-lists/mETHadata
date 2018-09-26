@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://adbank.network/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2baac9330cf9ac479d819195794d79ad0c7616e3.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2baac9330cf9ac479d819195794d79ad0c7616e3.png"
   },
   "support": {
     "email": "",

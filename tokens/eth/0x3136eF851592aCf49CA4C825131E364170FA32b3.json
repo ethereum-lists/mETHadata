@@ -9,7 +9,8 @@
     "src": "https://blog.coinfi.com/wp-content/uploads/2018/01/coinfi-token-logo_28x28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3136ef851592acf49ca4c825131e364170fa32b3.png"
   },
   "support": {
     "email": "contact@coinfi.com",

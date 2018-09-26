@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.lamden.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc27a2f05fa577a83ba0fdb4c38443c0718356501.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/tau.svg"
   },
   "support": {
     "email": "team@lamden.io",

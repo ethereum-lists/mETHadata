@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.sandcoin.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf333b2ace992ac2bbd8798bf57bc65a06184afba.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf333b2ace992ac2bbd8798bf57bc65a06184afba.png"
   },
   "support": {
     "email": "support@sandcoin.io",

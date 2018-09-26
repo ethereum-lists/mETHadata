@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://trueflip.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa7f976c360ebbed4465c2855684d1aae5271efa9.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa7f976c360ebbed4465c2855684d1aae5271efa9.png"
   },
   "support": {
     "email": "info@trueflip.io",

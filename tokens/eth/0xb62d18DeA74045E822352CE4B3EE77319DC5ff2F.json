@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://eventchain.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f.png"
   },
   "support": {
     "email": "team@eventchain.io",

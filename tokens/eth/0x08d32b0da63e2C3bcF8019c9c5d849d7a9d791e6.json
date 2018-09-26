@@ -9,7 +9,8 @@
     "src": "https://dentacoin.com/web/img/DCNlogo.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/dcn.svg"
   },
   "support": {
     "email": "admin@dentacoin.com",

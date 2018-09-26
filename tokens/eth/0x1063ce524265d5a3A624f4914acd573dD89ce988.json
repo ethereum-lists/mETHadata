@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://aigang.network/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1063ce524265d5a3a624f4914acd573dd89ce988.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1063ce524265d5a3a624f4914acd573dd89ce988.png"
   },
   "support": {
     "email": "",

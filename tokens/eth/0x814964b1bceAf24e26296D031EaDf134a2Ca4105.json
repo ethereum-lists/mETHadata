@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://newbium.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x814964b1bceaf24e26296d031eadf134a2ca4105.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x814964b1bceaf24e26296d031eadf134a2ca4105.png"
   },
   "support": {
     "email": "",

@@ -9,7 +9,8 @@
     "src": "https://s2.coinmarketcap.com/static/img/coins/32x32/2541.png",
     "width": "32",
     "height": "32",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5c3a228510d246b78a3765c20221cbf3082b44a4.png"
   },
   "support": {
     "email": "support@storiqa.zendesk.com",

@@ -9,7 +9,8 @@
     "src": "https://raw.githubusercontent.com/bitdegree/banners/master/logos/2515x3285_letter_black.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1961b3331969ed52770751fc718ef530838b6dee.png"
   },
   "support": {
     "email": "hello@bitdegree.org",

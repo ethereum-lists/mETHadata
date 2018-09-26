@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://mixin.one/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa974c709cfb4566686553a20790685a47aceaa33.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa974c709cfb4566686553a20790685a47aceaa33.png"
   },
   "support": {
     "email": "",

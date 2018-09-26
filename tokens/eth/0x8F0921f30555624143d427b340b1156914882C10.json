@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://flyp.me/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8f0921f30555624143d427b340b1156914882c10.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8f0921f30555624143d427b340b1156914882c10.png"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.nagaico.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/ngc.svg"
   },
   "support": {
     "email": "support@nagaico.com",

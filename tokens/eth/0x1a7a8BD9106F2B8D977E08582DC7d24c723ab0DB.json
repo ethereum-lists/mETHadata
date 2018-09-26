@@ -9,7 +9,8 @@
     "src": "https://ibb.co/jFsGsG",
     "width": 250,
     "height": 250,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/appc.svg"
   },
   "support": {
     "email": "info@appcoins.io",

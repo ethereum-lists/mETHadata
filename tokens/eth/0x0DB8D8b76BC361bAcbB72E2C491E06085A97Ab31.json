@@ -9,7 +9,8 @@
     "src": "https://s3.eu-central-1.amazonaws.com/iqeon-content/logo/4_5953844568075010913.png",
     "width": 115,
     "height": 128,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0db8d8b76bc361bacbb72e2c491e06085a97ab31.png"
   },
   "support": {
     "email": "support@iqeon.io",

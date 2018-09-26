@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://www.rcfund.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a3aa9eca41e720ed46b5a70d6c37efa47f768ac.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a3aa9eca41e720ed46b5a70d6c37efa47f768ac.png"
   },
   "support": {
     "email": "martin@rcfund.org",

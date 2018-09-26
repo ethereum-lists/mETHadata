@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://ambrosus.com/index.html",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/amb.svg"
   },
   "support": {
     "email": "",

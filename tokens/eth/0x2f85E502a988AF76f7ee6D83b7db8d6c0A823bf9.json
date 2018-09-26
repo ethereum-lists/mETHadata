@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://latium.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2f85e502a988af76f7ee6d83b7db8d6c0a823bf9.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2f85e502a988af76f7ee6d83b7db8d6c0a823bf9.png"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.diviproject.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13f11c9905a08ca76e3e853be63d4f0944326c72.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13f11c9905a08ca76e3e853be63d4f0944326c72.png"
   },
   "support": {
     "email": "support@diviproject.org",

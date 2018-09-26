@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://earth-token.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x900b4449236a7bb26b286601dd14d2bde7a6ac6c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x900b4449236a7bb26b286601dd14d2bde7a6ac6c.png"
   },
   "support": {
     "email": "",

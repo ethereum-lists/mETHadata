@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.gatcoin.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x687174f8c49ceb7729d925c3a961507ea4ac7b28.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x687174f8c49ceb7729d925c3a961507ea4ac7b28.png"
   },
   "support": {
     "email": "",

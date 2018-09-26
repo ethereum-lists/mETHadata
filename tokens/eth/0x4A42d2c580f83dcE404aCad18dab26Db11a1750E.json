@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://www.relex.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4a42d2c580f83dce404acad18dab26db11a1750e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4a42d2c580f83dce404acad18dab26db11a1750e.png"
   },
   "support": {
     "email": "hello@relex.io",

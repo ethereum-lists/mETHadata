@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://www.tokenclub.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7.png"
   },
   "support": {
     "email": "",

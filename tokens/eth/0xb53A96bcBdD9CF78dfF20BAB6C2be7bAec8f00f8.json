@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://www.ethgas.stream",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8.png"
   },
   "support": {
     "email": "egas@ethgas.stream",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.banyanbbt.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x35a69642857083ba2f30bfab735dacc7f0bac969.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x35a69642857083ba2f30bfab735dacc7f0bac969.png"
   },
   "support": {
     "email": "",

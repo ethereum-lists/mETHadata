@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.huobi.pro/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6f259637dcd74c767781e37bc6133cd6a68aa161.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6f259637dcd74c767781e37bc6133cd6a68aa161.png"
   },
   "support": {
     "email": "",

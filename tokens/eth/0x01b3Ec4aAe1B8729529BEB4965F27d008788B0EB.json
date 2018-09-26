@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://cofound.it/en/projects/digital-assets-power-play",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x01b3ec4aae1b8729529beb4965f27d008788b0eb.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x01b3ec4aae1b8729529beb4965f27d008788b0eb.png"
   },
   "support": {
     "email": "",

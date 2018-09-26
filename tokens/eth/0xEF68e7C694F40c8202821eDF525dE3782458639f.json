@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://loopring.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xef68e7c694f40c8202821edf525de3782458639f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/lrc.svg"
   },
   "support": {
     "email": "foundation@loopring.org",

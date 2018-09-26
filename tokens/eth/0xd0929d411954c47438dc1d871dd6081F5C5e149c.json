@@ -9,7 +9,8 @@
     "src": "28",
     "width": "28",
     "height": "https://etherscan.io/token/images/refereum.png",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0929d411954c47438dc1d871dd6081f5c5e149c.png"
   },
   "support": {
     "email": "team@refereum.com",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://etheroll.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2e071d2966aa7d8decb1005885ba1977d6038a65.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2e071d2966aa7d8decb1005885ba1977d6038a65.png"
   },
   "support": {
     "email": "support@etheroll.com",

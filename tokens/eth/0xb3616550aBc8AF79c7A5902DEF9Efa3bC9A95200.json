@@ -10,7 +10,8 @@
     "src": "http://telexai.com/img/tlxlogo.png",
     "width": "656px",
     "height": "656px",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb3616550abc8af79c7a5902def9efa3bc9a95200.png"
   },
   "support": {
     "email": "info@telexai.com",

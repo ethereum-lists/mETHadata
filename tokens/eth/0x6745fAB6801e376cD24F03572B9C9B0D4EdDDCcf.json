@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://sensay.it",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6745fab6801e376cd24f03572b9c9b0d4edddccf.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6745fab6801e376cd24f03572b9c9b0d4edddccf.png"
   },
   "support": {
     "email": "",

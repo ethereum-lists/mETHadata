@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://vicetoken.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x23b75bc7aaf28e2d6628c3f424b3882f8f072a3c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x23b75bc7aaf28e2d6628c3f424b3882f8f072a3c.png"
   },
   "support": {
     "email": "",

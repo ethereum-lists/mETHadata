@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://melonport.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/mln.svg"
   },
   "support": {
     "email": "",

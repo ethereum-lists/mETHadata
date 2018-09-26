@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://jibrel.network",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/jnt.svg"
   },
   "support": {
     "email": "support@jibrel.network",

@@ -9,7 +9,8 @@
     "src": "https://chaintrade.net/wp-content/uploads/2017/09/chaintrade-logo-600x600.png",
     "width": 600,
     "height": 600,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5.png"
   },
   "support": {
     "email": "contact@chaintrade.net",

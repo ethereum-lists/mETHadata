@@ -9,7 +9,8 @@
     "src": "https://raw.githubusercontent.com/FundRequest/logo/master/Logo%20icon%20500x500.png",
     "width": "500",
     "height": "500",
-    "ipfs_hash": "QmbGpu4tWoHEtPy64tNeYENsNqTSF22U12VRYswhjYjNcj"
+    "ipfs_hash": "QmbGpu4tWoHEtPy64tNeYENsNqTSF22U12VRYswhjYjNcj",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4df47b4969b2911c966506e3592c41389493953b.png"
   },
   "support": {
     "email": "info@fundrequest.io",

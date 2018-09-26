@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://sportyfi.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef.png"
   },
   "support": {
     "email": "support@sportyfi.io",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://ihtcoin.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xeda8b016efa8b1161208cf041cd86972eee0f31e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xeda8b016efa8b1161208cf041cd86972eee0f31e.png"
   },
   "support": {
     "email": "",

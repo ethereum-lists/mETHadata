@@ -6,10 +6,11 @@
   "ens_address": "crypto20.eth",
   "website": "https://crypto20.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x26e75307fc0c021472feb8f727839531f112f317.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x26e75307fc0c021472feb8f727839531f112f317.png"
   },
   "support": {
     "email": "team@crypto20.com",

@@ -9,7 +9,8 @@
     "src": "https://www.dropbox.com/s/5ag9npp048m1qf0/logo_transparent_small.png?dl=0",
     "width": "480",
     "height": "480",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf660ca1e228e7be1fa8b4f5583145e31147fb577.png"
   },
   "support": {
     "email": "contact@dice.money",

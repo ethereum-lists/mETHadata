@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://otn.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x881ef48211982d01e2cb7092c915e647cd40d85c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x881ef48211982d01e2cb7092c915e647cd40d85c.png"
   },
   "support": {
     "email": "support@otn.org",

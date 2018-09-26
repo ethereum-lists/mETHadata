@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://nucleus.vision/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x809826cceab68c387726af962713b64cb5cb3cca.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/ncash.svg"
   },
   "support": {
     "email": "",

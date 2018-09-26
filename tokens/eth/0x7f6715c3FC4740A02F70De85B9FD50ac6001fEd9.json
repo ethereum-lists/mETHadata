@@ -9,7 +9,8 @@
     "src": "http://www.fanx.one/static/img/logo.png",
     "width": "132",
     "height": "132",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7f6715c3fc4740a02f70de85b9fd50ac6001fed9.png"
   },
   "support": {
     "email": "contact@fanx.one",

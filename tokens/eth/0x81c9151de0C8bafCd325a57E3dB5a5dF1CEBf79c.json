@@ -9,7 +9,8 @@
     "src": "https://datum.org/assets/images/datumlogo_square_128px.png",
     "width": 128,
     "height": 128,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/dat.svg"
   },
   "support": {
     "email": "support@datum.org",

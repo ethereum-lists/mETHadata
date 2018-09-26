@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://jet8.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4.png"
   },
   "support": {
     "email": "token@jet8.io",

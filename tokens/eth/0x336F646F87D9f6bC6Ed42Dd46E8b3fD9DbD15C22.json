@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://crystal-clear.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22.png"
   },
   "support": {
     "email": "ccs@crystal-clear.io",

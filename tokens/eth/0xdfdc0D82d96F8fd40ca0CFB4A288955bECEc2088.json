@@ -10,7 +10,8 @@
     "src": "http://bbs.mtc.io/upload/picture/user/avatar/7218.jpg",
     "width": "200",
     "height": "200",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdfdc0d82d96f8fd40ca0cfb4a288955becec2088.png"
   },
   "support": {
     "email": "team@mtc.io",

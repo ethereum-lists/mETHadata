@@ -9,7 +9,8 @@
     "src": "https://fluxproject.xyz/gallery_gen/271ecfb9c8f4f7dfc5ea539cfa57f44d_150x150.png",
     "width": "150",
     "height": "150",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x70b147e01e9285e7ce68b9ba437fe3a9190e756a.png"
   },
   "support": {
     "email": "support@fluxproject.xyz",

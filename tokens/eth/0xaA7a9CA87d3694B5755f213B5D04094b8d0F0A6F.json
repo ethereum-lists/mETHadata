@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://origintrail.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f.png"
   },
   "support": {
     "email": "",

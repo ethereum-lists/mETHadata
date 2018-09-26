@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://bonpay.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc34366e3842ca1bd36c1f324d15257960fcc801.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc34366e3842ca1bd36c1f324d15257960fcc801.png"
   },
   "support": {
     "email": "support@bonpay.com",

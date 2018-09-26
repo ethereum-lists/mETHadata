@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://horizonstate.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x554c20b7c486beee439277b4540a434566dc4c02.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x554c20b7c486beee439277b4540a434566dc4c02.png"
   },
   "support": {
     "email": "questions@horizonstate.com",

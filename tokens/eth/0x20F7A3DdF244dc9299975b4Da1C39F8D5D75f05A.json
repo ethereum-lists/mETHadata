@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.sapien.network/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a.png"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://pumapay.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x846c66cf71c43f80403b51fe3906b3599d63336f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x846c66cf71c43f80403b51fe3906b3599d63336f.png"
   },
   "support": {
     "email": "",

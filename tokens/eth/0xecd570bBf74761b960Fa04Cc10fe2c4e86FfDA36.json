@@ -9,7 +9,8 @@
     "src": "https://etherscan.io/token/images/stash_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xecd570bbf74761b960fa04cc10fe2c4e86ffda36.png"
   },
   "support": {
     "email": "support@stashpay.io",

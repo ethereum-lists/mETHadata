@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://xpa.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/xpa.svg"
   },
   "support": {
     "email": "",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://sirinlabs.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/srn.svg"
   },
   "support": {
     "email": "crowdsale@sirinlabs.com",

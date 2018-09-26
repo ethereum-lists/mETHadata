@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://www.sharechain.org/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d3e7d41da367b4fdce7cbe06502b13294deb758.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d3e7d41da367b4fdce7cbe06502b13294deb758.png"
   },
   "support": {
     "email": "",

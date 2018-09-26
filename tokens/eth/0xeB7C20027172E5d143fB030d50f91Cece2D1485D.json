@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://ebitcoin.org",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xeb7c20027172e5d143fb030d50f91cece2d1485d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xeb7c20027172e5d143fb030d50f91cece2d1485d.png"
   },
   "support": {
     "email": "contact@ebitcoin.org",

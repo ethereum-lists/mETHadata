@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "http://erc20-amis.amisolution.net",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x949bed886c739f1a3273629b3320db0c5024c719.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x949bed886c739f1a3273629b3320db0c5024c719.png"
   },
   "support": {
     "email": "info@amisolution.net",

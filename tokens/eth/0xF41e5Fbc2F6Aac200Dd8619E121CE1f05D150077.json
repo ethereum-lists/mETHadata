@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://crycash.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf41e5fbc2f6aac200dd8619e121ce1f05d150077.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf41e5fbc2f6aac200dd8619e121ce1f05d150077.png"
   },
   "support": {
     "email": "",

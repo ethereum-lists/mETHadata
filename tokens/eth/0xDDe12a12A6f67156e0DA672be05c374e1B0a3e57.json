@@ -6,10 +6,11 @@
   "ens_address": "joysoToken.eth",
   "website": "https://joyso.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdde12a12a6f67156e0da672be05c374e1b0a3e57.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdde12a12a6f67156e0da672be05c374e1b0a3e57.png"
   },
   "support": {
     "email": "support@joyso.io",

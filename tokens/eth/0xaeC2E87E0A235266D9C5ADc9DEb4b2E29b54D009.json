@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://singulardtv.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/sngls.svg"
   },
   "support": {
     "email": "contact@singulardtv.com",

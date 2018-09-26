@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://aeron.aero",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba5f11b16b155792cf3b2e6880e8706859a8aeb6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/arn.svg"
   },
   "support": {
     "email": "info@aeron.aero",

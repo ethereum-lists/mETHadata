@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://aion.network/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/aion.svg"
   },
   "support": {
     "email": "media@aion.network",

@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://scroll.network/scrl/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24dcc881e7dd730546834452f21872d5cb4b5293.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24dcc881e7dd730546834452f21872d5cb4b5293.png"
   },
   "support": {
     "email": "",

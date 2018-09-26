@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://blocksquare.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.png"
   },
   "support": {
     "email": "future@blocksquare.io",

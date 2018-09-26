@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://uttoken.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x16f812be7fff02caf662b85d5d58a5da6572d4df.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x16f812be7fff02caf662b85d5d58a5da6572d4df.png"
   },
   "support": {
     "email": "",

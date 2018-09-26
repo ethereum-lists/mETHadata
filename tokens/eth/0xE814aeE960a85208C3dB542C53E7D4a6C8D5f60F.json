@@ -9,7 +9,8 @@
     "src": "https://chronologic.network/img/chronologic_tokenlogo128.png",
     "width": "128",
     "height": "128",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe814aee960a85208c3db542c53e7d4a6c8d5f60f.png"
   },
   "support": {
     "email": "support@chronologic.zendesk.com",

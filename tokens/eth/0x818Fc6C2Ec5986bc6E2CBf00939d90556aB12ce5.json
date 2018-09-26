@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://kin.kik.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/kin.svg"
   },
   "support": {
     "email": "kin@kik.com",

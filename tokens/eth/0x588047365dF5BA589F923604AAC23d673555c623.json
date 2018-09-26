@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://naviaddress.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x588047365df5ba589f923604aac23d673555c623.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x588047365df5ba589f923604aac23d673555c623.png"
   },
   "support": {
     "email": "support@naviaddress.com",

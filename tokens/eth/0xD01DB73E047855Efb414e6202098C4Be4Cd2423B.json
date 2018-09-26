@@ -9,7 +9,8 @@
     "src": "https://etherscan.io/token/images/uquid_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd01db73e047855efb414e6202098c4be4cd2423b.png"
   },
   "support": {
     "email": "admin@uquidcoin.com",

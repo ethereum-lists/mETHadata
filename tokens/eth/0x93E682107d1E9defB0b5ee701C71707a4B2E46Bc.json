@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.mcaplabs.com/mcaptoken.html",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x93e682107d1e9defb0b5ee701c71707a4b2e46bc.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/mcap.svg"
   },
   "support": {
     "email": "",

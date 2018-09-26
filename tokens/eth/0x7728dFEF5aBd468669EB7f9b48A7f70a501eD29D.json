@@ -9,7 +9,8 @@
     "src": "https://etherscan.io/token/images/paragon2.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7728dfef5abd468669eb7f9b48a7f70a501ed29d.png"
   },
   "support": {
     "email": "info@paragoncoin.com",

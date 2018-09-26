@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.muxe.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x515669d308f887fd83a471c7764f5d084886d34d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x515669d308f887fd83a471c7764f5d084886d34d.png"
   },
   "support": {
     "email": "info@muxe.io",

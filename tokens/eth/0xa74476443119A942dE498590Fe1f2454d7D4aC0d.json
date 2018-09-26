@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://golem.network",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa74476443119a942de498590fe1f2454d7d4ac0d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/gnt.svg"
   },
   "support": {
     "email": "contact@golemproject.net",

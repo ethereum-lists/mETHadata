@@ -9,5 +9,10 @@
   "website": "",
   "social": {
     "github": "https://github.com/walleth/contracts/tree/master/NoneToken"
+  },
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": ""
   }
 }

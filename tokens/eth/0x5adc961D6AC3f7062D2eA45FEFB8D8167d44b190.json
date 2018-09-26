@@ -9,7 +9,8 @@
     "src": "https://ipfs.io/ipfs/QmTbnd1okDoU188cLCFvZorxWgfVHdoLwwnLKxkJJFcncv",
     "width": "349",
     "height": "349",
-    "ipfs_hash": "QmTbnd1okDoU188cLCFvZorxWgfVHdoLwwnLKxkJJFcncv"
+    "ipfs_hash": "QmTbnd1okDoU188cLCFvZorxWgfVHdoLwwnLKxkJJFcncv",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190.png"
   },
   "support": {
     "email": "support@dether.io",

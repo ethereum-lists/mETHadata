@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://funfair.io",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x419d0d8bdd9af5e606ae2232ed285aff190e711b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/fun.svg"
   },
   "support": {
     "email": "",

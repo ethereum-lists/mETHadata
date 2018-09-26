@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.rocketpool.net",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4efd85c19999d84251304bda99e90b92300bd93.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4efd85c19999d84251304bda99e90b92300bd93.png"
   },
   "support": {
     "email": "support@mail.rocketpool.net",

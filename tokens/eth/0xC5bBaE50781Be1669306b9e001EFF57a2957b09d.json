@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://gifto.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc5bbae50781be1669306b9e001eff57a2957b09d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/gto.svg"
   },
   "support": {
     "email": "",

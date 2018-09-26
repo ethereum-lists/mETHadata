@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.leverj.io/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f4ca92660efad97a9a70cb0fe969c755439772c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f4ca92660efad97a9a70cb0fe969c755439772c.png"
   },
   "support": {
     "email": "",

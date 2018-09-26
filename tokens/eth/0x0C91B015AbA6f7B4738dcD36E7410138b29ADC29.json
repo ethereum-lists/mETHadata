@@ -9,7 +9,8 @@
     "src": "https://coinoil.io/oldw/assets/images/logo/icon.png",
     "width": "146",
     "height": "157",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0c91b015aba6f7b4738dcd36e7410138b29adc29.png"
   },
   "support": {
     "email": "support@coinoil.io",

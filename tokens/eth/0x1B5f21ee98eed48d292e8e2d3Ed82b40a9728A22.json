@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://databrokerdao.com",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b5f21ee98eed48d292e8e2d3ed82b40a9728a22.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b5f21ee98eed48d292e8e2d3ed82b40a9728a22.png"
   },
   "support": {
     "email": "hello@databrokerdao.com",

@@ -9,7 +9,8 @@
     "src": "https://climatecoin.io/uploads/logosmall-1-42x42.png",
     "width": "42",
     "height": "42",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4b1d2c217ec0776584ce08d3dd98f90ededa44b.png"
   },
   "support": {
     "email": "info@climatecoin.com",

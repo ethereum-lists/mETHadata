@@ -6,10 +6,11 @@
   "ens_address": "",
   "website": "https://www.waykichain.com/",
   "logo": {
-    "src": "",
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4f878c0852722b0976a955d68b376e4cd4ae99e5.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4f878c0852722b0976a955d68b376e4cd4ae99e5.png"
   },
   "support": {
     "email": "",
