@@ -10,7 +10,11 @@
     "width": "320",
     "height": "310",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17f8afb63dfcdcc90ebe6e84f060cc306a98257d.png"
+    "sources": {
+      "token-list": "https://tokensale.nebula-ai.network/ressources/images/1801349612.jpg",
+      "twitter": "http://pbs.twimg.com/profile_images/972197365041061888/m0vp4DxU.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17f8afb63dfcdcc90ebe6e84f060cc306a98257d.png"
+    }
   },
   "support": {
     "email": "contact@nebula-ai.com",

@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/980782831809970176/7UezG72y.jpg"
+    }
   },
   "support": {
     "email": "admin@pinkexc.com",

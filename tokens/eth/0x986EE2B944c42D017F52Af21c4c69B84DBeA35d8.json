@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x986ee2b944c42d017f52af21c4c69b84dbea35d8.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/941618917570625536/Aymw64gz.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x986ee2b944c42d017f52af21c4c69b84dbea35d8.png"
+    }
   },
   "support": {
     "email": "support@bitmart.com",

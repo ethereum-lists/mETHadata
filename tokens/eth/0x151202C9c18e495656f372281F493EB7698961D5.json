@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x151202c9c18e495656f372281f493eb7698961d5.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/907190428188987393/8vWd-XJm.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x151202c9c18e495656f372281f493eb7698961d5.png"
+    }
   },
   "support": {
     "email": "support@debitum.network",

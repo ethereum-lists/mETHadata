@@ -10,7 +10,11 @@
     "width": "100",
     "height": "100",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb0d926c1bc3d78064f3e1075d5bd9a24f35ae6c5.png"
+    "sources": {
+      "token-list": "https://aronline.io/wp-content/uploads/2018/01/favicon.png",
+      "twitter": "http://pbs.twimg.com/profile_images/905451532539240450/A2dcad4l.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb0d926c1bc3d78064f3e1075d5bd9a24f35ae6c5.png"
+    }
   },
   "support": {
     "email": "staff@aronline.io",

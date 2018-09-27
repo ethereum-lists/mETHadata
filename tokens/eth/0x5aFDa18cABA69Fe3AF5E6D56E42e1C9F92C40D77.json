@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/854740509050490880/UUDtyb6Q.jpg"
+    }
   },
   "support": {
     "email": "support@dinnerful.com",

@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/892524846868987905/V48KUZHN.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908.png"
+    }
   },
   "support": {
     "email": "info@humaniq.com",

@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/785412219160895488/7hacBpGB.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba.png"
+    }
   },
   "support": {
     "email": "support@dadi.co",

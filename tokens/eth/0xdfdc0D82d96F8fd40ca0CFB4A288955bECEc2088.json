@@ -11,7 +11,11 @@
     "width": "200",
     "height": "200",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdfdc0d82d96f8fd40ca0cfb4a288955becec2088.png"
+    "sources": {
+      "token-list": "http://bbs.mtc.io/upload/picture/user/avatar/7218.jpg",
+      "twitter": "http://pbs.twimg.com/profile_images/1016490532028084225/ivvkMZD2.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdfdc0d82d96f8fd40ca0cfb4a288955becec2088.png"
+    }
   },
   "support": {
     "email": "team@mtc.io",

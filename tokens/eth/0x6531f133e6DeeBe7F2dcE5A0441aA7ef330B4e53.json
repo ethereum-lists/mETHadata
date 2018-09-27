@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1029989464330907648/KF3DOqzy.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53.png"
+    }
   },
   "support": {
     "email": "info@chronobank.io",

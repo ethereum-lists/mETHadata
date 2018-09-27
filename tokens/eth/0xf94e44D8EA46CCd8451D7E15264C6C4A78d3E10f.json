@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/969006658692108289/0QzNzKUM.jpg"
+    }
   },
   "support": {
     "email": "support@krosscoin.io",
@@ -27,7 +30,7 @@
     "reddit": "http://www.reddit.com/submit?url=https%3A%2F%2Fwww.krosscoin.io&title=Krosscoin.io",
     "slack": "",
     "telegram": "http://t.me/krosscoin_KSS",
-    "twitter": "http://twitter.com/share?text=Krosscoin.io&url=https%3A%2F%2Fwww.krosscoin.io&via=@krosscoin_team",
+    "twitter": "http://twitter.com/krosscoin_team",
     "youtube": ""
   }
 }

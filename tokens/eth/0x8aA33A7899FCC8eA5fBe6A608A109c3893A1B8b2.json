@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1043094194582171649/GbYSpdiK.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2.png"
+    }
   },
   "support": {
     "email": "team@dao.casino",

@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/evx.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/evx.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/762668774457741312/E78z5y-N.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8.png"
+    }
   },
   "support": {
     "email": "contact@everex.io",

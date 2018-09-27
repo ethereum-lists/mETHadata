@@ -9,7 +9,10 @@
     "src": "https://www.cryptotask.org/wp-content/uploads/2017/10/Logo_H-01.svg",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://www.cryptotask.org/wp-content/uploads/2017/10/Logo_H-01.svg"
+    }
   },
   "support": {
     "email": "info@cryptotask.org",

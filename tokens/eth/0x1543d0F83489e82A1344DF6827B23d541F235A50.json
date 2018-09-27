@@ -9,7 +9,11 @@
     "src": "https://aigatha.com/img/AIgatha_Logo.png",
     "width": "300",
     "height": "300",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://aigatha.com/img/AIgatha_Logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/980042821729046529/XQkl4YUi.jpg"
+    }
   },
   "support": {
     "email": "support@aigatha.com",

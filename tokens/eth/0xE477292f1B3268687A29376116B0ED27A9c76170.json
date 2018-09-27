@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe477292f1b3268687a29376116b0ed27a9c76170.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/890916867371663361/RToGnr1-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe477292f1b3268687a29376116b0ed27a9c76170.png"
+    }
   },
   "support": {
     "email": "info@herocoin.io",

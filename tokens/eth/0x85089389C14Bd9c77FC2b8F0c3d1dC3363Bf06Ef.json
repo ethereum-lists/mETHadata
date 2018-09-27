@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/959355779756253184/j1ZzfNkj.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef.png"
+    }
   },
   "support": {
     "email": "support@sportyfi.io",

@@ -10,7 +10,12 @@
     "width": 28,
     "height": 28,
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/btm.svg"
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/bytom_28.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/btm.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/897366827138924544/TCpha9sV.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750.png"
+    }
   },
   "support": {
     "email": "contact@bytom.io",

@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/880522561737564161/de_Yxnp5.jpg"
+    }
   },
   "support": {
     "email": "support@gilgam.es",

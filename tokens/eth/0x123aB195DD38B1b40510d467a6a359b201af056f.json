@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x123ab195dd38b1b40510d467a6a359b201af056f.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/986885883466010626/vSmwL1rt.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x123ab195dd38b1b40510d467a6a359b201af056f.png"
+    }
   },
   "support": {
     "email": "",
@@ -28,7 +31,7 @@
     "reddit": "https://www.reddit.com/r/LegolasExchange/",
     "slack": "",
     "telegram": "https://t.me/legolasannouncements",
-    "twitter": "https://twitter.com/LGOGroup_?lang=en",
+    "twitter": "https://twitter.com/LGOGroup_",
     "youtube": ""
   }
 }

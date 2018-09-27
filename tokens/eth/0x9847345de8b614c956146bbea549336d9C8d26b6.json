@@ -10,7 +10,11 @@
     "src": "https://guld.io/img/logo.png",
     "width": "1000",
     "height": "506",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://guld.io/img/logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/871382365939130369/UmkFnuGC.jpg"
+    }
   },
   "support": {
     "email": "info@guld.io",

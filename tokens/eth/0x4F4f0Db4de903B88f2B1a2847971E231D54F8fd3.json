@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1039119363469705216/sa5bn1Ds.jpg"
+    }
   },
   "support": {
     "email": "info@geens.com",

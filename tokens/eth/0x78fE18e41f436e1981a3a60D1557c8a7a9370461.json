@@ -9,7 +9,11 @@
     "src": "https://i.imgur.com/KrgWBxm.jpg",
     "width": "300",
     "height": "300",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://i.imgur.com/KrgWBxm.jpg",
+      "twitter": "http://pbs.twimg.com/profile_images/641894249546428416/D1eVQipF.png"
+    }
   },
   "support": {
     "email": "info@scandiweb.com",

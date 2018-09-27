@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffe8196bc259e8dedc544d935786aa4709ec3e64.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/993392425489125376/a-DRgJ5Z.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffe8196bc259e8dedc544d935786aa4709ec3e64.png"
+    }
   },
   "support": {
     "email": "info@hedge-crypto.com",

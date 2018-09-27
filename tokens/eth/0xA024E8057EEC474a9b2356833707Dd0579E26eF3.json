@@ -9,7 +9,11 @@
     "src": "https://ibb.co/diUwiJ",
     "width": "300",
     "height": "299",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://ibb.co/diUwiJ",
+      "twitter": "http://abs.twimg.com/sticky/default_profile_images/default_profile.png"
+    }
   },
   "support": {
     "email": "ht@fixyapp.io",

@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x881ef48211982d01e2cb7092c915e647cd40d85c.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/919901184734957568/_lCGRlix.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x881ef48211982d01e2cb7092c915e647cd40d85c.png"
+    }
   },
   "support": {
     "email": "support@otn.org",

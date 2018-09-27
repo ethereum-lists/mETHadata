@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/679024726526713856/4juER30U.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671.png"
+    }
   },
   "support": {
     "email": "contact@numer.ai",

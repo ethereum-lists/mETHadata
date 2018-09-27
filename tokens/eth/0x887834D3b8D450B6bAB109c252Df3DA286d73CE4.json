@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x887834d3b8d450b6bab109c252df3da286d73ce4.png"
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x887834d3b8d450b6bab109c252df3da286d73ce4.png"
+    }
   },
   "support": {
     "email": "contact@atmatrix.com",

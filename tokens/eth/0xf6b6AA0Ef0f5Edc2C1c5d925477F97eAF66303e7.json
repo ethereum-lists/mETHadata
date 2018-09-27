@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/980393328247058432/_L5lEp9v.jpg"
+    }
   },
   "support": {
     "email": "support@going-gems.com",

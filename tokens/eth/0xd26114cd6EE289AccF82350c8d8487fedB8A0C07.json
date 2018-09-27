@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/omg.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/omg.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/863984492112785408/6RriS9A5.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png"
+    }
   },
   "support": {
     "email": "omg@omise.co",

@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd4cffeef10f60eca581b5e1146b5aca4194a4c3b.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/950904403502010374/l8t2S1iA.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd4cffeef10f60eca581b5e1146b5aca4194a4c3b.png"
+    }
   },
   "support": {
     "email": "support@gamingforgood.net",

@@ -10,7 +10,11 @@
     "width": "500",
     "height": "500",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0235fe624e044a05eed7a43e16e3083bc8a4287a.png"
+    "sources": {
+      "token-list": "https://originalcryptocoin.com/wp-content/uploads/2018/01/cc-black-500.png",
+      "twitter": "http://pbs.twimg.com/profile_images/957375932116840448/_Q1cK1E3.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0235fe624e044a05eed7a43e16e3083bc8a4287a.png"
+    }
   },
   "support": {
     "email": "support@originalcryptocoin.com",

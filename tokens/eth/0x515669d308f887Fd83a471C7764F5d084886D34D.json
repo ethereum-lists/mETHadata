@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x515669d308f887fd83a471c7764f5d084886d34d.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/964199527350665216/fkf_ty6s.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x515669d308f887fd83a471c7764f5d084886d34d.png"
+    }
   },
   "support": {
     "email": "info@muxe.io",

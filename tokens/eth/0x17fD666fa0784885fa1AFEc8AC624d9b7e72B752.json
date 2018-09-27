@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17fd666fa0784885fa1afec8ac624d9b7e72b752.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/894587678640881665/ReGyg5QF.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17fd666fa0784885fa1afec8ac624d9b7e72b752.png"
+    }
   },
   "support": {
     "email": "flikcoin@gmail.com",

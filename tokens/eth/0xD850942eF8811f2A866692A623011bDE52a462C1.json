@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/ven.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ven.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/918430104308432896/iB1IqXhK.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd850942ef8811f2a866692a623011bde52a462c1.png"
+    }
   },
   "support": {
     "email": "support@vechain.com",

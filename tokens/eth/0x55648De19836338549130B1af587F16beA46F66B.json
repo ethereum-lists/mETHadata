@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55648de19836338549130b1af587f16bea46f66b.png"
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55648de19836338549130b1af587f16bea46f66b.png"
+    }
   },
   "support": {
     "email": "info@publica.io",

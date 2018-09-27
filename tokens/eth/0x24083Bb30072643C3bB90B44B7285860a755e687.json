@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/914150868768845824/PSE__cnh.jpg"
+    }
   },
   "support": {
     "email": "supportgelder@gmail.com",

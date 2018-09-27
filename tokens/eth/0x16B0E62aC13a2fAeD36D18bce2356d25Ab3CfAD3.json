@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x16b0e62ac13a2faed36d18bce2356d25ab3cfad3.png"
+    "sources": {
+      "token-list": "https://s9.postimg.org/6r4j2hc3z/btcbtq.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x16b0e62ac13a2faed36d18bce2356d25ab3cfad3.png"
+    }
   },
   "support": {
     "email": "btcbtq@gmail.com",

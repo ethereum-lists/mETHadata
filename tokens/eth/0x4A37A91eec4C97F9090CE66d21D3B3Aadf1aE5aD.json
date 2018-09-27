@@ -11,7 +11,10 @@
     "width": "256",
     "height": "256",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4a37a91eec4c97f9090ce66d21d3b3aadf1ae5ad.png"
+    "sources": {
+      "token-list": "https://lct.blob.core.windows.net/lct/lct_logo_256.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4a37a91eec4c97f9090ce66d21d3b3aadf1ae5ad.png"
+    }
   },
   "support": {
     "email": "service@liquorchain.io",

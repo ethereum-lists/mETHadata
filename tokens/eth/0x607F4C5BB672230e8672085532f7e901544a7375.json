@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/rlc.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/rlc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/969202604910759936/7O3oWKdQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x607f4c5bb672230e8672085532f7e901544a7375.png"
+    }
   },
   "support": {
     "email": "contact@iex.ec",

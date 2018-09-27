@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/mkr.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/mkr.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/929117604643454978/ebUqZEdk.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png"
+    }
   },
   "support": {
     "email": "support@makerdao.com",

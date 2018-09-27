@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/926061845206781952/aIiNV04D.jpg"
+    }
   },
   "support": {
     "email": "support@coalcoin.tech",

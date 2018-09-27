@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/dlt.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/dlt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/936727355443343360/tt2nKiAJ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x07e3c70653548b04f0a75970c1f81b4cbbfb606f.png"
+    }
   },
   "support": {
     "email": "support@agrello.org",

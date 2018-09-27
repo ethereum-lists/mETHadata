@@ -9,7 +9,11 @@
     "src": "https://workcoin.net/images/workcoin_logo.svg",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://workcoin.net/images/workcoin_logo.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/963130660960460800/6YdYtytZ.jpg"
+    }
   },
   "support": {
     "email": "support@workcoin.net",

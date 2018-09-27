@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/889100954431365120/ARq4klDC.jpg"
+    }
   },
   "support": {
     "email": "contact@theagora.io",

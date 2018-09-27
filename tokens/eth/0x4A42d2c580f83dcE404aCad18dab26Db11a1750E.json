@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4a42d2c580f83dce404acad18dab26db11a1750e.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1006004224428142593/YHXpJ-WP.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4a42d2c580f83dce404acad18dab26db11a1750e.png"
+    }
   },
   "support": {
     "email": "hello@relex.io",

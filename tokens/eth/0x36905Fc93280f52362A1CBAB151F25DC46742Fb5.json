@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x36905fc93280f52362a1cbab151f25dc46742fb5.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1001657884013248512/Nl96YdYQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x36905fc93280f52362a1cbab151f25dc46742fb5.png"
+    }
   },
   "support": {
     "email": "",

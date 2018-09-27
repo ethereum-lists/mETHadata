@@ -10,7 +10,11 @@
     "src": "http://www.wisepass.co/wordpress/home/images/logo.png",
     "width": 40,
     "height": 40,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "http://www.wisepass.co/wordpress/home/images/logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/858578860677382144/zL5UAqV8.jpg"
+    }
   },
   "support": {
     "email": "ico@wisepass.co",

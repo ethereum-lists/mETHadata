@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc3951d77737733174152532e8b0f27e2c4e9f0dc.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/902181224432754689/U-B5gHwF.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc3951d77737733174152532e8b0f27e2c4e9f0dc.png"
+    }
   },
   "support": {
     "email": "info@cloudwith.me",

@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0cf0ee63788a0849fe5297f3407f701e122cc023.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/978912510844731392/hlzjCgmF.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0cf0ee63788a0849fe5297f3407f701e122cc023.png"
+    }
   },
   "support": {
     "email": "contact@streamr.com",

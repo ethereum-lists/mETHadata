@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/dent.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/dent.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1037252789574008832/xXaE1pRX.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3597bfd533a99c9aa083587b074434e61eb0a258.png"
+    }
   },
   "support": {
     "email": "info@dentwireless.com",

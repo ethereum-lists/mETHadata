@@ -9,7 +9,11 @@
     "src": "http://beeunity.org/wp-content/uploads/2018/03/buc60.png",
     "width": 60,
     "height": 37,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "http://beeunity.org/wp-content/uploads/2018/03/buc60.png",
+      "twitter": "http://pbs.twimg.com/profile_images/970288208863899649/6u5Hqcq9.jpg"
+    }
   },
   "support": {
     "email": "support@beeunity.org",

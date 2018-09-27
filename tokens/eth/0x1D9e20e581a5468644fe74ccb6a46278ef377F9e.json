@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/905395476526231552/ojvOrkzf.jpg"
+    }
   },
   "support": {
     "email": "info@crederoom.com",

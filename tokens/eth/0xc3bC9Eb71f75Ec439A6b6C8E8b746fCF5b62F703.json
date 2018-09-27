@@ -9,7 +9,11 @@
     "src": "https://vormacoin.io/assets/images/logo/icon.png",
     "width": "200",
     "height": "150",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://vormacoin.io/assets/images/logo/icon.png",
+      "twitter": "http://pbs.twimg.com/profile_images/973116615343587328/klOHOtj-.jpg"
+    }
   },
   "support": {
     "email": "info@vormacoin.io",

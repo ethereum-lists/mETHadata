@@ -10,7 +10,11 @@
     "width": "42",
     "height": "42",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4b1d2c217ec0776584ce08d3dd98f90ededa44b.png"
+    "sources": {
+      "token-list": "https://climatecoin.io/uploads/logosmall-1-42x42.png",
+      "twitter": "http://pbs.twimg.com/profile_images/998864023843033088/95GqatO3.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4b1d2c217ec0776584ce08d3dd98f90ededa44b.png"
+    }
   },
   "support": {
     "email": "info@climatecoin.com",

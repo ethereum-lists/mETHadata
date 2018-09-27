@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe26517a9967299453d3f1b48aa005e6127e67210.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/887632461433327620/JZO8GLbY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe26517a9967299453d3f1b48aa005e6127e67210.png"
+    }
   },
   "support": {
     "email": "support@nimfamoney.io",

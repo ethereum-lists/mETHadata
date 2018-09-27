@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0371a82e4a9d0a4312f3ee2ac9c6958512891372.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/968584900797521920/wqgE926L.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0371a82e4a9d0a4312f3ee2ac9c6958512891372.png"
+    }
   },
   "support": {
     "email": "info@bitjob.io",

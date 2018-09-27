@@ -10,7 +10,11 @@
     "width": 200,
     "height": 200,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf6cfe53d6febaeea051f400ff5fc14f0cbbdaca1.png"
+    "sources": {
+      "token-list": "https://files.coinmarketcap.com/static/img/coins/200x200/digipulse.png",
+      "twitter": "http://pbs.twimg.com/profile_images/961169122561228800/GPv_XmWm.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf6cfe53d6febaeea051f400ff5fc14f0cbbdaca1.png"
+    }
   },
   "support": {
     "email": "hello@digipulse.io",

@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/926917468035174400/C9berSzF.jpg"
+    }
   },
   "support": {
     "email": "info@elcoin.io",

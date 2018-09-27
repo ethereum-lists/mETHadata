@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/913833120419467265/NddsNN3H.jpg"
+    }
   },
   "support": {
     "email": "hello@healthheart.io",

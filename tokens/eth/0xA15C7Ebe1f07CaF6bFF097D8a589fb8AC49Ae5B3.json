@@ -10,7 +10,11 @@
     "width": "28",
     "height": "28",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3.png"
+    "sources": {
+      "token-list": "https://pundix.com/logo/logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/911518497385021440/o4ZnRjv8.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3.png"
+    }
   },
   "support": {
     "email": "contact@pundix.com",

@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2aec18c5500f21359ce1bea5dc1777344df4c0dc.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1022148894568972288/OenUX5_W.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2aec18c5500f21359ce1bea5dc1777344df4c0dc.png"
+    }
   },
   "support": {
     "email": "contact@farmatrust.com",

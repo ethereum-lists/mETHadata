@@ -9,7 +9,10 @@
     "src": "https://cr7coin.org/assets/images/128.png",
     "width": 200,
     "height": 200,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://cr7coin.org/assets/images/128.png"
+    }
   },
   "support": {
     "email": "hello@cr7coin.org",

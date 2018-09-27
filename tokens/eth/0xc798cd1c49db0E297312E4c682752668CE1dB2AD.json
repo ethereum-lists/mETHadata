@@ -9,7 +9,10 @@
     "src": "https://www.liferun.cc/static/LRF/images/liferun-logo28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://www.liferun.cc/static/LRF/images/liferun-logo28.png"
+    }
   },
   "support": {
     "email": "support@liferun.cc",

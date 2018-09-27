@@ -10,7 +10,12 @@
     "width": 28,
     "height": 28,
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/wabi.svg"
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/wacoin_28.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/wabi.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/915107716015804416/G_iaqlP3.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x286bda1413a2df81731d4930ce2f862a35a609fe.png"
+    }
   },
   "support": {
     "email": "",

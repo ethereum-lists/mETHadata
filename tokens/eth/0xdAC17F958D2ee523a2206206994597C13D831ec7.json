@@ -10,7 +10,12 @@
     "width": 28,
     "height": 28,
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/usdt.svg"
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/tether28_2.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/usdt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/590917624294289408/676F_xrf.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+    }
   },
   "support": {
     "email": "billy@tether.to",

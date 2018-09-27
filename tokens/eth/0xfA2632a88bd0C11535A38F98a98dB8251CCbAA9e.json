@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1020412133027270662/wNWO0MCA.jpg"
+    }
   },
   "support": {
     "email": "team@groupco.in",

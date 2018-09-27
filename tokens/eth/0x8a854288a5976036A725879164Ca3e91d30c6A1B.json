@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a854288a5976036a725879164ca3e91d30c6a1b.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1036953212782342145/ak1AjJrb.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a854288a5976036a725879164ca3e91d30c6a1b.png"
+    }
   },
   "support": {
     "email": "contact@get-protocol.io",

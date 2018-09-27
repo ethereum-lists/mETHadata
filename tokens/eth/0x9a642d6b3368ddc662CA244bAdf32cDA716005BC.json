@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/qtum.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/qtum.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/923454462965858306/9e17rwRG.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a642d6b3368ddc662ca244badf32cda716005bc.png"
+    }
   },
   "support": {
     "email": "foundation@qtum.org",

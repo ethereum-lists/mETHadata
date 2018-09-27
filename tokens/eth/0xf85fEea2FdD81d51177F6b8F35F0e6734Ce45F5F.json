@@ -10,7 +10,12 @@
     "width": 28,
     "height": 28,
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/cmt.svg"
+    "sources": {
+      "token-list": "http://res.5milesapp.com/image/upload/v1512116368/ico/cmt28.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/cmt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/989766551682170880/1vpeJpWa.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f.png"
+    }
   },
   "support": {
     "email": "contact@5miles.com",

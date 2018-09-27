@@ -9,7 +9,11 @@
     "src": "https://ico.ojooo.com/images/token-logo.png",
     "width": "192",
     "height": "192",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://ico.ojooo.com/images/token-logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/832540216908988416/qgxmtZ3m.jpg"
+    }
   },
   "support": {
     "email": "tokensale@ojooo.com",

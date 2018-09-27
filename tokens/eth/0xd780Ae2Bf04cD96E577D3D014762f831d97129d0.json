@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd780ae2bf04cd96e577d3d014762f831d97129d0.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/925669071001214976/okWAudN-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd780ae2bf04cd96e577d3d014762f831d97129d0.png"
+    }
   },
   "support": {
     "email": "question@envion.org",

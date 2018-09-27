@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xafe60511341a37488de25bef351952562e31fcc1.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/910418332377014272/AN-jD-WD.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xafe60511341a37488de25bef351952562e31fcc1.png"
+    }
   },
   "support": {
     "email": "info@tbitbot.com",

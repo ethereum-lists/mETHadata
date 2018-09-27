@@ -9,7 +9,11 @@
     "src": "https://www.iadowrcoin.com/img/iadowrcoin.png",
     "width": "490",
     "height": "478",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://www.iadowrcoin.com/img/iadowrcoin.png",
+      "twitter": "http://pbs.twimg.com/profile_images/984099263469645824/C-RfMuwC.jpg"
+    }
   },
   "support": {
     "email": "admin@iadowrcoin.com",

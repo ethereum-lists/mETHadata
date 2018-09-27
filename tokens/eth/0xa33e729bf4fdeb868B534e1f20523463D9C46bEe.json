@@ -10,7 +10,10 @@
     "width": 28,
     "height": 28,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa33e729bf4fdeb868b534e1f20523463d9c46bee.png"
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/icocoin_28.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa33e729bf4fdeb868b534e1f20523463d9c46bee.png"
+    }
   },
   "support": {
     "email": "icobi@icobi.com",

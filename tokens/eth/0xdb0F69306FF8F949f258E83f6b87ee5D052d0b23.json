@@ -10,7 +10,11 @@
     "width": "128",
     "height": "128",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdb0f69306ff8f949f258e83f6b87ee5d052d0b23.png"
+    "sources": {
+      "token-list": "https://globcoin.io/assets/img/favicon-128x128.png",
+      "twitter": "http://pbs.twimg.com/profile_images/908629242065440768/EoxrWkOQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdb0f69306ff8f949f258e83f6b87ee5d052d0b23.png"
+    }
   },
   "support": {
     "email": "community@globcoin.io",

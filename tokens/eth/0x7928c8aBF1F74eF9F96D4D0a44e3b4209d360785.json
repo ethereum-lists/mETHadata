@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/956468148110331904/K-cZcb2D.jpg"
+    }
   },
   "support": {
     "email": "support@selfllery.com",

@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/924225217047748608/5aMIL2g8.jpg"
+    }
   },
   "support": {
     "email": "support@monspacecoin.org",

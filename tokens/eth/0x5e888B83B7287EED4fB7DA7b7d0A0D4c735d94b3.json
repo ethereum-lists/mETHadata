@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/978973276482437122/V5uqtyKB.jpg"
+    }
   },
   "support": {
     "email": "support:aco.ai",

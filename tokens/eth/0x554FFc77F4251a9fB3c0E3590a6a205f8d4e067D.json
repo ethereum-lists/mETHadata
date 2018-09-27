@@ -10,7 +10,10 @@
     "width": "300",
     "height": "300",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x554ffc77f4251a9fb3c0e3590a6a205f8d4e067d.png"
+    "sources": {
+      "token-list": "https://zmine.com/img/logo_300x300.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x554ffc77f4251a9fb3c0e3590a6a205f8d4e067d.png"
+    }
   },
   "support": {
     "email": "support@zmine.com",

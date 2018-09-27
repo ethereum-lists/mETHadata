@@ -10,7 +10,11 @@
     "width": "132",
     "height": "132",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb15fe5a123e647ba594cea7a1e648646f95eb4aa.png"
+    "sources": {
+      "token-list": "https://oss.sharder.org/sharder/Token/Token-logo-132x132.png",
+      "twitter": "http://pbs.twimg.com/profile_images/987241104893296640/1BLjsdnx.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb15fe5a123e647ba594cea7a1e648646f95eb4aa.png"
+    }
   },
   "support": {
     "email": "service@sharder.org",

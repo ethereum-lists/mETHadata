@@ -9,7 +9,11 @@
     "src": "https://thecargocoin.com/images/logo_icon.png",
     "width": "44",
     "height": "44",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://thecargocoin.com/images/logo_icon.png",
+      "twitter": "http://pbs.twimg.com/profile_images/980415566413467648/ljWa9lDK.jpg"
+    }
   },
   "support": {
     "email": "info@thecargocoin.com",

@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/904202574148055041/EiaMwkh7.jpg"
+    }
   },
   "support": {
     "email": "support@sinergiablockchain.org",

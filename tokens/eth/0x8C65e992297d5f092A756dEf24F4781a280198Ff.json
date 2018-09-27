@@ -9,7 +9,11 @@
     "src": "https://media.gazecoin.io/static/icons/gazecoin-28x28-on-trans.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://media.gazecoin.io/static/icons/gazecoin-28x28-on-trans.png",
+      "twitter": "http://pbs.twimg.com/profile_images/920235057981337600/V2qOZd2b.jpg"
+    }
   },
   "support": {
     "email": "support@gazecoin.io",

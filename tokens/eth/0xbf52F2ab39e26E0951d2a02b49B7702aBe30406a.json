@@ -10,7 +10,11 @@
     "width": "1000",
     "height": "1000",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a.png"
+    "sources": {
+      "token-list": "https://odem.io/wp-content/uploads/2017/09/odem-logo-sq-v0.2.png",
+      "twitter": "http://pbs.twimg.com/profile_images/950505589427224576/rlIuNPu-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a.png"
+    }
   },
   "support": {
     "email": "support@odem.io",

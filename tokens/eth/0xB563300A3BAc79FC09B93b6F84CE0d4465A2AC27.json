@@ -10,7 +10,11 @@
     "src": "https://i.imgur.com/EgxuJmy.png",
     "width": 128,
     "height": 128,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://i.imgur.com/EgxuJmy.png",
+      "twitter": "http://pbs.twimg.com/profile_images/963580132026961926/_4R8E0xf.jpg"
+    }
   },
   "support": {
     "email": "info@redcab.io",

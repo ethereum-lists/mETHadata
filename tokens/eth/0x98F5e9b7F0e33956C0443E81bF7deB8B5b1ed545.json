@@ -9,7 +9,10 @@
     "src": "https://etherscan.io/token/images/sexytoken28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/sexytoken28.png"
+    }
   },
   "support": {
     "email": "support@sexytoken.co",

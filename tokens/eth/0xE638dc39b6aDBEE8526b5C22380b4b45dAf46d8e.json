@@ -10,7 +10,11 @@
     "width": 28,
     "height": 28,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe638dc39b6adbee8526b5c22380b4b45daf46d8e.png"
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/gizer2_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/920235057981337600/V2qOZd2b.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe638dc39b6adbee8526b5c22380b4b45daf46d8e.png"
+    }
   },
   "support": {
     "email": "support@gizer.io",

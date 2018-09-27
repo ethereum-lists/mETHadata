@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/lrc.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/lrc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/964741030649069568/1ahmOc4d.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xef68e7c694f40c8202821edf525de3782458639f.png"
+    }
   },
   "support": {
     "email": "foundation@loopring.org",

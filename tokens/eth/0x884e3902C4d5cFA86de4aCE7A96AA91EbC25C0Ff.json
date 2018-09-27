@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/916729127494922241/3Vi9zd6l.jpg"
+    }
   },
   "support": {
     "email": "support@jboxcoin.org",

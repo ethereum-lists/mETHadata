@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/929342202341462019/I4Zl6hHH.jpg"
+    }
   },
   "support": {
     "email": "team@alaricoin.org",

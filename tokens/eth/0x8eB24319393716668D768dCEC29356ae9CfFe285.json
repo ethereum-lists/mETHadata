@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/agi.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/agi.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/928263548941283329/ZyFK-sfD.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8eb24319393716668d768dcec29356ae9cffe285.png"
+    }
   },
   "support": {
     "email": "support@singularitynet.io",

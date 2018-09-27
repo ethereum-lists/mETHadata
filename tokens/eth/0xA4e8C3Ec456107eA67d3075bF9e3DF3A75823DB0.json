@@ -10,7 +10,11 @@
     "width": "29",
     "height": "29",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0.png"
+    "sources": {
+      "token-list": "https://s3.amazonaws.com/loomrandom/loom-ticker-logo+small.png",
+      "twitter": "http://pbs.twimg.com/profile_images/939416633419821057/AgqO1tTQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0.png"
+    }
   },
   "support": {
     "email": "hello@loomx.io",

@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x629aee55ed49581c33ab27f9403f7992a289ffd5.png"
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x629aee55ed49581c33ab27f9403f7992a289ffd5.png"
+    }
   },
   "support": {
     "email": "support@dimensions.network",

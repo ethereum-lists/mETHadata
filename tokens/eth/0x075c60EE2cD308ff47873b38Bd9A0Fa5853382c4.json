@@ -10,7 +10,11 @@
     "width": "500px",
     "height": "500px",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x075c60ee2cd308ff47873b38bd9a0fa5853382c4.png"
+    "sources": {
+      "token-list": "https://raw.githubusercontent.com/DeezNutsToken/DEEZ/master/images/DeezNuts.png",
+      "twitter": "http://pbs.twimg.com/profile_images/953372787380555778/luBM_pXL.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x075c60ee2cd308ff47873b38bd9a0fa5853382c4.png"
+    }
   },
   "support": {
     "email": "deez@deeznuts.in",

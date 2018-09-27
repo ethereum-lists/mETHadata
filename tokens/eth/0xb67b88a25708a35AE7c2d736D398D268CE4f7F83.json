@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/960520740196909056/3RBArulO.jpg"
+    }
   },
   "support": {
     "email": "contact@etheremon.com",

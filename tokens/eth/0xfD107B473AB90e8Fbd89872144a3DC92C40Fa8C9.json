@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/959642040748294145/qM7qOSS7.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9.png"
+    }
   },
   "support": {
     "email": "hello@lalaworld.io",

@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/889038473411403778/YLp-lhfD.jpg"
+    }
   },
   "support": {
     "email": "contact@projectarena.io",

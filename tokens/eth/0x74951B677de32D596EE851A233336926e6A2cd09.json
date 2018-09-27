@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/927846464260313088/tOm42mGk.jpg"
+    }
   },
   "support": {
     "email": "support@webetcrypto.io",

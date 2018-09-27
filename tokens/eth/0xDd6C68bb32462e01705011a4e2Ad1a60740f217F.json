@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6c68bb32462e01705011a4e2ad1a60740f217f.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/983423700048347136/aoQrwvJy.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6c68bb32462e01705011a4e2ad1a60740f217f.png"
+    }
   },
   "support": {
     "email": "info@hubii.com",

@@ -10,7 +10,11 @@
     "width": 4167,
     "height": 4167,
     "ipfs_hash": "QmSDhPfF52qV7KcYMQ6kosvxc9TnMY45fMHst2hJEscUoh",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf67451dc8421f0e0afeb52faa8101034ed081ed9.png"
+    "sources": {
+      "token-list": "https://gateway.ipfs.io/ipfs/QmSDhPfF52qV7KcYMQ6kosvxc9TnMY45fMHst2hJEscUoh",
+      "twitter": "http://pbs.twimg.com/profile_images/575392102827216898/6CpaIrKz_normal.jpeg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf67451dc8421f0e0afeb52faa8101034ed081ed9.png"
+    }
   },
   "support": {
     "email": "raithe@gmail.com",

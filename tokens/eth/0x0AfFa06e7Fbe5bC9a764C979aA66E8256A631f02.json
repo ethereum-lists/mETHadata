@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02.png"
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02.png"
+    }
   },
   "support": {
     "email": "support@polybius.io",

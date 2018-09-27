@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/ftc.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ftc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/973888538046590976/Y4YPVjA1.jpg"
+    }
   },
   "support": {
     "email": "",

@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/tix.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/tix.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/780329487737257984/V8993xli.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea1f346faf023f974eb5adaf088bbcdf02d761f4.png"
+    }
   },
   "support": {
     "email": "info@blocktix.io",

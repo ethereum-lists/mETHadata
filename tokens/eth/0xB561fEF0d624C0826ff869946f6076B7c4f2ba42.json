@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/660045835959476224/a0kbYWGi.png"
+    }
   },
   "support": {
     "email": "blockchain.lab@cceg.org.uk",

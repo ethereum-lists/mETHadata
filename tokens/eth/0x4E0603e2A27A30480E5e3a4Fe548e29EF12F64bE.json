@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/886478852725198852/jN7kgfSb.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be.png"
+    }
   },
   "support": {
     "email": "stewart@team.bitbounce.io",

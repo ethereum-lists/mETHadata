@@ -9,7 +9,11 @@
     "src": "https://www.porntoken.io/PorntokenV2.256.png",
     "width": 256,
     "height": 256,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://www.porntoken.io/PorntokenV2.256.png",
+      "twitter": "http://pbs.twimg.com/profile_images/889279228411342848/jwShSovU.jpg"
+    }
   },
   "support": {
     "email": "support@porntoken.io",

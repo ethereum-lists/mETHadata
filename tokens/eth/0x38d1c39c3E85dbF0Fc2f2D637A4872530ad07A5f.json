@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/922963842849701888/GCWSlIHI.jpg"
+    }
   },
   "support": {
     "email": "info@nondo.io",

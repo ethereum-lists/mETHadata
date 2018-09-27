@@ -9,7 +9,11 @@
     "src": "https://image.ibb.co/jPRLCx/icon_default_1.png",
     "width": 250,
     "height": 250,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://image.ibb.co/jPRLCx/icon_default_1.png",
+      "twitter": "http://pbs.twimg.com/profile_images/948665847932911617/X6rDGp6f.jpg"
+    }
   },
   "support": {
     "email": "team@bethereum.com",

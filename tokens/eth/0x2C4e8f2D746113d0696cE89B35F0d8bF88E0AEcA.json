@@ -10,7 +10,12 @@
     "width": "28",
     "height": "28",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/ost.svg"
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/ost_28.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ost.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1012712812244856832/sgVUwrHi.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca.png"
+    }
   },
   "support": {
     "email": "support@ost.com",

@@ -5,7 +5,11 @@
   "name": "RadioYo",
   "website": "https://rao.radioyo.fm",
   "logo": {
-    "src": "https://raw.githubusercontent.com/gharshr/ICO_smartcontract/master/RAO_Token.png"
+    "src": "https://raw.githubusercontent.com/gharshr/ICO_smartcontract/master/RAO_Token.png",
+    "sources": {
+      "token-list": "https://raw.githubusercontent.com/gharshr/ICO_smartcontract/master/RAO_Token.png",
+      "twitter": "http://pbs.twimg.com/profile_images/3425499924/70b995950047c041f96f9c9bfae15244_normal.jpeg"
+    }
   },
   "support": {
     "email": "support@radioyo.fm"

@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1020687632529932288/EufAgzKv.jpg"
+    }
   },
   "support": {
     "email": "customer.service@ohni.io",

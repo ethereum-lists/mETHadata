@@ -10,7 +10,12 @@
     "width": 250,
     "height": 250,
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/appc.svg"
+    "sources": {
+      "token-list": "https://ibb.co/jFsGsG",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/appc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/940957722735992832/Mu0_0yPz.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db.png"
+    }
   },
   "support": {
     "email": "info@appcoins.io",

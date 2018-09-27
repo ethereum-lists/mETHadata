@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5554e04e76533e1d14c52f05beef6c9d329e1e30.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/982277281216278528/p5IzMQ89.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5554e04e76533e1d14c52f05beef6c9d329e1e30.png"
+    }
   },
   "support": {
     "email": "contact@auton.io",

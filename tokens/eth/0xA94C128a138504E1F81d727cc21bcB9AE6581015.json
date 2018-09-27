@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/990223135369641986/pIRI1EO_.jpg"
+    }
   },
   "support": {
     "email": "freedominvestmentltd@gmail.com",

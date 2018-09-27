@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/gvt.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/gvt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/892485117846880256/pdr-CtPW.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x103c3a209da59d3e7c4a89307e66521e081cfdf0.png"
+    }
   },
   "support": {
     "email": "support@genesis.vision",

@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d4b8cce0591c9044a22ee543533b72e976e36c3.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1009062411675029505/E9pwy3L7.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d4b8cce0591c9044a22ee543533b72e976e36c3.png"
+    }
   },
   "support": {
     "email": "support@change-bank.com",

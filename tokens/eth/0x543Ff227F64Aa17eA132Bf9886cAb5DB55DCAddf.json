@@ -10,7 +10,11 @@
     "width": "28",
     "height": "28",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x543ff227f64aa17ea132bf9886cab5db55dcaddf.png"
+    "sources": {
+      "token-list": "https://daostack.io/daostack2828.png",
+      "twitter": "http://pbs.twimg.com/profile_images/932589128125943808/3Lmhssv9.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x543ff227f64aa17ea132bf9886cab5db55dcaddf.png"
+    }
   },
   "support": {
     "email": "support@daostack.io",

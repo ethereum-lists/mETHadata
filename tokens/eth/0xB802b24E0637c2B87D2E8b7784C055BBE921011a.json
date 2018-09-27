@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb802b24e0637c2b87d2e8b7784c055bbe921011a.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/778199433506938880/aaTbK5Pk.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb802b24e0637c2b87d2e8b7784c055bbe921011a.png"
+    }
   },
   "support": {
     "email": "support@emovieventure.com",

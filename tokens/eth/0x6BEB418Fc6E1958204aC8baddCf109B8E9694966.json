@@ -10,7 +10,10 @@
     "width": 150,
     "height": 150,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6beb418fc6e1958204ac8baddcf109b8e9694966.png"
+    "sources": {
+      "token-list": "https://drive.google.com/file/d/1nvFvAFWTuMg5pH7W7Apoe_-Xob2-TY_u/view?usp=sharing",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6beb418fc6e1958204ac8baddcf109b8e9694966.png"
+    }
   },
   "support": {
     "email": "staff@linkercoin.com",

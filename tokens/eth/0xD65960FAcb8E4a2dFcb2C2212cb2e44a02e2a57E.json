@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/884716783902625792/UvPyGqux.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e.png"
+    }
   },
   "support": {
     "email": "support@soarlabs.org",

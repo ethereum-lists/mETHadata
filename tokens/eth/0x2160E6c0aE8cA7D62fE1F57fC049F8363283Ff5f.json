@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/bpt.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/bpt.svg"
+    }
   },
   "support": {
     "email": "",

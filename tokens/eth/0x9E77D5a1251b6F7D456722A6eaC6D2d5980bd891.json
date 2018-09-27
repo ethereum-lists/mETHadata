@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/941295809215238147/v_YK4aJY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891.png"
+    }
   },
   "support": {
     "email": "info@brat.red",

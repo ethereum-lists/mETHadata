@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4355fc160f74328f9b383df2ec589bb3dfd82ba0.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/882751730202677249/bP4qYgne.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4355fc160f74328f9b383df2ec589bb3dfd82ba0.png"
+    }
   },
   "support": {
     "email": "info@opus-foundation.com",

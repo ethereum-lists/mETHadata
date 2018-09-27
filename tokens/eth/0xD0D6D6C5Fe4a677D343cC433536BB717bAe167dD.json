@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/988835520414236672/Dhd-NghQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd.png"
+    }
   },
   "support": {
     "email": "hello@metax.io",

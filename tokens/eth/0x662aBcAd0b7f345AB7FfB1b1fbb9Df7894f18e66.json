@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/909825326225686529/WuRbi6XC.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66.png"
+    }
   },
   "support": {
     "email": "info@cartaxi.io",

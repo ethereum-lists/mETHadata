@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/sphtx.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/sphtx.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/897003599892500480/UoUO1Yhb.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3833dda0aeb6947b98ce454d89366cba8cc55528.png"
+    }
   },
   "support": {
     "email": "info@sophiatx.com",
