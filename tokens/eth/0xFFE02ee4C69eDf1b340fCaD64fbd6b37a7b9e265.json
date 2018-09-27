@@ -10,7 +10,11 @@
     "width": "28",
     "height": "28",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265.png"
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/nanjcoin_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/964068238526042114/x2mKwygW.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265.png"
+    }
   },
   "support": {
     "email": "support@nanjcoin.com",

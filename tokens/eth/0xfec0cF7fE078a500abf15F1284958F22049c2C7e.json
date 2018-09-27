@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfec0cf7fe078a500abf15f1284958f22049c2c7e.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/756306369746198528/p9znJPRJ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfec0cf7fe078a500abf15f1284958f22049c2c7e.png"
+    }
   },
   "support": {
     "email": "support@cofound.it",

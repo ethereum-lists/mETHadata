@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/925563128854827008/fPBA7WKm.jpg"
+    }
   },
   "support": {
     "email": "",

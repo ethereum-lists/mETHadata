@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/983048082689609730/7mpDR_n6.jpg"
+    }
   },
   "support": {
     "email": "info@bulleon.io",

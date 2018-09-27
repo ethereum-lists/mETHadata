@@ -10,7 +10,11 @@
     "width": 28,
     "height": 28,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1961b3331969ed52770751fc718ef530838b6dee.png"
+    "sources": {
+      "token-list": "https://raw.githubusercontent.com/bitdegree/banners/master/logos/2515x3285_letter_black.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1017382172821544960/K-DsAYEV.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1961b3331969ed52770751fc718ef530838b6dee.png"
+    }
   },
   "support": {
     "email": "hello@bitdegree.org",

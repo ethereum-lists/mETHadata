@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/946921157567045632/eLcp66BC.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7.png"
+    }
   },
   "support": {
     "email": "support@selfkey.org",

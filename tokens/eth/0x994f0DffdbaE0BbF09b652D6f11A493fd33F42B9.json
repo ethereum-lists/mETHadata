@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9.png"
+    "sources": {
+      "token-list": "https://pasteboard.co/GYomPdv.jpg",
+      "twitter": "http://pbs.twimg.com/profile_images/1019179756560965632/0aczIsP_.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9.png"
+    }
   },
   "support": {
     "email": "team@eaglepay.io",

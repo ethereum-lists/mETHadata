@@ -10,7 +10,11 @@
     "width": 28,
     "height": 28,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbc86727e770de68b1060c91f6bb6945c73e10388.png"
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/paywithink_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/910367756326981632/nf3B8dmX.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbc86727e770de68b1060c91f6bb6945c73e10388.png"
+    }
   },
   "support": {
     "email": "admin@paywithink.com",

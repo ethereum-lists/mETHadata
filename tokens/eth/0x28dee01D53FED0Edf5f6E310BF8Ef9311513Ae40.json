@@ -10,7 +10,11 @@
     "width": "250",
     "height": "250",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28dee01d53fed0edf5f6e310bf8ef9311513ae40.png"
+    "sources": {
+      "token-list": "https://s3.amazonaws.com/blitzpredict-public/MEW+Logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/935933856569376768/CdNjKqPa.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28dee01d53fed0edf5f6e310bf8ef9311513ae40.png"
+    }
   },
   "support": {
     "email": "mew@blitzpredict.io",

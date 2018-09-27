@@ -9,7 +9,10 @@
     "src": "https://image.ibb.co/iniG4c/282541262323.png",
     "width": "400",
     "height": "400",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://image.ibb.co/iniG4c/282541262323.png"
+    }
   },
   "support": {
     "email": "admin@comprabitcoin.online",

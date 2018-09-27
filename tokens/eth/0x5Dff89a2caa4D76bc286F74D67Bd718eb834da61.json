@@ -10,7 +10,10 @@
     "width": "60",
     "height": "60",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5dff89a2caa4d76bc286f74d67bd718eb834da61.png"
+    "sources": {
+      "token-list": "https://cryptfillcoin.com/images/resources/logo.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5dff89a2caa4d76bc286f74d67bd718eb834da61.png"
+    }
   },
   "support": {
     "email": "info@cryptfillcoin.com",

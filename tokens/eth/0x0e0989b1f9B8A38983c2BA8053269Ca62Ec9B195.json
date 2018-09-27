@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/poe.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/poe.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/961010646778183680/q7GkdGYV.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195.png"
+    }
   },
   "support": {
     "email": "contact@po.et",

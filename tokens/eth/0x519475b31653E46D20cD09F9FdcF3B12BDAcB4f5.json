@@ -10,7 +10,11 @@
     "width": 28,
     "height": 28,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5.png"
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/viuly_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1020671426771243008/Ancz3Kje.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5.png"
+    }
   },
   "support": {
     "email": "support@viuly.com",

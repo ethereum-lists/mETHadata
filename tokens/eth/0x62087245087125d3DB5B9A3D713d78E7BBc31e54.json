@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/938313171034664960/malloSNb.jpg"
+    }
   },
   "support": {
     "email": "support@worldpeacecoin.info",

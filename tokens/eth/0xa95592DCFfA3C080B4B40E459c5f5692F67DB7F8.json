@@ -10,7 +10,11 @@
     "width": "128",
     "height": "128",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa95592dcffa3c080b4b40e459c5f5692f67db7f8.png"
+    "sources": {
+      "token-list": "https://elycoin.io/assets/images/ely128.png",
+      "twitter": "http://pbs.twimg.com/profile_images/983543811233136640/xhoVdAp9.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa95592dcffa3c080b4b40e459c5f5692f67db7f8.png"
+    }
   },
   "support": {
     "email": "support@elycoin.io",

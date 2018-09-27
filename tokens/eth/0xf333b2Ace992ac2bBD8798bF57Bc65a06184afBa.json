@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf333b2ace992ac2bbd8798bf57bc65a06184afba.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/889259045651181569/u-9aAVfw.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf333b2ace992ac2bbd8798bf57bc65a06184afba.png"
+    }
   },
   "support": {
     "email": "support@sandcoin.io",

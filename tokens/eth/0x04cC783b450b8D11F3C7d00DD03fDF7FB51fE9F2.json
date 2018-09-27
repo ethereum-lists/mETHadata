@@ -9,7 +9,11 @@
     "src": "https://filmscoin.com/images/icon-flmc28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://filmscoin.com/images/icon-flmc28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/973831480848928774/DEpRLGwY.jpg"
+    }
   },
   "support": {
     "email": "",

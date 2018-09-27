@@ -9,7 +9,10 @@
     "src": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/434e45cc-cbe6-4df2-b4d7-156b7ef78a8f.png",
     "width": "200",
     "height": "200",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/434e45cc-cbe6-4df2-b4d7-156b7ef78a8f.png"
+    }
   },
   "support": {
     "email": "info@dacplay.org",

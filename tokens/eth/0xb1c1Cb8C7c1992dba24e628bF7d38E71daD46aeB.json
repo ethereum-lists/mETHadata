@@ -9,7 +9,11 @@
     "src": "https://uploads-ssl.webflow.com/5ad9bd61b926b5696f03050f/5ad9bdd84bee8e3cee66af78_CLB_symbol_white%20(1).png",
     "width": "814",
     "height": "976",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://uploads-ssl.webflow.com/5ad9bd61b926b5696f03050f/5ad9bdd84bee8e3cee66af78_CLB_symbol_white%20(1).png",
+      "twitter": "http://pbs.twimg.com/profile_images/1016513276618817537/xZQEozmz.jpg"
+    }
   },
   "support": {
     "email": "ico@cloudbric.com",

@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb70835d7822ebb9426b56543e391846c107bd32c.png"
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb70835d7822ebb9426b56543e391846c107bd32c.png"
+    }
   },
   "support": {
     "email": "group@game.com",

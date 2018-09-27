@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/873463421462867968/fhq4qLcI.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38.png"
+    }
   },
   "support": {
     "email": "info@digitaldevelopersfund.com",

@@ -10,7 +10,11 @@
     "width": "400",
     "height": "400",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfcd862985628b254061f7a918035b80340d045d3.png"
+    "sources": {
+      "token-list": "https://www.gifcoin.io/assets/images/default/frontend/gifsingle400.png",
+      "twitter": "http://pbs.twimg.com/profile_images/943113020863074304/4BgNyP0a.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfcd862985628b254061f7a918035b80340d045d3.png"
+    }
   },
   "support": {
     "email": "support@gifcoin.io",

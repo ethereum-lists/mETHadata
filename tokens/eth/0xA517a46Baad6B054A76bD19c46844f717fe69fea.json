@@ -9,7 +9,11 @@
     "src": "https://carbcoin.eu/logo.jpg",
     "width": 400,
     "height": 400,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://carbcoin.eu/logo.jpg",
+      "twitter": "http://pbs.twimg.com/profile_images/943472650957049856/q-40pGjW.jpg"
+    }
   },
   "support": {
     "email": "support@carbcoin.com",

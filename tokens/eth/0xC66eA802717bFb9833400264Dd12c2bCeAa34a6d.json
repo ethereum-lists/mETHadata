@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc66ea802717bfb9833400264dd12c2bceaa34a6d.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/929117604643454978/ebUqZEdk.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc66ea802717bfb9833400264dd12c2bceaa34a6d.png"
+    }
   },
   "support": {
     "email": "support@makerdao.com",

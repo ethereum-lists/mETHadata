@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/912884649541623809/-MnOq83v.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63.png"
+    }
   },
   "support": {
     "email": "info@zsc.io",

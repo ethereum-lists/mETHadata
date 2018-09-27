@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/917268234621026304/slYDbPdh.jpg"
+    }
   },
   "support": {
     "email": "info@trustedhealth.io",

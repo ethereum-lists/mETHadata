@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc80c051057b774cd75067dc48f8987c4eb97a5e.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1041738720347648001/u_An45uR.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc80c051057b774cd75067dc48f8987c4eb97a5e.png"
+    }
   },
   "support": {
     "email": "support@ethfinex.com",

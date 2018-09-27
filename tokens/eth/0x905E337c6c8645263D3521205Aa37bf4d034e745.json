@@ -10,7 +10,11 @@
     "width": "200",
     "height": "200",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x905e337c6c8645263d3521205aa37bf4d034e745.png"
+    "sources": {
+      "token-list": "https://cdn.docademic.com/images/ico/mtc200.png",
+      "twitter": "http://pbs.twimg.com/profile_images/912801065614970880/AbcMTjxS.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x905e337c6c8645263d3521205aa37bf4d034e745.png"
+    }
   },
   "support": {
     "email": "support@docademic.com",

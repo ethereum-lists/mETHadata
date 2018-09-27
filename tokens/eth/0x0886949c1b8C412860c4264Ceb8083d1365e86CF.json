@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0886949c1b8c412860c4264ceb8083d1365e86cf.png"
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0886949c1b8c412860c4264ceb8083d1365e86cf.png"
+    }
   },
   "support": {
     "email": "btcetoken@gmail.com",

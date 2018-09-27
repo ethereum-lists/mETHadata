@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x26e75307fc0c021472feb8f727839531f112f317.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/981552143646765056/k9LyMZj8.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x26e75307fc0c021472feb8f727839531f112f317.png"
+    }
   },
   "support": {
     "email": "team@crypto20.com",

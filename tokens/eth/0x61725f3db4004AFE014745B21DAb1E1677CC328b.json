@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x61725f3db4004afe014745b21dab1e1677cc328b.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/933638125485789185/i8095EL-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x61725f3db4004afe014745b21dab1e1677cc328b.png"
+    }
   },
   "support": {
     "email": "concierge@blockex.com",

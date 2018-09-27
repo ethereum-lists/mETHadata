@@ -9,7 +9,10 @@
     "src": "https://image.ibb.co/eYVsoH/monaco_estate_logo_28x28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://image.ibb.co/eYVsoH/monaco_estate_logo_28x28.png"
+    }
   },
   "support": {
     "email": "contact@monacoestate.io",

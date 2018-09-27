@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9af2c6b1a28d3d6bc084bd267f70e90d49741d5b.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/965686934289907713/nXUb3AzA.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9af2c6b1a28d3d6bc084bd267f70e90d49741d5b.png"
+    }
   },
   "support": {
     "email": "info@axpire.com",

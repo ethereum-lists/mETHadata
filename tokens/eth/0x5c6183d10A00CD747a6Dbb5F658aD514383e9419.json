@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/740608891172446208/bwWzSdTS.jpg"
+    }
   },
   "support": {
     "email": "bob@nexxuspartners.com",

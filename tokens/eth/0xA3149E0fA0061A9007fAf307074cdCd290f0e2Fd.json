@@ -9,7 +9,11 @@
     "src": "https://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB_400x400.jpg",
     "width": "400",
     "height": "400",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB_400x400.jpg",
+      "twitter": "http://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB.jpg"
+    }
   },
   "support": {
     "email": "support@proncoin.io",

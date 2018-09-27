@@ -9,7 +9,10 @@
     "src": "https://www.ctgcoin.org/upload/logo/ctg.logo.png",
     "width": "68",
     "height": "41",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://www.ctgcoin.org/upload/logo/ctg.logo.png"
+    }
   },
   "support": {
     "email": "support@ctgcoin.org",

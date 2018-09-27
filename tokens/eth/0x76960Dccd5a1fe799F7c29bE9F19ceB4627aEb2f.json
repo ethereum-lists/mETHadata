@@ -10,7 +10,11 @@
     "width": "128",
     "height": "128",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f.png"
+    "sources": {
+      "token-list": "https://static.red-lang.org/pr/logo/red-token-logo_sq_128x128.png",
+      "twitter": "http://pbs.twimg.com/profile_images/501701094032941056/R-a4YJ5K_normal.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f.png"
+    }
   },
   "support": {
     "email": "token@red-lang.org",

@@ -9,7 +9,10 @@
     "src": "https://raw.githubusercontent.com/ProjectWyvern/wyvern-branding/master/logo/logo-square-red-transparent-28x28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://raw.githubusercontent.com/ProjectWyvern/wyvern-branding/master/logo/logo-square-red-transparent-28x28.png"
+    }
   },
   "support": {
     "email": "team@projectwyvern.com",

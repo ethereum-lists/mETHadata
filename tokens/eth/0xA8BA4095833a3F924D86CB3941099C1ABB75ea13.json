@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1019970368415490049/z3RdXuwK.jpg"
+    }
   },
   "support": {
     "email": "sub1x.tutorials@gmail.com",

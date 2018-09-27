@@ -9,7 +9,11 @@
     "src": "https://workchain.io/downloads/workTOKEN/logo_256.png",
     "width": "256",
     "height": "256",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://workchain.io/downloads/workTOKEN/logo_256.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1029403739260637184/SrdtjsS_.jpg"
+    }
   },
   "support": {
     "email": "ping@workchain.io",

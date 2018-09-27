@@ -10,7 +10,10 @@
     "width": 28,
     "height": 28,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfedae5642668f8636a11987ff386bfd215f942ee.png"
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/policypal_28.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfedae5642668f8636a11987ff386bfd215f942ee.png"
+    }
   },
   "support": {
     "email": "info@policypal.com",

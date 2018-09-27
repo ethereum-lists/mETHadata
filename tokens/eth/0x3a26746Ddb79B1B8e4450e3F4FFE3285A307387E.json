@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/890095767637159936/XnBo1PcT.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e.png"
+    }
   },
   "support": {
     "email": "payments@etherbtc.io",

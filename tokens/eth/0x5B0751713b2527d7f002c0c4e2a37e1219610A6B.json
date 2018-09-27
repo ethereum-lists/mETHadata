@@ -10,7 +10,11 @@
     "width": "480",
     "height": "695",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b0751713b2527d7f002c0c4e2a37e1219610a6b.png"
+    "sources": {
+      "token-list": "https://ethorse.com/images/ethorse-logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/939016374852055040/uZsDToIC.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b0751713b2527d7f002c0c4e2a37e1219610a6b.png"
+    }
   },
   "support": {
     "email": "support@ethorse.com",

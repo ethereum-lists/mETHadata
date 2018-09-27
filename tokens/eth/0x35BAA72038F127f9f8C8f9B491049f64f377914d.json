@@ -9,7 +9,11 @@
     "src": "https://ethpoker.io/wp-content/uploads/2018/03/smallBlueIcon.png",
     "width": "51",
     "height": "50",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://ethpoker.io/wp-content/uploads/2018/03/smallBlueIcon.png",
+      "twitter": "http://pbs.twimg.com/profile_images/968236234853171200/nlZaj5tP.jpg"
+    }
   },
   "support": {
     "email": "admin@ethpoker.io",

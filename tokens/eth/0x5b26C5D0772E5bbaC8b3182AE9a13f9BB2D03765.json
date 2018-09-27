@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/921815781897318400/P01GTguv.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.png"
+    }
   },
   "support": {
     "email": "support@liveedu.tv",

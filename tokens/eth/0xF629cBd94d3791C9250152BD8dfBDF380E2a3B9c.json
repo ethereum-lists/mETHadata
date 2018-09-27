@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/enj.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/enj.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/931594541223809024/A9ERo3xs.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png"
+    }
   },
   "support": {
     "email": "info@enjin.com",

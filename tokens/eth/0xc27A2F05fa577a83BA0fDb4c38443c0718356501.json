@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/tau.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/tau.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/907045318109351937/IK_LhVep.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc27a2f05fa577a83ba0fdb4c38443c0718356501.png"
+    }
   },
   "support": {
     "email": "team@lamden.io",

@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/trx.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/trx.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/982888636076052481/e7sZEhKQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf230b790e05390fc8295f4d3f60332c93bed42e2.png"
+    }
   },
   "support": {
     "email": "service@tronlab.com",

@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x386467f1f3ddbe832448650418311a479eecfc57.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/926093194332270593/SO3AerzY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x386467f1f3ddbe832448650418311a479eecfc57.png"
+    }
   },
   "support": {
     "email": "info@embermine.com",

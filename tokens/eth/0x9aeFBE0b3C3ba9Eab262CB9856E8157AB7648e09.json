@@ -9,7 +9,10 @@
     "src": "https://flaircoin.co/assets/images/flair_logo_64x64.png",
     "width": "64",
     "height": "64",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://flaircoin.co/assets/images/flair_logo_64x64.png"
+    }
   },
   "support": {
     "email": "info@flaircoin.co",

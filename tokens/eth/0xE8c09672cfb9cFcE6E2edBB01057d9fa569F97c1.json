@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/901557146021642240/49kWCM-z.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1.png"
+    }
   },
   "support": {
     "email": "contact@indicoin.org.in",

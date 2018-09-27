@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/bnty.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/bnty.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/939186167232077824/V2oi8IkC.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd2d6158683aee4cc838067727209a0aaf4359de3.png"
+    }
   },
   "support": {
     "email": "contact@bounty0x.io",

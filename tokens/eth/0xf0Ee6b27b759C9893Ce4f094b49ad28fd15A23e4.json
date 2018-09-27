@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/eng.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/eng.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/989872166618382336/QzIDtmWT.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4.png"
+    }
   },
   "support": {
     "email": "info@enigma.co",

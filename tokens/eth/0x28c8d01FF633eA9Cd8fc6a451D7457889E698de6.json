@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28c8d01ff633ea9cd8fc6a451d7457889e698de6.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/921847616522063875/24gyXC15.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28c8d01ff633ea9cd8fc6a451d7457889e698de6.png"
+    }
   },
   "support": {
     "email": "dev@ethereumgold.info",

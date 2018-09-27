@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/946791792753741824/EFvJkEzU.jpg"
+    }
   },
   "support": {
     "email": "erc20@prime-ex.com",

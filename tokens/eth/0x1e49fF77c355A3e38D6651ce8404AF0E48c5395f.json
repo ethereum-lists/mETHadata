@@ -10,7 +10,11 @@
     "width": "60",
     "height": "20",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1e49ff77c355a3e38d6651ce8404af0e48c5395f.png"
+    "sources": {
+      "token-list": "https://en.modultrade.io/img/new_set/modultrade_logo.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/988781307009359872/pmHKiTXg.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1e49ff77c355a3e38d6651ce8404af0e48c5395f.png"
+    }
   },
   "support": {
     "email": "tokensale@modultrade.io",

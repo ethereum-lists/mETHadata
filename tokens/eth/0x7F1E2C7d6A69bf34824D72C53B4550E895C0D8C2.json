@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/880824365654319104/B-xS1xnv.jpg"
+    }
   },
   "support": {
     "email": "support@blockoptions.io",

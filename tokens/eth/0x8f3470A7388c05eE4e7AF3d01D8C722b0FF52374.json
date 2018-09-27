@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/veri.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/veri.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/869338785489838080/y9wM48e9.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374.png"
+    }
   },
   "support": {
     "email": "reggie@veritaseum.com%20",

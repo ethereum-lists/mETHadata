@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/bcpt.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/bcpt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/966456050869182465/1aN6Luy_.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1c4481750daa5ff521a2a7490d9981ed46465dbd.png"
+    }
   },
   "support": {
     "email": "support@blockmason.io",

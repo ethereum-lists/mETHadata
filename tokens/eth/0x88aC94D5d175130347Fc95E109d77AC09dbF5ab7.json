@@ -9,7 +9,11 @@
     "src": "http://hicky.io/assets/img/hicky-icon.svg",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "http://hicky.io/assets/img/hicky-icon.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/931104712354598912/D41Sy1qr.jpg"
+    }
   },
   "support": {
     "email": "support@hicky.io",

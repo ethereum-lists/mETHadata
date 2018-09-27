@@ -10,7 +10,11 @@
     "width": 28,
     "height": 28,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa9877b1e05d035899131dbd1e403825166d09f92.png"
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/coinjoker_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/906547721078796288/TQ4u0KUi.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa9877b1e05d035899131dbd1e403825166d09f92.png"
+    }
   },
   "support": {
     "email": "info@coinjoker.com",

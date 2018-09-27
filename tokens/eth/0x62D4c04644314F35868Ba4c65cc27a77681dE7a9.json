@@ -9,7 +9,11 @@
     "src": "https://airdrop.driveholic.com/icon/apple-icon-180x180.png",
     "width": "180",
     "height": "180",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://airdrop.driveholic.com/icon/apple-icon-180x180.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1028639838445162496/oBeIbiEX.jpg"
+    }
   },
   "support": {
     "email": "airdrop@driveholic.com",

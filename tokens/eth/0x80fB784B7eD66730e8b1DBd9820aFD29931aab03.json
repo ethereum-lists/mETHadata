@@ -10,7 +10,11 @@
     "width": 128,
     "height": 128,
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/lend.svg"
+    "sources": {
+      "token-list": "https://raw.githubusercontent.com/ETHLend/logos/master/LEND_128x128.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/lend.svg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x80fb784b7ed66730e8b1dbd9820afd29931aab03.png"
+    }
   },
   "support": {
     "email": "support@ethlend.io",

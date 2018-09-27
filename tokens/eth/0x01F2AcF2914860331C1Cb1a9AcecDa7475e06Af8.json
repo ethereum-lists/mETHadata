@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/950251688660672513/DPuEPJQ6.jpg"
+    }
   },
   "support": {
     "email": "mesh@meshbox.network",

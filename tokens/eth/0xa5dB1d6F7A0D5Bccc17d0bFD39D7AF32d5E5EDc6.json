@@ -9,7 +9,11 @@
     "src": "https://i.imgur.com/DnDglhQ.png",
     "width": "130",
     "height": "129",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://i.imgur.com/DnDglhQ.png",
+      "twitter": "http://pbs.twimg.com/profile_images/937581726645276672/42aBa19j.png"
+    }
   },
   "support": {
     "email": "support@topinvestmentcoin.online",

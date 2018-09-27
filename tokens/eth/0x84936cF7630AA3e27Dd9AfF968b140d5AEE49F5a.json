@@ -9,7 +9,10 @@
     "src": "https://ambertime.org/img/amber-logo-white.png",
     "width": "780",
     "height": "228",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://ambertime.org/img/amber-logo-white.png"
+    }
   },
   "support": {
     "email": "info@ambertime.org",

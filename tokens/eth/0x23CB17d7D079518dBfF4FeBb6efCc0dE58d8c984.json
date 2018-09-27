@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/880195770082762752/bS1mG8go.jpg"
+    }
   },
   "support": {
     "email": "info@travelcoins.io",

@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/903607414569799682/McZ0AEpw.jpg"
+    }
   },
   "support": {
     "email": "support@confideal.io",

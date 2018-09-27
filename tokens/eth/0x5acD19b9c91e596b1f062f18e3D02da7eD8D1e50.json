@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/932612771555844096/4umbZipg.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50.png"
+    }
   },
   "support": {
     "email": "btclitetoken@gmail.com",

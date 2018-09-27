@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x97aeb5066e1a590e868b511457beb6fe99d329f5.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/923977444071108608/c_yuivof.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x97aeb5066e1a590e868b511457beb6fe99d329f5.png"
+    }
   },
   "support": {
     "email": "info@atonomi.io",

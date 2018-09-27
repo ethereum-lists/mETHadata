@@ -9,7 +9,10 @@
     "src": "https://cdn1.savepice.ru/uploads/2018/2/13/8c1a008b4e617ec75c4febe81f32ced5-full.png",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://cdn1.savepice.ru/uploads/2018/2/13/8c1a008b4e617ec75c4febe81f32ced5-full.png"
+    }
   },
   "support": {
     "email": "sikhalevd@dobet.info",

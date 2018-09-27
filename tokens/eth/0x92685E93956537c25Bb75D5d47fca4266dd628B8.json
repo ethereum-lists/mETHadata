@@ -9,7 +9,10 @@
     "src": "https://bitlle.com/img/btl.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://bitlle.com/img/btl.png"
+    }
   },
   "support": {
     "email": "info@bitlle.com",

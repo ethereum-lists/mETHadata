@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9002d4485b7594e3e850f0a206713b305113f69e.png"
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9002d4485b7594e3e850f0a206713b305113f69e.png"
+    }
   },
   "support": {
     "email": "info@hawala.today",

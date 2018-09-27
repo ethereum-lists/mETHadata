@@ -10,6 +10,9 @@
   "logo": {
     "src": "",
     "width": "",
-    "height": ""
+    "height": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/938461349113417728/NVSwGs2u.jpg"
+    }
   }
 }

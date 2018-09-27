@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/910343086701551616/urjF4xNC.jpg"
+    }
   },
   "support": {
     "email": "support@ethereumdark.net",

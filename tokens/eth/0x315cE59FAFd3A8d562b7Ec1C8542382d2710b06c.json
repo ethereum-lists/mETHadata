@@ -9,7 +9,11 @@
     "src": "http://cacaoshares.com/wp-content/uploads/2017/12/cropped-logo-cherry-2018-1-e1513046302595.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "http://cacaoshares.com/wp-content/uploads/2017/12/cropped-logo-cherry-2018-1-e1513046302595.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1033875938885267456/AhiwuDo-.jpg"
+    }
   },
   "support": {
     "email": "ico@1cacaoshares.com",

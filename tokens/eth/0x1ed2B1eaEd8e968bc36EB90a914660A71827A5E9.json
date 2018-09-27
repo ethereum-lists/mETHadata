@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1ed2b1eaed8e968bc36eb90a914660a71827a5e9.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/900379003734937600/71w3A-_P.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1ed2b1eaed8e968bc36eb90a914660a71827a5e9.png"
+    }
   },
   "support": {
     "email": "support@cardstack.com",

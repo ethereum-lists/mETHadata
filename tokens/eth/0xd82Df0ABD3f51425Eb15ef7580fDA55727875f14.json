@@ -10,7 +10,11 @@
     "width": 500,
     "height": 500,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd82df0abd3f51425eb15ef7580fda55727875f14.png"
+    "sources": {
+      "token-list": "https://dav.network/img/logo-mew.png",
+      "twitter": "http://pbs.twimg.com/profile_images/960883354408247298/2H8esQQu.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd82df0abd3f51425eb15ef7580fda55727875f14.png"
+    }
   },
   "support": {
     "email": "support@dav.network",

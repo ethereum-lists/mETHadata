@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/958835708185100288/Njsdvvpv.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69.png"
+    }
   },
   "support": {
     "email": "hello@iotex.io",

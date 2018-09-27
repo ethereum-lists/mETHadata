@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/edo.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/edo.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/943844299577413632/HeU6eufq.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xced4e93198734ddaff8492d525bd258d49eb388e.png"
+    }
   },
   "support": {
     "email": "info@eidoo.io",

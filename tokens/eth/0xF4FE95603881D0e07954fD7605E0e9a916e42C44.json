@@ -9,7 +9,11 @@
     "src": "https://interface.whenhub.com/img/shares/when-token-icon.png",
     "width": "1024",
     "height": "1024",
-    "ipfs_hash": "QmS3QBhZ28FqXMgVdtkDLeJEGbekGGECac1fWRofDfKGGw"
+    "ipfs_hash": "QmS3QBhZ28FqXMgVdtkDLeJEGbekGGECac1fWRofDfKGGw",
+    "sources": {
+      "token-list": "https://interface.whenhub.com/img/shares/when-token-icon.png",
+      "twitter": "http://pbs.twimg.com/profile_images/924171548155568129/9kCaC726.jpg"
+    }
   },
   "support": {
     "email": "support@whenhub.com",

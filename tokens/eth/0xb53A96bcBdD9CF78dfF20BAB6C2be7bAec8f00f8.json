@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/924148892244963328/cMMP6rsb.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8.png"
+    }
   },
   "support": {
     "email": "egas@ethgas.stream",

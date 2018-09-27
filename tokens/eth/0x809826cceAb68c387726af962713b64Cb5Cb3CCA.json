@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/ncash.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ncash.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/924878608388075521/Zrb6l1dR.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x809826cceab68c387726af962713b64cb5cb3cca.png"
+    }
   },
   "support": {
     "email": "",

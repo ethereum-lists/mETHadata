@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdf6ef343350780bf8c3410bf062e0c015b1dd671.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/953971843253391360/34iqH5Ky.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdf6ef343350780bf8c3410bf062e0c015b1dd671.png"
+    }
   },
   "support": {
     "email": "account@blackmooncrypto.com",

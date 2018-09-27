@@ -8,7 +8,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/944494114870984704/isNfMaLC.jpg"
+    }
   },
   "support": {
     "email": "info@kprms.com",

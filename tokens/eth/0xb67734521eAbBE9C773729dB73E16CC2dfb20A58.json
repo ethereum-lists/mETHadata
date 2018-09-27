@@ -9,7 +9,11 @@
     "src": "https://raw.githubusercontent.com/eRupee/images/master/coin%20logo.png",
     "width": 900,
     "height": 720,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://raw.githubusercontent.com/eRupee/images/master/coin%20logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1017190844841881600/gH-anVF4.jpg"
+    }
   },
   "support": {
     "email": "erupee@protonmail.com",

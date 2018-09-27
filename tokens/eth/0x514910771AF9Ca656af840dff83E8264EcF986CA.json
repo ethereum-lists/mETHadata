@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x514910771af9ca656af840dff83e8264ecf986ca.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1030475757892579334/qvSHhRyC.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x514910771af9ca656af840dff83e8264ecf986ca.png"
+    }
   },
   "support": {
     "email": "support@smartcontract.com",

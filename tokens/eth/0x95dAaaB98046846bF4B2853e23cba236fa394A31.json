@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x95daaab98046846bf4b2853e23cba236fa394a31.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/960520740196909056/3RBArulO.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x95daaab98046846bf4b2853e23cba236fa394a31.png"
+    }
   },
   "support": {
     "email": "contact@etheremon.com",

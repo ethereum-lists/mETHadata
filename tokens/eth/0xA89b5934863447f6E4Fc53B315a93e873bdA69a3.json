@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/950965150214864897/W2oMF_J6.jpg"
+    }
   },
   "support": {
     "email": "luminocoin@protonmail.com",

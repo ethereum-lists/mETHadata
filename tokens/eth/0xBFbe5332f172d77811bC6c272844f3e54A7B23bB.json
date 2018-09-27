@@ -10,7 +10,11 @@
     "src": "https://cdn.wemark.com/wmk-logo-250.png",
     "width": "250",
     "height": "250",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://cdn.wemark.com/wmk-logo-250.png",
+      "twitter": "http://pbs.twimg.com/profile_images/991695141202251776/9_2TfH-A.jpg"
+    }
   },
   "support": {
     "email": "support@wemark.com",

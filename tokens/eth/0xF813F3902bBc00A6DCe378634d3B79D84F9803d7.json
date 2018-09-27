@@ -9,7 +9,10 @@
     "src": "https://path.network/images/path-128x128.png",
     "width": "128",
     "height": "128",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://path.network/images/path-128x128.png"
+    }
   },
   "support": {
     "email": "contact@path.network",

@@ -9,7 +9,10 @@
     "src": "https://etherscan.io/token/images/oxfina_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/oxfina_28.png"
+    }
   },
   "support": {
     "email": "info@oxfina.com",

@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/ast.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ast.svg"
+    }
   },
   "support": {
     "email": "admin@afterschool.ae",

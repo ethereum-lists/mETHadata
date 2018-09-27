@@ -10,7 +10,11 @@
     "width": "200",
     "height": "200",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x58b6a8a3302369daec383334672404ee733ab239.png"
+    "sources": {
+      "token-list": "https://livepeer-dev.s3.amazonaws.com/logos/lpt_transparent_200.png",
+      "twitter": "http://pbs.twimg.com/profile_images/939266490490150913/g0fVt0R2.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x58b6a8a3302369daec383334672404ee733ab239.png"
+    }
   },
   "support": {
     "email": "contact@livepeer.org",

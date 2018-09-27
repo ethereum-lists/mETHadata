@@ -10,7 +10,10 @@
     "width": "28",
     "height": "28",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9c23d67aea7b95d80942e3836bcdf7e708a747c2.png"
+    "sources": {
+      "token-list": "https://locipro.com/assets/loci-28x28.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9c23d67aea7b95d80942e3836bcdf7e708a747c2.png"
+    }
   },
   "support": {
     "email": "dan@loci.io",

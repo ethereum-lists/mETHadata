@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/961520240285945856/W8TjnzKW.jpg"
+    }
   },
   "support": {
     "email": "info@populous.co",

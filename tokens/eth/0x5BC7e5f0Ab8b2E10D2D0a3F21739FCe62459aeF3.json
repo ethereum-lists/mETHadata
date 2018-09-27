@@ -9,7 +9,11 @@
     "src": "https://hut34.io/images/comms/Hut34-logo-orange.jpg",
     "width": "300",
     "height": "300",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5bc7e5f0ab8b2e10d2d0a3f21739fce62459aef3.png"
+    "sources": {
+      "token-list": "https://hut34.io/images/comms/Hut34-logo-orange.jpg",
+      "twitter": "http://pbs.twimg.com/profile_images/958937991044521985/ra83XWET.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5bc7e5f0ab8b2e10d2d0a3f21739fce62459aef3.png"
+    }
   },
   "support": {
     "email": "admin@hut34.io",

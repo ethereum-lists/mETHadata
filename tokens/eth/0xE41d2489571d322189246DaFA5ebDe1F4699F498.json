@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/zrx.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/zrx.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/907750745713156096/aFBA0PRW.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe41d2489571d322189246dafa5ebde1f4699f498.png"
+    }
   },
   "support": {
     "email": "team@0xproject.com",

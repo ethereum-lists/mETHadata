@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe8ff5c9c75deb346acac493c463c8950be03dfba.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/957803523038625794/M4xuMWzW.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe8ff5c9c75deb346acac493c463c8950be03dfba.png"
+    }
   },
   "support": {
     "email": "info@vibehub.io",

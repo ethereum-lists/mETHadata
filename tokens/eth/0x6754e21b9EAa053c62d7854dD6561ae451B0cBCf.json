@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/997856105270136832/_XVB_WRV.jpg"
+    }
   },
   "support": {
     "email": "info@ganacoin.io",

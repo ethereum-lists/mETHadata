@@ -10,7 +10,11 @@
     "width": 164,
     "height": 63,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x080aa07e2c7185150d7e4da98838a8d2feac3dfc.png"
+    "sources": {
+      "token-list": "https://www.bitether.co/wp-content/uploads/thegem-logos/logo_865d0b770c80162beeec3624ca062e6d_1x.png",
+      "twitter": "http://pbs.twimg.com/profile_images/940601683683479552/-74RbiXw.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x080aa07e2c7185150d7e4da98838a8d2feac3dfc.png"
+    }
   },
   "support": {
     "email": "support@bitether.co",

@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1009610911714168832/hscF2v7c.jpg"
+    }
   },
   "support": {
     "email": "info@bitclave.com",

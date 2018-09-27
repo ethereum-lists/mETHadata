@@ -9,7 +9,11 @@
     "src": "https://github.com/CryptoLiveLeak/CLL-Token/blob/master/28%20x%2028%20CLL%20png.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://github.com/CryptoLiveLeak/CLL-Token/blob/master/28%20x%2028%20CLL%20png.png",
+      "twitter": "http://pbs.twimg.com/profile_images/913812150858272774/QxzYPhQ3.jpg"
+    }
   },
   "support": {
     "email": "contactus@cryptoliveleak.com",

@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0aef06dcccc531e581f0440059e6ffcc206039ee.png"
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0aef06dcccc531e581f0440059e6ffcc206039ee.png"
+    }
   },
   "support": {
     "email": "info@intelligenttrading.org",

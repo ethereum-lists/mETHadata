@@ -10,7 +10,11 @@
     "width": 64,
     "height": 64,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3.png"
+    "sources": {
+      "token-list": "https://tokensale.gameflip.com/img/ico/flip_logo_64x64.png",
+      "twitter": "http://pbs.twimg.com/profile_images/918251861865504768/FuP0AB6l.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3.png"
+    }
   },
   "support": {
     "email": "support@gameflip.com",

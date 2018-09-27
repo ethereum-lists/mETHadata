@@ -10,7 +10,11 @@
     "width": 400,
     "height": 400,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4d9e23a3842fe7eb7682b9725cf6c507c424a41b.png"
+    "sources": {
+      "token-list": "https://www.carblock.io/logo-400x400.png",
+      "twitter": "http://pbs.twimg.com/profile_images/973362809311453186/kXDUfWCv.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4d9e23a3842fe7eb7682b9725cf6c507c424a41b.png"
+    }
   },
   "support": {
     "email": "support@carblock.io",

@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xafc39788c51f0c1ff7b55317f3e70299e521fff6.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/966336675793330176/6cjz73UT.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xafc39788c51f0c1ff7b55317f3e70299e521fff6.png"
+    }
   },
   "support": {
     "email": "team@ebitcoincash.io",

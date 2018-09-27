@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/srn.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/srn.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/922789187413307392/9VM0k8RL.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25.png"
+    }
   },
   "support": {
     "email": "crowdsale@sirinlabs.com",

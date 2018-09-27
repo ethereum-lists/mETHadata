@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6e2050cbfb3ed8a4d39b64cc9f47e711a03a5a89.png"
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6e2050cbfb3ed8a4d39b64cc9f47e711a03a5a89.png"
+    }
   },
   "support": {
     "email": "",

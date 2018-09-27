@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/ae.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ae.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/973573850523947010/FMBz-IjN.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d.png"
+    }
   },
   "support": {
     "email": "info@aeternity.com",

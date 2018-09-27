@@ -9,7 +9,10 @@
     "src": "https://whohas.io/wp-content/uploads/2018/02/blueEye_blackText.png",
     "width": "552",
     "height": "608",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://whohas.io/wp-content/uploads/2018/02/blueEye_blackText.png"
+    }
   },
   "support": {
     "email": "info@whohas.io",

@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x23ae3c5b39b12f0693e05435eeaa1e51d8c61530.png"
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x23ae3c5b39b12f0693e05435eeaa1e51d8c61530.png"
+    }
   },
   "support": {
     "email": "team@aigang.network",

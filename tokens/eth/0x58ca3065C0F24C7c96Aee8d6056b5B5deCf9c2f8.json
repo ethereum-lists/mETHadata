@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x58ca3065c0f24c7c96aee8d6056b5b5decf9c2f8.png"
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x58ca3065c0f24c7c96aee8d6056b5b5decf9c2f8.png"
+    }
   },
   "support": {
     "email": "info@genevieveco.com",

@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x39013f961c378f02c2b82a6e1d31e9812786fd9d.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/913647411817365505/dCB9ZTiK.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x39013f961c378f02c2b82a6e1d31e9812786fd9d.png"
+    }
   },
   "support": {
     "email": "support@smscoin.jp",

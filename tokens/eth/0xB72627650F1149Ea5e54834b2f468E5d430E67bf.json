@@ -9,7 +9,10 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/903934760275378176/iczybSxU.jpg"
+    }
   },
   "support": {
     "email": "support@bitsoko.io",

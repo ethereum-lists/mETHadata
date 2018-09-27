@@ -8,7 +8,10 @@
   "logo": {
     "src": "https://corrently.de/token/img/logo_square.png",
     "width": "128",
-    "height": "128"
+    "height": "128",
+    "sources": {
+      "token-list": "https://corrently.de/token/img/logo_square.png"
+    }
   },
   "support": {
     "email": "kontakt@stromdao.com",

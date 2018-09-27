@@ -9,7 +9,11 @@
     "width": 20,
     "height": 20,
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe8780b48bdb05f928697a5e8155f672ed91462f7.png"
+    "sources": {
+      "token-list": "https://cashaa.com/img/tkn-icon1.png",
+      "twitter": "http://pbs.twimg.com/profile_images/992364235190501376/Sd6cXaPs.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe8780b48bdb05f928697a5e8155f672ed91462f7.png"
+    }
   },
   "support": {
     "email": "hello@cashaa.com",

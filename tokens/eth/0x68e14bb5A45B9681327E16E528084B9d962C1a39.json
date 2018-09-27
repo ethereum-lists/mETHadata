@@ -10,7 +10,9 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68e14bb5a45b9681327e16e528084b9d962c1a39.png"
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68e14bb5a45b9681327e16e528084b9d962c1a39.png"
+    }
   },
   "support": {
     "email": "help@bitclave.com",

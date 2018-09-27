@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/dnt.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/dnt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/871831497006764033/X-5Z8jrg.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0abdace70d3790235af448c88547603b945604ea.png"
+    }
   },
   "support": {
     "email": "",

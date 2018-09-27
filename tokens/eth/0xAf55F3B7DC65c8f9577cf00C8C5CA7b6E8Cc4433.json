@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaf55f3b7dc65c8f9577cf00c8c5ca7b6e8cc4433.png"
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/924466385568362497/6BPf85Em.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaf55f3b7dc65c8f9577cf00c8c5ca7b6e8cc4433.png"
+    }
   },
   "support": {
     "email": "support@entercoin.net",

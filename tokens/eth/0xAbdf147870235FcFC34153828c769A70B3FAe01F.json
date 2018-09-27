@@ -9,7 +9,11 @@
     "src": "https://etherscan.io/token/images/tether-euro_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/tether-euro_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/590917624294289408/676F_xrf_normal.png"
+    }
   },
   "support": {
     "email": "billy@tether.to",

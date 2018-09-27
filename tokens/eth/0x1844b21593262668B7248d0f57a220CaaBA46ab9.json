@@ -10,7 +10,11 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/prl.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/prl.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/951861471784439811/mHQ4rZIa.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1844b21593262668b7248d0f57a220caaba46ab9.png"
+    }
   },
   "support": {
     "email": "contact@oyster.ws",

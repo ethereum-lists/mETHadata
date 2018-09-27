@@ -9,7 +9,11 @@
     "src": "https://www.teslawatt.com/icon-tesla1.jpg",
     "width": "270",
     "height": "270",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://www.teslawatt.com/icon-tesla1.jpg",
+      "twitter": "http://pbs.twimg.com/profile_images/984722549991985152/hSw3D36I.jpg"
+    }
   },
   "support": {
     "email": "blockchain@teslawatt.com",

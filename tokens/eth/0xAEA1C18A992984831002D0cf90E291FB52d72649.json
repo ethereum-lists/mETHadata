@@ -9,7 +9,10 @@
     "src": "https://ecryptotokens.com/images/resources/logo.png",
     "width": "60",
     "height": "60",
-    "ipfs_hash": ""
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://ecryptotokens.com/images/resources/logo.png"
+    }
   },
   "support": {
     "email": "info@ecryptotokens.com",

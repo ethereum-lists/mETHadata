@@ -10,7 +10,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": "",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/bcd.svg"
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/bcd.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/991801338676858880/TAmRb1Ez.jpg"
+    }
   },
   "support": {
     "email": "media@bitcad.me",
