@@ -14,7 +14,9 @@
       "token-list": "https://etherscan.io/token/images/linkplatform28.png",
       "twitter": "http://pbs.twimg.com/profile_images/1013080322731212802/HQ63eIhJ.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe2e6d4be086c6938b53b22144855eef674281639.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1013080322731212802/HQ63eIhJ.jpg"
   },
   "support": {
     "email": "support@ethereum.link",

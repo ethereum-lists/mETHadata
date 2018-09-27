@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/902548711808442369/uTDd98ZN.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0996bfb5d057faa237640e2506be7b4f9c46de0b.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0996bfb5d057faa237640e2506be7b4f9c46de0b.png"
   },
   "support": {
     "email": "info@rendertoken.com",

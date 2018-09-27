@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/916334189716189184/40qrbNYn.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/916334189716189184/40qrbNYn.jpg"
   },
   "support": {
     "email": "",

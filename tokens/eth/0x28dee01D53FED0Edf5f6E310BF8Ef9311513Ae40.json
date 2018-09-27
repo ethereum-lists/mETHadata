@@ -14,7 +14,9 @@
       "token-list": "https://s3.amazonaws.com/blitzpredict-public/MEW+Logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/935933856569376768/CdNjKqPa.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28dee01d53fed0edf5f6e310bf8ef9311513ae40.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://s3.amazonaws.com/blitzpredict-public/MEW+Logo.png"
   },
   "support": {
     "email": "mew@blitzpredict.io",

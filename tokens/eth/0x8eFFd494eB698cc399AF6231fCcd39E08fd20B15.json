@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/976920583010242560/CkvvWBYe.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8effd494eb698cc399af6231fccd39e08fd20b15.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8effd494eb698cc399af6231fccd39e08fd20b15.png"
   },
   "support": {
     "email": "support@lampix.co",

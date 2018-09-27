@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/832668314740588544/HW1NXgfD.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda.png"
   },
   "support": {
     "email": "press@giga-watt.com",

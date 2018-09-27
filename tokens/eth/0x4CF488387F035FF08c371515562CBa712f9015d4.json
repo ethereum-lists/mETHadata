@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/wpr.svg",
       "twitter": "http://pbs.twimg.com/profile_images/1009888576736071680/4FzVzDKi.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cf488387f035ff08c371515562cba712f9015d4.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cf488387f035ff08c371515562cba712f9015d4.png"
   },
   "support": {
     "email": "team@wepower.network",

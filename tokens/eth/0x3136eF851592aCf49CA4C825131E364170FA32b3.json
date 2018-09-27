@@ -14,7 +14,9 @@
       "token-list": "https://blog.coinfi.com/wp-content/uploads/2018/01/coinfi-token-logo_28x28.png",
       "twitter": "http://pbs.twimg.com/profile_images/930269309883969537/fh2_q976.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3136ef851592acf49ca4c825131e364170fa32b3.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3136ef851592acf49ca4c825131e364170fa32b3.png"
   },
   "support": {
     "email": "contact@coinfi.com",

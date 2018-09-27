@@ -14,7 +14,9 @@
       "token-list": "https://fluxproject.xyz/gallery_gen/271ecfb9c8f4f7dfc5ea539cfa57f44d_150x150.png",
       "twitter": "http://pbs.twimg.com/profile_images/951601090478460930/tUD1mBzx.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x70b147e01e9285e7ce68b9ba437fe3a9190e756a.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/951601090478460930/tUD1mBzx.jpg"
   },
   "support": {
     "email": "support@fluxproject.xyz",

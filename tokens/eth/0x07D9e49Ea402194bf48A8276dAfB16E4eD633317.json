@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/892113262086684672/bYQmnHuz.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x07d9e49ea402194bf48a8276dafb16e4ed633317.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x07d9e49ea402194bf48a8276dafb16e4ed633317.png"
   },
   "support": {
     "email": "support@dalecoin.org",

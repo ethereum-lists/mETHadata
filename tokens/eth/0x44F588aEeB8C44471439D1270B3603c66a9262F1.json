@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1021553696717434880/B0eYf-Kh.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x44f588aeeb8c44471439d1270b3603c66a9262f1.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1021553696717434880/B0eYf-Kh.jpg"
   },
   "support": {
     "email": "info@snip.today",

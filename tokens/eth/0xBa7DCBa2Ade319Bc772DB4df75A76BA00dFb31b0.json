@@ -14,7 +14,9 @@
     "sources": {
       "token-list": "https://apollo18.co.in/wp-content/uploads/2018/08/a18-28x28.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba7dcba2ade319bc772db4df75a76ba00dfb31b0.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba7dcba2ade319bc772db4df75a76ba00dfb31b0.png"
   },
   "support": {
     "email": "contact@apollo18.co.in",

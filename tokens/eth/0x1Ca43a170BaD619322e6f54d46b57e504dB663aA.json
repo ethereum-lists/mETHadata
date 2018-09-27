@@ -14,7 +14,9 @@
       "token-list": "https://artwook.com/logo/akc-line.png",
       "twitter": "http://pbs.twimg.com/profile_images/1022418835901538304/t1DNAiIs.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1ca43a170bad619322e6f54d46b57e504db663aa.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://artwook.com/logo/akc-line.png"
   },
   "support": {
     "email": "contact@artwook.com",

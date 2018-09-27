@@ -14,7 +14,9 @@
       "token-list": "https://etherscan.io/token/images/nuggettoken_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/823507936890720256/ewUJOSFm.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1.png"
   },
   "support": {
     "email": "nuggets-token@nuggets.life",

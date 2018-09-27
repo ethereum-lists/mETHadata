@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/910343086701551616/urjF4xNC.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/910343086701551616/urjF4xNC.jpg"
   },
   "support": {
     "email": "support@ethereumdark.net",

@@ -14,7 +14,9 @@
       "token-list": "https://etherscan.io/token/images/uquid_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/915150242068226049/lyH2l4Ix.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd01db73e047855efb414e6202098c4be4cd2423b.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/915150242068226049/lyH2l4Ix.jpg"
   },
   "support": {
     "email": "admin@uquidcoin.com",

@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/900379003734937600/71w3A-_P.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb07ec2c28834b889b1ce527ca0f19364cd38935c.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb07ec2c28834b889b1ce527ca0f19364cd38935c.png"
   },
   "support": {
     "email": "support@cardstack.com",

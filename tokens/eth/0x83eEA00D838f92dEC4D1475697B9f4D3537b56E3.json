@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/911232778259361793/eG8_gRlY.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x83eea00d838f92dec4d1475697b9f4d3537b56e3.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x83eea00d838f92dec4d1475697b9f4d3537b56e3.png"
   },
   "support": {
     "email": "support@voise.it",

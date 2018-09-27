@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e.png"
   },
   "support": {
     "email": "support@cofound.it",

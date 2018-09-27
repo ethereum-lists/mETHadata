@@ -15,7 +15,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/drgn.svg",
       "twitter": "http://pbs.twimg.com/profile_images/980609456827330560/7_EyamZT.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/980609456827330560/7_EyamZT.jpg"
   },
   "support": {
     "email": "support@dragonchain.com",

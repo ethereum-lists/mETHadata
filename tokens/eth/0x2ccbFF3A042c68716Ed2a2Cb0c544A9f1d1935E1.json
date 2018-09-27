@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1.png"
   },
   "support": {
     "email": "support@dmarket.io",

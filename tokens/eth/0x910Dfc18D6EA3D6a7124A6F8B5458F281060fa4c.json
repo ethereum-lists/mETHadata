@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/869505312604266496/k8i93CL-.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c.png"
   },
   "support": {
     "email": "info@x8currency.com",

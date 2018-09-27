@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "http://hedpay.com/content/images/systemCustom/o5VT92nyPRvA7E5j7ij265rHsezBdwnk04bXYqoY0OTsUF4IzFEIubdyfRlkLcDH_28x28.png?version=4.7.1&width=809&height=509",
       "twitter": "http://pbs.twimg.com/profile_images/993757381719883776/aLJPRxDe.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/993757381719883776/aLJPRxDe.jpg"
   },
   "support": {
     "email": "hedpayltd@gmail.com",

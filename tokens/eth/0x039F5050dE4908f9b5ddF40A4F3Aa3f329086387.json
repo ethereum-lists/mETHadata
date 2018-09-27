@@ -14,7 +14,9 @@
       "token-list": "https://ethernet.cash/images/logo28x28.png",
       "twitter": "http://pbs.twimg.com/profile_images/989910317386756096/JvJ4uH0N.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x039f5050de4908f9b5ddf40a4f3aa3f329086387.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/989910317386756096/JvJ4uH0N.jpg"
   },
   "support": {
     "email": "contact@ethernet.cash",

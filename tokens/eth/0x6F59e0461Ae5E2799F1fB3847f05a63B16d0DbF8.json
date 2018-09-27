@@ -14,7 +14,9 @@
     "sources": {
       "token-list": "https://drive.google.com/open?id=1lCrBZQ7CNkVcUwPPet4j4WU7p1TUrY_1",
       "twitter": "http://pbs.twimg.com/profile_images/918030606163947520/kmSwRU6W.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/918030606163947520/kmSwRU6W.jpg"
   },
   "support": {
     "email": "hello@orcaalliance.eu",

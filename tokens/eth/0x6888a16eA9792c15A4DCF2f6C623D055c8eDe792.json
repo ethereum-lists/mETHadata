@@ -14,7 +14,9 @@
       "token-list": "https://uploads-ssl.webflow.com/58fd371467a8320d4f29aed3/5906667d95a2d43d31378ce7_60x60logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/858511830934630400/o4zzmyjc.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6888a16ea9792c15a4dcf2f6c623d055c8ede792.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6888a16ea9792c15a4dcf2f6c623d055c8ede792.png"
   },
   "support": {
     "email": "info@spectivvr.com",

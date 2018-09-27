@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://avatars3.githubusercontent.com/u/38851395?s=400",
       "twitter": "http://pbs.twimg.com/profile_images/1016208171382247425/5qFJybG3.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1016208171382247425/5qFJybG3.jpg"
   },
   "support": {
     "email": "support@mikado.io",

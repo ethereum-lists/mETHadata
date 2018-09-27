@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://cdn-images-1.medium.com/fit/c/200/200/1*2qbLwo61-mobpkNCWeBcLQ.jpeg",
       "twitter": "http://pbs.twimg.com/profile_images/980718698867572736/UADzf6sx.jpg"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://cdn-images-1.medium.com/fit/c/200/200/1*2qbLwo61-mobpkNCWeBcLQ.jpeg"
   },
   "support": {
     "email": "umka.labormarket@gmail.com",

@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/941350470081236992/wq49XZ1K.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/941350470081236992/wq49XZ1K.jpg"
   },
   "support": {
     "email": "support@canabio.net",

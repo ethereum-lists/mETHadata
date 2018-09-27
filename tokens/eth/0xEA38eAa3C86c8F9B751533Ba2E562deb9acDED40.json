@@ -14,7 +14,9 @@
       "token-list": "https://image.ibb.co/mzeWD6/EP3_Blue.png",
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/fuel.svg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea38eaa3c86c8f9b751533ba2e562deb9acded40.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://image.ibb.co/mzeWD6/EP3_Blue.png"
   },
   "support": {
     "email": "support@etherparty.io",

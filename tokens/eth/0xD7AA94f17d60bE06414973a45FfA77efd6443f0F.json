@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/942467465107324928/S4WYN4gU.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/942467465107324928/S4WYN4gU.jpg"
   },
   "support": {
     "email": "support@bitcoinquick.org",

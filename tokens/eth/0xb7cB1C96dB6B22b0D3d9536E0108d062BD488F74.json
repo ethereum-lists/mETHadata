@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/wtc.svg",
       "twitter": "http://pbs.twimg.com/profile_images/958914544474062848/djxi4nPk.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74.png"
-    }
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/wtc.svg"
   },
   "support": {
     "email": "services@waltonchain.org",

@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/916823846325547009/PBVLeUVk.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb45a50545beeab73f38f31e5973768c421805e5e.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb45a50545beeab73f38f31e5973768c421805e5e.png"
   },
   "support": {
     "email": "team@cryptoinsight.io",

@@ -15,7 +15,9 @@
       "token-list": "https://digitexfutures.com/img/DGTX.png",
       "twitter": "http://pbs.twimg.com/profile_images/997379779597922305/vTiphY-W.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1c83501478f1320977047008496dacbd60bb15ef.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/997379779597922305/vTiphY-W.jpg"
   },
   "support": {
     "email": "support@digitexfutures.com",

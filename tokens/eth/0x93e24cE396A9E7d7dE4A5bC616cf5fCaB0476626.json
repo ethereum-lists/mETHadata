@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/924300659284774913/zpc37REi.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/924300659284774913/zpc37REi.jpg"
   },
   "support": {
     "email": "zipcoinproject@gmail.com",

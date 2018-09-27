@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/946240451442483201/Vu8d3hIz.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/946240451442483201/Vu8d3hIz.jpg"
   },
   "support": {
     "email": "support@natcoin.io",

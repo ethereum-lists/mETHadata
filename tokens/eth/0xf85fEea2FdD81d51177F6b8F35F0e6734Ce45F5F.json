@@ -15,7 +15,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/cmt.svg",
       "twitter": "http://pbs.twimg.com/profile_images/989766551682170880/1vpeJpWa.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/989766551682170880/1vpeJpWa.jpg"
   },
   "support": {
     "email": "contact@5miles.com",

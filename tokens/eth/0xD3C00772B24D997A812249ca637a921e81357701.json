@@ -14,7 +14,9 @@
       "token-list": "http://wildtoken.com/wp-content/uploads/2017/12/WildCrypto-Logo-Only-copy-300x275.png",
       "twitter": "http://pbs.twimg.com/profile_images/888455009217773568/IsjwpvUu.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd3c00772b24d997a812249ca637a921e81357701.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd3c00772b24d997a812249ca637a921e81357701.png"
   },
   "support": {
     "email": "info@wildcrypto.com",

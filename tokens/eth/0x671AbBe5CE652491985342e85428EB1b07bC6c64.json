@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/905062625616285698/g5Pr8dh9.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x671abbe5ce652491985342e85428eb1b07bc6c64.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x671abbe5ce652491985342e85428eb1b07bc6c64.png"
   },
   "support": {
     "email": "support@quantumproject.org",

@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/933718189174902789/IXXot0eN.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5102791ca02fc3595398400bfe0e33d7b6c82267.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5102791ca02fc3595398400bfe0e33d7b6c82267.png"
   },
   "support": {
     "email": "info@leadcoin.network",

@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/kin.svg",
       "twitter": "http://pbs.twimg.com/profile_images/999394491000766464/qJjoPAZM.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/999394491000766464/qJjoPAZM.jpg"
   },
   "support": {
     "email": "kin@kik.com",

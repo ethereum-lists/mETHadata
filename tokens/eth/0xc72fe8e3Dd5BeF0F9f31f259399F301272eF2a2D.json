@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d.png"
   },
   "support": {
     "email": "info@insights.network",

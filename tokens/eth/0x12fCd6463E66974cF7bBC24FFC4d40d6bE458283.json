@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/gbx.svg",
       "twitter": "http://pbs.twimg.com/profile_images/953584824081526786/4gf0Xxso.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fcd6463e66974cf7bbc24ffc4d40d6be458283.png"
-    }
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/gbx.svg"
   },
   "support": {
     "email": "ico@globitex.com",

@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://i.imgur.com/KrgWBxm.jpg",
       "twitter": "http://pbs.twimg.com/profile_images/641894249546428416/D1eVQipF.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://i.imgur.com/KrgWBxm.jpg"
   },
   "support": {
     "email": "info@scandiweb.com",

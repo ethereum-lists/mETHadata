@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://dencity.life/assets/images/logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/933287085083017216/gz_akTqO.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/933287085083017216/gz_akTqO.jpg"
   },
   "support": {
     "email": "hello@dencity.life",

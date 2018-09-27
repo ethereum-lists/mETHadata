@@ -14,7 +14,9 @@
       "token-list": "https://i.imgur.com/GaPxtv5.png",
       "twitter": "http://pbs.twimg.com/profile_images/999328803447975938/_IRuRFeU.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb787d4eac8899730bb8c57fc3c998c49c5244ec0.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://i.imgur.com/GaPxtv5.png"
   },
   "support": {
     "email": "support@coinpulse.io",

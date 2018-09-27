@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://i.imgur.com/I4Rzoad.png ",
       "twitter": "http://pbs.twimg.com/profile_images/959973499463917568/-19_iNWY.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/959973499463917568/-19_iNWY.jpg"
   },
   "support": {
     "email": "info@worldcoin.cash",

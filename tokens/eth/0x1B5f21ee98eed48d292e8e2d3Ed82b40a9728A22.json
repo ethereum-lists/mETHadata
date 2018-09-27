@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/882967532034027520/aSp_oU0F.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b5f21ee98eed48d292e8e2d3ed82b40a9728a22.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/882967532034027520/aSp_oU0F.jpg"
   },
   "support": {
     "email": "hello@databrokerdao.com",

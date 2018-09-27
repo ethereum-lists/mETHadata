@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "token-list": "https://bitlle.com/img/btl.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://bitlle.com/img/btl.png"
   },
   "support": {
     "email": "info@bitlle.com",

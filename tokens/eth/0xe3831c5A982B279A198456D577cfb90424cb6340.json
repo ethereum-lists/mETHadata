@@ -14,7 +14,9 @@
       "token-list": "http://immunecoin.info/logo_32_32.png",
       "twitter": "http://pbs.twimg.com/profile_images/917750770493153281/404S0_5w.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3831c5a982b279a198456d577cfb90424cb6340.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/917750770493153281/404S0_5w.jpg"
   },
   "support": {
     "email": "imctoken2017@gmail.com",

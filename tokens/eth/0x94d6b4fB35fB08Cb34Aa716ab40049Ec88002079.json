@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/cnx.svg",
       "twitter": "http://pbs.twimg.com/profile_images/916290531533172737/gdQj0Ore.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x94d6b4fb35fb08cb34aa716ab40049ec88002079.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/916290531533172737/gdQj0Ore.jpg"
   },
   "support": {
     "email": "support@cryptonex.org",

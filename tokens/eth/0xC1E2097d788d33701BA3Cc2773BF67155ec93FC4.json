@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://www.iadowrcoin.com/img/iadowrcoin.png",
       "twitter": "http://pbs.twimg.com/profile_images/984099263469645824/C-RfMuwC.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/984099263469645824/C-RfMuwC.jpg"
   },
   "support": {
     "email": "admin@iadowrcoin.com",

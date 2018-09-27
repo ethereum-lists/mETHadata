@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/885394148328562688/rZbWqWjX.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0abefb7611cb3a01ea3fad85f33c3c934f8e2cf4.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0abefb7611cb3a01ea3fad85f33c3c934f8e2cf4.png"
   },
   "support": {
     "email": "info@virtue.finance",

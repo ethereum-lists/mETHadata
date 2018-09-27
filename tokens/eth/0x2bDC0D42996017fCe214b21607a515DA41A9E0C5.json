@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/907982861600423941/JtpENQ6q.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2bdc0d42996017fce214b21607a515da41a9e0c5.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2bdc0d42996017fce214b21607a515da41a9e0c5.png"
   },
   "support": {
     "email": "support@skincoin.org",

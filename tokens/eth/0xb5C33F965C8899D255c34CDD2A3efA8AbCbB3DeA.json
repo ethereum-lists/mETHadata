@@ -11,7 +11,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/944494114870984704/isNfMaLC.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/944494114870984704/isNfMaLC.jpg"
   },
   "support": {
     "email": "info@kprms.com",

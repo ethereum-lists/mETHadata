@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/924930718882508800/HiV_-6pc.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/924930718882508800/HiV_-6pc.jpg"
   },
   "support": {
     "email": "hitashi@ethereumx.io",

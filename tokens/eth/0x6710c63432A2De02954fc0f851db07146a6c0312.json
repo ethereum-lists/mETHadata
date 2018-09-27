@@ -14,7 +14,9 @@
       "token-list": "https://blockchain.syncfab.com/assets/img/mfg-logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/1004625198912434176/a_fXjLSf.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6710c63432a2de02954fc0f851db07146a6c0312.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1004625198912434176/a_fXjLSf.jpg"
   },
   "support": {
     "email": "support@syncfab.com",

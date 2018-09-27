@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/913436559977754626/-5oa7s3w.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb444208cb0516c150178fcf9a52604bc04a1acea.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/913436559977754626/-5oa7s3w.jpg"
   },
   "support": {
     "email": "info@greenmed.io",

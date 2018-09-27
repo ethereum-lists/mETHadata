@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/954082351398572032/e5fktxtO.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xae4f56f072c34c0a65b3ae3e4db797d831439d93.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xae4f56f072c34c0a65b3ae3e4db797d831439d93.png"
   },
   "support": {
     "email": "contact@gimli.io",

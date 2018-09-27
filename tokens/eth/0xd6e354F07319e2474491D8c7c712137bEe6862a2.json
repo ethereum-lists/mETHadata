@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/957913088975491072/LlWqIMjF.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/957913088975491072/LlWqIMjF.jpg"
   },
   "support": {
     "email": "foundation@lemochain.com",

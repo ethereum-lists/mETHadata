@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/896073979324190720/OaBMvyiZ.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/896073979324190720/OaBMvyiZ.jpg"
   },
   "support": {
     "email": "contact@luckytoken.info",

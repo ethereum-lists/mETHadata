@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/994987867699953665/u85I6Q7z.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/994987867699953665/u85I6Q7z.jpg"
   },
   "support": {
     "email": "team@eventchain.io",

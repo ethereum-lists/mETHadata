@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e4abe6419650ca839ce5bb7db422b881a6064bb.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e4abe6419650ca839ce5bb7db422b881a6064bb.png"
   },
   "support": {
     "email": "admin@cryptowi.com",

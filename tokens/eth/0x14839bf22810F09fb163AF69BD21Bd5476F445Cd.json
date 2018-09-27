@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x14839bf22810f09fb163af69bd21bd5476f445cd.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x14839bf22810f09fb163af69bd21bd5476f445cd.png"
   },
   "support": {
     "email": "",

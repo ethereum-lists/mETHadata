@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/871528368184872961/1Q0uZg4m.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x138a8752093f4f9a79aaedf48d4b9248fab93c9c.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x138a8752093f4f9a79aaedf48d4b9248fab93c9c.png"
   },
   "support": {
     "email": "musiconomi@musiconomi.com",

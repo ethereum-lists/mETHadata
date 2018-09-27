@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/smart.svg",
       "twitter": "http://pbs.twimg.com/profile_images/900734052520660992/nKiq75-X.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6f6deb5db0c4994a8283a01d6cfeeb27fc3bbe9c.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6f6deb5db0c4994a8283a01d6cfeeb27fc3bbe9c.png"
   },
   "support": {
     "email": "contact@smartbillions.com",

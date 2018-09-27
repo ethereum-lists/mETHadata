@@ -14,7 +14,9 @@
     "sources": {
       "token-list": "https://cdn.wemark.com/wmk-logo-250.png",
       "twitter": "http://pbs.twimg.com/profile_images/991695141202251776/9_2TfH-A.jpg"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://cdn.wemark.com/wmk-logo-250.png"
   },
   "support": {
     "email": "support@wemark.com",

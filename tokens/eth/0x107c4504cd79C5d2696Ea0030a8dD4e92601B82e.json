@@ -14,7 +14,9 @@
       "token-list": "https://etherscan.io/token/images/hellobloom_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/964657140311867392/c72WaeVs.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e.png"
   },
   "support": {
     "email": "team@hellobloom.io",

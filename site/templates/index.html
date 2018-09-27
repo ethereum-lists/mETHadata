@@ -33,16 +33,62 @@
       <p>Currently <b>1208</b> tokens, across <b>6</b> networks.</p>
     </div>
 
+    <style>
+      .marked {
+        border: 2px red solid;
+      }
+    </style>
+
+    <script>
+      function mark(id) {
+        $("#"+id).addClass('marked');
+        console.log(id);
+      }
+    </script>
+
+    <table class="col-md-8 offset-2">
 
     {% for net in tokens %}
       {% for token in tokens[net] %}
 
-    <table class="col-md-8 offset-2">
       <tr>
+      <td>
         <td valign="top" style="width:80px">
-          {% if token.logo and token.logo.src %}
-          <img src="{{token['logo']['src']}}" style="width:40px"><br><br>
-      {% endif %}
+
+          <img src="{{token.logo.src}}" style="width:200px;" id="{{token.address}}_src" onClick="mark('{{token.address}}_src')">
+
+        </td><td>
+
+          <img src="{{token.logo.sources.trivial}}" style="width:200px;" id="{{token.address}}_trivial" onClick="mark('{{token.address}}_trivial')")>
+
+        </td><td>
+
+
+
+          <img src="{{token.logo.sources.trustwallet}}" style="width:200px;" id="{{token.address}}_trustwallet" onClick="mark('{{token.address}}_trustwallet')">
+
+        </td><td>
+
+
+
+          <img src="{{token.logo.sources.twitter}}" style="width:200px;"  id="{{token.address}}_twitter" onClick="mark('{{token.address}}_twitter')">
+
+      </td>
+
+      <td>
+        <b>{{token.name}} ({{token.symbol}})</b><br>
+        {% if token.website %}
+          Website: <a href="{{token.website}}">{{token.website}}</a><br>
+        {% endif %}
+        {% if token.social and token.social.twitter %}
+          Twitter: <a href="{{token.social.twitter}}">{{token.social.twitter}}</a>
+        {% endif %}
+
+      </td>
+    </tr>{#
+      <tr>
+        <td>
+
       <a href="https://github.com/ethereum-lists/mETHadata/edit/master/tokens/{{net}}/{{token.address}}.json">edit</a>
     </td>
     <td style="padding-left:10px; padding-bottom:30px">
@@ -64,10 +110,11 @@
        decimals: <b>{{token.decimals}}</b><br>
        symbol: <b>{{token.symbol}}</b><br>
     </td>
-  </tr>
-</table>
+  </tr>#}
   {% endfor %}
   {%endfor%}
+</table>
+
 
 <!--
     <div class="container">

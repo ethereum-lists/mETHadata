@@ -14,7 +14,9 @@
       "token-list": "https://hive-project.net/images/hive-logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/921406236217827328/rXUM4ugQ.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc0eb85285d83217cd7c891702bcbc0fc401e2d9d.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/921406236217827328/rXUM4ugQ.jpg"
   },
   "support": {
     "email": "support@hive-project.net",

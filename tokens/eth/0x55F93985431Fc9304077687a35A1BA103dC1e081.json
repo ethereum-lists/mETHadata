@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55f93985431fc9304077687a35a1ba103dc1e081.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55f93985431fc9304077687a35a1ba103dc1e081.png"
   },
   "support": {
     "email": "tomcat@smartmesh.io",

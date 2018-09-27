@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/947065336372740097/szieYHim.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/947065336372740097/szieYHim.jpg"
   },
   "support": {
     "email": "ridercoinofficial@gmail.com",

@@ -14,7 +14,9 @@
       "token-list": "https://etherscan.io/token/images/rentberry_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/710154799803731968/N72AqKEe.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c.png"
   },
   "support": {
     "email": "hello@rentberry.com",

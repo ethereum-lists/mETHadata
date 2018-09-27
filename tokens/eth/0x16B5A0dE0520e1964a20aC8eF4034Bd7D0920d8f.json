@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/932935001166901248/nFuABJvz.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/932935001166901248/nFuABJvz.jpg"
   },
   "support": {
     "email": "contact@tiotourguides.com",

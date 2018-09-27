@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1006212812623040514/vSQmZ74Z.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd9a12cde03a86e800496469858de8581d3a5353d.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd9a12cde03a86e800496469858de8581d3a5353d.png"
   },
   "support": {
     "email": "hello@crowdholding.com",

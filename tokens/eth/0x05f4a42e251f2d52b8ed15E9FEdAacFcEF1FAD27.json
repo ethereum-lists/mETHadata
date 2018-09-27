@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/zil.svg",
       "twitter": "http://pbs.twimg.com/profile_images/895663410653704194/VDD7GERE.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/895663410653704194/VDD7GERE.jpg"
   },
   "support": {
     "email": "enquiry@zilliqa.com",

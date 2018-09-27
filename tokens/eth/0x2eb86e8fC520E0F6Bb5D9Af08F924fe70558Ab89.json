@@ -14,7 +14,9 @@
       "token-list": "https://getlogarithm.com/images/logo256.png",
       "twitter": "http://pbs.twimg.com/profile_images/995275410308026368/t0PhD4jd.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2eb86e8fc520e0f6bb5d9af08f924fe70558ab89.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2eb86e8fc520e0f6bb5d9af08f924fe70558ab89.png"
   },
   "support": {
     "email": "one@getlogarithm.com",

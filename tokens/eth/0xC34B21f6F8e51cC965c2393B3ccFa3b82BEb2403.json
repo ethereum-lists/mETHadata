@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc34b21f6f8e51cc965c2393b3ccfa3b82beb2403.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc34b21f6f8e51cc965c2393b3ccfa3b82beb2403.png"
   },
   "support": {
     "email": "talk01ta52@gmail.com",

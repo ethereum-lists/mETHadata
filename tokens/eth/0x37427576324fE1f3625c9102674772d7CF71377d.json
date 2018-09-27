@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://sgt.selfieyo.com/wp-content/uploads/2018/01/token-new.png",
       "twitter": "http://pbs.twimg.com/profile_images/1020788315665072128/qPkNXuUY.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1020788315665072128/qPkNXuUY.jpg"
   },
   "support": {
     "email": "sgt@selfieyo.com",

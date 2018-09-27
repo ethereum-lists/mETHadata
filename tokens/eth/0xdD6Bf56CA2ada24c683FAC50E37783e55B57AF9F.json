@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/997244483786887168/bJv4gCRL.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6bf56ca2ada24c683fac50e37783e55b57af9f.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6bf56ca2ada24c683fac50e37783e55b57af9f.png"
   },
   "support": {
     "email": "contact@bravenewcoin.com",

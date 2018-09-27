@@ -14,7 +14,9 @@
       "token-list": "https://etherscan.io/token/images/oneledger_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/972221109243392001/JpvcxX4_.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x64a60493d888728cf42616e034a0dfeae38efcf0.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x64a60493d888728cf42616e034a0dfeae38efcf0.png"
   },
   "support": {
     "email": "hello@oneledger.io",

@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/912740673656201216/2TBlZ6Cp.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/912740673656201216/2TBlZ6Cp.jpg"
   },
   "support": {
     "email": "contact@dmtcoin.info",

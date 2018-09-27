@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/915441977100922880/Etl1QhC8.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x516e5436bafdc11083654de7bb9b95382d08d5de.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x516e5436bafdc11083654de7bb9b95382d08d5de.png"
   },
   "support": {
     "email": "info@ormeuscoin.com",

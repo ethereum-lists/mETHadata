@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "http://wicknote.com/wicklogo-small.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x62cd07d414ec50b68c7ecaa863a23d344f2d062f.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "http://wicknote.com/wicklogo-small.png"
   },
   "support": {
     "email": "support@wicknote.com",

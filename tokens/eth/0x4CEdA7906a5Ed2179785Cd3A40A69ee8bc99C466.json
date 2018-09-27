@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/aion.svg",
       "twitter": "http://pbs.twimg.com/profile_images/986238877370220545/vSKdndPS.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/986238877370220545/vSKdndPS.jpg"
   },
   "support": {
     "email": "media@aion.network",

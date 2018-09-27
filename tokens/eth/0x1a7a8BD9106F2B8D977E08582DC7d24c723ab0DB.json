@@ -15,7 +15,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/appc.svg",
       "twitter": "http://pbs.twimg.com/profile_images/940957722735992832/Mu0_0yPz.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/940957722735992832/Mu0_0yPz.jpg"
   },
   "support": {
     "email": "info@appcoins.io",

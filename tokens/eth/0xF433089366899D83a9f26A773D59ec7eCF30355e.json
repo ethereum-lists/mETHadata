@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/mtl.svg",
       "twitter": "http://pbs.twimg.com/profile_images/996195327475527680/aGBmnZ9J.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf433089366899d83a9f26a773d59ec7ecf30355e.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/996195327475527680/aGBmnZ9J.jpg"
   },
   "support": {
     "email": "support@metalpay.co",

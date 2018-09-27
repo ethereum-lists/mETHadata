@@ -14,7 +14,9 @@
     "sources": {
       "token-list": "https://guld.io/img/logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/871382365939130369/UmkFnuGC.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/871382365939130369/UmkFnuGC.jpg"
   },
   "support": {
     "email": "info@guld.io",

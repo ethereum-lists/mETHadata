@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://www.porntoken.io/porntoken.256.png",
       "twitter": "http://pbs.twimg.com/profile_images/889279228411342848/jwShSovU.jpg"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://www.porntoken.io/porntoken.256.png"
   },
   "support": {
     "email": "support@porntoken.io",

@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://storage.googleapis.com/static.otcmaker.com/CoinLogo-OMT%202.png",
       "twitter": "http://pbs.twimg.com/profile_images/988312167375130624/6N4X9XQG.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/988312167375130624/6N4X9XQG.jpg"
   },
   "support": {
     "email": "contact@otcmaker.com",

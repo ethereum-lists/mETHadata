@@ -14,7 +14,9 @@
       "token-list": "https://rivetz.com/img/logo/color-250px.png",
       "twitter": "http://pbs.twimg.com/profile_images/923632615609028608/E7mw-sB-.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244.png"
   },
   "support": {
     "email": "sales@rivetzintl.com",

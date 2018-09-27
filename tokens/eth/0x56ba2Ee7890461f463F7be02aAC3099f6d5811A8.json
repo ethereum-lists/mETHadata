@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/875905861830311936/iHtYLhqy.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x56ba2ee7890461f463f7be02aac3099f6d5811a8.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/875905861830311936/iHtYLhqy.jpg"
   },
   "support": {
     "email": "team@blockcat.io",

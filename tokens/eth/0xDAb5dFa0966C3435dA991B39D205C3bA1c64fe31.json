@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/987164171736252416/1f4WhFeK.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/987164171736252416/1f4WhFeK.jpg"
   },
   "support": {
     "email": "support@trafficspeedster.com",

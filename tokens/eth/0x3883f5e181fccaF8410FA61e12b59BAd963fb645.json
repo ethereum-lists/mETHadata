@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/theta.svg",
       "twitter": "http://pbs.twimg.com/profile_images/932868157261225984/jxOQobOB.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3883f5e181fccaf8410fa61e12b59bad963fb645.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3883f5e181fccaf8410fa61e12b59bad963fb645.png"
   },
   "support": {
     "email": "support@thetatoken.org",

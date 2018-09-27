@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/dgd.svg",
       "twitter": "http://pbs.twimg.com/profile_images/1013679720704065536/lAU5IAkA.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a.png"
   },
   "support": {
     "email": "support@digix.io",

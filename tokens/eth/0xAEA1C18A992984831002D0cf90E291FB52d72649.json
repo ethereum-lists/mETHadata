@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "token-list": "https://ecryptotokens.com/images/resources/logo.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://ecryptotokens.com/images/resources/logo.png"
   },
   "support": {
     "email": "info@ecryptotokens.com",

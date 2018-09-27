@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://cdn.copytrack.io/media/cpy.png?auto=compress&w=200",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf44745fbd41f6a1ba151df190db0564c5fcc4410.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf44745fbd41f6a1ba151df190db0564c5fcc4410.png"
   },
   "support": {
     "email": "support@copytrack.io",

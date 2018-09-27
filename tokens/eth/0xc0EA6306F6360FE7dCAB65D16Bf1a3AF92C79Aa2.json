@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "http://cdn.ganacoin.io/logo/gana_symbol_24.png",
       "twitter": "http://pbs.twimg.com/profile_images/997856105270136832/_XVB_WRV.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/997856105270136832/_XVB_WRV.jpg"
   },
   "support": {
     "email": "info@ganacoin.io",

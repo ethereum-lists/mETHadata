@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8.png"
   },
   "support": {
     "email": "support@nexus.social",

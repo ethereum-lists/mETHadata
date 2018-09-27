@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/887902244808433664/llFFFGkr.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a.png"
   },
   "support": {
     "email": "info@swarm.fund",

@@ -14,7 +14,9 @@
       "token-list": "https://i.imgur.com/G285h1R.png",
       "twitter": "http://pbs.twimg.com/profile_images/938321142326136832/tFxpxDcB.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf03f8d65bafa598611c3495124093c56e8f638f0.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/938321142326136832/tFxpxDcB.jpg"
   },
   "support": {
     "email": "support@view.ly",

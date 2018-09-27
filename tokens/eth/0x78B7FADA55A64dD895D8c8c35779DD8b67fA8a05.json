@@ -14,7 +14,9 @@
       "token-list": "https://atlant.io/promo/Atlant_custom_300x300_logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/1020736318131892224/oJ-TnGd_.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05.png"
   },
   "support": {
     "email": "help@atlant.io",

@@ -14,7 +14,9 @@
       "token-list": "https://s3.eu-central-1.amazonaws.com/iqeon-content/logo/4_5953844568075010913.png",
       "twitter": "http://pbs.twimg.com/profile_images/1042749300206391299/xsNxanzz.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0db8d8b76bc361bacbb72e2c491e06085a97ab31.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0db8d8b76bc361bacbb72e2c491e06085a97ab31.png"
   },
   "support": {
     "email": "support@iqeon.io",

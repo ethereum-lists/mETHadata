@@ -14,7 +14,9 @@
       "token-list": "https://etherscan.io/token/images/fucktoken_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/880209213661642752/btRc1qU9.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65be44c747988fbf606207698c944df4442efe19.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65be44c747988fbf606207698c944df4442efe19.png"
   },
   "support": {
     "email": "contact@fucktoken.com",

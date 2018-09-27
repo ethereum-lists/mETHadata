@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/907862487306928128/YhP26Y1_.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/907862487306928128/YhP26Y1_.jpg"
   },
   "support": {
     "email": "support@tsstoken.com",

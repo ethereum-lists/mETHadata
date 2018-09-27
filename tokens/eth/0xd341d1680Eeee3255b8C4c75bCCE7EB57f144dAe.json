@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://etherscan.io/token/images/ongcoin_28.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd341d1680eeee3255b8c4c75bcce7eb57f144dae.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd341d1680eeee3255b8c4c75bcce7eb57f144dae.png"
   },
   "support": {
     "email": "success@ong.social",

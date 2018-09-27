@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/885984552463847425/bqJZ2qGQ.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/885984552463847425/bqJZ2qGQ.jpg"
   },
   "support": {
     "email": "team@firstblood.io",

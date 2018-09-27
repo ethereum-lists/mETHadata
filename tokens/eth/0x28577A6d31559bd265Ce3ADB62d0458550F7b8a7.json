@@ -13,7 +13,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28577a6d31559bd265ce3adb62d0458550f7b8a7.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28577a6d31559bd265ce3adb62d0458550f7b8a7.png"
   },
   "support": {
     "email": "support@blockchainlead.com",

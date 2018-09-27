@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/902863402048962560/BF2LCEbQ.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/902863402048962560/BF2LCEbQ.jpg"
   },
   "support": {
     "email": "info@tokenverse.com",

@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/890959027135500289/c9LzzYFZ.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf.png"
   },
   "support": {
     "email": "team@spectre.ai",

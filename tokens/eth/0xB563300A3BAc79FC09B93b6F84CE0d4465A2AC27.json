@@ -14,7 +14,9 @@
     "sources": {
       "token-list": "https://i.imgur.com/EgxuJmy.png",
       "twitter": "http://pbs.twimg.com/profile_images/963580132026961926/_4R8E0xf.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/963580132026961926/_4R8E0xf.jpg"
   },
   "support": {
     "email": "info@redcab.io",

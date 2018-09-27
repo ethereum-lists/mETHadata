@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x63b992e6246d88f07fc35a056d2c365e6d441a3d.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x63b992e6246d88f07fc35a056d2c365e6d441a3d.png"
   },
   "support": {
     "email": "support@soma.co",

@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/897698076227514370/5olpFeoB.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9041fe5b3fdea0f5e4afdc17e75180738d877a01.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/897698076227514370/5olpFeoB.jpg"
   },
   "support": {
     "email": "",

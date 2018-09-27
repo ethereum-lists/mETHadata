@@ -14,7 +14,9 @@
       "token-list": "https://republicprotocol.github.io/files/logo/128x128.png",
       "twitter": "http://pbs.twimg.com/profile_images/1034689424905269248/CRYvXTVv.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x408e41876cccdc0f92210600ef50372656052a38.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x408e41876cccdc0f92210600ef50372656052a38.png"
   },
   "support": {
     "email": "support@republicprotocol.com",

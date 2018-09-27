@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1015236701965438976/NcSeMzRM.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1015236701965438976/NcSeMzRM.jpg"
   },
   "support": {
     "email": "info@smartnode.org",

@@ -14,7 +14,9 @@
       "token-list": "https://ibb.co/hmP1vo",
       "twitter": "http://pbs.twimg.com/profile_images/997090735689228288/b85hcj_r.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd8950fdeaa10304b7a7fd03a2fc66bc39f3c711a.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd8950fdeaa10304b7a7fd03a2fc66bc39f3c711a.png"
   },
   "support": {
     "email": "contact@wysker.org",

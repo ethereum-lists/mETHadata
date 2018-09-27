@@ -14,7 +14,9 @@
       "token-list": "https://s2.coinmarketcap.com/static/img/coins/32x32/2076.png",
       "twitter": "http://pbs.twimg.com/profile_images/938138483998171136/H-cSwPnu.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x539efe69bcdd21a83efd9122571a64cc25e0282b.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/938138483998171136/H-cSwPnu.jpg"
   },
   "support": {
     "email": "team@etherblue.org",

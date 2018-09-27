@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/929117604643454978/ebUqZEdk.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc66ea802717bfb9833400264dd12c2bceaa34a6d.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/929117604643454978/ebUqZEdk.jpg"
   },
   "support": {
     "email": "support@makerdao.com",

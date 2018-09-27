@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/962099770989756416/WKVWnb-h.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/962099770989756416/WKVWnb-h.jpg"
   },
   "support": {
     "email": "support@toorcoin.com",

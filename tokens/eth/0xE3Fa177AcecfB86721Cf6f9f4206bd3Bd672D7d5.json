@@ -14,7 +14,9 @@
       "token-list": "https://chaintrade.net/wp-content/uploads/2017/09/chaintrade-logo-600x600.png",
       "twitter": "http://pbs.twimg.com/profile_images/911668601551237120/3tRyyn11.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://chaintrade.net/wp-content/uploads/2017/09/chaintrade-logo-600x600.png"
   },
   "support": {
     "email": "contact@chaintrade.net",

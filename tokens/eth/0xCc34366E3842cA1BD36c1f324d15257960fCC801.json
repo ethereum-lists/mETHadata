@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc34366e3842ca1bd36c1f324d15257960fcc801.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc34366e3842ca1bd36c1f324d15257960fcc801.png"
   },
   "support": {
     "email": "support@bonpay.com",

@@ -14,7 +14,9 @@
       "token-list": "https://raw.githubusercontent.com/FundRequest/logo/master/Logo%20icon%20500x500.png",
       "twitter": "http://pbs.twimg.com/profile_images/879306675139825664/xp7ObP85.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4df47b4969b2911c966506e3592c41389493953b.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4df47b4969b2911c966506e3592c41389493953b.png"
   },
   "support": {
     "email": "info@fundrequest.io",

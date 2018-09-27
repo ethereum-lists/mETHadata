@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/992875790625837058/ImosKJam.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x44197a4c44d6a059297caf6be4f7e172bd56caaf.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x44197a4c44d6a059297caf6be4f7e172bd56caaf.png"
   },
   "support": {
     "email": "",

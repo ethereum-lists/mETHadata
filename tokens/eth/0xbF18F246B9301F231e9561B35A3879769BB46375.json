@@ -14,7 +14,9 @@
       "token-list": "https://tombcare.com/images/logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/910611196247756801/snHJAll5.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbf18f246b9301f231e9561b35a3879769bb46375.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/910611196247756801/snHJAll5.jpg"
   },
   "support": {
     "email": "support@tombcare.com",

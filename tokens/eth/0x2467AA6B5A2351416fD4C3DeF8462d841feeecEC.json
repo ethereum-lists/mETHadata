@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://avatars0.githubusercontent.com/u/31820267?s=400&u=f671cf8b24876d0dddf9b16930d31cc2114103eb&v=4",
       "twitter": "http://pbs.twimg.com/profile_images/875617691100299265/hOrnp_b_.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/875617691100299265/hOrnp_b_.jpg"
   },
   "support": {
     "email": "support@qiibee.com",

@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/nuls.svg",
       "twitter": "http://pbs.twimg.com/profile_images/943413622100836352/6I5Ptpa_.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c.png"
   },
   "support": {
     "email": "hi@nuls.io",

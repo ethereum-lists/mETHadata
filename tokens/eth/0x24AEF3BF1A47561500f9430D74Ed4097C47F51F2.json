@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/905391238337220608/c28s7lQy.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/905391238337220608/c28s7lQy.jpg"
   },
   "support": {
     "email": "reachout@spartaico.com",

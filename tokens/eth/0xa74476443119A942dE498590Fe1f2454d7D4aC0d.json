@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/gnt.svg",
       "twitter": "http://pbs.twimg.com/profile_images/1015197751997583361/U-486dPh.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa74476443119a942de498590fe1f2454d7d4ac0d.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1015197751997583361/U-486dPh.jpg"
   },
   "support": {
     "email": "contact@golemproject.net",

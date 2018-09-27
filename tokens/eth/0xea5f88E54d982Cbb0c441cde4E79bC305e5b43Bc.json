@@ -14,7 +14,9 @@
       "token-list": "https://pareto.network/images/square500x500.png",
       "twitter": "http://pbs.twimg.com/profile_images/928045808854884352/ZbDsm3r_.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc.png"
   },
   "support": {
     "email": "hello@pareto.network",

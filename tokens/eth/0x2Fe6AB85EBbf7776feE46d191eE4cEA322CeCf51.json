@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/cdt.svg"
-    }
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/cdt.svg"
   },
   "support": {
     "email": "",

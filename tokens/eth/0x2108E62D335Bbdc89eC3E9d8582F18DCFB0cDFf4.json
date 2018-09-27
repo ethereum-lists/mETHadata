@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://image.ibb.co/mEQjbw/CARCO_crypto_logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/945286165946621952/ysdC3LjY.jpg"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://image.ibb.co/mEQjbw/CARCO_crypto_logo.png"
   },
   "support": {
     "email": "info@carcohub.com",

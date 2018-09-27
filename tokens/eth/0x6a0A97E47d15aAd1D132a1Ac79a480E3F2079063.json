@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6a0a97e47d15aad1d132a1ac79a480e3f2079063.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6a0a97e47d15aad1d132a1ac79a480e3f2079063.png"
   },
   "support": {
     "email": "info@wepower.network",

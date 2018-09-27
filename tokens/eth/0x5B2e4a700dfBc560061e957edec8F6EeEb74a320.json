@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/ins.svg",
       "twitter": "http://pbs.twimg.com/profile_images/953637146048581632/J86-qWH3.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b2e4a700dfbc560061e957edec8f6eeeb74a320.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b2e4a700dfbc560061e957edec8f6eeeb74a320.png"
   },
   "support": {
     "email": "info@ins.world",

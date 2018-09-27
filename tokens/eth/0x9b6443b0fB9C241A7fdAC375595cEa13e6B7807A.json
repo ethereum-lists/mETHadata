@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/926499882969518081/pdqw-Dzf.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b6443b0fb9c241a7fdac375595cea13e6b7807a.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b6443b0fb9c241a7fdac375595cea13e6b7807a.png"
   },
   "support": {
     "email": "info@reality-clash.com",

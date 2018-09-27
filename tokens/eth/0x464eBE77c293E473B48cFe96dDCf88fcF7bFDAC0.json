@@ -14,7 +14,9 @@
       "token-list": "https://kryll.io/external/K_256px.png",
       "twitter": "http://pbs.twimg.com/profile_images/951481087842234368/E5RDT0Mu.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0.png"
   },
   "support": {
     "email": "support@kryll.io",

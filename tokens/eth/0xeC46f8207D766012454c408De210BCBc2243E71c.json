@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/908727051686780929/aNRUxoCz.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xec46f8207d766012454c408de210bcbc2243e71c.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xec46f8207d766012454c408de210bcbc2243e71c.png"
   },
   "support": {
     "email": "general@nitro.live",

@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/905435584864305156/0R3e3yE9.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7fc408011165760ee31be2bf20daf450356692af.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7fc408011165760ee31be2bf20daf450356692af.png"
   },
   "support": {
     "email": "support@mitrav.co",

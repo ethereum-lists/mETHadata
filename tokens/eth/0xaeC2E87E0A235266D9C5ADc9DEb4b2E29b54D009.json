@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/sngls.svg",
       "twitter": "http://pbs.twimg.com/profile_images/846428597762084865/ELIcUi6n.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/846428597762084865/ELIcUi6n.jpg"
   },
   "support": {
     "email": "contact@singulardtv.com",

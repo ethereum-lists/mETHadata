@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/oax.svg",
       "twitter": "http://pbs.twimg.com/profile_images/978878661104414724/E9Rz5P3o.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x701c244b988a513c945973defa05de933b23fe1d.png"
-    }
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/oax.svg"
   },
   "support": {
     "email": "projectstallman@openanx.org",

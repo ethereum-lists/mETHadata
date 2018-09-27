@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d6dd9f68d24ec1d5fe2174f3ec8dab52b52baf5.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d6dd9f68d24ec1d5fe2174f3ec8dab52b52baf5.png"
   },
   "support": {
     "email": "dwgoforit@gmail.com",

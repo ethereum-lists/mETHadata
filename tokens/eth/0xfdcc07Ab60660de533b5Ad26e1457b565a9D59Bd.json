@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/923838031810973696/tki3m4VQ.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/923838031810973696/tki3m4VQ.jpg"
   },
   "support": {
     "email": "support@martcoin.io",

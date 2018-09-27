@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1025423240582320131/pzV4De6v.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x96a65609a7b84e8842732deb08f56c3e21ac6f8a.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1025423240582320131/pzV4De6v.jpg"
   },
   "support": {
     "email": "upport@centra.tech",

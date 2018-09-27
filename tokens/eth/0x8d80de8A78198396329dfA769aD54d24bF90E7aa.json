@@ -14,7 +14,9 @@
       "token-list": "https://drive.google.com/file/d/1D8Oh0j1l_Q7MFbqyGmNFHNE2pw-lyXmw/view",
       "twitter": "http://pbs.twimg.com/profile_images/953941567298916354/1L8z_Fx8.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8d80de8a78198396329dfa769ad54d24bf90e7aa.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/953941567298916354/1L8z_Fx8.jpg"
   },
   "support": {
     "email": "hello@nami.io",

@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "token-list": "https://image.ibb.co/eYVsoH/monaco_estate_logo_28x28.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://image.ibb.co/eYVsoH/monaco_estate_logo_28x28.png"
   },
   "support": {
     "email": "contact@monacoestate.io",

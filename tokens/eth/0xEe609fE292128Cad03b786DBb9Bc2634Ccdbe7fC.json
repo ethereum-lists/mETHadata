@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/898483400671088640/HTrxSE7P.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xee609fe292128cad03b786dbb9bc2634ccdbe7fc.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xee609fe292128cad03b786dbb9bc2634ccdbe7fc.png"
   },
   "support": {
     "email": "contact@postoken.org",

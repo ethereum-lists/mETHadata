@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4.png"
   },
   "support": {
     "email": "support@piplcoin.com",

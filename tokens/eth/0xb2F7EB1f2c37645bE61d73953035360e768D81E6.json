@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/cob.svg",
       "twitter": "http://pbs.twimg.com/profile_images/907819119927537670/Z3hjGZSC.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb2f7eb1f2c37645be61d73953035360e768d81e6.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/907819119927537670/Z3hjGZSC.jpg"
   },
   "support": {
     "email": "support@cobinhood.com",

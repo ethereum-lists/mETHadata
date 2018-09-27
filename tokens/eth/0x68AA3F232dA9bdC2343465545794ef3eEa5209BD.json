@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1009790207707766784/JOCubLPb.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68aa3f232da9bdc2343465545794ef3eea5209bd.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68aa3f232da9bdc2343465545794ef3eea5209bd.png"
   },
   "support": {
     "email": "hello@mothership.cx",

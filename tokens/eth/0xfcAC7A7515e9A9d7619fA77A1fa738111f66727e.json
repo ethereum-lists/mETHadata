@@ -14,7 +14,9 @@
       "token-list": "https://image.ibb.co/e9kStm/Pitch_Apply_Token_logo_500x500.png",
       "twitter": "http://pbs.twimg.com/profile_images/947231583752290305/YpDdbOoG.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfcac7a7515e9a9d7619fa77a1fa738111f66727e.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://image.ibb.co/e9kStm/Pitch_Apply_Token_logo_500x500.png"
   },
   "support": {
     "email": "hello@pitchapply.com",

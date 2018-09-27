@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/890984021110513664/zIQSByfR.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/890984021110513664/zIQSByfR.jpg"
   },
   "support": {
     "email": "support@betnetwork.online",

@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/966380166078521345/Yocs8-e1.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc98e0639c6d2ec037a615341c369666b110e80e5.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/966380166078521345/Yocs8-e1.jpg"
   },
   "support": {
     "email": "support@exmr.io",

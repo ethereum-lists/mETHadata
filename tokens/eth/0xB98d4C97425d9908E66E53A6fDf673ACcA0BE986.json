@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/abt.svg",
       "twitter": "http://pbs.twimg.com/profile_images/1032138442690326528/bNeRvaCG.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb98d4c97425d9908e66e53a6fdf673acca0be986.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb98d4c97425d9908e66e53a6fdf673acca0be986.png"
   },
   "support": {
     "email": "contact@arcblock.io",

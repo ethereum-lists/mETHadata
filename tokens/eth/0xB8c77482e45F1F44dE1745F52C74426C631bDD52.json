@@ -14,7 +14,9 @@
       "token-list": "https://etherscan.io/token/images/binance_28.png",
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/bnb.svg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png"
   },
   "support": {
     "email": "support@binance.zendesk.com",

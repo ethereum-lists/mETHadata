@@ -14,7 +14,9 @@
     "sources": {
       "token-list": "https://disciplina.io/logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/1017691101392723968/7_7cdI7f.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1017691101392723968/7_7cdI7f.jpg"
   },
   "support": {
     "email": "hello@disciplina.io",

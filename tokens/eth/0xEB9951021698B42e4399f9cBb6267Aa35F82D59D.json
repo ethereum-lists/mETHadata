@@ -14,7 +14,9 @@
       "token-list": "https://etherscan.io/token/images/lif_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/998149001047228417/FbWbcrCt.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xeb9951021698b42e4399f9cbb6267aa35f82d59d.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/998149001047228417/FbWbcrCt.jpg"
   },
   "support": {
     "email": "support@windingtree.com",

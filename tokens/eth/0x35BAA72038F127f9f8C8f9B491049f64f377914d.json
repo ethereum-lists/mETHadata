@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://ethpoker.io/wp-content/uploads/2018/03/smallBlueIcon.png",
       "twitter": "http://pbs.twimg.com/profile_images/968236234853171200/nlZaj5tP.jpg"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://ethpoker.io/wp-content/uploads/2018/03/smallBlueIcon.png"
   },
   "support": {
     "email": "admin@ethpoker.io",

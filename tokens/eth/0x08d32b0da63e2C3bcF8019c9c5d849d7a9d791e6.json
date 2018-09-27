@@ -14,7 +14,9 @@
       "token-list": "https://dentacoin.com/web/img/DCNlogo.png",
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/dcn.svg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6.png"
   },
   "support": {
     "email": "admin@dentacoin.com",

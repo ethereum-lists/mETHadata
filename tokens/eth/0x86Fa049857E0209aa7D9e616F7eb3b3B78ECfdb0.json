@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/eos.svg",
       "twitter": "http://pbs.twimg.com/profile_images/1044588501566705664/RoOx1MPe.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0.png"
   },
   "support": {
     "email": "eos@block.one",

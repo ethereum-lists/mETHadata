@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/ast.svg"
-    }
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/ast.svg"
   },
   "support": {
     "email": "admin@afterschool.ae",

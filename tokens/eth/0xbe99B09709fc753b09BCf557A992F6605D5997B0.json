@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/952709875527647232/ROr_MohG.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/952709875527647232/ROr_MohG.jpg"
   },
   "support": {
     "email": "info@smartrealty.io",

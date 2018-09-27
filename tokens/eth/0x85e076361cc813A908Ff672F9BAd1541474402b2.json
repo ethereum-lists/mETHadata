@@ -15,7 +15,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/tel.svg",
       "twitter": "http://pbs.twimg.com/profile_images/933388441475194881/57fOk40N.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85e076361cc813a908ff672f9bad1541474402b2.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85e076361cc813a908ff672f9bad1541474402b2.png"
   },
   "support": {
     "email": "tokensupport@telco.in",

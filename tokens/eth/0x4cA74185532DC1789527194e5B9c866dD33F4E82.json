@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/914017353960214531/Rdnj_ZHc.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ca74185532dc1789527194e5b9c866dd33f4e82.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ca74185532dc1789527194e5b9c866dd33f4e82.png"
   },
   "support": {
     "email": "isensatori@gmail.com",

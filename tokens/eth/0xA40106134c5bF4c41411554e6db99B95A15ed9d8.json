@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "token-list": "https://rocketico.io/app/media/token_icon.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://rocketico.io/app/media/token_icon.png"
   },
   "support": {
     "email": "support@rocketico.io",

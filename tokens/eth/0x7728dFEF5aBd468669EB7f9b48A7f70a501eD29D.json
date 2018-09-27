@@ -14,7 +14,9 @@
       "token-list": "https://etherscan.io/token/images/paragon2.png",
       "twitter": "http://pbs.twimg.com/profile_images/1001805258459402242/qQ_g2beu.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7728dfef5abd468669eb7f9b48a7f70a501ed29d.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7728dfef5abd468669eb7f9b48a7f70a501ed29d.png"
   },
   "support": {
     "email": "info@paragoncoin.com",

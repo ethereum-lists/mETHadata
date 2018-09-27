@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/901899861368467458/VH47S68x.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27695e09149adc738a978e9a678f99e4c39e9eb9.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/901899861368467458/VH47S68x.jpg"
   },
   "support": {
     "email": "support@kickico.com",

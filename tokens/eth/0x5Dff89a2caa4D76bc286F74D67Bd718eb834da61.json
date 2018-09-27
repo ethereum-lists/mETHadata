@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://cryptfillcoin.com/images/resources/logo.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5dff89a2caa4d76bc286f74d67bd718eb834da61.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://cryptfillcoin.com/images/resources/logo.png"
   },
   "support": {
     "email": "info@cryptfillcoin.com",

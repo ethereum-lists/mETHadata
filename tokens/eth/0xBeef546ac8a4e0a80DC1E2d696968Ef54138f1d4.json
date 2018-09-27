@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://ico.ojooo.com/images/token-logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/832540216908988416/qgxmtZ3m.jpg"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://ico.ojooo.com/images/token-logo.png"
   },
   "support": {
     "email": "tokensale@ojooo.com",

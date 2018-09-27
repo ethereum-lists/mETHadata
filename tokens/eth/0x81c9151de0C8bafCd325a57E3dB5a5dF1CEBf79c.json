@@ -15,7 +15,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/dat.svg",
       "twitter": "http://pbs.twimg.com/profile_images/1031732418758074369/o58P1Dk_.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1031732418758074369/o58P1Dk_.jpg"
   },
   "support": {
     "email": "support@datum.org",

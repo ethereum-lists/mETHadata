@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/880852100141404160/Ni0UBkHY.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x76974c7b79dc8a6a109fd71fd7ceb9e40eff5382.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x76974c7b79dc8a6a109fd71fd7ceb9e40eff5382.png"
   },
   "support": {
     "email": "dowcoin@gmail.com",

@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba2184520a1cc49a6159c57e61e1844e085615b6.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba2184520a1cc49a6159c57e61e1844e085615b6.png"
   },
   "support": {
     "email": "foundation@hellogold.org",

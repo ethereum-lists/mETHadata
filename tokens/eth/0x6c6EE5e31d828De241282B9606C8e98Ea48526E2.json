@@ -14,7 +14,9 @@
       "token-list": "https://holo.host/wp-content/uploads/2017/12/Holologo_Profile.png",
       "twitter": "http://pbs.twimg.com/profile_images/937033951201366016/V_sr4wTk.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6c6ee5e31d828de241282b9606c8e98ea48526e2.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://holo.host/wp-content/uploads/2017/12/Holologo_Profile.png"
   },
   "support": {
     "email": "help@holo.host",

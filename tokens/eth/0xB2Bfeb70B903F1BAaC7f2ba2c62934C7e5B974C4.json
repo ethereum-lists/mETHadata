@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1012992426829668352/KgsLgo9M.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1012992426829668352/KgsLgo9M.jpg"
   },
   "support": {
     "email": "admin@betking.io",

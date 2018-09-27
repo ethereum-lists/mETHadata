@@ -14,7 +14,9 @@
     "sources": {
       "token-list": "https://www.hibtc.com/om/coin-icon/HIBT-28.png",
       "twitter": "http://pbs.twimg.com/profile_images/1041744314043441152/V9Iy54-Z.jpg"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://www.hibtc.com/om/coin-icon/HIBT-28.png"
   },
   "support": {
     "email": "admin@hibtc.com",

@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://www.teslawatt.com/icon-tesla1.jpg",
       "twitter": "http://pbs.twimg.com/profile_images/984722549991985152/hSw3D36I.jpg"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://www.teslawatt.com/icon-tesla1.jpg"
   },
   "support": {
     "email": "blockchain@teslawatt.com",

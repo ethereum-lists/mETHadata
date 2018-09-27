@@ -14,7 +14,9 @@
       "token-list": "https://imgur.com/hm9naIz",
       "twitter": "http://pbs.twimg.com/profile_images/950904403502010374/l8t2S1iA.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd94f2778e2b3913c53637ae60647598be588c570.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/950904403502010374/l8t2S1iA.jpg"
   },
   "support": {
     "email": "support@gamingforgood.net",

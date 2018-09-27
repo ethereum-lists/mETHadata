@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1026199351121469441/ll6FVzPA.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a005c9a89bd72a4bd27721e7a09a3c11d2b03c4.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1026199351121469441/ll6FVzPA.jpg"
   },
   "support": {
     "email": "support@coinstarter.com",

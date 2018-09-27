@@ -14,7 +14,9 @@
       "token-list": "https://amo.foundation/wordpress/wp-content/uploads/2018/05/symbol.png",
       "twitter": "http://pbs.twimg.com/profile_images/987152513383067649/JTMaM3F1.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169.png"
   },
   "support": {
     "email": "support@amo.foundation",

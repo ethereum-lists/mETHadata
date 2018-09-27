@@ -14,7 +14,9 @@
       "token-list": "https://etherscan.io/token/images/lendingblock_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/963105452673388545/xtjjs7On.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0947b0e6d821378805c9598291385ce7c791a6b2.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0947b0e6d821378805c9598291385ce7c791a6b2.png"
   },
   "support": {
     "email": "support@lendingblock.com",

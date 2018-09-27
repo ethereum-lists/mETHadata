@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/919613423117307906/VG7ndGpF.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/919613423117307906/VG7ndGpF.jpg"
   },
   "support": {
     "email": "info@engraved.tech",

@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/898753758485544960/V3tvQOE1.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/898753758485544960/V3tvQOE1.jpg"
   },
   "support": {
     "email": "stakepool@stakepool.co",

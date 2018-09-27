@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/936704323005722624/ECbjQJ9O.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x014b50466590340d41307cc54dcee990c8d58aa8.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x014b50466590340d41307cc54dcee990c8d58aa8.png"
   },
   "support": {
     "email": "khovratovich@gmail.com",

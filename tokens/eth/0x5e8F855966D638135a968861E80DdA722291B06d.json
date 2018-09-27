@@ -14,7 +14,9 @@
       "token-list": "https://coinve.st/assets/images/Coinvest_Profile.png",
       "twitter": "http://pbs.twimg.com/profile_images/931641537267724288/-0eoIbc_.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e8f855966d638135a968861e80dda722291b06d.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/931641537267724288/-0eoIbc_.jpg"
   },
   "support": {
     "email": "support@coinve.st",

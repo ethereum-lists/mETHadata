@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/963602785903132672/qeyiwzUy.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffa93aacf49297d51e211817452839052fdfb961.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/963602785903132672/qeyiwzUy.jpg"
   },
   "support": {
     "email": "contact@dcc.finance",

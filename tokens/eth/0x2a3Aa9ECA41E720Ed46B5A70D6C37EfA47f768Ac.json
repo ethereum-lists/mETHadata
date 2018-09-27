@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a3aa9eca41e720ed46b5a70d6c37efa47f768ac.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a3aa9eca41e720ed46b5a70d6c37efa47f768ac.png"
   },
   "support": {
     "email": "martin@rcfund.org",

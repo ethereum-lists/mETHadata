@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1007099552837468168/zLjx1e5f.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc92d6e3e64302c59d734f3292e2a13a13d7e1817.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc92d6e3e64302c59d734f3292e2a13a13d7e1817.png"
   },
   "support": {
     "email": "support@futurax.global",

@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://vormacoin.io/assets/images/logo/icon.png",
       "twitter": "http://pbs.twimg.com/profile_images/973116615343587328/klOHOtj-.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/973116615343587328/klOHOtj-.jpg"
   },
   "support": {
     "email": "info@vormacoin.io",

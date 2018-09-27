@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/926534500246437888/Hs2i5QyH.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/926534500246437888/Hs2i5QyH.jpg"
   },
   "support": {
     "email": "ceo@greedtoken.com",

@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://mycarcoin.com/Carcoin/img/logo-carcoin.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x423e4322cdda29156b49a17dfbd2acc4b280600d.png"
-    }
+    },
+    "sourceBest": "src",
+    "origin": "https://mycarcoin.com/Carcoin/img/logo-carcoin.png"
   },
   "support": {
     "email": "support@mycarcoin.com",

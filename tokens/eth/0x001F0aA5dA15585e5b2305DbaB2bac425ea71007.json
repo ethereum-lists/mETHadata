@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "https://ip.sx/images/IPSX-Logo-28x28.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x001f0aa5da15585e5b2305dbab2bac425ea71007.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x001f0aa5da15585e5b2305dbab2bac425ea71007.png"
   },
   "support": {
     "email": "contact@ip.sx",

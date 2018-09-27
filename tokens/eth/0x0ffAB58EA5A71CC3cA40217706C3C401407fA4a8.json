@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/901557146021642240/49kWCM-z.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/901557146021642240/49kWCM-z.jpg"
   },
   "support": {
     "email": "contact@indicoin.org.in",

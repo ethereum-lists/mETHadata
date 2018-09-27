@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/742866753034674176/4uUOrNGd.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23.png"
   },
   "support": {
     "email": "support@1worldonline.com",

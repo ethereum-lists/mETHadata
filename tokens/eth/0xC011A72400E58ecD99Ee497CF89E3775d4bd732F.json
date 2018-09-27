@@ -14,7 +14,9 @@
       "token-list": "https://havven.io/images/favicon3.ico",
       "twitter": "http://pbs.twimg.com/profile_images/898876211232886784/RSGRhf2Z.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc011a72400e58ecd99ee497cf89e3775d4bd732f.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc011a72400e58ecd99ee497cf89e3775d4bd732f.png"
   },
   "support": {
     "email": "info@havven.io",

@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/961537607804080128/nUYU9m1C.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31.png"
   },
   "support": {
     "email": "info@adhive.tv",

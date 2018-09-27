@@ -14,7 +14,9 @@
       "token-list": "https://etherscan.io/token/images/stash_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/894817259167768577/FX9hv34i.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xecd570bbf74761b960fa04cc10fe2c4e86ffda36.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xecd570bbf74761b960fa04cc10fe2c4e86ffda36.png"
   },
   "support": {
     "email": "support@stashpay.io",

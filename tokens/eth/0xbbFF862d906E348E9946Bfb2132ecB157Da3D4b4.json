@@ -14,7 +14,9 @@
       "token-list": "https://oss.sharder.org/sharder/Token/Token-logo-132x132.png",
       "twitter": "http://pbs.twimg.com/profile_images/987241104893296640/1BLjsdnx.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbbff862d906e348e9946bfb2132ecb157da3d4b4.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/987241104893296640/1BLjsdnx.jpg"
   },
   "support": {
     "email": "service@sharder.org",

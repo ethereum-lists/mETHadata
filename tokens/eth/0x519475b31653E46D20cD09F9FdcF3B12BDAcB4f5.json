@@ -14,7 +14,9 @@
       "token-list": "https://etherscan.io/token/images/viuly_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/1020671426771243008/Ancz3Kje.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1020671426771243008/Ancz3Kje.jpg"
   },
   "support": {
     "email": "support@viuly.com",

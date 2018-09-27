@@ -13,7 +13,9 @@
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/ppt.svg",
       "twitter": "http://pbs.twimg.com/profile_images/872664039448469504/uFw8Nu8c.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/872664039448469504/uFw8Nu8c.jpg"
   },
   "support": {
     "email": "hello@proofsuite.com",

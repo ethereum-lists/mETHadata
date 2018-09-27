@@ -14,7 +14,9 @@
       "token-list": "https://www.brickblock.io/images/bb_logo_white.svg?crc=205463457",
       "twitter": "http://pbs.twimg.com/profile_images/985501086730608640/5lmOGKOr.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4a6058666cf1057eac3cd3a5a614620547559fc9.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4a6058666cf1057eac3cd3a5a614620547559fc9.png"
   },
   "support": {
     "email": "support@brickblock.io",

@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/946709376479449089/tx_a3B51.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf70a642bd387f94380ffb90451c2c81d4eb82cbc.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf70a642bd387f94380ffb90451c2c81d4eb82cbc.png"
   },
   "support": {
     "email": "support@starbase.co",

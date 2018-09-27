@@ -12,7 +12,9 @@
     "ipfs_hash": "",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/917995207886606336/IBAQ436T.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/917995207886606336/IBAQ436T.jpg"
   },
   "support": {
     "email": "i@coinsmet.com",

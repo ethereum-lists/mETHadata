@@ -13,7 +13,9 @@
     "sources": {
       "token-list": "http://price-s.info/wp-content/uploads/2018/01/p.png",
       "twitter": "http://pbs.twimg.com/profile_images/947215734400102400/IQnxZneC.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/947215734400102400/IQnxZneC.jpg"
   },
   "support": {
     "email": "puc@price-s.info",

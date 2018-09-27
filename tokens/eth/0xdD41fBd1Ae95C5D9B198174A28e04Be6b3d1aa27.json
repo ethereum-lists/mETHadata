@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1035062697270755329/AuLL6jVe.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd41fbd1ae95c5d9b198174a28e04be6b3d1aa27.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd41fbd1ae95c5d9b198174a28e04be6b3d1aa27.png"
   },
   "support": {
     "email": "team@lightyearstoken.com",

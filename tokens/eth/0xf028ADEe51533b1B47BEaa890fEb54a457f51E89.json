@@ -13,7 +13,9 @@
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/892647812940410881/_xzEG7NN.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf028adee51533b1b47beaa890feb54a457f51e89.png"
-    }
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf028adee51533b1b47beaa890feb54a457f51e89.png"
   },
   "support": {
     "email": "support@bmchain.io",

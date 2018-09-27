@@ -14,7 +14,9 @@
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/arn.svg",
       "twitter": "http://pbs.twimg.com/profile_images/906053780457828352/9g5e5Osy.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba5f11b16b155792cf3b2e6880e8706859a8aeb6.png"
-    }
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/arn.svg"
   },
   "support": {
     "email": "info@aeron.aero",

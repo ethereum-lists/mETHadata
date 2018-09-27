@@ -14,7 +14,9 @@
     "sources": {
       "token-list": "https://workchain.io/downloads/workTOKEN/logo_128.png",
       "twitter": "http://pbs.twimg.com/profile_images/1029403739260637184/SrdtjsS_.jpg"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1029403739260637184/SrdtjsS_.jpg"
   },
   "support": {
     "email": "ping@workchain.io",

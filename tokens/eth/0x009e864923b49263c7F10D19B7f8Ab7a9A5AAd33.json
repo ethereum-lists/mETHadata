@@ -14,7 +14,9 @@
       "token-list": "https://fortknoxster.com/wp-content/uploads/2017/11/FortKnoxster-Icon-256.png",
       "twitter": "http://pbs.twimg.com/profile_images/1034408025543585792/HXzyfdND.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x009e864923b49263c7f10d19b7f8ab7a9a5aad33.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1034408025543585792/HXzyfdND.jpg"
   },
   "support": {
     "email": "hello@fortknoxster.com",

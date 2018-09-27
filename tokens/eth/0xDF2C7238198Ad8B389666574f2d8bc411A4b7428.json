@@ -14,7 +14,9 @@
       "token-list": "https://raw.githubusercontent.com/MainframeHQ/branding/master/Illustrations/Mainframe_MFT_icon_120x120.png",
       "twitter": "http://pbs.twimg.com/profile_images/920278230866776065/JkOEm5NR.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdf2c7238198ad8b389666574f2d8bc411a4b7428.png"
-    }
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/920278230866776065/JkOEm5NR.jpg"
   },
   "support": {
     "email": "contact@mainframe.com",
