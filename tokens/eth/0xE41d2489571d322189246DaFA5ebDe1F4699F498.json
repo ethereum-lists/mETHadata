@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe41d2489571d322189246dafa5ebde1f4699f498.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmSehHtSR6VB95qLSdVXavsXmW97D37Kzw7XE7HuuT2NHR",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/zrx.svg",
       "twitter": "http://pbs.twimg.com/profile_images/907750745713156096/aFBA0PRW.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe41d2489571d322189246dafa5ebde1f4699f498.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/907750745713156096/aFBA0PRW.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/907750745713156096/aFBA0PRW.jpg",
+    "ipfs_origin": "QmbGUKo3hc2TAFL58DzjfMUUYQFM5SUhroqcY5wmxQHBGq"
   },
   "support": {
     "email": "team@0xproject.com",

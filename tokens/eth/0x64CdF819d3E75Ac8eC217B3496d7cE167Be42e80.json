@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x64cdf819d3e75ac8ec217b3496d7ce167be42e80.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmQ8mQe6WZtpc9qxqtqqFPbqBZi2eKCN6jLPHsneKBmLKX",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x64cdf819d3e75ac8ec217b3496d7ce167be42e80.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x64cdf819d3e75ac8ec217b3496d7ce167be42e80.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x64cdf819d3e75ac8ec217b3496d7ce167be42e80.png",
+    "ipfs_origin": "QmXD4X7cg5SPXiN246b4zEWLBZ5wpWozDZhpz9ozUd9KVo"
   },
   "support": {
     "email": "",

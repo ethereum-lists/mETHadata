@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb45a50545beeab73f38f31e5973768c421805e5e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmX2o7nkRAc4vWHZhFj4j6nXF6QHqVKq4JATHyzhipJFM9",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/916823846325547009/PBVLeUVk.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb45a50545beeab73f38f31e5973768c421805e5e.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb45a50545beeab73f38f31e5973768c421805e5e.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb45a50545beeab73f38f31e5973768c421805e5e.png",
+    "ipfs_origin": "QmVZuvxkg7kkSKRsVynwMhUxzyEGpNqVfDJK2Zqx1V3DSN"
   },
   "support": {
     "email": "team@cryptoinsight.io",

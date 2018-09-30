@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmcJ7ZfKPNfejuUTbxKut5ByMTdu4TtHThPmF5VtXfMdwY",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/890959027135500289/c9LzzYFZ.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf.png",
+    "ipfs_origin": "QmUsBu6pKNGVeXKc5LSQxpGi1GYM11beUmMoYHQHnb2Zgf"
   },
   "support": {
     "email": "team@spectre.ai",

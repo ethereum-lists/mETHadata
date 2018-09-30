@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2bdc0d42996017fce214b21607a515da41a9e0c5.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmW2JGrRVxJcGycEC3ntwjgchSAQVrsEyxz3dA7QB5BFma",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/907982861600423941/JtpENQ6q.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2bdc0d42996017fce214b21607a515da41a9e0c5.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2bdc0d42996017fce214b21607a515da41a9e0c5.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2bdc0d42996017fce214b21607a515da41a9e0c5.png",
+    "ipfs_origin": "QmQ3puSESsm9iJfR1LX1ENPxr7PuM6x5Ctnog2PQ6BxQ1H"
   },
   "support": {
     "email": "support@skincoin.org",

@@ -9,14 +9,15 @@
     "src": "https://owndata.network/assets/front/images/favicon/android-icon-28x28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmdveHLXsRBcVXD5AeGWyUbvBGsAEgDMnvDDS3t3LbXHbq",
     "sources": {
       "token-list": "https://owndata.network/assets/front/images/favicon/android-icon-28x28.png",
       "twitter": "http://pbs.twimg.com/profile_images/958991102522126337/aLQmspAO.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x170b275ced089fffaebfe927f445a350ed9160dc.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x170b275ced089fffaebfe927f445a350ed9160dc.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x170b275ced089fffaebfe927f445a350ed9160dc.png",
+    "ipfs_origin": "Qmeu1TzVj1pt2t32FQa7kJyKYPqfenWVdmJPHYguYzFtcb"
   },
   "support": {
     "email": "support@owndata.network",

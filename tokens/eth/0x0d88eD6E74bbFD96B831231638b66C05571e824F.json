@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d88ed6e74bbfd96b831231638b66c05571e824f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmeMqn4p2LjZrfWe54VEm1sgMR97rf1ftEagE4RTJTawHo",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d88ed6e74bbfd96b831231638b66c05571e824f.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d88ed6e74bbfd96b831231638b66c05571e824f.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d88ed6e74bbfd96b831231638b66c05571e824f.png",
+    "ipfs_origin": "QmP77mWXjcD4TFDKJYJZKANKA9BGwaUTjbirDweeQXcG9B"
   },
   "support": {
     "email": "info@aventus.io",

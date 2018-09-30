@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd8912c10681d8b21fd3742244f44658dba12264e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmYp2cVtdoYXHATajDZiodaUtHjS2QPpm1a5xqsnxii2Cq",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/892116334095609856/sV_UDn3_.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd8912c10681d8b21fd3742244f44658dba12264e.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd8912c10681d8b21fd3742244f44658dba12264e.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd8912c10681d8b21fd3742244f44658dba12264e.png",
+    "ipfs_origin": "Qmcop7dK3kS5KfzHRmhPhYK57xM2WjJJWVSJnihhJggn1c"
   },
   "support": {
     "email": "support@plutus.it",

@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f513ffb4926ff82d7f60a05069047aca295c413.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmTEA4F78oz9Wze6mUkBmjbNEv5YJa4Y5xVoVNfy6ihP2u",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f513ffb4926ff82d7f60a05069047aca295c413.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f513ffb4926ff82d7f60a05069047aca295c413.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f513ffb4926ff82d7f60a05069047aca295c413.png",
+    "ipfs_origin": "QmeiRyFSzQR1jhjH81PaosFdiqoDwvNsTKgXVYKdv5dkFD"
   },
   "support": {
     "email": "info@crowdstart.capital",

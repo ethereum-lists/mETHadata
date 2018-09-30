@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmQtUGGvWH1mtLViVYM4aH9p7J1h6njLyvLJCGEZFfjJD5",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4.png",
+    "ipfs_origin": "QmVw5gVkv73Q5PgbVB6vxrDghTBeiTVE4CjdYpeAk545VM"
   },
   "support": {
     "email": "support@piplcoin.com",

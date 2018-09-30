@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8eb24319393716668d768dcec29356ae9cffe285.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmRwdbwgfLyzQuZ7iKkkBZaitxE7rvQZLA6hbu9RMo434f",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/agi.svg",
       "twitter": "http://pbs.twimg.com/profile_images/928263548941283329/ZyFK-sfD.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8eb24319393716668d768dcec29356ae9cffe285.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8eb24319393716668d768dcec29356ae9cffe285.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8eb24319393716668d768dcec29356ae9cffe285.png",
+    "ipfs_origin": "QmS88T2RvCDK66fp1DTXAfg24Eu8wYjs15rxV6xptHhgAr"
   },
   "support": {
     "email": "support@singularitynet.io",

@@ -9,13 +9,14 @@
     "src": "https://urbitdata.io/blog/wp-content/uploads/2018/08/urbit-final-128x128.png",
     "width": "128",
     "height": "128",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmQVcgrg6e515zfrs29YmTvCLSVBSWHg29XWyA1xaBizeC",
     "sources": {
       "token-list": "https://urbitdata.io/blog/wp-content/uploads/2018/08/urbit-final-128x128.png",
       "twitter": "http://pbs.twimg.com/profile_images/965531220196065280/yRJ5YiPS.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/965531220196065280/yRJ5YiPS.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/965531220196065280/yRJ5YiPS.jpg",
+    "ipfs_origin": "QmdKhZjS32dsjHM2Cx6JxXDqXV8zP4JqSjmzj4HetdpSs1"
   },
   "support": {
     "email": "support@urbitdata.io",

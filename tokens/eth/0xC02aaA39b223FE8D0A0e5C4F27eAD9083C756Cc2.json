@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmUo5QUDu5gKkdYCokLFDjZrfrFDx8Yxga1eYzycATqwET",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "ipfs_origin": "QmQrsQLpuraHefHedmebAkdqZmxaQ5XmUnYn7QuyG8KfaT"
   },
   "support": {
     "email": "support@makerdao.com",

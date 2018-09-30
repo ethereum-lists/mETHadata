@@ -9,13 +9,14 @@
     "src": "http://www.fanx.one/static/img/logo.png",
     "width": "132",
     "height": "132",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmdY9LbvDSob56uHqTyJogoXHcuPrcr1D3XwyaRhdZ7uq1",
     "sources": {
       "token-list": "http://www.fanx.one/static/img/logo.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7f6715c3fc4740a02f70de85b9fd50ac6001fed9.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7f6715c3fc4740a02f70de85b9fd50ac6001fed9.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7f6715c3fc4740a02f70de85b9fd50ac6001fed9.png",
+    "ipfs_origin": "QmWHb26sJxB6nJpAvShNnaWuw1th1Uvep8zD4wgeNpgbvJ"
   },
   "support": {
     "email": "contact@fanx.one",

@@ -9,13 +9,14 @@
     "src": "https://aigatha.com/img/AIgatha_Logo.png",
     "width": "300",
     "height": "300",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmWgxPv7jj5jT7BVz4Hv6Lo44g94K1HTVYhp9EHgwVqoB5",
     "sources": {
       "token-list": "https://aigatha.com/img/AIgatha_Logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/980042821729046529/XQkl4YUi.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/980042821729046529/XQkl4YUi.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/980042821729046529/XQkl4YUi.jpg",
+    "ipfs_origin": "QmUCEfGk8kKzLnj3JHfBT4onPgS7HiXpxqP9uii2YkQqFu"
   },
   "support": {
     "email": "support@aigatha.com",

@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmNSGNLNpwmKoWCy6ph8QsR9vCXRWKmgSHwRbYzRrhMWY2",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/921815781897318400/P01GTguv.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.png",
+    "ipfs_origin": "Qmf2qd2eBE5kLJH4GiHAWu1eAYH6yHJHHh3vDKbavTDV3t"
   },
   "support": {
     "email": "support@liveedu.tv",

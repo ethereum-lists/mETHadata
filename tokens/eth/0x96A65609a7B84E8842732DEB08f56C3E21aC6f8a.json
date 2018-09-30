@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x96a65609a7b84e8842732deb08f56c3e21ac6f8a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmURmZDsT1gPT77N7zBjM5eo8m7NwpEAD5zL1EDzMKudm1",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1025423240582320131/pzV4De6v.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x96a65609a7b84e8842732deb08f56c3e21ac6f8a.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1025423240582320131/pzV4De6v.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1025423240582320131/pzV4De6v.jpg",
+    "ipfs_origin": "QmV7nuYUcXoMfAdcvXVyGMF2vnfqC1YYMSSKSGkuqwrjqj"
   },
   "support": {
     "email": "upport@centra.tech",

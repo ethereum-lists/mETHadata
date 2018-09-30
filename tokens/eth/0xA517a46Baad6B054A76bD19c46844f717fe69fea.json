@@ -9,13 +9,14 @@
     "src": "https://carbcoin.eu/logo.jpg",
     "width": 400,
     "height": 400,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmSj8ABwPVfJruC8gLsanZs78FbbGDtz7jEhuGTj6LYhjN",
     "sources": {
       "token-list": "https://carbcoin.eu/logo.jpg",
       "twitter": "http://pbs.twimg.com/profile_images/943472650957049856/q-40pGjW.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/943472650957049856/q-40pGjW.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/943472650957049856/q-40pGjW.jpg",
+    "ipfs_origin": "QmVYkHFAf8XijHyaWJYZ9bwKnNW7vyBQLTsiuDeUYvZvaC"
   },
   "support": {
     "email": "support@carbcoin.com",

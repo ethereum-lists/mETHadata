@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc27a2f05fa577a83ba0fdb4c38443c0718356501.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVhHZC2vXM7knuDDA4dPfFq9ArKbWfFi5fjQsRvyvNMxT",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/tau.svg",
       "twitter": "http://pbs.twimg.com/profile_images/907045318109351937/IK_LhVep.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc27a2f05fa577a83ba0fdb4c38443c0718356501.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc27a2f05fa577a83ba0fdb4c38443c0718356501.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc27a2f05fa577a83ba0fdb4c38443c0718356501.png",
+    "ipfs_origin": "QmTaRuWAViAGncPWmeqneq6nyqozYYqtdvuQc5ywM9R2Ff"
   },
   "support": {
     "email": "team@lamden.io",

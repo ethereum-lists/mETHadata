@@ -9,13 +9,14 @@
     "src": "https://etherscan.io/token/images/policypal_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmXGwRu3USZnQ4GE6BQoqw4Sm7WkP4cLdbq1VTpjRUL629",
     "sources": {
       "token-list": "https://etherscan.io/token/images/policypal_28.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfedae5642668f8636a11987ff386bfd215f942ee.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfedae5642668f8636a11987ff386bfd215f942ee.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfedae5642668f8636a11987ff386bfd215f942ee.png",
+    "ipfs_origin": "QmXBt4otVc3DprTqtxz5f6X7QJBLqiKBXo1Titxekh9uGw"
   },
   "support": {
     "email": "info@policypal.com",

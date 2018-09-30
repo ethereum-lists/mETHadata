@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x88fcfbc22c6d3dbaa25af478c578978339bde77a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVKxW9p4kovou4DMh6phwwJkyZdJCkQYFUENGeCxrCrqZ",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x88fcfbc22c6d3dbaa25af478c578978339bde77a.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x88fcfbc22c6d3dbaa25af478c578978339bde77a.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x88fcfbc22c6d3dbaa25af478c578978339bde77a.png",
+    "ipfs_origin": "QmdAyfDFHKrqAJtoEYGRjSXDMYisWrqKrqejm3jMip1ZHq"
   },
   "support": {
     "email": "contact@fundyourselfnow.com",

@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1ed2b1eaed8e968bc36eb90a914660a71827a5e9.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmdkwbY9NdXxL6KdCDSvs7vFbet68S6FemnbZ5Ckkchmxf",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/900379003734937600/71w3A-_P.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1ed2b1eaed8e968bc36eb90a914660a71827a5e9.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/900379003734937600/71w3A-_P.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/900379003734937600/71w3A-_P.jpg",
+    "ipfs_origin": "QmUsxYiD55SBttgmT2Lz7sw7Fxyf8AYFypJDSisWaDbVmA"
   },
   "support": {
     "email": "support@cardstack.com",

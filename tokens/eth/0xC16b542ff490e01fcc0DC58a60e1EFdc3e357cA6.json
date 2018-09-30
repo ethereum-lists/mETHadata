@@ -10,14 +10,15 @@
     "src": "https://rockmining.blob.core.windows.net/logo/fullLogo.png",
     "width": 132,
     "height": 132,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmSj3NfuwAqVdXSwWqWU4odJJxqDazpxNEVcU7dmDaUJ9q",
     "sources": {
       "token-list": "https://rockmining.blob.core.windows.net/logo/fullLogo.png",
       "twitter": "http://pbs.twimg.com/profile_images/910824061361643520/ecId3nXu.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc16b542ff490e01fcc0dc58a60e1efdc3e357ca6.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc16b542ff490e01fcc0dc58a60e1efdc3e357ca6.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc16b542ff490e01fcc0dc58a60e1efdc3e357ca6.png",
+    "ipfs_origin": "QmRGmk2wWwFBS3dbbufphhP2QY3u5gZzMqgoSU35p2AFGj"
   },
   "support": {
     "email": "",

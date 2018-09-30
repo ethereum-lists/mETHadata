@@ -9,13 +9,14 @@
     "src": "https://ethpoker.io/wp-content/uploads/2018/03/smallBlueIcon.png",
     "width": "51",
     "height": "50",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmSCDcDLoiviC8hVh6QkmdtvEtaXKBgte5oW2xz4nz4y6E",
     "sources": {
       "token-list": "https://ethpoker.io/wp-content/uploads/2018/03/smallBlueIcon.png",
       "twitter": "http://pbs.twimg.com/profile_images/968236234853171200/nlZaj5tP.jpg"
     },
     "sourceBest": "src",
-    "origin": "https://ethpoker.io/wp-content/uploads/2018/03/smallBlueIcon.png"
+    "origin": "https://ethpoker.io/wp-content/uploads/2018/03/smallBlueIcon.png",
+    "ipfs_origin": "QmdSnzfqXfbHZYAZjgUeMxRda6VDh9KWCKhnbQa4xnkPXU"
   },
   "support": {
     "email": "admin@ethpoker.io",

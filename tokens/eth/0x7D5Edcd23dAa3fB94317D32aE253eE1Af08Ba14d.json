@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmWv5RVRYqgXtp7Fgn7ZGrHkVe8DGCnDCiUgZ8JDGuUBDZ",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/908737780154605568/alm1SQSK.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d.png",
+    "ipfs_origin": "QmULEkRvi34yAsetBKns6SVFb2fuhqtDXEYWP5qQSRbZZf"
   },
   "support": {
     "email": "team@ethbet.io",

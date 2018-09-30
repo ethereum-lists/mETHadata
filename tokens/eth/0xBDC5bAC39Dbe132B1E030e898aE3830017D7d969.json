@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbdc5bac39dbe132b1e030e898ae3830017d7d969.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmQPsDKRKTNn5EAFjGZNaCmYjUK5EFYVMzCGuYSQwSLvp9",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1021740031206154241/YhCc4wh0.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbdc5bac39dbe132b1e030e898ae3830017d7d969.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1021740031206154241/YhCc4wh0.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1021740031206154241/YhCc4wh0.jpg",
+    "ipfs_origin": "QmbVxpB3QSY3CgdxXwhSTpkqF4ZVCU7JXWV5fh6k8u6zFP"
   },
   "support": {
     "email": "ico@snov.io",

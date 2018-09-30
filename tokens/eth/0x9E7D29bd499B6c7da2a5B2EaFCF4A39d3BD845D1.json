@@ -9,12 +9,13 @@
     "src": "https://www.ctgcoin.org/upload/logo/ctg.logo.png",
     "width": "68",
     "height": "41",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmfP64a4CYVesenz9H69qz7Z7xdUong5RGsPh2pSjDiJ8r",
     "sources": {
       "token-list": "https://www.ctgcoin.org/upload/logo/ctg.logo.png"
     },
     "sourceBest": "src",
-    "origin": "https://www.ctgcoin.org/upload/logo/ctg.logo.png"
+    "origin": "https://www.ctgcoin.org/upload/logo/ctg.logo.png",
+    "ipfs_origin": "QmWjN8TiwNqmn57ty1cjtSFKA9LeNctjZN4uBEsVwY2m6x"
   },
   "support": {
     "email": "support@ctgcoin.org",

@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmQsrkhKs3kN4Ag1STyLeyW3qYgF8EJj9DzAHX7GuNRgXY",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1.png",
+    "ipfs_origin": "QmbG5MaBYkCpGfR6c6BujRL8f57dWdzpToftpca1m9x8Y3"
   },
   "support": {
     "email": "support@dmarket.io",

@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVpc3BFpbcSXDysV8bZuZ9fDTgNNAtqJRS94qRZc8MF9F",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/832668314740588544/HW1NXgfD.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda.png",
+    "ipfs_origin": "QmUicrLKbZC8Mvqk1H261Z4sgx9CoDyrZY12M34wfQeKm5"
   },
   "support": {
     "email": "press@giga-watt.com",

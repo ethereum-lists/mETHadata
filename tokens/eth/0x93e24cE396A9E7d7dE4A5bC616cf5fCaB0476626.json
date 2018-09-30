@@ -9,12 +9,13 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmaY9vEdGLocLy5StS5ZRhEVRhtBobxpBFuXvH2vCe25k7",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/924300659284774913/zpc37REi.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/924300659284774913/zpc37REi.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/924300659284774913/zpc37REi.jpg",
+    "ipfs_origin": "QmcazveBPGgrbaX2Pw2auoN68T6N1T6JGBSk4ynSWSSNWB"
   },
   "support": {
     "email": "zipcoinproject@gmail.com",

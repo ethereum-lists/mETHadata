@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc80c051057b774cd75067dc48f8987c4eb97a5e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmRdW9mcWCSaZvRVvBidWKGVCTEUm4zFAUz5XSiiTfZq2J",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1041738720347648001/u_An45uR.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc80c051057b774cd75067dc48f8987c4eb97a5e.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1041738720347648001/u_An45uR.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1041738720347648001/u_An45uR.jpg",
+    "ipfs_origin": "QmYGKSwAUqNs3w5FEbMGGQSLUHojj2ekMoUcZYSszJka1v"
   },
   "support": {
     "email": "support@ethfinex.com",

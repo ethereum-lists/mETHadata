@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xef68e7c694f40c8202821edf525de3782458639f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmdXvRy9YCHySX6y6mqKHAooDJvBw7N1JfjqZRT7cAKkMg",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/lrc.svg",
       "twitter": "http://pbs.twimg.com/profile_images/964741030649069568/1ahmOc4d.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xef68e7c694f40c8202821edf525de3782458639f.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/964741030649069568/1ahmOc4d.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/964741030649069568/1ahmOc4d.jpg",
+    "ipfs_origin": "QmVvKqi2nZH6YfSGmQqY1q9ZUjoFiAZUDCrC2CWtcjLR6Q"
   },
   "support": {
     "email": "foundation@loopring.org",

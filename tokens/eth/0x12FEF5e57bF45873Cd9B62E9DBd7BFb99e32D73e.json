@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmfZAFGED6sqUz864JtFG4CL7Xiz2pi2zGhi6s4FAjh4A1",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e.png"
     },
     "sourceBest": "src",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e.png",
+    "ipfs_origin": "QmX6wGEc5wmaVNBaP5y6nvFiMJAViwcYEhBSYNPKGBBw1c"
   },
   "support": {
     "email": "support@cofound.it",

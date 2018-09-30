@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmSCjPNF8Jc3DiywsuUzPrMo2pPGnNWZQrx4j43T5kpC2D",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/evx.svg",
       "twitter": "http://pbs.twimg.com/profile_images/762668774457741312/E78z5y-N.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/762668774457741312/E78z5y-N.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/762668774457741312/E78z5y-N.jpg",
+    "ipfs_origin": "QmdsSHJ2wsGXHjWcyeazWq9mps8KuknCXbdvPENrJy2yWK"
   },
   "support": {
     "email": "contact@everex.io",

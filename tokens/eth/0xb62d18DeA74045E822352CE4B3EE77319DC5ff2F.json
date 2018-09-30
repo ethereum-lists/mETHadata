@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmT1Wgmp3HuurFpJpt5LC89SQkJqAx9Rw9kp8g7FaawP9S",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/994987867699953665/u85I6Q7z.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/994987867699953665/u85I6Q7z.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/994987867699953665/u85I6Q7z.jpg",
+    "ipfs_origin": "Qma9beMBdR7UoW5tACM6wyq76b4ErutzUQ6fDSv1qXg5YV"
   },
   "support": {
     "email": "team@eventchain.io",

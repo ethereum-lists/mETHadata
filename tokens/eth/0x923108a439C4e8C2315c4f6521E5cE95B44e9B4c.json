@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmXXUjeLwRwLgqHuWBWhfdDDv27GTKqr2MnCY5wwemUGWt",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/916519658169044992/y9l3hKQ-.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/916519658169044992/y9l3hKQ-.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/916519658169044992/y9l3hKQ-.jpg",
+    "ipfs_origin": "QmQZ3LKocFxpBZH1LFDEkUgR943rivmdrU666iF52xX5b1"
   },
   "support": {
     "email": "contact@devery.io",

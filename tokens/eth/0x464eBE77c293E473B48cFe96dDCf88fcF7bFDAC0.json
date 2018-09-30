@@ -9,14 +9,15 @@
     "src": "https://kryll.io/external/K_256px.png",
     "width": "512",
     "height": "512",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmWLdFsabDJAEAPXNJkgPZLTGRrsaRwU2FCRPf3U2yqp5h",
     "sources": {
       "token-list": "https://kryll.io/external/K_256px.png",
       "twitter": "http://pbs.twimg.com/profile_images/951481087842234368/E5RDT0Mu.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0.png",
+    "ipfs_origin": "QmchzXxFFb9L9sGwAuXNSPJbTa8PwecHwTsM84g9khrzKJ"
   },
   "support": {
     "email": "support@kryll.io",

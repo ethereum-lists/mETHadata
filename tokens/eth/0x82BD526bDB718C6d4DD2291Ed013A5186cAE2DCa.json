@@ -9,13 +9,14 @@
     "src": "https://www.dutyof.care/assets/img/favicon.png",
     "width": "32",
     "height": "32",
-    "ipfs_hash": "",
+    "ipfs_hash": "Qmcroqdb9YW4GvHJyRYJ2BVaD9TsVg7PEDGuUWdLgc9hSM",
     "sources": {
       "token-list": "https://www.dutyof.care/assets/img/favicon.png",
       "twitter": "http://pbs.twimg.com/profile_images/1038589303343833089/ZyJFemgJ.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1038589303343833089/ZyJFemgJ.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1038589303343833089/ZyJFemgJ.jpg",
+    "ipfs_origin": "QmaViB8AvRtMnfqNcX6Xyrqok9nvbKxWeZDq8avB4Qui4V"
   },
   "support": {
     "email": "info@dutyof.care",

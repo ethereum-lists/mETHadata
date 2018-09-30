@@ -9,12 +9,13 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmbJaRQZAHyBekWbPpFtx8Ldwi4ka4XJ5FEVRXYhReLadV",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/898753758485544960/V3tvQOE1.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/898753758485544960/V3tvQOE1.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/898753758485544960/V3tvQOE1.jpg",
+    "ipfs_origin": "QmbN7HaPmXtgovWGsVKQNGzg2LKobHEHTnFY1q4goYBv2M"
   },
   "support": {
     "email": "stakepool@stakepool.co",

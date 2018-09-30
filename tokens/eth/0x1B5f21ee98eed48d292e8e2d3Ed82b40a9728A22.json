@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b5f21ee98eed48d292e8e2d3ed82b40a9728a22.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZjRjiivSkPMuk9225D8W9Lgn4VWqnfky48usxJRpzFt6",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/882967532034027520/aSp_oU0F.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b5f21ee98eed48d292e8e2d3ed82b40a9728a22.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/882967532034027520/aSp_oU0F.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/882967532034027520/aSp_oU0F.jpg",
+    "ipfs_origin": "QmUf736x8Q1SqsFHGPqotCc9eJcHAEyRxMYD8ErgRMmLZ3"
   },
   "support": {
     "email": "hello@databrokerdao.com",

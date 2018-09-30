@@ -9,14 +9,15 @@
     "src": "https://globcoin.io/assets/img/favicon-128x128.png",
     "width": "128",
     "height": "128",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZvCELCxGuMZg4SfQLSfEJhT3nc6J7VxUMGasZbf5LgnF",
     "sources": {
       "token-list": "https://globcoin.io/assets/img/favicon-128x128.png",
       "twitter": "http://pbs.twimg.com/profile_images/908629242065440768/EoxrWkOQ.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdb0f69306ff8f949f258e83f6b87ee5d052d0b23.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdb0f69306ff8f949f258e83f6b87ee5d052d0b23.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdb0f69306ff8f949f258e83f6b87ee5d052d0b23.png",
+    "ipfs_origin": "QmSBVpHdws7QEnCwC43Z3zRS4aP4t3tXnfZJJjL7tSBZuP"
   },
   "support": {
     "email": "community@globcoin.io",

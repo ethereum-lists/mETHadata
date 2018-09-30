@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x95daaab98046846bf4b2853e23cba236fa394a31.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmUJfnkSowHoCUvAtsgDhdAnGWHrbZgJayXA9GG26BVpWP",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/960520740196909056/3RBArulO.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x95daaab98046846bf4b2853e23cba236fa394a31.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x95daaab98046846bf4b2853e23cba236fa394a31.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x95daaab98046846bf4b2853e23cba236fa394a31.png",
+    "ipfs_origin": "QmPc5f5tQf5RLYHsomUFwHgr2tADqvkNEtPnBRZoTPjJP8"
   },
   "support": {
     "email": "contact@etheremon.com",

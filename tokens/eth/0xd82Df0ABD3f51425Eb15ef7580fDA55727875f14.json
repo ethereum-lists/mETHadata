@@ -9,14 +9,15 @@
     "src": "https://dav.network/img/logo-mew.png",
     "width": 500,
     "height": 500,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmR6WRCccBEmSffwPNWyZG5wJ8ik8DYbGPgr4NwW8NEoiR",
     "sources": {
       "token-list": "https://dav.network/img/logo-mew.png",
       "twitter": "http://pbs.twimg.com/profile_images/960883354408247298/2H8esQQu.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd82df0abd3f51425eb15ef7580fda55727875f14.png"
     },
     "sourceBest": "src",
-    "origin": "https://dav.network/img/logo-mew.png"
+    "origin": "https://dav.network/img/logo-mew.png",
+    "ipfs_origin": "QmZspjXG3N1p32j59M5a4T8V3gTvv5MpkpnK42ZW9z8jeK"
   },
   "support": {
     "email": "support@dav.network",

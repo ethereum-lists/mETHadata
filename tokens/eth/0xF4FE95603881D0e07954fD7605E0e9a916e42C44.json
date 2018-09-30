@@ -9,13 +9,14 @@
     "src": "https://interface.whenhub.com/img/shares/when-token-icon.png",
     "width": "1024",
     "height": "1024",
-    "ipfs_hash": "QmS3QBhZ28FqXMgVdtkDLeJEGbekGGECac1fWRofDfKGGw",
+    "ipfs_hash": "QmQQAg6QEEJaxh5Fs1bk3pBNtk9yX85e5hRM1VNCz3cysp",
     "sources": {
       "token-list": "https://interface.whenhub.com/img/shares/when-token-icon.png",
       "twitter": "http://pbs.twimg.com/profile_images/924171548155568129/9kCaC726.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/924171548155568129/9kCaC726.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/924171548155568129/9kCaC726.jpg",
+    "ipfs_origin": "QmNwmYuW7uHcPU6qqfi1SqaLxCUbTtZjjZqffnXgnx7TMV"
   },
   "support": {
     "email": "support@whenhub.com",

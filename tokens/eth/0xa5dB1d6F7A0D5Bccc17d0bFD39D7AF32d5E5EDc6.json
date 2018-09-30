@@ -9,13 +9,14 @@
     "src": "https://i.imgur.com/DnDglhQ.png",
     "width": "130",
     "height": "129",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmThFaaPho9G1jnqXxaRhRHG72qggnxw34baC5CeLQDEk2",
     "sources": {
       "token-list": "https://i.imgur.com/DnDglhQ.png",
       "twitter": "http://pbs.twimg.com/profile_images/937581726645276672/42aBa19j.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/937581726645276672/42aBa19j.png"
+    "origin": "http://pbs.twimg.com/profile_images/937581726645276672/42aBa19j.png",
+    "ipfs_origin": "Qmd6LLntjkED1L4k4iJiioLG2kT4sqkh7VpZca28s1SQeW"
   },
   "support": {
     "email": "support@topinvestmentcoin.online",

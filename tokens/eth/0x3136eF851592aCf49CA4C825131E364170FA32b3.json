@@ -9,14 +9,15 @@
     "src": "https://blog.coinfi.com/wp-content/uploads/2018/01/coinfi-token-logo_28x28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmT8SdTKHnzwCr9uHrncjSQN2eFsWV4CSMg8H7k2H1Li5v",
     "sources": {
       "token-list": "https://blog.coinfi.com/wp-content/uploads/2018/01/coinfi-token-logo_28x28.png",
       "twitter": "http://pbs.twimg.com/profile_images/930269309883969537/fh2_q976.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3136ef851592acf49ca4c825131e364170fa32b3.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3136ef851592acf49ca4c825131e364170fa32b3.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3136ef851592acf49ca4c825131e364170fa32b3.png",
+    "ipfs_origin": "QmY2mbZmvhfxwwdZrxpZ76LCq19Fen9CT41meP3TboXR5Q"
   },
   "support": {
     "email": "contact@coinfi.com",

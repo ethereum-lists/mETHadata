@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfc2c4d8f95002c14ed0a7aa65102cac9e5953b5e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVLQJz9t3m4P2Ar3jytfrPKMZBDPcWpdPBpc3JPka9Tas",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/927611718942973952/7cBmyV2N.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfc2c4d8f95002c14ed0a7aa65102cac9e5953b5e.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/927611718942973952/7cBmyV2N.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/927611718942973952/7cBmyV2N.jpg",
+    "ipfs_origin": "QmezxjBSruMwsFv9crhjTf1brDkfPDAqXujwgQwuvtL28n"
   },
   "support": {
     "email": "info@rublix.io",

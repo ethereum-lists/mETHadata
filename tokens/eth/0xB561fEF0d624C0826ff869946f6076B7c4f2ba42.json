@@ -9,12 +9,13 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmRrfPVcKoDEDgXeNvpD3pb6XV5ZFSoLUsw3gJ1bVW1nAD",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/660045835959476224/a0kbYWGi.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/660045835959476224/a0kbYWGi.png"
+    "origin": "http://pbs.twimg.com/profile_images/660045835959476224/a0kbYWGi.png",
+    "ipfs_origin": "QmbTrsxxhEBa5KSJfjnVYSvmKVAFZFvPtAdvhUfy3EKXpb"
   },
   "support": {
     "email": "blockchain.lab@cceg.org.uk",

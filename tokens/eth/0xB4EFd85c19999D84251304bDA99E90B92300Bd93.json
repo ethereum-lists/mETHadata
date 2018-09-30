@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4efd85c19999d84251304bda99e90b92300bd93.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVGMGNXQEpCkPDqQRNttKiCuFmuo7MxeDtHf6SaQAaUta",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4efd85c19999d84251304bda99e90b92300bd93.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4efd85c19999d84251304bda99e90b92300bd93.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4efd85c19999d84251304bda99e90b92300bd93.png",
+    "ipfs_origin": "Qmf1tzQaAJ1CMRxLK3qQcNEBSuAG9g3Pg8XZwDZtoFzgQ7"
   },
   "support": {
     "email": "support@mail.rocketpool.net",

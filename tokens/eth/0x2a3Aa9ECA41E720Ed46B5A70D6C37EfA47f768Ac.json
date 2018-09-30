@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a3aa9eca41e720ed46b5a70d6c37efa47f768ac.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmT7ogS5m6Utf4EcfZyvUMkdroYAQzQPqqhJQE544zfjg4",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a3aa9eca41e720ed46b5a70d6c37efa47f768ac.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a3aa9eca41e720ed46b5a70d6c37efa47f768ac.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a3aa9eca41e720ed46b5a70d6c37efa47f768ac.png",
+    "ipfs_origin": "QmT9A4EZCda1uBkhJgJejvBdgvd4779NfMPvCBXoXghBAG"
   },
   "support": {
     "email": "martin@rcfund.org",

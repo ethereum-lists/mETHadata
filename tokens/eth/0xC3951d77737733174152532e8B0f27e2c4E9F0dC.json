@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc3951d77737733174152532e8b0f27e2c4e9f0dc.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVuPwPYWEEEnV3jFQwrNeuU3snsff1Jj8NDLqqtQaB2PU",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/902181224432754689/U-B5gHwF.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc3951d77737733174152532e8b0f27e2c4e9f0dc.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/902181224432754689/U-B5gHwF.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/902181224432754689/U-B5gHwF.jpg",
+    "ipfs_origin": "QmbwvH8cwF2dudZg8h6ZDidv4WQVgEMKvrvUfUsgUeURNw"
   },
   "support": {
     "email": "info@cloudwith.me",

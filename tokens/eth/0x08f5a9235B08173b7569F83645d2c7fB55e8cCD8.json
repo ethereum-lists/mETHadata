@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmeGEJ7cdKnZ2EBLS3vjmRNwEG4qazGYzEu66fT9UxHYth",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/tnt.svg",
       "twitter": "http://pbs.twimg.com/profile_images/622130392057823232/yPkOptzU.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8.png",
+    "ipfs_origin": "QmZj7pZCrz7JFgVwmSapLKgnxExsX1nuJDnHFpRCpw16WB"
   },
   "support": {
     "email": "team@tierion.com",

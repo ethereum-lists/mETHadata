@@ -9,14 +9,15 @@
     "src": "https://etherscan.io/token/images/gizer2_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZksZ7FjYJTNCFhbHm6Vie4y3i8WGcD6Y2jV9FsPke9sh",
     "sources": {
       "token-list": "https://etherscan.io/token/images/gizer2_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/920235057981337600/V2qOZd2b.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe638dc39b6adbee8526b5c22380b4b45daf46d8e.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe638dc39b6adbee8526b5c22380b4b45daf46d8e.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe638dc39b6adbee8526b5c22380b4b45daf46d8e.png",
+    "ipfs_origin": "QmWacXS4iWxeQQjV5tBZ5shf9DfvPGQkkQt5YgN14Pd1rU"
   },
   "support": {
     "email": "support@gizer.io",

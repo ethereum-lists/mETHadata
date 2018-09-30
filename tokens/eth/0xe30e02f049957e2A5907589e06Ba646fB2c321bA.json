@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe30e02f049957e2a5907589e06ba646fb2c321ba.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmfE4A491kg3MWw4NHokvjvrej1pv8VDYnVxucE2fgxwrK",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/863664231048241154/428iXy0w.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe30e02f049957e2a5907589e06ba646fb2c321ba.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/863664231048241154/428iXy0w.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/863664231048241154/428iXy0w.jpg",
+    "ipfs_origin": "QmRQM8aoBfRBfXntTASLL3Fj66z95UnXTFfQDcuQhJxAca"
   },
   "support": {
     "email": "info@dcorp.it",

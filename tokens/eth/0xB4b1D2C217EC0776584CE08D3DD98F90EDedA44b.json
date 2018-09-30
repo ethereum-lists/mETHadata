@@ -9,14 +9,15 @@
     "src": "https://climatecoin.io/uploads/logosmall-1-42x42.png",
     "width": "42",
     "height": "42",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmdgDjczQNTHUFtB5WaJmrb781M4PRTviakb9Rc4Hg4ED9",
     "sources": {
       "token-list": "https://climatecoin.io/uploads/logosmall-1-42x42.png",
       "twitter": "http://pbs.twimg.com/profile_images/998864023843033088/95GqatO3.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4b1d2c217ec0776584ce08d3dd98f90ededa44b.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4b1d2c217ec0776584ce08d3dd98f90ededa44b.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4b1d2c217ec0776584ce08d3dd98f90ededa44b.png",
+    "ipfs_origin": "QmWx91FgzdLbFbJzcHb859DPtFXUzoMfrLgGc9pBn4ZFZY"
   },
   "support": {
     "email": "info@climatecoin.com",

@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc8c6a31a4a806d3710a7b38b7b296d2fabccdba8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmNP1TTYm4ShNv1SdxdawPkUrXntwCb2VYWyCuGaXHur9K",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/elix.svg",
       "twitter": "http://pbs.twimg.com/profile_images/1012362225212768256/b64mUj-e.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc8c6a31a4a806d3710a7b38b7b296d2fabccdba8.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1012362225212768256/b64mUj-e.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1012362225212768256/b64mUj-e.jpg",
+    "ipfs_origin": "QmdnjMuWVbAPqdbN94WF8ZsdSHtpzSKFTHqk9o8v1koocZ"
   },
   "support": {
     "email": "info@elixirtoken.io",

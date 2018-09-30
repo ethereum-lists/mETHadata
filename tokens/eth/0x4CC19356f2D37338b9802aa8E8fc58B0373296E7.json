@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmeAxW5maxmQBPtCEeWD4rQeYeVPxAT4UmVugUfAdnwsfh",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/946921157567045632/eLcp66BC.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/946921157567045632/eLcp66BC.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/946921157567045632/eLcp66BC.jpg",
+    "ipfs_origin": "QmXF5HwMafao4HvpqFHkGqYUCaQxvHSCsBNXSBo9gNokJJ"
   },
   "support": {
     "email": "support@selfkey.org",

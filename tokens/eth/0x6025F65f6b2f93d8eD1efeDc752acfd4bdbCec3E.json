@@ -9,12 +9,13 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPR2RNitHykbpaS9oirv7NiowXMAk7Q7onGy6rNobTFRC",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/920764056553664512/DEh8GA53.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/920764056553664512/DEh8GA53.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/920764056553664512/DEh8GA53.jpg",
+    "ipfs_origin": "QmaJVpubMKoHGe3CPb52g6wqftUiCYb3FMoYidA2mbYfny"
   },
   "support": {
     "email": "hello@egoldtoken.org",

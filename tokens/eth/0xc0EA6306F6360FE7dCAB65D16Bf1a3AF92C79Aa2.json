@@ -9,13 +9,14 @@
     "src": "http://cdn.ganacoin.io/logo/gana_symbol_24.png",
     "width": 24,
     "height": 24,
-    "ipfs_hash": "",
+    "ipfs_hash": "Qme2wKMc21uoH6s9JmYeV6B71geNSVQHb9WATsFLKXYc6i",
     "sources": {
       "token-list": "http://cdn.ganacoin.io/logo/gana_symbol_24.png",
       "twitter": "http://pbs.twimg.com/profile_images/997856105270136832/_XVB_WRV.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/997856105270136832/_XVB_WRV.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/997856105270136832/_XVB_WRV.jpg",
+    "ipfs_origin": "QmRHpRu8YRAJTS8MZu2WgbSovwRERNxvADRkpTcsheFfF1"
   },
   "support": {
     "email": "info@ganacoin.io",

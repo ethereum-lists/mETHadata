@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea1f346faf023f974eb5adaf088bbcdf02d761f4.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmYrBg7ckRra8neX7BfJXWVgWdtLUsESeWkwPBHLPAFnCW",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/tix.svg",
       "twitter": "http://pbs.twimg.com/profile_images/780329487737257984/V8993xli.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea1f346faf023f974eb5adaf088bbcdf02d761f4.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea1f346faf023f974eb5adaf088bbcdf02d761f4.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea1f346faf023f974eb5adaf088bbcdf02d761f4.png",
+    "ipfs_origin": "Qmapx38ge8PCejhfkvDHWv2gW2euVYEdREXhpVaQ1MVKrC"
   },
   "support": {
     "email": "info@blocktix.io",

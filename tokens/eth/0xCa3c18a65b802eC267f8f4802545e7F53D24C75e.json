@@ -9,13 +9,14 @@
     "src": "http://beeunity.org/wp-content/uploads/2018/03/buc60.png",
     "width": 60,
     "height": 37,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmNRMQAbJ665gaVYN9MmWXxhzeFTFceeSyEx2Fh1XHPzfA",
     "sources": {
       "token-list": "http://beeunity.org/wp-content/uploads/2018/03/buc60.png",
       "twitter": "http://pbs.twimg.com/profile_images/970288208863899649/6u5Hqcq9.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/970288208863899649/6u5Hqcq9.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/970288208863899649/6u5Hqcq9.jpg",
+    "ipfs_origin": "QmSRefTBBmoV4XLaDa61kkVgthkw1ohVevfH4qiNiijXTC"
   },
   "support": {
     "email": "support@beeunity.org",

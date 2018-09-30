@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb6ed7644c69416d67b522e20bc294a9a9b405b31.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmUxfzW6jxMMprdNgWHPWhCVZm2zyyhE2QeDnfsqjMn8dS",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb6ed7644c69416d67b522e20bc294a9a9b405b31.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb6ed7644c69416d67b522e20bc294a9a9b405b31.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb6ed7644c69416d67b522e20bc294a9a9b405b31.png",
+    "ipfs_origin": "QmW5ZGW7HKmf27RVZpQ48XnSHQVdtFsXJ55z1xw5QH4b6U"
   },
   "support": {
     "email": "admin@0xbitcoin.org",

@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x515669d308f887fd83a471c7764f5d084886d34d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmQSYbeqrUvbXj7j7yud2s6mXfJQ3tvMx61bw6rj6HEXom",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/964199527350665216/fkf_ty6s.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x515669d308f887fd83a471c7764f5d084886d34d.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x515669d308f887fd83a471c7764f5d084886d34d.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x515669d308f887fd83a471c7764f5d084886d34d.png",
+    "ipfs_origin": "QmTYXjSFV9ubxWY8b2yC2tzQaAQPzu1wY9mwxAgSHYaVPZ"
   },
   "support": {
     "email": "info@muxe.io",

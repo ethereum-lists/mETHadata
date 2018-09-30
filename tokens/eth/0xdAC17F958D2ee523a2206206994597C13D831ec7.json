@@ -9,7 +9,7 @@
     "src": "https://etherscan.io/token/images/tether28_2.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmbDUHoFhQ5p9DoefK537XZixCwVwhPp1YkE1q2xbcWsfG",
     "sources": {
       "token-list": "https://etherscan.io/token/images/tether28_2.png",
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/usdt.svg",
@@ -17,7 +17,8 @@
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
     },
     "sourceBest": "trivial",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/usdt.svg"
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/usdt.svg",
+    "ipfs_origin": "QmVTACFrEPZ1LMTN4sdLXc2diVimN1iFaXRoY8daoMTVCg"
   },
   "support": {
     "email": "billy@tether.to",

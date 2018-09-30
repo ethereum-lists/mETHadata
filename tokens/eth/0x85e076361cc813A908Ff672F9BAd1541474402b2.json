@@ -9,7 +9,7 @@
     "src": "https://www.telco.in/logo.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPG2uh5Low9ApFUQpaRo5hy4rDa8PxJWG3CeTf7k5hhR4",
     "sources": {
       "token-list": "https://www.telco.in/logo.png",
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/tel.svg",
@@ -17,7 +17,8 @@
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85e076361cc813a908ff672f9bad1541474402b2.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85e076361cc813a908ff672f9bad1541474402b2.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85e076361cc813a908ff672f9bad1541474402b2.png",
+    "ipfs_origin": "QmbTYUYHAsR5DeRPrUzV3ss63sfmMstvFdHZsUEW7QHiVp"
   },
   "support": {
     "email": "tokensupport@telco.in",

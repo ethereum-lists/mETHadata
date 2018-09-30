@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVMAbRKrcfRcv8hE7HG3qRw1RPZnLpCiMY2F8HEn98nbN",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/poly.svg",
       "twitter": "http://pbs.twimg.com/profile_images/890366062126145538/c7tzFpB3.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec.png"
     },
     "sourceBest": "trivial",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/poly.svg"
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/poly.svg",
+    "ipfs_origin": "QmSfyToJhhr1qbBkzrBVwpkP2zfTQ98G5LSzsYXsaTDwHb"
   },
   "support": {
     "email": "support@polymath.zendesk.com",

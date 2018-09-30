@@ -9,14 +9,15 @@
     "src": "https://vetri.global/static/img/vld-icon.png",
     "width": "512px",
     "height": "512px",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmXcNFEiWzRbw2E4MVkzn45aGYzmpQ47cRtg6PcvyDrfxJ",
     "sources": {
       "token-list": "https://vetri.global/static/img/vld-icon.png",
       "twitter": "http://pbs.twimg.com/profile_images/929990493387280386/2IEajxvu.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x922ac473a3cc241fd3a0049ed14536452d58d73c.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x922ac473a3cc241fd3a0049ed14536452d58d73c.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x922ac473a3cc241fd3a0049ed14536452d58d73c.png",
+    "ipfs_origin": "QmbG16uxmEmKKb7gxhRX3E6UaQyxp19AKD914x8fLCGBQ5"
   },
   "support": {
     "email": "info@vetri.global",

@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPdcQkcmeCXRzf4LbT9JfCGv65kE9K9axs4bjkXN2xKB3",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/886478852725198852/jN7kgfSb.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be.png",
+    "ipfs_origin": "QmSdYHaxamh9Cz9pWM4qv6Vo6agBtNqUScw9m7RoR9uxge"
   },
   "support": {
     "email": "stewart@team.bitbounce.io",

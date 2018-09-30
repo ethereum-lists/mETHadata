@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPgCdH2nt8w8aUjau96G3i2z7QefpXpDnoXYSkEx9pT7j",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/892524846868987905/V48KUZHN.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/892524846868987905/V48KUZHN.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/892524846868987905/V48KUZHN.jpg",
+    "ipfs_origin": "QmQvw7uF2SQLMzXkDSNxBfc3TZ9SfnLRH6yUm9jCkwbg6o"
   },
   "support": {
     "email": "info@humaniq.com",

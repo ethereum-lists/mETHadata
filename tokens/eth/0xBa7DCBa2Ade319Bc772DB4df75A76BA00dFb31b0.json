@@ -10,13 +10,14 @@
     "src": "https://apollo18.co.in/wp-content/uploads/2018/08/a18-28x28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmWm8NAvwZq6ptfWvLLV2BfMjctcbhMDYm2oQYtX2qwcv1",
     "sources": {
       "token-list": "https://apollo18.co.in/wp-content/uploads/2018/08/a18-28x28.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba7dcba2ade319bc772db4df75a76ba00dfb31b0.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba7dcba2ade319bc772db4df75a76ba00dfb31b0.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba7dcba2ade319bc772db4df75a76ba00dfb31b0.png",
+    "ipfs_origin": "QmUe7d1kmFfXNwDdQr8dSmhJmjqMtUUgskiS9zEigPZMyk"
   },
   "support": {
     "email": "contact@apollo18.co.in",

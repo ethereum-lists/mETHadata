@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x887834d3b8d450b6bab109c252df3da286d73ce4.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmdrnSYbYL6xSLG516So9cGi6wwwjZWHpHTGaGXQSoWKBL",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x887834d3b8d450b6bab109c252df3da286d73ce4.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x887834d3b8d450b6bab109c252df3da286d73ce4.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x887834d3b8d450b6bab109c252df3da286d73ce4.png",
+    "ipfs_origin": "QmTXoqvwy1ZyPnzwRtXXQ15krHgCoyvxkachnWMmaMx2TR"
   },
   "support": {
     "email": "contact@atmatrix.com",

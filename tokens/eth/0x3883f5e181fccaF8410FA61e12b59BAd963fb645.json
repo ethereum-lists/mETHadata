@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3883f5e181fccaf8410fa61e12b59bad963fb645.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmX9bj64oNRbFMh4FG8xf7VH8KcPCMuxehyYsownPSfb6T",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/theta.svg",
       "twitter": "http://pbs.twimg.com/profile_images/932868157261225984/jxOQobOB.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3883f5e181fccaf8410fa61e12b59bad963fb645.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3883f5e181fccaf8410fa61e12b59bad963fb645.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3883f5e181fccaf8410fa61e12b59bad963fb645.png",
+    "ipfs_origin": "QmeBSvn6jA4Rq6WbUcJHMXFhMpUAxBAcqyqH4GUSjQ5pZQ"
   },
   "support": {
     "email": "support@thetatoken.org",

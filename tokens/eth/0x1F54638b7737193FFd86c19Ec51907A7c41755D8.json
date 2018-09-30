@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1f54638b7737193ffd86c19ec51907a7c41755d8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZ55thmuxFkTtVJDfqnN12HQ8BAMF1ykYZD15GquVopz3",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/915589387676782593/TNdBRVQi.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1f54638b7737193ffd86c19ec51907a7c41755d8.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1f54638b7737193ffd86c19ec51907a7c41755d8.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1f54638b7737193ffd86c19ec51907a7c41755d8.png",
+    "ipfs_origin": "QmQoSHwXk98bg2rZQ2DLvguRPfu9VhKSaxWSBHdvySomdt"
   },
   "support": {
     "email": "hi@sola.foundation",

@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0aef06dcccc531e581f0440059e6ffcc206039ee.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVbxQs8ri7LKZhaxj52PHaVdeeTHwTDDMzH6Wo7KCVyCu",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0aef06dcccc531e581f0440059e6ffcc206039ee.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0aef06dcccc531e581f0440059e6ffcc206039ee.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0aef06dcccc531e581f0440059e6ffcc206039ee.png",
+    "ipfs_origin": "QmRParKXAJrDvm1nUx42JHdJJUou5c6PmTRvTufAy4vU41"
   },
   "support": {
     "email": "info@intelligenttrading.org",

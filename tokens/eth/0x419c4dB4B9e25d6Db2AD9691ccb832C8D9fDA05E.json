@@ -9,7 +9,7 @@
     "src": "https://dragonchain.com/assets/images/dragon.png",
     "width": 813,
     "height": 879,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmTjTNsh6v15hmjvGfiksHYssdz6Ae9J56Tw7uNYwqGbJv",
     "sources": {
       "token-list": "https://dragonchain.com/assets/images/dragon.png",
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/drgn.svg",
@@ -17,7 +17,8 @@
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/980609456827330560/7_EyamZT.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/980609456827330560/7_EyamZT.jpg",
+    "ipfs_origin": "QmagCCJiyQZAPo9Cb8Jur9SKcMaDeHN8161eZ6JHpMM2dv"
   },
   "support": {
     "email": "support@dragonchain.com",

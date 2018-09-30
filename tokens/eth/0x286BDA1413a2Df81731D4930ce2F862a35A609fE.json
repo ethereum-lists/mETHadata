@@ -9,7 +9,7 @@
     "src": "https://etherscan.io/token/images/wacoin_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": "",
+    "ipfs_hash": "Qmb9M6yRFC5YcapDyi4RyhTUmAgw9HyEVzbfzH8eJr6PMo",
     "sources": {
       "token-list": "https://etherscan.io/token/images/wacoin_28.png",
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/wabi.svg",
@@ -17,7 +17,8 @@
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x286bda1413a2df81731d4930ce2f862a35a609fe.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x286bda1413a2df81731d4930ce2f862a35a609fe.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x286bda1413a2df81731d4930ce2f862a35a609fe.png",
+    "ipfs_origin": "QmYwjTNGKn1PC7midB2kxchvg1x63Z4gS6LtjyaEm9XxB3"
   },
   "support": {
     "email": "",

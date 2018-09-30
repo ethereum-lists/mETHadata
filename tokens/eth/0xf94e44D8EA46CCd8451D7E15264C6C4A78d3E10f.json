@@ -9,12 +9,13 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmNbU4mx7JmvXp9VvRPiBpa91LBeA8ffQrDURkFpmYV6Ka",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/969006658692108289/0QzNzKUM.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/969006658692108289/0QzNzKUM.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/969006658692108289/0QzNzKUM.jpg",
+    "ipfs_origin": "Qmdjim6tBpaKsvG9SbWtmu98dcWG81YTJUgzZktfHGysR1"
   },
   "support": {
     "email": "support@krosscoin.io",

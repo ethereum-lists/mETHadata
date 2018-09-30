@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6c68bb32462e01705011a4e2ad1a60740f217f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmTX5Dujo2M3VnAsQncvRcWQFcYMwzPLT4JMquKzJRcjzc",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/983423700048347136/aoQrwvJy.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6c68bb32462e01705011a4e2ad1a60740f217f.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6c68bb32462e01705011a4e2ad1a60740f217f.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6c68bb32462e01705011a4e2ad1a60740f217f.png",
+    "ipfs_origin": "QmfM5uAk7fP3aTJntwkf3MqauYcYKXBiENRFYRXhZCfXji"
   },
   "support": {
     "email": "info@hubii.com",

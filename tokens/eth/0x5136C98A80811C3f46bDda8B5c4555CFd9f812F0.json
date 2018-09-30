@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5136c98a80811c3f46bdda8b5c4555cfd9f812f0.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmSZisp4vKeYQacQEvrCSn1Wc7LM3k6U3us8wX57oQsMYJ",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/770188773841899520/CdONsJbf.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5136c98a80811c3f46bdda8b5c4555cfd9f812f0.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5136c98a80811c3f46bdda8b5c4555cfd9f812f0.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5136c98a80811c3f46bdda8b5c4555cfd9f812f0.png",
+    "ipfs_origin": "QmWg4MjV2gGcevsugPZEV7KAe2yRq6RBsYN62gfXKiTg1N"
   },
   "support": {
     "email": "tokens@indahash.com",

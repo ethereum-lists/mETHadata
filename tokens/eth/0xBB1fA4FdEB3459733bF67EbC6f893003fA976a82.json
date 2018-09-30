@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVrwMW5ytaMTVNvyqkMW8kWFwyeCVAs12ANzUZMfD4FkG",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82.png",
+    "ipfs_origin": "QmSBTd4ijP2984RqsdSgm3qFvATrYFivrg7vLKbLy4uVXs"
   },
   "support": {
     "email": "usersupport@bitnation.co",

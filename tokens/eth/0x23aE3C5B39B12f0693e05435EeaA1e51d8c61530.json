@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x23ae3c5b39b12f0693e05435eeaa1e51d8c61530.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmeBpjGBrHak7MTJPCj3DCgp7tHNqv9z4mhZo7LGancS8q",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x23ae3c5b39b12f0693e05435eeaa1e51d8c61530.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x23ae3c5b39b12f0693e05435eeaa1e51d8c61530.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x23ae3c5b39b12f0693e05435eeaa1e51d8c61530.png",
+    "ipfs_origin": "QmZq8ESX1Q15pPdMcN29SPSurAzBk1rTiShV4GTZzkuhDq"
   },
   "support": {
     "email": "team@aigang.network",

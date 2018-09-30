@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68e14bb5a45b9681327e16e528084b9d962c1a39.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmcTN9aiv4pzBKGZLCFMUXacQN5kqLHY4B8yNjWd2iNqUz",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68e14bb5a45b9681327e16e528084b9d962c1a39.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68e14bb5a45b9681327e16e528084b9d962c1a39.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68e14bb5a45b9681327e16e528084b9d962c1a39.png",
+    "ipfs_origin": "QmUkTXpgLxVDahTzHSDchccWs8SJfB1nCWpjxuSUiGjfvP"
   },
   "support": {
     "email": "help@bitclave.com",

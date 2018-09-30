@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf4c07b1865bc326a3c01339492ca7538fd038cc0.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmNXWD7JVf8VkL6j7qaAJ2sgGUjqk2DjS5SHAwxynuggck",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/875716887560192000/A7V-hAyp.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf4c07b1865bc326a3c01339492ca7538fd038cc0.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/875716887560192000/A7V-hAyp.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/875716887560192000/A7V-hAyp.jpg",
+    "ipfs_origin": "QmaeyXCpkcygvYt64hvXLxgHFxET2eA2QjHXJkwHwcbche"
   },
   "support": {
     "email": "admin@primalbase.com",

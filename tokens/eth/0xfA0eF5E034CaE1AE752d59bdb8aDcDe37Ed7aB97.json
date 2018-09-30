@@ -10,13 +10,14 @@
     "src": "https://www.tcandy.io/images/logo.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmeLU9iB274CT319igKNeP8JknoA5GKSfJcQt5Ec1aEGmt",
     "sources": {
       "token-list": "https://www.tcandy.io/images/logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/1027782662721699841/pSeO6DOH.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1027782662721699841/pSeO6DOH.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1027782662721699841/pSeO6DOH.jpg",
+    "ipfs_origin": "QmcdMQSgH5PjE4G6QErGo4iz9vXT2i6gt1jzHimuUgWbJR"
   },
   "support": {
     "email": "admin@tcandy.io",

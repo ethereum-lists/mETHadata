@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb802b24e0637c2b87d2e8b7784c055bbe921011a.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "Qma4QSh1bjsdjMHAyZxEn4U47Jz3tdNiF1h4QWx7qfWs83",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/778199433506938880/aaTbK5Pk.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb802b24e0637c2b87d2e8b7784c055bbe921011a.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb802b24e0637c2b87d2e8b7784c055bbe921011a.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb802b24e0637c2b87d2e8b7784c055bbe921011a.png",
+    "ipfs_origin": "QmbSq4CKgNNKvVMczUuTUjoz5K3Yy4ZkhFPfeEvnqu48GZ"
   },
   "support": {
     "email": "support@emovieventure.com",

@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmcUXdYoG14vYc2BfRJVdLTLc9DAQRBTyUg1WcxVrbRKHH",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/poe.svg",
       "twitter": "http://pbs.twimg.com/profile_images/961010646778183680/q7GkdGYV.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195.png",
+    "ipfs_origin": "QmUxEanQYRNFJWH4oPVavbwaHb1xbqe7ARmfQsAxJGRFud"
   },
   "support": {
     "email": "contact@po.et",

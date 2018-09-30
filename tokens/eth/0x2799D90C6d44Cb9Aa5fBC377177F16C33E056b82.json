@@ -9,13 +9,14 @@
     "src": "https://i.imgur.com/3V7N7hr.png",
     "width": "256",
     "height": "256",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmdzPwf7AeeAJaiv3PM99pYrPJ8H6PeboXYJmB3Mo5Zidv",
     "sources": {
       "token-list": "https://i.imgur.com/3V7N7hr.png",
       "twitter": "http://pbs.twimg.com/profile_images/969195482659672064/xxBCKWMe.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/969195482659672064/xxBCKWMe.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/969195482659672064/xxBCKWMe.jpg",
+    "ipfs_origin": "QmPx2ubWkSTwGo5G9fEk8Zy5SFCRDKQfR583HeysqWtZ7C"
   },
   "support": {
     "email": "help@drpcoin.com",

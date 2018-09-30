@@ -9,14 +9,15 @@
     "src": "http://immunecoin.info/logo_32_32.png",
     "width": 32,
     "height": 32,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPkeoSixX2HjindpRidqStpiCSosSjtToqR7rpekQwt1Z",
     "sources": {
       "token-list": "http://immunecoin.info/logo_32_32.png",
       "twitter": "http://pbs.twimg.com/profile_images/917750770493153281/404S0_5w.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3831c5a982b279a198456d577cfb90424cb6340.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/917750770493153281/404S0_5w.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/917750770493153281/404S0_5w.jpg",
+    "ipfs_origin": "QmaR15ztpfc2ccNHmkcn9KbgTrsiuMkiNgSDU5P62MqYTD"
   },
   "support": {
     "email": "imctoken2017@gmail.com",

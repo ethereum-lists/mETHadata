@@ -9,14 +9,15 @@
     "src": "https://hiperteknoloji.org/ht/ist34-token-28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmW5xbc3YpN7qBEJGsd3ggGzPA5mTw8k4E1dwKDjhCebtq",
     "sources": {
       "token-list": "https://hiperteknoloji.org/ht/ist34-token-28.png",
       "twitter": "http://pbs.twimg.com/profile_images/986563410035953665/Sk-Pa5iE.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0cf713b11c9b986ec40d65bd4f7fbd50f6ff2d64.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0cf713b11c9b986ec40d65bd4f7fbd50f6ff2d64.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0cf713b11c9b986ec40d65bd4f7fbd50f6ff2d64.png",
+    "ipfs_origin": "QmU83XBRTuxzULHAA6PVLPvPv2juWtLX5P3wDRMpoTcjBM"
   },
   "support": {
     "email": "ist34@hiperteknoloji.org",

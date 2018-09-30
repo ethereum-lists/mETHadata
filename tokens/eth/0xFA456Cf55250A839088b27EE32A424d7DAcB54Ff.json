@@ -9,14 +9,15 @@
     "src": "https://blocktrade.com/wp-content/uploads/2018/05/blocktradecom_logo.png?39a15b&39a15b",
     "width": "3938",
     "height": "478",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmaBTMXuLR7V239ErRsiGZSJtgsdCZTfA7uW5WHKFDjDm6",
     "sources": {
       "token-list": "https://blocktrade.com/wp-content/uploads/2018/05/blocktradecom_logo.png?39a15b&39a15b",
       "twitter": "http://pbs.twimg.com/profile_images/966699368945471490/uteovpO4.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfa456cf55250a839088b27ee32a424d7dacb54ff.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfa456cf55250a839088b27ee32a424d7dacb54ff.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfa456cf55250a839088b27ee32a424d7dacb54ff.png",
+    "ipfs_origin": "QmYArD3fUDRxtR5CgbF2tWQD6ZV7awRrZgPfLk7uu8M51H"
   },
   "support": {
     "email": "support@blocktrade.com",

@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x63b992e6246d88f07fc35a056d2c365e6d441a3d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmW6qUfEMitBVuH3e33AsUCKzTu1Kd5izozvpvU7FFyyP9",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x63b992e6246d88f07fc35a056d2c365e6d441a3d.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x63b992e6246d88f07fc35a056d2c365e6d441a3d.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x63b992e6246d88f07fc35a056d2c365e6d441a3d.png",
+    "ipfs_origin": "QmfEGAEjfHCGEZV792MPFzRRhiPcL9XUhVYKFAACRk6awe"
   },
   "support": {
     "email": "support@soma.co",

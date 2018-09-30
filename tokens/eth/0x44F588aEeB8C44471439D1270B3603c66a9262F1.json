@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x44f588aeeb8c44471439d1270b3603c66a9262f1.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmU7yXMacsd8ijbdMYoF8bK2zN4osD1XVBMuERRozQP5jq",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1021553696717434880/B0eYf-Kh.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x44f588aeeb8c44471439d1270b3603c66a9262f1.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1021553696717434880/B0eYf-Kh.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1021553696717434880/B0eYf-Kh.jpg",
+    "ipfs_origin": "QmWPUogtNq6Xw7TMbVDQnZ6uq1nGoQanvv96i6aWyzSXjz"
   },
   "support": {
     "email": "info@snip.today",

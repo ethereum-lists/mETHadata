@@ -10,13 +10,14 @@
     "src": "https://lct.blob.core.windows.net/lct/lct_logo_256.png",
     "width": "256",
     "height": "256",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmUB6UcG2bytU2rNvUHQg2AbqjpqF6x6vf9PUoyLep7WNE",
     "sources": {
       "token-list": "https://lct.blob.core.windows.net/lct/lct_logo_256.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4a37a91eec4c97f9090ce66d21d3b3aadf1ae5ad.png"
     },
     "sourceBest": "src",
-    "origin": "https://lct.blob.core.windows.net/lct/lct_logo_256.png"
+    "origin": "https://lct.blob.core.windows.net/lct/lct_logo_256.png",
+    "ipfs_origin": "QmUsZMDSavKGftXBa2GCeKhwVK93VuhEYcHPt1uZ7cBeiC"
   },
   "support": {
     "email": "service@liquorchain.io",

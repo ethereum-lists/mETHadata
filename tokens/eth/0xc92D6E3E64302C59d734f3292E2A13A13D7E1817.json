@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc92d6e3e64302c59d734f3292e2a13a13d7e1817.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmaqxVWwm3QdN1MECb5wjPw9drKFaWk3Uiq7iq83ZhYdHX",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1007099552837468168/zLjx1e5f.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc92d6e3e64302c59d734f3292e2a13a13d7e1817.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc92d6e3e64302c59d734f3292e2a13a13d7e1817.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc92d6e3e64302c59d734f3292e2a13a13d7e1817.png",
+    "ipfs_origin": "QmRoMXuZG5aG1u3CVcQvk2VyzHxSFGU29vfsJFDxVfE38c"
   },
   "support": {
     "email": "support@futurax.global",

@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmXFhTpoXG3sTyQp2sMyBGuew63RkSNacrGxyjSBtReQom",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd.png",
+    "ipfs_origin": "QmcBuCSXuNpevTQRn5ALqabfA5iKopfXPdyHUkCHKB1P24"
   },
   "support": {
     "email": "gridplus@consensys.net",

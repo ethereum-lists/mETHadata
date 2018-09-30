@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZ3rAez6XR3tihtTENc9xfqxCChf43RqaxHvT5visakK1",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/679024726526713856/4juER30U.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671.png",
+    "ipfs_origin": "QmNv2CPtKZvNBCPxakwzHwU8zhec7p1cfEHqgHmeMs6kU2"
   },
   "support": {
     "email": "contact@numer.ai",

@@ -11,7 +11,9 @@
       "twitter": "http://pbs.twimg.com/profile_images/3425499924/70b995950047c041f96f9c9bfae15244_normal.jpeg"
     },
     "sourceBest": "src",
-    "origin": "https://raw.githubusercontent.com/gharshr/ICO_smartcontract/master/RAO_Token.png"
+    "origin": "https://raw.githubusercontent.com/gharshr/ICO_smartcontract/master/RAO_Token.png",
+    "ipfs_hash": "QmPPvEbZgGYeSfFBAbwCkZp9yccZ54jwhTWcZHSbeMRFjg",
+    "ipfs_origin": "QmW58Rxw5vizQbw8i6uEpGZ3PghNVF3g89rgovuhtk4DVd"
   },
   "support": {
     "email": "support@radioyo.fm"

@@ -9,14 +9,15 @@
     "src": "https://polyswarm.io/img/coin/nectar_300x300.png",
     "width": "301",
     "height": "301",
-    "ipfs_hash": "QmaQmaNUDawjkbnH6STZStmUMx32se3rBTvgHeZi7Cygmq",
+    "ipfs_hash": "QmSPniesWB1R52S79uphaZH1za3ShCGfC2Pmax1pyuBT2w",
     "sources": {
       "token-list": "https://polyswarm.io/img/coin/nectar_300x300.png",
       "twitter": "http://pbs.twimg.com/profile_images/927419298158485504/ImcYCVfX.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e46a38f5daabe8683e10793b06749eef7d733d1.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e46a38f5daabe8683e10793b06749eef7d733d1.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e46a38f5daabe8683e10793b06749eef7d733d1.png",
+    "ipfs_origin": "QmbgDEbcybQhyb3A6Y7NbBLhQUgtgauwfUK3eWLnxjj5xz"
   },
   "support": {
     "email": "info@polyswarm.io",

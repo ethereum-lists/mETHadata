@@ -9,13 +9,14 @@
     "src": "https://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB_400x400.jpg",
     "width": "400",
     "height": "400",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPmLqZ78kKy13gk16T6FjC1ogCGBiGziJ2TsmcP3x3emg",
     "sources": {
       "token-list": "https://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB_400x400.jpg",
       "twitter": "http://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB.jpg"
     },
     "sourceBest": "src",
-    "origin": "https://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB_400x400.jpg"
+    "origin": "https://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB_400x400.jpg",
+    "ipfs_origin": "QmNyaYDUrpnCYDJrbyiRxSV7CnZDzTnZ15Zo3YNL61HTPY"
   },
   "support": {
     "email": "support@proncoin.io",

@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2aec18c5500f21359ce1bea5dc1777344df4c0dc.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmdDExMjypPqFS6yyBwJ8yscRyyUrPP5i5FJ4gx5xJx3hC",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1022148894568972288/OenUX5_W.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2aec18c5500f21359ce1bea5dc1777344df4c0dc.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1022148894568972288/OenUX5_W.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1022148894568972288/OenUX5_W.jpg",
+    "ipfs_origin": "QmRAAATS8DyGrLQRyB7caZ3cqNvzgw3v6GpQyDXyP9WcDg"
   },
   "support": {
     "email": "contact@farmatrust.com",

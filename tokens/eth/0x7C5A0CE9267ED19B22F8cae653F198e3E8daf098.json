@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZ7eE5tVqzW9XMmLU6MeXoqUL44H9SKWyzc5cAprYLA8X",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/san.svg",
       "twitter": "http://pbs.twimg.com/profile_images/1036525323569967104/5JLmbTRo.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1036525323569967104/5JLmbTRo.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1036525323569967104/5JLmbTRo.jpg",
+    "ipfs_origin": "QmcdJKha6VKBkmi7SjgS9iz4fPTsktxe6awhiVbMaTe8WB"
   },
   "support": {
     "email": "info@santiment.net",

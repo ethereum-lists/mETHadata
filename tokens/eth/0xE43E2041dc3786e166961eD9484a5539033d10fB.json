@@ -9,13 +9,14 @@
     "src": "https://dencity.life/assets/images/logo.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmaEov1uXs3hYfNUNWA6LHmm3K42fxyw2uvjKefUadBSbH",
     "sources": {
       "token-list": "https://dencity.life/assets/images/logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/933287085083017216/gz_akTqO.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/933287085083017216/gz_akTqO.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/933287085083017216/gz_akTqO.jpg",
+    "ipfs_origin": "QmV8VKq36xqamR1gGAAeYcBuBJMJpQDEGd3Bk5QTZoiJAf"
   },
   "support": {
     "email": "hello@dencity.life",

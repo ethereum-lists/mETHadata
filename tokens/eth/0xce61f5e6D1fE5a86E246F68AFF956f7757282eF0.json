@@ -9,12 +9,13 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "Qma3LB2BQdD8ZzmZycAjM9LrUAKFL2djEozeDrykcq4y3S",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/980782831809970176/7UezG72y.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/980782831809970176/7UezG72y.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/980782831809970176/7UezG72y.jpg",
+    "ipfs_origin": "QmWigHv4yUMjG1VxXBqC8krChE41TCMwEoGjzR2KoYeDft"
   },
   "support": {
     "email": "admin@pinkexc.com",

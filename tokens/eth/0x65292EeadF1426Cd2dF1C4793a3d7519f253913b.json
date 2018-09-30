@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65292eeadf1426cd2df1c4793a3d7519f253913b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmdjzWipWovoaDM9jrRDrt92YYKm1fQz1xuGf3TnB9CrMw",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/934450930858242049/XtmuxKIb.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65292eeadf1426cd2df1c4793a3d7519f253913b.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65292eeadf1426cd2df1c4793a3d7519f253913b.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65292eeadf1426cd2df1c4793a3d7519f253913b.png",
+    "ipfs_origin": "QmdmxWqo1dxhTnxAeMYYnGaTKkXvngVziXmcChRSoXSTDZ"
   },
   "support": {
     "email": "info@coss.io",

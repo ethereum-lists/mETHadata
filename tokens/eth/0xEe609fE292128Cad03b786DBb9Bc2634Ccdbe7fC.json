@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xee609fe292128cad03b786dbb9bc2634ccdbe7fc.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmNo78XYfKUbsXJuRXytZYGPokrthfRZGVVfK6R34VPtey",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/898483400671088640/HTrxSE7P.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xee609fe292128cad03b786dbb9bc2634ccdbe7fc.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xee609fe292128cad03b786dbb9bc2634ccdbe7fc.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xee609fe292128cad03b786dbb9bc2634ccdbe7fc.png",
+    "ipfs_origin": "QmQ9BFoHLvxs9hVk2RTu3bRBx8pHNdzafj2c9caWC1brCZ"
   },
   "support": {
     "email": "contact@postoken.org",

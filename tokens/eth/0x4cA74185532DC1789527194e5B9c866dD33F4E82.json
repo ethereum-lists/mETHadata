@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ca74185532dc1789527194e5b9c866dd33f4e82.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmUgZPbqoWBVNe3nyqrpAzYTT3om2ub57uT7kPFMhH6sib",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/914017353960214531/Rdnj_ZHc.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ca74185532dc1789527194e5b9c866dd33f4e82.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ca74185532dc1789527194e5b9c866dd33f4e82.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ca74185532dc1789527194e5b9c866dd33f4e82.png",
+    "ipfs_origin": "QmfJ3h8FpiGQ9MBJjLUfs5jVwvXY3oKeaG3t6dtvfmTTpq"
   },
   "support": {
     "email": "isensatori@gmail.com",

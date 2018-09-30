@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9002d4485b7594e3e850f0a206713b305113f69e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmavmPqhPsVWiRNFj5Wo2STKMaSkC1byNNL7wUBC6V5uTU",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9002d4485b7594e3e850f0a206713b305113f69e.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9002d4485b7594e3e850f0a206713b305113f69e.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9002d4485b7594e3e850f0a206713b305113f69e.png",
+    "ipfs_origin": "QmXaPbMAVixKu7SWKpBQmdf5yLCWH2Mfj4KQSTqm38LB4C"
   },
   "support": {
     "email": "info@hawala.today",

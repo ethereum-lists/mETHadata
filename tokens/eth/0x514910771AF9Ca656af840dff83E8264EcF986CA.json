@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x514910771af9ca656af840dff83e8264ecf986ca.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmcuwueneHxCR9zzkpMQjPaXhJsgAed1V7sTRcQCJfbqGj",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1030475757892579334/qvSHhRyC.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x514910771af9ca656af840dff83e8264ecf986ca.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1030475757892579334/qvSHhRyC.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1030475757892579334/qvSHhRyC.jpg",
+    "ipfs_origin": "QmfV8KpQDL2zbXVysJsFRCG13XDk388vQzmzeBsMRmSZvh"
   },
   "support": {
     "email": "support@smartcontract.com",

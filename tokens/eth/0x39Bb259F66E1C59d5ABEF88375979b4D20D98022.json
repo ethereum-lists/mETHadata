@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x39bb259f66e1c59d5abef88375979b4d20d98022.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmQs25zCNJapNTJpzLZa1U8ZDqqSDKyHnjUZNfTWVFNhqB",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/wax.svg",
       "twitter": "http://pbs.twimg.com/profile_images/974678085579694080/w72iJq03.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x39bb259f66e1c59d5abef88375979b4d20d98022.png"
     },
     "sourceBest": "trivial",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/wax.svg"
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/wax.svg",
+    "ipfs_origin": "QmSCxtByq7VQdZwMt4P7i3Zk9gVLQjdA6WbAfbddJzRAD1"
   },
   "support": {
     "email": "support@wax.io",

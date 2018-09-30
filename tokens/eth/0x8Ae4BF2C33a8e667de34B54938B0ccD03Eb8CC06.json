@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "Qmc3SH87ALWZQJr8V5Y2QfsWn8HXzSEAHGuibGHWnxJc2S",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/970441971037802496/A_266LtY.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06.png",
+    "ipfs_origin": "Qma77ciRCbSsRU8fJj2F5RGmJXvaLqwMkFXXwXG8qQf3Em"
   },
   "support": {
     "email": "info@patientory.com",

@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x629aee55ed49581c33ab27f9403f7992a289ffd5.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmS2sU9mQGWHabpE7V8iBSq6yCM3mAxesp1yuv5uvVLB3Z",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x629aee55ed49581c33ab27f9403f7992a289ffd5.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x629aee55ed49581c33ab27f9403f7992a289ffd5.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x629aee55ed49581c33ab27f9403f7992a289ffd5.png",
+    "ipfs_origin": "QmYMvQ2ArFYw2z4rowhJRCrzLpcxskntqjEqUEUPwwDTgR"
   },
   "support": {
     "email": "support@dimensions.network",

@@ -9,14 +9,15 @@
     "src": "https://i.imgur.com/15s0da4.png",
     "width": "120",
     "height": "120",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVs5JCE5GSNMLiFrzqJHd9Vu2pLmsG4hZzCRsLGTNJvax",
     "sources": {
       "token-list": "https://i.imgur.com/15s0da4.png",
       "twitter": "http://pbs.twimg.com/profile_images/939172805723037696/pRd5WXkJ.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xebbdf302c940c6bfd49c6b165f457fdb324649bc.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xebbdf302c940c6bfd49c6b165f457fdb324649bc.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xebbdf302c940c6bfd49c6b165f457fdb324649bc.png",
+    "ipfs_origin": "QmbaSTwhb29ZDAAHNG7DSbB65Vuq4PvXW7h2GS7S1d9V29"
   },
   "support": {
     "email": "info@hydrogenplatform.com",

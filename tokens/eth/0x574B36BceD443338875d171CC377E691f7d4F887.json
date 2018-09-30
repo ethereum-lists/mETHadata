@@ -9,12 +9,13 @@
     "src": "http://co2bit.com/wp-content/uploads/2017/12/28x28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVA7RXMSPfUWCtmzNwYHyUmM6rjjp6KyoQDL2swRPRByJ",
     "sources": {
       "token-list": "http://co2bit.com/wp-content/uploads/2017/12/28x28.png"
     },
     "sourceBest": "src",
-    "origin": "http://co2bit.com/wp-content/uploads/2017/12/28x28.png"
+    "origin": "http://co2bit.com/wp-content/uploads/2017/12/28x28.png",
+    "ipfs_origin": "QmQjBJzMyumozppyvDd5kG625M1E727swvYuVJu9Dd9zXR"
   },
   "support": {
     "email": "info@co2bit.com",

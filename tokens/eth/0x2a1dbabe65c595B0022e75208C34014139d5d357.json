@@ -9,12 +9,13 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmaB2DgJ6ZyAixzxyNjetZxF2u5uFbkEJgFbP6bQMLwMtn",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/917268234621026304/slYDbPdh.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/917268234621026304/slYDbPdh.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/917268234621026304/slYDbPdh.jpg",
+    "ipfs_origin": "QmaQ35R9wNVnx2T8ksYLMNejADwWA361f1GseDxpRHGo4Q"
   },
   "support": {
     "email": "info@trustedhealth.io",

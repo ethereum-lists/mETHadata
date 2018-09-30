@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xae4f56f072c34c0a65b3ae3e4db797d831439d93.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZH9CtkL5J5M9rvxzZvqEpKzAXbQPte7gcErNsi4nnkck",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/954082351398572032/e5fktxtO.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xae4f56f072c34c0a65b3ae3e4db797d831439d93.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xae4f56f072c34c0a65b3ae3e4db797d831439d93.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xae4f56f072c34c0a65b3ae3e4db797d831439d93.png",
+    "ipfs_origin": "QmQdekRW8QqBtuCBKmc41h9VXv7a9uV9xjpWqfoA1MaHzt"
   },
   "support": {
     "email": "contact@gimli.io",

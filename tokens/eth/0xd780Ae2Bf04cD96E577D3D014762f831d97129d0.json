@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd780ae2bf04cd96e577d3d014762f831d97129d0.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmeuM5gr7we1mL1Yjdm5DC8dWFxPgP8mHzsDYQzpAULnMM",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/925669071001214976/okWAudN-.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd780ae2bf04cd96e577d3d014762f831d97129d0.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/925669071001214976/okWAudN-.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/925669071001214976/okWAudN-.jpg",
+    "ipfs_origin": "QmSb7qRd4apRvxXePapJmZMTSq9YeuKHYHqA6YeNZvo2TF"
   },
   "support": {
     "email": "question@envion.org",

@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x986ee2b944c42d017f52af21c4c69b84dbea35d8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmQ7RqUqJ3FTk3VEk2FQ8z5RH5t3sesMGmqaULkjPpkho6",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/941618917570625536/Aymw64gz.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x986ee2b944c42d017f52af21c4c69b84dbea35d8.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/941618917570625536/Aymw64gz.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/941618917570625536/Aymw64gz.jpg",
+    "ipfs_origin": "QmPx6qBfAacxfRZTzhuWLEzwKZincpfUBfLwbZmcW65Lof"
   },
   "support": {
     "email": "support@bitmart.com",

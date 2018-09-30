@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmStRn5p6eqNYb43pcmjpK7NFFNY3tx79uLkKrKxpNMStr",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/912884649541623809/-MnOq83v.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63.png",
+    "ipfs_origin": "QmYtN1nDi1Hvs28gjJQzksHLbAUD5uzxUcH6FoytZcrUzE"
   },
   "support": {
     "email": "info@zsc.io",

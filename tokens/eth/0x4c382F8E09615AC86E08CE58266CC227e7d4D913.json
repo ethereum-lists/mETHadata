@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4c382f8e09615ac86e08ce58266cc227e7d4d913.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmduzoCBYjeaYRnvWbe59kVBpmcTkw8xYGSYB8fmGfe3Ca",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1032075709215395840/y4j2-XQt.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4c382f8e09615ac86e08ce58266cc227e7d4d913.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4c382f8e09615ac86e08ce58266cc227e7d4d913.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4c382f8e09615ac86e08ce58266cc227e7d4d913.png",
+    "ipfs_origin": "QmfXp1D7BKai5TRtXRiga4vLacyh8Z9GDk76uKmbpeVyPs"
   },
   "support": {
     "email": "support@skrilla.com",

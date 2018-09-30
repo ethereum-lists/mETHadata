@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPNLrrn8TiF5EwYVWvM5MTTHL4wkPr9SxVhAJqFNvXBdS",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/890095767637159936/XnBo1PcT.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e.png",
+    "ipfs_origin": "QmWvncu9PLfZmcAAe4SQn59XjCvBdBLDpogyu5Cpi9bFDS"
   },
   "support": {
     "email": "payments@etherbtc.io",

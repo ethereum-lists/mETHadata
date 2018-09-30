@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmRRmAcBZppBNy7x526sBkKYDjfBBfwEcmppvamjxG6rY4",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/936496964618858496/hxvFkuJg.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/936496964618858496/hxvFkuJg.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/936496964618858496/hxvFkuJg.jpg",
+    "ipfs_origin": "QmY1tzDAR3d7nuhvWzuqwEcwrbNBXDJPoSHLcXs882GmyY"
   },
   "support": {
     "email": "support@presearch.io",

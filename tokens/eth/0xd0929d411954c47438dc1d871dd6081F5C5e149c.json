@@ -9,14 +9,15 @@
     "src": "28",
     "width": "28",
     "height": "https://etherscan.io/token/images/refereum.png",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmR1vRGQNRTjK9iiRc9E5T7z4hWXYCEzdbn6cfEgueWczd",
     "sources": {
       "token-list": "28",
       "twitter": "http://pbs.twimg.com/profile_images/1012026986439405568/qj7As7p8.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0929d411954c47438dc1d871dd6081f5c5e149c.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1012026986439405568/qj7As7p8.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1012026986439405568/qj7As7p8.jpg",
+    "ipfs_origin": "QmVSs5TJ1PD3Gv3SqS4p6xE1c43P3f7dsWedvGTJrRfZaR"
   },
   "support": {
     "email": "team@refereum.com",

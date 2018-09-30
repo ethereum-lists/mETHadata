@@ -9,14 +9,15 @@
     "src": "https://etherscan.io/token/images/viuly_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZayBc1YXbDigEwqZudEa7sMTXVnKzJ4PUXVbLLPMkWau",
     "sources": {
       "token-list": "https://etherscan.io/token/images/viuly_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/1020671426771243008/Ancz3Kje.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1020671426771243008/Ancz3Kje.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1020671426771243008/Ancz3Kje.jpg",
+    "ipfs_origin": "QmfZTEcxK7gUez7D5Q5Vj2DVB5pTYoWUC84RdJu8hmaZ8j"
   },
   "support": {
     "email": "support@viuly.com",

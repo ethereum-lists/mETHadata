@@ -9,14 +9,15 @@
     "src": "https://image.ibb.co/e9kStm/Pitch_Apply_Token_logo_500x500.png",
     "width": "500",
     "height": "500",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmbiGeWtasD2RZAReXGaKQqcN51STBFAnnk6dWLG1JSMKt",
     "sources": {
       "token-list": "https://image.ibb.co/e9kStm/Pitch_Apply_Token_logo_500x500.png",
       "twitter": "http://pbs.twimg.com/profile_images/947231583752290305/YpDdbOoG.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfcac7a7515e9a9d7619fa77a1fa738111f66727e.png"
     },
     "sourceBest": "src",
-    "origin": "https://image.ibb.co/e9kStm/Pitch_Apply_Token_logo_500x500.png"
+    "origin": "https://image.ibb.co/e9kStm/Pitch_Apply_Token_logo_500x500.png",
+    "ipfs_origin": "QmaLqMM6hnN3XmzPYy7HXspWBGwXr1hukj9kSEJWk6MR8W"
   },
   "support": {
     "email": "hello@pitchapply.com",

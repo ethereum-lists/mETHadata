@@ -9,13 +9,14 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmV6EfU1aiNDoP9QQEL2uU265uKQbP46kAcdm3Vh5jMKAb",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/ngc.svg",
       "twitter": "http://pbs.twimg.com/profile_images/968572274398978048/gNY9AKhg.jpg"
     },
     "sourceBest": "trivial",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/ngc.svg"
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/ngc.svg",
+    "ipfs_origin": "QmWiyYRiTJiFZAU8HRtRr8zKxS51VJZjNQ1X2dccUsiBHH"
   },
   "support": {
     "email": "",

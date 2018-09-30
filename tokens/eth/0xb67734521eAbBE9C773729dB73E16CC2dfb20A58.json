@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/eRupee/images/master/coin%20logo.png",
     "width": 900,
     "height": 720,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZmGr4RY3nmF7f8aiBdxoWuGBC9bdHpLSLaYn9m2D4BCg",
     "sources": {
       "token-list": "https://raw.githubusercontent.com/eRupee/images/master/coin%20logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/1017190844841881600/gH-anVF4.jpg"
     },
     "sourceBest": "src",
-    "origin": "https://raw.githubusercontent.com/eRupee/images/master/coin%20logo.png"
+    "origin": "https://raw.githubusercontent.com/eRupee/images/master/coin%20logo.png",
+    "ipfs_origin": "QmUJep5a9tyE7gMwPKc45JZAgr4zfnWWaycaYUuiXVcueX"
   },
   "support": {
     "email": "erupee@protonmail.com",

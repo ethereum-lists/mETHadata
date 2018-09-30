@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xed247980396b10169bb1d36f6e278ed16700a60f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmYvXbAoe36VjjQA5FvhHLvUwqTWeLkV4sE3cjhMAgSRkL",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xed247980396b10169bb1d36f6e278ed16700a60f.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xed247980396b10169bb1d36f6e278ed16700a60f.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xed247980396b10169bb1d36f6e278ed16700a60f.png",
+    "ipfs_origin": "QmQ6jbE73pSQZQFfzR7h39xkYUNjkxZknLym9DPhXeVy6K"
   },
   "support": {
     "email": "hello@avalon.nu",

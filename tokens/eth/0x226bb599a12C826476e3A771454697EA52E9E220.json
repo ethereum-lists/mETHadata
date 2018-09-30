@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x226bb599a12c826476e3a771454697ea52e9e220.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVgsLtiTxs5gVQ9vZw6wVtpAAh8F9VXBqPGekajUHTRkL",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/681584125187354624/RKYiI5MC.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x226bb599a12c826476e3a771454697ea52e9e220.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x226bb599a12c826476e3a771454697ea52e9e220.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x226bb599a12c826476e3a771454697ea52e9e220.png",
+    "ipfs_origin": "QmWmJD8uBUGSCfhe5BcBoSwvdLu9moLjJUENmDjPNaG3Pw"
   },
   "support": {
     "email": "ico@propy.com",

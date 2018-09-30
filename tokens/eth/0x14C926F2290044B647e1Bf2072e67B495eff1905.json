@@ -9,14 +9,15 @@
     "src": "https://image.ibb.co/jPRLCx/icon_default_1.png",
     "width": 250,
     "height": 250,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPPyA2RJUwdvqubvvmfrpArLZF5grzks3irLo6atenFDL",
     "sources": {
       "token-list": "https://image.ibb.co/jPRLCx/icon_default_1.png",
       "twitter": "http://pbs.twimg.com/profile_images/948665847932911617/X6rDGp6f.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x14c926f2290044b647e1bf2072e67b495eff1905.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/948665847932911617/X6rDGp6f.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/948665847932911617/X6rDGp6f.jpg",
+    "ipfs_origin": "QmS2GhSDTeiyJek25R2c7UbiK2XnP92zrgSk3AWwv2aceo"
   },
   "support": {
     "email": "team@bethereum.com",

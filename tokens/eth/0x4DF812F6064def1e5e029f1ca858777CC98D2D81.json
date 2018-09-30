@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4df812f6064def1e5e029f1ca858777cc98d2d81.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmRThMTgBu5dogpjY1xHg3mYjiuj5BTfQ3qxbrr9xxhffH",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4df812f6064def1e5e029f1ca858777cc98d2d81.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4df812f6064def1e5e029f1ca858777cc98d2d81.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4df812f6064def1e5e029f1ca858777cc98d2d81.png",
+    "ipfs_origin": "QmXkZ7xPptbxPz3eG91jFZbVk6jyVZkMVSQr7Bij5ZMWRb"
   },
   "support": {
     "email": "info@xaurum.org",

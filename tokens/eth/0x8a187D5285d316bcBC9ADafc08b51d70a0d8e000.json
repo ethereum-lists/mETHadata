@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a187d5285d316bcbc9adafc08b51d70a0d8e000.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmTdop411U4KCn5tzF8G3Zb1yjgTnc9uRBe5HMnB1TdmUc",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/887011140265537536/8cQ9b56x.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a187d5285d316bcbc9adafc08b51d70a0d8e000.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a187d5285d316bcbc9adafc08b51d70a0d8e000.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a187d5285d316bcbc9adafc08b51d70a0d8e000.png",
+    "ipfs_origin": "QmWtPEjozwvd2sZ8LKP4W75s5f8jGnz766nLFZpw22YmaB"
   },
   "support": {
     "email": "ico@smartift.com",

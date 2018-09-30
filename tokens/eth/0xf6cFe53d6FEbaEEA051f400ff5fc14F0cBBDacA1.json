@@ -9,14 +9,15 @@
     "src": "https://files.coinmarketcap.com/static/img/coins/200x200/digipulse.png",
     "width": 200,
     "height": 200,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmR1fQkhQU9pt4TxKqP3vJV9Ev2295F71qaRcjiYbfKBG4",
     "sources": {
       "token-list": "https://files.coinmarketcap.com/static/img/coins/200x200/digipulse.png",
       "twitter": "http://pbs.twimg.com/profile_images/961169122561228800/GPv_XmWm.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf6cfe53d6febaeea051f400ff5fc14f0cbbdaca1.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf6cfe53d6febaeea051f400ff5fc14f0cbbdaca1.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf6cfe53d6febaeea051f400ff5fc14f0cbbdaca1.png",
+    "ipfs_origin": "QmbYoNoYowCiRN9iZqwgGDb4bVGfThYf3MhCuRu1q61Fjt"
   },
   "support": {
     "email": "hello@digipulse.io",

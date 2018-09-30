@@ -9,13 +9,14 @@
     "src": "https://filmscoin.com/images/icon-flmc28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmXcbgirhJxgkWyfS5RWVEBC6mRjvanxdSnWCZB2GWyHiZ",
     "sources": {
       "token-list": "https://filmscoin.com/images/icon-flmc28.png",
       "twitter": "http://pbs.twimg.com/profile_images/973831480848928774/DEpRLGwY.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/973831480848928774/DEpRLGwY.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/973831480848928774/DEpRLGwY.jpg",
+    "ipfs_origin": "QmUbzEZyD1kkkotEF97UDXU1m8gRhfKesZmG1Y8CgraZHh"
   },
   "support": {
     "email": "",

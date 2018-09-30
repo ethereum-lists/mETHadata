@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x39013f961c378f02c2b82a6e1d31e9812786fd9d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmaYu41jxYkkiFoxvGVFnkaqCGucjThaS6iFWPU62Jey8r",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/913647411817365505/dCB9ZTiK.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x39013f961c378f02c2b82a6e1d31e9812786fd9d.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/913647411817365505/dCB9ZTiK.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/913647411817365505/dCB9ZTiK.jpg",
+    "ipfs_origin": "QmdJ4cRcULY12gp9SNwf5KCvq7cwokTChteMxQHRd3cX7C"
   },
   "support": {
     "email": "support@smscoin.jp",

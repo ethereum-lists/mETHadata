@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc2c63f23ec5e97efbd7565df9ec764fdc7d4e91d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmeRvwJhkvSLu3dc7S5KwLuFH44Wyv7gaT8x6K5ad2VEjs",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc2c63f23ec5e97efbd7565df9ec764fdc7d4e91d.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc2c63f23ec5e97efbd7565df9ec764fdc7d4e91d.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc2c63f23ec5e97efbd7565df9ec764fdc7d4e91d.png",
+    "ipfs_origin": "Qmb2F6KeYtrPYkSMvBqVN9cdFTW6GowDxapqipk1Y9t52w"
   },
   "support": {
     "email": "support@boule.one",

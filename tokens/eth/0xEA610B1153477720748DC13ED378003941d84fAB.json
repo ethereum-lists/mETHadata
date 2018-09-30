@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea610b1153477720748dc13ed378003941d84fab.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmXn5mfU9kftx5auDMMUxK22hicMqBd3RoHZq52ygDKvuK",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/891561684216586240/Ts3JxI1U.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea610b1153477720748dc13ed378003941d84fab.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea610b1153477720748dc13ed378003941d84fab.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea610b1153477720748dc13ed378003941d84fab.png",
+    "ipfs_origin": "QmP85LedPJtGJWCPeiuveVrtS4WTser5scYr2xLQyY1Lib"
   },
   "support": {
     "email": "info@alismedia.jp",

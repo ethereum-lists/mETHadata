@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmRKyYA5zeTJYe85pvp643MYZY1wdGKe6WRrmW5B7ihZFQ",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/928476215773511680/EWfCymVR.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2.png",
+    "ipfs_origin": "QmeZcKac9JCMq7PKi9XFQJewUKxSZRXHiXmtbXM3nuySHP"
   },
   "support": {
     "email": "help@accelerator.network",

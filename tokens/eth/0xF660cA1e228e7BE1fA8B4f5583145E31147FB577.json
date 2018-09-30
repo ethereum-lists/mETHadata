@@ -9,14 +9,15 @@
     "src": "https://www.dropbox.com/s/5ag9npp048m1qf0/logo_transparent_small.png?dl=0",
     "width": "480",
     "height": "480",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmepBLc6szWmKd1YqQUvRkzi51FXh2Sjf3qFHKXdmGUXGf",
     "sources": {
       "token-list": "https://www.dropbox.com/s/5ag9npp048m1qf0/logo_transparent_small.png?dl=0",
       "twitter": "http://pbs.twimg.com/profile_images/967013549640962050/z4s8EDfY.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf660ca1e228e7be1fa8b4f5583145e31147fb577.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf660ca1e228e7be1fa8b4f5583145e31147fb577.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf660ca1e228e7be1fa8b4f5583145e31147fb577.png",
+    "ipfs_origin": "QmXTqaBfh62GMvXNdyVwv37wFrykLiztbuCLw1nwCpGm4n"
   },
   "support": {
     "email": "contact@dice.money",

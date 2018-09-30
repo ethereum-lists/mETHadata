@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x327682779bab2bf4d1337e8974ab9de8275a7ca8.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmXQzdjQxzsPNxGqPaQsxV6XewNaDriMFiwZWArPDvmYTD",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/bpt.svg",
       "twitter": "http://pbs.twimg.com/profile_images/951770977553305600/rB8nfa1q.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x327682779bab2bf4d1337e8974ab9de8275a7ca8.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/951770977553305600/rB8nfa1q.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/951770977553305600/rB8nfa1q.jpg",
+    "ipfs_origin": "QmPgXRDFWz8ZpF4TCK1bnM8sJB5JH3eAEQ7vwH7F9neKPo"
   },
   "support": {
     "email": "support@blockport.io",

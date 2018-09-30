@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28c8d01ff633ea9cd8fc6a451d7457889e698de6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmTYNDRHEp2dNupFhWMvEtzHS8imDfoVodv591niGS1tMU",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/921847616522063875/24gyXC15.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28c8d01ff633ea9cd8fc6a451d7457889e698de6.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28c8d01ff633ea9cd8fc6a451d7457889e698de6.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28c8d01ff633ea9cd8fc6a451d7457889e698de6.png",
+    "ipfs_origin": "QmbT598BgU6NKUDSTjzbZtETRJszTRfxg6A1U3UDckxPqq"
   },
   "support": {
     "email": "dev@ethereumgold.info",

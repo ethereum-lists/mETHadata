@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmcnBxeoK8Fc19kYBRWfu3RiuS9xpFAVh9VkP1jto6UunS",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/932612771555844096/4umbZipg.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50.png",
+    "ipfs_origin": "QmcmWoMkxGPcaUscJ7yuB31Z1RoM3Z4mz29oywJ4jnB7of"
   },
   "support": {
     "email": "btclitetoken@gmail.com",

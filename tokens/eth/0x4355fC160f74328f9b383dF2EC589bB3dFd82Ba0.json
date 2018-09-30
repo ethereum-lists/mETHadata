@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4355fc160f74328f9b383df2ec589bb3dfd82ba0.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmbVD4DtosqbhvrThXp4eWgbwD64yd9LFiHricWMZrgWUN",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/882751730202677249/bP4qYgne.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4355fc160f74328f9b383df2ec589bb3dfd82ba0.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4355fc160f74328f9b383df2ec589bb3dfd82ba0.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4355fc160f74328f9b383df2ec589bb3dfd82ba0.png",
+    "ipfs_origin": "QmVCM7oEjr4V6kwxEKiSmcJeAK4PDCTzQHSQWfD8DvAkfr"
   },
   "support": {
     "email": "info@opus-foundation.com",

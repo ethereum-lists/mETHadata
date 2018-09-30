@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/ProjectWyvern/wyvern-branding/master/logo/logo-square-red-transparent-28x28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmNmjwXvzU81HC3mxTDB5KeQFKrPbtUiSsAButuDiEmXen",
     "sources": {
       "token-list": "https://raw.githubusercontent.com/ProjectWyvern/wyvern-branding/master/logo/logo-square-red-transparent-28x28.png"
     },
     "sourceBest": "src",
-    "origin": "https://raw.githubusercontent.com/ProjectWyvern/wyvern-branding/master/logo/logo-square-red-transparent-28x28.png"
+    "origin": "https://raw.githubusercontent.com/ProjectWyvern/wyvern-branding/master/logo/logo-square-red-transparent-28x28.png",
+    "ipfs_origin": "QmUz24VWShxNWX4yC6NwbYU3g1S768ec73j5dNwUQuLyFW"
   },
   "support": {
     "email": "team@projectwyvern.com",

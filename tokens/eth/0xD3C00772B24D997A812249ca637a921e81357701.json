@@ -9,14 +9,15 @@
     "src": "http://wildtoken.com/wp-content/uploads/2017/12/WildCrypto-Logo-Only-copy-300x275.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmTpuchrNWDWahgohmyG9eH9iPYzwgj5aTr8ySF77g1uAN",
     "sources": {
       "token-list": "http://wildtoken.com/wp-content/uploads/2017/12/WildCrypto-Logo-Only-copy-300x275.png",
       "twitter": "http://pbs.twimg.com/profile_images/888455009217773568/IsjwpvUu.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd3c00772b24d997a812249ca637a921e81357701.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd3c00772b24d997a812249ca637a921e81357701.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd3c00772b24d997a812249ca637a921e81357701.png",
+    "ipfs_origin": "QmS3c5HURB9xjCHqzw5iaKZv4c46JxWVdDYE5zW4nEv1JQ"
   },
   "support": {
     "email": "info@wildcrypto.com",

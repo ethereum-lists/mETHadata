@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc34366e3842ca1bd36c1f324d15257960fcc801.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmfS4RGR4etdFkLXCZLD2LP4rybnsJZLE5NcM7UWcgyvDj",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc34366e3842ca1bd36c1f324d15257960fcc801.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc34366e3842ca1bd36c1f324d15257960fcc801.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc34366e3842ca1bd36c1f324d15257960fcc801.png",
+    "ipfs_origin": "QmYhyYMEziMvqdBgZPVkmUK8r68Zw55LZmeh2kkybcy4MV"
   },
   "support": {
     "email": "support@bonpay.com",

@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf70a642bd387f94380ffb90451c2c81d4eb82cbc.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmeqvppvwUdaj479KYngG53W59BGxzBFoSQ5EE6DDKbr6L",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/946709376479449089/tx_a3B51.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf70a642bd387f94380ffb90451c2c81d4eb82cbc.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf70a642bd387f94380ffb90451c2c81d4eb82cbc.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf70a642bd387f94380ffb90451c2c81d4eb82cbc.png",
+    "ipfs_origin": "QmbygXHdGt6uC6LBzXHNGFWkAn9qWPo3MN72wxsAWjufHN"
   },
   "support": {
     "email": "support@starbase.co",

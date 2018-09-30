@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmRBnTmh8nSGxvU3ABUirvDMMC2H6WhSfaRNgEe7Eq4c9c",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/988835520414236672/Dhd-NghQ.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd.png",
+    "ipfs_origin": "QmU5siarc9Wfk9MegDR6b7dM5ZBgCJyTbGzFzChZXsciAq"
   },
   "support": {
     "email": "hello@metax.io",

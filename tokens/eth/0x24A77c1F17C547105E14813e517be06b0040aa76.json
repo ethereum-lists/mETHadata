@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24a77c1f17c547105e14813e517be06b0040aa76.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmRYzv5F5T5YkepQ8TVXnyDx2zkryJz45Nwew4oLFRXjRQ",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/994957833182629888/ADn2Ah2C.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24a77c1f17c547105e14813e517be06b0040aa76.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24a77c1f17c547105e14813e517be06b0040aa76.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24a77c1f17c547105e14813e517be06b0040aa76.png",
+    "ipfs_origin": "QmWzRmH46LaAec2Yxh5mF6NuaRd4PQQ8eWxJBLkZErAXYU"
   },
   "support": {
     "email": "info@livestars.io",

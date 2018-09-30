@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmYMj3XNX5THn5LkaBgKQCQ1B3Ur4vqQeB2yhCjDd4zuuA",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/959355779756253184/j1ZzfNkj.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/959355779756253184/j1ZzfNkj.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/959355779756253184/j1ZzfNkj.jpg",
+    "ipfs_origin": "QmQ9gVeg9DbEAdUYCaje37La9p8y2tQNLeEEvszvKKL9ae"
   },
   "support": {
     "email": "support@sportyfi.io",

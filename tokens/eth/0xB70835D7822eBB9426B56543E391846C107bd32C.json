@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb70835d7822ebb9426b56543e391846c107bd32c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmbkyReiHNKGEAe8Rg1x7qXY6LF8uVRb248dDnhCHpqmiM",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb70835d7822ebb9426b56543e391846c107bd32c.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb70835d7822ebb9426b56543e391846c107bd32c.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb70835d7822ebb9426b56543e391846c107bd32c.png",
+    "ipfs_origin": "QmRfm1zrg2JaPS5oRze8FJ8HpBo3CiFuXA3sM3d28nJuGP"
   },
   "support": {
     "email": "group@game.com",

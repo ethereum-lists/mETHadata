@@ -9,12 +9,13 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmXHkQ5piZsKm3fKicUU5KobZbxvySsb78SVjwwsa2zz2M",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/929342202341462019/I4Zl6hHH.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/929342202341462019/I4Zl6hHH.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/929342202341462019/I4Zl6hHH.jpg",
+    "ipfs_origin": "QmNPyGAQgshrLT2xfmMchumRFtEv6vMs3q4yPmj73T4msk"
   },
   "support": {
     "email": "team@alaricoin.org",

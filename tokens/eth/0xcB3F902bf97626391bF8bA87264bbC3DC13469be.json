@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcb3f902bf97626391bf8ba87264bbc3dc13469be.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZ2vMgARna4DSxYa9PqYUmLZKLHPmqki6xRcCUoerHLmS",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcb3f902bf97626391bf8ba87264bbc3dc13469be.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcb3f902bf97626391bf8ba87264bbc3dc13469be.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcb3f902bf97626391bf8ba87264bbc3dc13469be.png",
+    "ipfs_origin": "QmeCgbKNJaJFFbUFt8ofWxATW7B6g5ZHE2HBbbQwKiQb2U"
   },
   "support": {
     "email": "therealcoin2017@gmail.com",

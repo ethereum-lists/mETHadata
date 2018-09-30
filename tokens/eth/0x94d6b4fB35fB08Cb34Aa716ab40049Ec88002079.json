@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x94d6b4fb35fb08cb34aa716ab40049ec88002079.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPoB8kJGAFWnRVzfxv5xJhTCbbRjEVRvCJtcWCFgNJoYH",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/cnx.svg",
       "twitter": "http://pbs.twimg.com/profile_images/916290531533172737/gdQj0Ore.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x94d6b4fb35fb08cb34aa716ab40049ec88002079.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/916290531533172737/gdQj0Ore.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/916290531533172737/gdQj0Ore.jpg",
+    "ipfs_origin": "QmTL2PRF2LGLQKVzmbghmB3MpM5gnL2PeaH8mqZSPdS3Jm"
   },
   "support": {
     "email": "support@cryptonex.org",

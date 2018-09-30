@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ce6b362bc77a24966dda9078f9cef81b3b886a7.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmNiAw76BjSV9aCh3sVpxgH9RSVBB9hLvsrj7Nj4nxbUnN",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/994853533391507456/5YlrOpy3.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ce6b362bc77a24966dda9078f9cef81b3b886a7.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ce6b362bc77a24966dda9078f9cef81b3b886a7.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ce6b362bc77a24966dda9078f9cef81b3b886a7.png",
+    "ipfs_origin": "Qmddjow26SgcXswMV3fk4uvozCU29i9MybAuxUu5j6wf3g"
   },
   "support": {
     "email": "help@nper.io",

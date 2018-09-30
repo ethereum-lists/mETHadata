@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmUY6DhQSdzMQRVRorw538KEizgKZsYXQ1CZz7GWz1jtZ9",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d.png",
+    "ipfs_origin": "QmWztU4YTtsR8inEMjXLAeY44RA2tMnCyPNgZvtAkz8YoS"
   },
   "support": {
     "email": "info@insights.network",

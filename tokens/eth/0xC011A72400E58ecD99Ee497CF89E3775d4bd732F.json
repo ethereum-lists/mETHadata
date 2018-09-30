@@ -9,14 +9,15 @@
     "src": "https://havven.io/images/favicon3.ico",
     "width": "32",
     "height": "32",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmdCUCk15NrDARbJiFRsgXS4MwEEBDbVv29E2JNLkzNFCZ",
     "sources": {
       "token-list": "https://havven.io/images/favicon3.ico",
       "twitter": "http://pbs.twimg.com/profile_images/898876211232886784/RSGRhf2Z.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc011a72400e58ecd99ee497cf89e3775d4bd732f.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc011a72400e58ecd99ee497cf89e3775d4bd732f.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc011a72400e58ecd99ee497cf89e3775d4bd732f.png",
+    "ipfs_origin": "QmYNpQPcEfRVAQ3b9ESMGCueaeCiGFe7gtXMu95AwcGMuG"
   },
   "support": {
     "email": "info@havven.io",

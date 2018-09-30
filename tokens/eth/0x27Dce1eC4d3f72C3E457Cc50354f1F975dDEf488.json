@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27dce1ec4d3f72c3e457cc50354f1f975ddef488.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmfUTwKnf54v4gWAvyr22qcp3osyTaRPcf8kKrCpfVwVfo",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/965614621896851457/H_n-p2m1.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27dce1ec4d3f72c3e457cc50354f1f975ddef488.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/965614621896851457/H_n-p2m1.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/965614621896851457/H_n-p2m1.jpg",
+    "ipfs_origin": "QmbsY661ftHA6ftiSw98HPYcehgj5DPccmKaAQCSgYBcB7"
   },
   "support": {
     "email": "corporate@airfox.io",

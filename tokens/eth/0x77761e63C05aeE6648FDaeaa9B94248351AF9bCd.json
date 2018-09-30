@@ -10,13 +10,14 @@
     "src": "http://www.wisepass.co/wordpress/home/images/logo.png",
     "width": 40,
     "height": 40,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmX5gC6Yrmw1y2ePiA7J6uLf1QozUFsHBUK5poNcJmuMVE",
     "sources": {
       "token-list": "http://www.wisepass.co/wordpress/home/images/logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/858578860677382144/zL5UAqV8.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/858578860677382144/zL5UAqV8.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/858578860677382144/zL5UAqV8.jpg",
+    "ipfs_origin": "Qmd4SY4wrPTQFv8hzm7oWdteScxVRvAuo2HcHsKXHbsLWB"
   },
   "support": {
     "email": "ico@wisepass.co",

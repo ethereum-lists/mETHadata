@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3c75226555fc496168d48b88df83b95f16771f37.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmYbrXh1L1aqK43HHezW5bGBu4sex1yRH9nDavQq5MikFz",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3c75226555fc496168d48b88df83b95f16771f37.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3c75226555fc496168d48b88df83b95f16771f37.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3c75226555fc496168d48b88df83b95f16771f37.png",
+    "ipfs_origin": "Qma3rHgKAFEG5ApLwriAP1dgdy8ze696Uzo5SyGUfugP7H"
   },
   "support": {
     "email": "support@droplex.org",

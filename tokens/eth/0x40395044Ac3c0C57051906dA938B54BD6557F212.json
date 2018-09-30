@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x40395044ac3c0c57051906da938b54bd6557f212.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmbD2bUTQkrX77jGiA3HJJPVCyWuE7PzqocR3UgfSRYygV",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1006447385906688001/ta3bsSBj.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x40395044ac3c0c57051906da938b54bd6557f212.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x40395044ac3c0c57051906da938b54bd6557f212.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x40395044ac3c0c57051906da938b54bd6557f212.png",
+    "ipfs_origin": "QmaXZR5tPL3MTsBcPuTKh3QefmxfES92MfdujYtZmowpqY"
   },
   "support": {
     "email": "contact@gamecredits.com",

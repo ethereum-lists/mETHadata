@@ -9,14 +9,15 @@
     "src": "https://s3.amazonaws.com/blitzpredict-public/MEW+Logo.png",
     "width": "250",
     "height": "250",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPefuDrpGd4szbm5bq3z8urj9PRkanv6Cq5Z29gn9jy8d",
     "sources": {
       "token-list": "https://s3.amazonaws.com/blitzpredict-public/MEW+Logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/935933856569376768/CdNjKqPa.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28dee01d53fed0edf5f6e310bf8ef9311513ae40.png"
     },
     "sourceBest": "src",
-    "origin": "https://s3.amazonaws.com/blitzpredict-public/MEW+Logo.png"
+    "origin": "https://s3.amazonaws.com/blitzpredict-public/MEW+Logo.png",
+    "ipfs_origin": "QmUniqRsRnaH7LvAjCBufjSwHreiXBQtqNMtwefN43mnuQ"
   },
   "support": {
     "email": "mew@blitzpredict.io",

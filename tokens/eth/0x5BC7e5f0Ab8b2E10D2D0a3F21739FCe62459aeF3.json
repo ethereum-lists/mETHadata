@@ -15,7 +15,9 @@
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5bc7e5f0ab8b2e10d2d0a3f21739fce62459aef3.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/958937991044521985/ra83XWET.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/958937991044521985/ra83XWET.jpg",
+    "ipfs_hash": "QmXaQbkH7TA55wkAADvpj87RL8ioeMsyY1DMbvY3s96fWY",
+    "ipfs_origin": "QmVbTxugnQjvtLgeeCBbCfsP75qwFM43XoSKoHhUfvVkvd"
   },
   "support": {
     "email": "admin@hut34.io",

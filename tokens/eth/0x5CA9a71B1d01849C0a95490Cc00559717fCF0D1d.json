@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmTpnazFuEnPUh37oTKtZpgpEcuCqQWorevHFGgWtG5vpk",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/ae.svg",
       "twitter": "http://pbs.twimg.com/profile_images/973573850523947010/FMBz-IjN.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d.png"
     },
     "sourceBest": "trivial",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/ae.svg"
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/ae.svg",
+    "ipfs_origin": "QmeCTeeF8P6pW1c7iSd1wBF5gry1bjxGM9DgEfA1ve6VMJ"
   },
   "support": {
     "email": "info@aeternity.com",

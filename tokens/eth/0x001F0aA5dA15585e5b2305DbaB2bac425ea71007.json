@@ -9,13 +9,14 @@
     "src": "https://ip.sx/images/IPSX-Logo-28x28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": "",
+    "ipfs_hash": "Qmb4uEMHBPkhXi7ugh566tMLkf9Xt9qwShcbQZk8z3Vpy3",
     "sources": {
       "token-list": "https://ip.sx/images/IPSX-Logo-28x28.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x001f0aa5da15585e5b2305dbab2bac425ea71007.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x001f0aa5da15585e5b2305dbab2bac425ea71007.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x001f0aa5da15585e5b2305dbab2bac425ea71007.png",
+    "ipfs_origin": "QmWyxuzS9HRfL5uGecumnrFjwL3EQNNXwTHEFM56LoamzY"
   },
   "support": {
     "email": "contact@ip.sx",

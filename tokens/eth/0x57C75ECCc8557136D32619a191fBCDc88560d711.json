@@ -9,14 +9,15 @@
     "src": "https://veridocglobal.com/Themes/veridoc/Content/img/logo.png",
     "width": "350",
     "height": "145",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmfTb46uD338EQdBfqQHAgeAvZxf5GukjShWmi5BhAMymJ",
     "sources": {
       "token-list": "https://veridocglobal.com/Themes/veridoc/Content/img/logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/1003887842349600768/1IFZKPBz.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x57c75eccc8557136d32619a191fbcdc88560d711.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1003887842349600768/1IFZKPBz.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1003887842349600768/1IFZKPBz.jpg",
+    "ipfs_origin": "QmX9ES4zwWCuRhMtMXoBUe1DkVw6NpTjKrttuHjSxDUruX"
   },
   "support": {
     "email": "admin@veridocglobal.com",

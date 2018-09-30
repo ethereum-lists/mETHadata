@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b70740e708a083c6ff38df52297020f5dfaa5ee.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVNXA8WodXc9y9jGbGMtLH2ryGbXsbLy2e7X8SjBdw86T",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1037046620817444864/-F971H0X.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b70740e708a083c6ff38df52297020f5dfaa5ee.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b70740e708a083c6ff38df52297020f5dfaa5ee.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b70740e708a083c6ff38df52297020f5dfaa5ee.png",
+    "ipfs_origin": "QmYcQ7qDWLbQaCTZXS3Sx8m4fnMDX1Y7TK13CNKXVAcaiu"
   },
   "support": {
     "email": "information@daneel.io",

@@ -9,7 +9,7 @@
     "src": "https://ibb.co/jFsGsG",
     "width": 250,
     "height": 250,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmTgyCXrrmnytqMWYCyahUHizpbfznGTaTU2vnZXEZTMm4",
     "sources": {
       "token-list": "https://ibb.co/jFsGsG",
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/appc.svg",
@@ -17,7 +17,8 @@
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/940957722735992832/Mu0_0yPz.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/940957722735992832/Mu0_0yPz.jpg",
+    "ipfs_origin": "QmSyie5k3jEciBCV3bLzZiL1s6MUt62MkYmsL2JiYSRHJb"
   },
   "support": {
     "email": "info@appcoins.io",

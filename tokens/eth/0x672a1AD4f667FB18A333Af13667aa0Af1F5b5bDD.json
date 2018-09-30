@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmYXyNR5uJAn4fFnKsAz7EmejXGidYEQaLbPkqoP8hLLgK",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/cred.svg",
       "twitter": "http://pbs.twimg.com/profile_images/927127767438823424/VLZ4geTz.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd.png",
+    "ipfs_origin": "QmNQ6rJTwr7B1JEYH9U58xQvbA7AcEpZ8NstwucCCzchLF"
   },
   "support": {
     "email": "team@verify.as",

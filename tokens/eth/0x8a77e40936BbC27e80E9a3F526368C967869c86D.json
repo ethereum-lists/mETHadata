@@ -9,14 +9,15 @@
     "src": "https://merculet.io/static/image/newimg/logo.png",
     "width": "356",
     "height": "366",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPA52DXpKZ2G38yF8ZMgasGTWw5yzgRJVUpms95yPCkg6",
     "sources": {
       "token-list": "https://merculet.io/static/image/newimg/logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/971479843446521856/WfEBwMeT.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a77e40936bbc27e80e9a3f526368c967869c86d.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a77e40936bbc27e80e9a3f526368c967869c86d.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a77e40936bbc27e80e9a3f526368c967869c86d.png",
+    "ipfs_origin": "Qmc7VLfqgHM9NuKic6syf1PjPXDhygLNv9E2b7D59QEMp1"
   },
   "support": {
     "email": "support@merculet.io",

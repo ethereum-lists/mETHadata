@@ -9,14 +9,15 @@
     "src": "https://etherscan.io/token/images/oneledger_28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmetVmTn3Je9cQi9FpYXZQZXeRjbdaUjywZGEAiJTMP9GH",
     "sources": {
       "token-list": "https://etherscan.io/token/images/oneledger_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/972221109243392001/JpvcxX4_.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x64a60493d888728cf42616e034a0dfeae38efcf0.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x64a60493d888728cf42616e034a0dfeae38efcf0.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x64a60493d888728cf42616e034a0dfeae38efcf0.png",
+    "ipfs_origin": "QmaL6b19Ta9hGf4w9fK14XxUmaAtxPeVevi2eDM76NhHt3"
   },
   "support": {
     "email": "hello@oneledger.io",

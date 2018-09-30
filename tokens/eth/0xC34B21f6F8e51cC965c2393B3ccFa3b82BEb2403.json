@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc34b21f6f8e51cc965c2393b3ccfa3b82beb2403.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmRbzh7Qrr4KGAi88oCYtbQSwXJJtm6cTgeVwTKvGHCr65",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc34b21f6f8e51cc965c2393b3ccfa3b82beb2403.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc34b21f6f8e51cc965c2393b3ccfa3b82beb2403.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc34b21f6f8e51cc965c2393b3ccfa3b82beb2403.png",
+    "ipfs_origin": "QmduJE9BXS26edsC76HpqtkgHaia5UM8JVxEffnqEd5j5v"
   },
   "support": {
     "email": "talk01ta52@gmail.com",

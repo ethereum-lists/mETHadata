@@ -9,14 +9,15 @@
     "src": "https://en.modultrade.io/img/new_set/modultrade_logo.svg",
     "width": "60",
     "height": "20",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmYjKx2PJwcv8RsvdAixuSVHKeWSp3PPYfbUUhLQTh31ne",
     "sources": {
       "token-list": "https://en.modultrade.io/img/new_set/modultrade_logo.svg",
       "twitter": "http://pbs.twimg.com/profile_images/988781307009359872/pmHKiTXg.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1e49ff77c355a3e38d6651ce8404af0e48c5395f.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/988781307009359872/pmHKiTXg.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/988781307009359872/pmHKiTXg.jpg",
+    "ipfs_origin": "QmcwMV84bin8nAxCKzK1PvToFmoR9TVWa3yrRmFbMrGDiL"
   },
   "support": {
     "email": "tokensale@modultrade.io",

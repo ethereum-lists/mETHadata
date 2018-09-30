@@ -9,14 +9,15 @@
     "src": "https://hurify.co/wp-content/uploads/2018/03/hurify_fav_icon.png",
     "width": "300",
     "height": "302",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVtujgCXaGe3RkqWfBFWPafTaKJV3We2XVx8wpDiB7GVf",
     "sources": {
       "token-list": "https://hurify.co/wp-content/uploads/2018/03/hurify_fav_icon.png",
       "twitter": "http://pbs.twimg.com/profile_images/1032627190184128517/tH74h7Rp.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcdb7ecfd3403eef3882c65b761ef9b5054890a47.png"
     },
     "sourceBest": "src",
-    "origin": "https://hurify.co/wp-content/uploads/2018/03/hurify_fav_icon.png"
+    "origin": "https://hurify.co/wp-content/uploads/2018/03/hurify_fav_icon.png",
+    "ipfs_origin": "QmdYusFxxAZdR6hEfsM1gjxh774uyf8cbXrkvhVeXiCzDB"
   },
   "support": {
     "email": "support@hurify.co",

@@ -9,14 +9,15 @@
     "src": "https://pundix.com/logo/logo.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmeNHFcj2Wc6UuV5vF11xQ66xNehztsHMCX2BsUjwhQoz6",
     "sources": {
       "token-list": "https://pundix.com/logo/logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/911518497385021440/o4ZnRjv8.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3.png",
+    "ipfs_origin": "QmZ9JvwTbjETbZV3zoyDQXmm9GRrNuuC4Dr5CbXfy7kGNi"
   },
   "support": {
     "email": "contact@pundix.com",

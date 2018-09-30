@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e4abe6419650ca839ce5bb7db422b881a6064bb.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmeNaKKhBrKQkLxNnDXw7UtBPzcQ4NrS7PjNvSJkZtDcw6",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e4abe6419650ca839ce5bb7db422b881a6064bb.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e4abe6419650ca839ce5bb7db422b881a6064bb.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e4abe6419650ca839ce5bb7db422b881a6064bb.png",
+    "ipfs_origin": "QmRWWYRkmJbtgkHnYnqrqWfKcDfREc9Cg7oRDLmTrpdbua"
   },
   "support": {
     "email": "admin@cryptowi.com",

@@ -9,13 +9,14 @@
     "src": "https://workchain.io/downloads/workTOKEN/logo_256.png",
     "width": "256",
     "height": "256",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmWzFsWKHGj7ryV1yTwKK41CX1v5sovAno5GuKr6xzx6bi",
     "sources": {
       "token-list": "https://workchain.io/downloads/workTOKEN/logo_256.png",
       "twitter": "http://pbs.twimg.com/profile_images/1029403739260637184/SrdtjsS_.jpg"
     },
     "sourceBest": "src",
-    "origin": "https://workchain.io/downloads/workTOKEN/logo_256.png"
+    "origin": "https://workchain.io/downloads/workTOKEN/logo_256.png",
+    "ipfs_origin": "QmRjKeHfhvofx6XyivYTuFBfjB5gyZdGh5TaFQPn1QAnEB"
   },
   "support": {
     "email": "ping@workchain.io",

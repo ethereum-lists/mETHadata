@@ -10,13 +10,14 @@
     "src": "https://i.imgur.com/EgxuJmy.png",
     "width": 128,
     "height": 128,
-    "ipfs_hash": "",
+    "ipfs_hash": "Qma82NgNhnXViVGtbK5EySFppsQ9JHofkc3YqPxxWyqAg2",
     "sources": {
       "token-list": "https://i.imgur.com/EgxuJmy.png",
       "twitter": "http://pbs.twimg.com/profile_images/963580132026961926/_4R8E0xf.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/963580132026961926/_4R8E0xf.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/963580132026961926/_4R8E0xf.jpg",
+    "ipfs_origin": "QmPo8fCYEqGm57r3UVgmj1SYsRLe8abXRTzsZPkukwnY3f"
   },
   "support": {
     "email": "info@redcab.io",

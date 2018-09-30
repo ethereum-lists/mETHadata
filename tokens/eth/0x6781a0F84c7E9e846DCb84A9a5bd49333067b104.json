@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmTTcFbb52PnS8Jo4mYExwdm86H3dCqigdBxVxrFE5TbKC",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/979793074091159557/mjSryOSJ.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104.png",
+    "ipfs_origin": "QmUH5caNd86SQUR6xp6uPiUbiYZRH5ydSMsjfWdMAV6sGP"
   },
   "support": {
     "email": "hello@zapproject.org",

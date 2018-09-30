@@ -9,14 +9,15 @@
     "src": "https://i.imgur.com/GaPxtv5.png",
     "width": 256,
     "height": 256,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmURQFhVjAVXPbZXvMmkE6NGVCubczj8e4E68CHiePjQLb",
     "sources": {
       "token-list": "https://i.imgur.com/GaPxtv5.png",
       "twitter": "http://pbs.twimg.com/profile_images/999328803447975938/_IRuRFeU.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb787d4eac8899730bb8c57fc3c998c49c5244ec0.png"
     },
     "sourceBest": "src",
-    "origin": "https://i.imgur.com/GaPxtv5.png"
+    "origin": "https://i.imgur.com/GaPxtv5.png",
+    "ipfs_origin": "QmckdRQFm8ywMYvf7nsUXPcmBQvVNRq1dVuH8vWgTqqUNf"
   },
   "support": {
     "email": "support@coinpulse.io",

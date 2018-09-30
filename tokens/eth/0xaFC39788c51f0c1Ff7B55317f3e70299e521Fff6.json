@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xafc39788c51f0c1ff7b55317f3e70299e521fff6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmWBpfmr9dxwYGYt7U7KBwMPt8dgcBcReY8P6jekRj7a3C",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/966336675793330176/6cjz73UT.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xafc39788c51f0c1ff7b55317f3e70299e521fff6.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/966336675793330176/6cjz73UT.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/966336675793330176/6cjz73UT.jpg",
+    "ipfs_origin": "QmRppV1f3vgfYW5F6hpqJDuTPY19MHSZDM6gYJV9mmWvPk"
   },
   "support": {
     "email": "team@ebitcoincash.io",

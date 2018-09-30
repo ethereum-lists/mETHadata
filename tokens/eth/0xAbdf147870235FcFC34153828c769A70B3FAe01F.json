@@ -9,13 +9,14 @@
     "src": "https://etherscan.io/token/images/tether-euro_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZi83TzTnD88HK2MnbKZcxJ15zv914r8EjmPkNQ8SQVgL",
     "sources": {
       "token-list": "https://etherscan.io/token/images/tether-euro_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/590917624294289408/676F_xrf_normal.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/590917624294289408/676F_xrf_normal.png"
+    "origin": "http://pbs.twimg.com/profile_images/590917624294289408/676F_xrf_normal.png",
+    "ipfs_origin": "QmZqGVhcKmrwyFqqKCZ1K7CpK3hFdsVCybFFU6LdGdzE69"
   },
   "support": {
     "email": "billy@tether.to",

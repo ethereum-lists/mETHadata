@@ -9,14 +9,15 @@
     "src": "https://etherscan.io/token/images/fucktoken_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": "",
+    "ipfs_hash": "Qmd8ia4Ea3y2CTDPV9mwPLUgWV246nXN4id2JPuQDbRo3Q",
     "sources": {
       "token-list": "https://etherscan.io/token/images/fucktoken_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/880209213661642752/btRc1qU9.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65be44c747988fbf606207698c944df4442efe19.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65be44c747988fbf606207698c944df4442efe19.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65be44c747988fbf606207698c944df4442efe19.png",
+    "ipfs_origin": "QmVvmWkf6cSaWFTRz2xKvU48xF44Yon4zEYqVm88DZ6GnG"
   },
   "support": {
     "email": "contact@fucktoken.com",

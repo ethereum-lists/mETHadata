@@ -9,13 +9,14 @@
     "src": "http://price-s.info/wp-content/uploads/2018/01/p.png",
     "width": 32,
     "height": 32,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmYJbTUP7xbiMCSWoyLPL7Yx9ejaJX2x4nz9QwfG3C2ZKR",
     "sources": {
       "token-list": "http://price-s.info/wp-content/uploads/2018/01/p.png",
       "twitter": "http://pbs.twimg.com/profile_images/947215734400102400/IQnxZneC.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/947215734400102400/IQnxZneC.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/947215734400102400/IQnxZneC.jpg",
+    "ipfs_origin": "Qmbkiduh9Lk3WMnq1MHNjFnmKoYXtid1mBLtDKDABLJrdE"
   },
   "support": {
     "email": "puc@price-s.info",

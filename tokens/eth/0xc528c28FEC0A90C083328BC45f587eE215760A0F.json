@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc528c28fec0a90c083328bc45f587ee215760a0f.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmSLpnQ28dztZw8APNWGtKLsbEaZzbmYaCCMjj4vHZVBkc",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/1005774430285586432/4JySWTrw.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc528c28fec0a90c083328bc45f587ee215760a0f.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc528c28fec0a90c083328bc45f587ee215760a0f.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc528c28fec0a90c083328bc45f587ee215760a0f.png",
+    "ipfs_origin": "Qmf7y2KFTuu14MW93KGdamkadS9Y16u6YFpYiWm8CCPUD9"
   },
   "support": {
     "email": "info@endor.com",

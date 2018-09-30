@@ -9,12 +9,13 @@
     "src": "https://rocketico.io/app/media/token_icon.png",
     "width": 34,
     "height": 34,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmTXdtBh8uJ846sNEMaDPBv3zEXc219CqReratCN87xR5r",
     "sources": {
       "token-list": "https://rocketico.io/app/media/token_icon.png"
     },
     "sourceBest": "src",
-    "origin": "https://rocketico.io/app/media/token_icon.png"
+    "origin": "https://rocketico.io/app/media/token_icon.png",
+    "ipfs_origin": "QmS6LoQ8eiPqkuAYasfd16irV5gVTvQy939XNaqTosanDt"
   },
   "support": {
     "email": "support@rocketico.io",

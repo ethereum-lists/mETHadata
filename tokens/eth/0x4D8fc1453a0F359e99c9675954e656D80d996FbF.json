@@ -9,14 +9,15 @@
     "src": "https://etherscan.io/token/images/beetoken_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmYLtQgQvG2Hzf1iB4dbQdHeeJ3Aw7csqtWcgU6PPgCbZb",
     "sources": {
       "token-list": "https://etherscan.io/token/images/beetoken_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/986370418524094464/x5d4TZUi.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4d8fc1453a0f359e99c9675954e656d80d996fbf.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4d8fc1453a0f359e99c9675954e656d80d996fbf.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4d8fc1453a0f359e99c9675954e656d80d996fbf.png",
+    "ipfs_origin": "QmVXYZoavUzdoHU8QEnA7n7wxfQH4RFV7KXyz1BLXH1dfR"
   },
   "support": {
     "email": "",

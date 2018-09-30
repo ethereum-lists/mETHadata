@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmV6EfU1aiNDoP9QQEL2uU265uKQbP46kAcdm3Vh5jMKAb",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/ngc.svg",
       "twitter": "http://pbs.twimg.com/profile_images/968572274398978048/gNY9AKhg.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131.png"
     },
     "sourceBest": "trivial",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/ngc.svg"
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/ngc.svg",
+    "ipfs_origin": "QmWiyYRiTJiFZAU8HRtRr8zKxS51VJZjNQ1X2dccUsiBHH"
   },
   "support": {
     "email": "support@nagaico.com",

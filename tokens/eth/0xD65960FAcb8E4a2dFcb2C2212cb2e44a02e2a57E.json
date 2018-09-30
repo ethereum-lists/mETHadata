@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmQQ1qQ9XsMpWLiEtVwLyJR13aWadbixYar5nMhyfaJBUY",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/884716783902625792/UvPyGqux.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e.png",
+    "ipfs_origin": "QmNNZjQzhds91wrkBgpUoDxvuvZdhLfRQMRq1tTdiWpzoj"
   },
   "support": {
     "email": "support@soarlabs.org",

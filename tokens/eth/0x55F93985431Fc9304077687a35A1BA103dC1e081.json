@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55f93985431fc9304077687a35a1ba103dc1e081.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmckPeR3oD3SDmLHo1nn9PZwHZGbBkAX645oGaAyu3zUTm",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55f93985431fc9304077687a35a1ba103dc1e081.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55f93985431fc9304077687a35a1ba103dc1e081.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55f93985431fc9304077687a35a1ba103dc1e081.png",
+    "ipfs_origin": "Qmc5NZiy4DCgKpPnfagU5NMhb1p8RDiybvxGx2EFMsn393"
   },
   "support": {
     "email": "tomcat@smartmesh.io",

@@ -9,14 +9,15 @@
     "src": "https://tokensale.gameflip.com/img/ico/flip_logo_64x64.png",
     "width": 64,
     "height": 64,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmQVXM3FUshxWLzhXLuTBFZhjzJ8FMPsNutd9AqWRLrmTu",
     "sources": {
       "token-list": "https://tokensale.gameflip.com/img/ico/flip_logo_64x64.png",
       "twitter": "http://pbs.twimg.com/profile_images/918251861865504768/FuP0AB6l.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3.png",
+    "ipfs_origin": "QmX6uQC9nxwheg2hhvQdKC2v9Msjd8p5qnMiECxyF3gwCm"
   },
   "support": {
     "email": "support@gameflip.com",

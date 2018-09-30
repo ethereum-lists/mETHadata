@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x419d0d8bdd9af5e606ae2232ed285aff190e711b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmNaPqB1Mth6D112yHjoU1mfPLjNnjVVofCbyrYE1mheFo",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/fun.svg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x419d0d8bdd9af5e606ae2232ed285aff190e711b.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x419d0d8bdd9af5e606ae2232ed285aff190e711b.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x419d0d8bdd9af5e606ae2232ed285aff190e711b.png",
+    "ipfs_origin": "QmfUsxvETUs3Hokc2AUqm6rXSrMeem9Gqu5uB8Fctw1AZp"
   },
   "support": {
     "email": "",

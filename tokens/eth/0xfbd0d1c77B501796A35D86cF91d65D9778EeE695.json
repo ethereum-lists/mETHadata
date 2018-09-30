@@ -9,13 +9,14 @@
     "src": "https://www.rainbowcurrency.com/new/assets/img/logo_full2.jpg",
     "width": "748",
     "height": "748",
-    "ipfs_hash": "",
+    "ipfs_hash": "Qmav33NpNWnhbRp6PoUFifxtnToF1va8Mr7SCXZikJEwRf",
     "sources": {
       "token-list": "https://www.rainbowcurrency.com/new/assets/img/logo_full2.jpg",
       "twitter": "http://pbs.twimg.com/profile_images/970636346581594112/JWD_lfEl.jpg"
     },
     "sourceBest": "src",
-    "origin": "https://www.rainbowcurrency.com/new/assets/img/logo_full2.jpg"
+    "origin": "https://www.rainbowcurrency.com/new/assets/img/logo_full2.jpg",
+    "ipfs_origin": "QmesDpzWh8BrcPvi39setfNsBnSbGQv5VVeD814MhZfGTL"
   },
   "support": {
     "email": "support@rainbowcurrency.com",

@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x701c244b988a513c945973defa05de933b23fe1d.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmUQJU8kuCcBMa7VhGgUPBapMKVF9HxPpV3oFGLHmiR3ym",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/oax.svg",
       "twitter": "http://pbs.twimg.com/profile_images/978878661104414724/E9Rz5P3o.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x701c244b988a513c945973defa05de933b23fe1d.png"
     },
     "sourceBest": "trivial",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/oax.svg"
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/oax.svg",
+    "ipfs_origin": "QmTFirDreEg4m8cfo1PkXnCC38A2FnLbnJ6ZZ4j97RdmEk"
   },
   "support": {
     "email": "projectstallman@openanx.org",

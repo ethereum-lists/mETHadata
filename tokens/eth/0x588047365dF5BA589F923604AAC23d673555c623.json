@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x588047365df5ba589f923604aac23d673555c623.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmTEJ4S2QRhUB78nrhXSyjY2WWXRrMi9aUS9gQ3efPNo9X",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/910495029357109249/GVnBknSz.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x588047365df5ba589f923604aac23d673555c623.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x588047365df5ba589f923604aac23d673555c623.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x588047365df5ba589f923604aac23d673555c623.png",
+    "ipfs_origin": "QmasGZWQS95k9B6P3tP6fhvn5cXsoDa5U7X6eaKX7SbyF9"
   },
   "support": {
     "email": "support@naviaddress.com",

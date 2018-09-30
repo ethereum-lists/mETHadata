@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmRcGMbCYgyQqZ9EfqZy89hNve2nbXSmbVFyk2w1qDxMQC",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed.png",
+    "ipfs_origin": "QmSvXjFapkN4opUXBd3YZ6cRejdU4QVyPKLpSsw8jm7HEG"
   },
   "support": {
     "email": "info@dcorp.it",

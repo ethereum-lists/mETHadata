@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVVwNfT1ZKRv54SEUnteC9F9kpAWxmPMxMRpTKTkyr5ry",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02.png"
     },
     "sourceBest": "src",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02.png",
+    "ipfs_origin": "QmVzBWTwPwGsxBtFZYxj2Qu6u5gqAfxEjRTfTjRKKYZ9pu"
   },
   "support": {
     "email": "support@polybius.io",

@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf028adee51533b1b47beaa890feb54a457f51e89.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmRGo8ZScK3mwRpzvdbQwjoZAiMaMCrh7Mu5ywaERxLah8",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/892647812940410881/_xzEG7NN.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf028adee51533b1b47beaa890feb54a457f51e89.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf028adee51533b1b47beaa890feb54a457f51e89.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf028adee51533b1b47beaa890feb54a457f51e89.png",
+    "ipfs_origin": "QmNT819gS4papRnX1vFaA7th5Mvtmx1Lx6fYmNVJMPM6SP"
   },
   "support": {
     "email": "support@bmchain.io",

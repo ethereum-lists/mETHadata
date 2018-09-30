@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x151202c9c18e495656f372281f493eb7698961d5.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "Qmd2huZEWP4468R4tmCnve6R9okiqRhGJxf6491FqnZe85",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/907190428188987393/8vWd-XJm.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x151202c9c18e495656f372281f493eb7698961d5.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x151202c9c18e495656f372281f493eb7698961d5.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x151202c9c18e495656f372281f493eb7698961d5.png",
+    "ipfs_origin": "QmeYmwzJgTVxWRqRWh2Vf6h6EnJH6r3Rz9L5wkxg92cgjT"
   },
   "support": {
     "email": "support@debitum.network",

@@ -9,14 +9,15 @@
     "src": "https://amo.foundation/wordpress/wp-content/uploads/2018/05/symbol.png",
     "width": "200",
     "height": "200",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmbY9Qg94CJnU8qNBJjnDJmhF9W2o964nxwA9s73hhoSen",
     "sources": {
       "token-list": "https://amo.foundation/wordpress/wp-content/uploads/2018/05/symbol.png",
       "twitter": "http://pbs.twimg.com/profile_images/987152513383067649/JTMaM3F1.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169.png",
+    "ipfs_origin": "QmUCFRL4th18vbytgQy4qYpCK3Nw5eihP2cVUjQX959ALb"
   },
   "support": {
     "email": "support@amo.foundation",

@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd248b0d48e44aaf9c49aea0312be7e13a6dc1468.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPg2NaCN5j1Z716LLwGGUD6xpjCNxuAg57VqM8LiZG7a9",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd248b0d48e44aaf9c49aea0312be7e13a6dc1468.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk.jpg",
+    "ipfs_origin": "QmUCjNsKertfKfcLXe9LdLcrfistqmphPJ6eRimHjApApG"
   },
   "support": {
     "email": "",

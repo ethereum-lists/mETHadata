@@ -9,14 +9,15 @@
     "src": "https://etherscan.io/token/images/lif_28.png",
     "width": "28px",
     "height": "28px",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmSdHUkQUbFjyBhS45ZZBJp32WDWm6oKtxd2Jcvg1GyqRo",
     "sources": {
       "token-list": "https://etherscan.io/token/images/lif_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/998149001047228417/FbWbcrCt.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xeb9951021698b42e4399f9cbb6267aa35f82d59d.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/998149001047228417/FbWbcrCt.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/998149001047228417/FbWbcrCt.jpg",
+    "ipfs_origin": "QmfQSeopWwhL78gBdvwX5EjwS1ro5vFNzzUeRypCWJEFPe"
   },
   "support": {
     "email": "support@windingtree.com",

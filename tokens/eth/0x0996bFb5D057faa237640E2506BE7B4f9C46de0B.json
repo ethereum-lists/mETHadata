@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0996bfb5d057faa237640e2506be7b4f9c46de0b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmeyYcAX988PxiMDWKtfheAp8J5yBoW6hvqugLDQ5mP9dw",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/902548711808442369/uTDd98ZN.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0996bfb5d057faa237640e2506be7b4f9c46de0b.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0996bfb5d057faa237640e2506be7b4f9c46de0b.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0996bfb5d057faa237640e2506be7b4f9c46de0b.png",
+    "ipfs_origin": "QmQrac52B72UKRRJiUMB6yXBJCaUJHKq4M7eXFjS6cm45B"
   },
   "support": {
     "email": "info@rendertoken.com",

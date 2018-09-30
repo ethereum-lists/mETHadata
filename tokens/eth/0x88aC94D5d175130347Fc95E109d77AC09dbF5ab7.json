@@ -9,13 +9,14 @@
     "src": "http://hicky.io/assets/img/hicky-icon.svg",
     "width": "28",
     "height": "28",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmcqpzcVSnRrSoiCYXoRUxsChDReaFwCgtSasYZ1hdXmQP",
     "sources": {
       "token-list": "http://hicky.io/assets/img/hicky-icon.svg",
       "twitter": "http://pbs.twimg.com/profile_images/931104712354598912/D41Sy1qr.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/931104712354598912/D41Sy1qr.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/931104712354598912/D41Sy1qr.jpg",
+    "ipfs_origin": "Qmb7v8P1zhnDwpEBqGwpBg2hQfGcor7rWG6ZPSyUuz6onU"
   },
   "support": {
     "email": "support@hicky.io",

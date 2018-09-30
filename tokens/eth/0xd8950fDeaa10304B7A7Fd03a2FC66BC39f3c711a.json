@@ -9,14 +9,15 @@
     "src": "https://ibb.co/hmP1vo",
     "width": "150",
     "height": "150",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPfQwdsiCVzqdWTTMEKBVTPnJafPPT8AoDCMMTBoD7s9F",
     "sources": {
       "token-list": "https://ibb.co/hmP1vo",
       "twitter": "http://pbs.twimg.com/profile_images/997090735689228288/b85hcj_r.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd8950fdeaa10304b7a7fd03a2fc66bc39f3c711a.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd8950fdeaa10304b7a7fd03a2fc66bc39f3c711a.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd8950fdeaa10304b7a7fd03a2fc66bc39f3c711a.png",
+    "ipfs_origin": "Qmc9V6qDbKbDUEzJ72W2YNEd6KdmWTA5fF9CXmCk1YCmSf"
   },
   "support": {
     "email": "contact@wysker.org",

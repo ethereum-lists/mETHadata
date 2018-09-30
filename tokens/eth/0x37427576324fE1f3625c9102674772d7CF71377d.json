@@ -9,13 +9,14 @@
     "src": "https://sgt.selfieyo.com/wp-content/uploads/2018/01/token-new.png",
     "width": "400",
     "height": "400",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVF46p2nod4rBVkuzBjwwAWY2kxGMURVNzRPYqqqyvJQq",
     "sources": {
       "token-list": "https://sgt.selfieyo.com/wp-content/uploads/2018/01/token-new.png",
       "twitter": "http://pbs.twimg.com/profile_images/1020788315665072128/qPkNXuUY.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/1020788315665072128/qPkNXuUY.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/1020788315665072128/qPkNXuUY.jpg",
+    "ipfs_origin": "QmRQ1kikYzCGDzCgBuDnutwPDhcu8P7p7iKncmS9ZopWxv"
   },
   "support": {
     "email": "sgt@selfieyo.com",

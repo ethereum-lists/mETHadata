@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x103c3a209da59d3e7c4a89307e66521e081cfdf0.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmSwULwvoNEcj6yqQW36Y37dPBvB2dVjaGuQuowtmHNriC",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/gvt.svg",
       "twitter": "http://pbs.twimg.com/profile_images/892485117846880256/pdr-CtPW.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x103c3a209da59d3e7c4a89307e66521e081cfdf0.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x103c3a209da59d3e7c4a89307e66521e081cfdf0.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x103c3a209da59d3e7c4a89307e66521e081cfdf0.png",
+    "ipfs_origin": "QmRbzkcZLEN5Zg1WiCrcjkRzwLLQ7B5bhu6iiAwG5FDzTv"
   },
   "support": {
     "email": "support@genesis.vision",

@@ -9,14 +9,15 @@
     "src": "http://parrotcoin.club/favicon.ico",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmNUVJL9YVSthaXUycyL2ArvfpcsinLbxAzXtnkZ7rJBnM",
     "sources": {
       "token-list": "http://parrotcoin.club/favicon.ico",
       "twitter": "http://pbs.twimg.com/profile_images/999414865654525953/fYDpIQwf.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a8e98e256f32259b5e5cb55dd63c8e891950666.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/999414865654525953/fYDpIQwf.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/999414865654525953/fYDpIQwf.jpg",
+    "ipfs_origin": "Qmbux2sT8sYKdWn4FmVbGjhmRdEXj5msd5vEcjwKW7bZCT"
   },
   "support": {
     "email": "info@parrotcoin.club",

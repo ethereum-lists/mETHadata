@@ -9,14 +9,15 @@
     "src": "https://etherscan.io/token/images/binance_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZc2gFnZtYUHUjAoJvpYGjNkj5Dw8EbJJFZuweZkuh1X5",
     "sources": {
       "token-list": "https://etherscan.io/token/images/binance_28.png",
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/bnb.svg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png",
+    "ipfs_origin": "QmPG1as5pgBzfgZgp99Vs3HFzpfcSXZL7GA3hsBvjLGrbe"
   },
   "support": {
     "email": "support@binance.zendesk.com",

@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3818504c1b32bf1557b16c238b2e01fd3149c17.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmViAjtkwKsUeHps1f4SgT3RGn9jWVzF7Au9Lpnc2QHTKY",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/plr.svg",
       "twitter": "http://pbs.twimg.com/profile_images/940934996143038464/JgDrxaF3.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3818504c1b32bf1557b16c238b2e01fd3149c17.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3818504c1b32bf1557b16c238b2e01fd3149c17.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3818504c1b32bf1557b16c238b2e01fd3149c17.png",
+    "ipfs_origin": "QmRjFcvZ1bsmD5Gh42Uwjp7Prm2fg5Nuq7pxL5KSSaj2oG"
   },
   "support": {
     "email": "info@pillarproject.io",

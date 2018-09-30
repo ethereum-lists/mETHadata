@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/bitdegree/banners/master/logos/2515x3285_letter_black.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVo54sTtvk8jNeb3x32RyVMaVUTJsSbz8Csqa4dRk7bhs",
     "sources": {
       "token-list": "https://raw.githubusercontent.com/bitdegree/banners/master/logos/2515x3285_letter_black.png",
       "twitter": "http://pbs.twimg.com/profile_images/1017382172821544960/K-DsAYEV.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1961b3331969ed52770751fc718ef530838b6dee.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1961b3331969ed52770751fc718ef530838b6dee.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1961b3331969ed52770751fc718ef530838b6dee.png",
+    "ipfs_origin": "QmUpYQ8UkyEtzeXH7VM4qAYxoBRCujUArtcaffN3aeYqwf"
   },
   "support": {
     "email": "hello@bitdegree.org",

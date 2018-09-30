@@ -9,13 +9,14 @@
     "src": "https://cdn.copytrack.io/media/cpy.png?auto=compress&w=200",
     "width": 200,
     "height": 200,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmQV7dMXhaidK7Gi8w9Q4hHspczBPcagXYbhbY5WfffC6c",
     "sources": {
       "token-list": "https://cdn.copytrack.io/media/cpy.png?auto=compress&w=200",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf44745fbd41f6a1ba151df190db0564c5fcc4410.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf44745fbd41f6a1ba151df190db0564c5fcc4410.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf44745fbd41f6a1ba151df190db0564c5fcc4410.png",
+    "ipfs_origin": "QmTNJ7bwyEh1MBwZd5w256f9HRF4GkNjA1pe39gGWobrsV"
   },
   "support": {
     "email": "support@copytrack.io",

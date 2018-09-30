@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa7f976c360ebbed4465c2855684d1aae5271efa9.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVrmT2SdLWNx8LWjXAQF5bLLMgcdJ1WLoPo6YmCv1JUvQ",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/920254820589735936/0QhZNMch.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa7f976c360ebbed4465c2855684d1aae5271efa9.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/920254820589735936/0QhZNMch.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/920254820589735936/0QhZNMch.jpg",
+    "ipfs_origin": "QmQST7rqxGK6T7njSXwCVZy9HXuJG69gTiAcNEhPDrXqwC"
   },
   "support": {
     "email": "info@trueflip.io",

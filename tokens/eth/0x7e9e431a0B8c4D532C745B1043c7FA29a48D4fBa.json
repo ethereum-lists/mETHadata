@@ -9,14 +9,15 @@
     "src": "https://eosdac.io/wp-content/uploads/2018/03/eosdaclogo1-200-jpeg.jpg",
     "width": "200",
     "height": "200",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmYbdpzTAsuVgYuvKeXtWFSEQw38JH3j1L9TxMVgsvh8WN",
     "sources": {
       "token-list": "https://eosdac.io/wp-content/uploads/2018/03/eosdaclogo1-200-jpeg.jpg",
       "twitter": "http://pbs.twimg.com/profile_images/967051780248006657/FyCkh_VI.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba.png",
+    "ipfs_origin": "QmdzUidmWRqTjTA1Khc295Xy1QygvpABBWk7GjQi91HWaq"
   },
   "support": {
     "email": "hello@eosdac.io",

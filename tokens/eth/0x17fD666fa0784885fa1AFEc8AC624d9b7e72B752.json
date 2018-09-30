@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17fd666fa0784885fa1afec8ac624d9b7e72b752.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmWX8qxrVgm2qH8meYPYB3hhg8Vm13XoaSyHkDziaGoVm3",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/894587678640881665/ReGyg5QF.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17fd666fa0784885fa1afec8ac624d9b7e72b752.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17fd666fa0784885fa1afec8ac624d9b7e72b752.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17fd666fa0784885fa1afec8ac624d9b7e72b752.png",
+    "ipfs_origin": "QmZe3yD1dJHXYx5eUzx9g3bdDqCpAUqW9uASRUC5iHLH7a"
   },
   "support": {
     "email": "flikcoin@gmail.com",

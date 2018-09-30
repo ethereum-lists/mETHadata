@@ -9,13 +9,14 @@
     "src": "https://storage.googleapis.com/static.otcmaker.com/CoinLogo-OMT%202.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmY98tr5WpD65JWGZnqSgULhrmsXSigZD5kKcMBT7cP27F",
     "sources": {
       "token-list": "https://storage.googleapis.com/static.otcmaker.com/CoinLogo-OMT%202.png",
       "twitter": "http://pbs.twimg.com/profile_images/988312167375130624/6N4X9XQG.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/988312167375130624/6N4X9XQG.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/988312167375130624/6N4X9XQG.jpg",
+    "ipfs_origin": "QmdQoT8BbXb1Nb8DHfLp71fDzV1Sa9iQhZrwxgh1PRdseg"
   },
   "support": {
     "email": "contact@otcmaker.com",

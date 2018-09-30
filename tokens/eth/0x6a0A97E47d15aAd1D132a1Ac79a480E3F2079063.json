@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6a0a97e47d15aad1d132a1ac79a480e3f2079063.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmWrwknq6TBsQYZZ9Wh5n8FuoGsaHbDp7n35yD3j2hZEd3",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6a0a97e47d15aad1d132a1ac79a480e3f2079063.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6a0a97e47d15aad1d132a1ac79a480e3f2079063.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6a0a97e47d15aad1d132a1ac79a480e3f2079063.png",
+    "ipfs_origin": "QmWTofK3gp5gsx4i8uFsgXECJAMgt97hw7yiitETKKQEdk"
   },
   "support": {
     "email": "info@wepower.network",

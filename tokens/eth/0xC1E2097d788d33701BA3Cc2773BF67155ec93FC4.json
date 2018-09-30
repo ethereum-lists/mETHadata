@@ -9,13 +9,14 @@
     "src": "https://www.iadowrcoin.com/img/iadowrcoin.png",
     "width": "490",
     "height": "478",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmRMJUcTCdM3epMSu6uekhco7ZKPFAzuPFhpi28CjUUMpW",
     "sources": {
       "token-list": "https://www.iadowrcoin.com/img/iadowrcoin.png",
       "twitter": "http://pbs.twimg.com/profile_images/984099263469645824/C-RfMuwC.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/984099263469645824/C-RfMuwC.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/984099263469645824/C-RfMuwC.jpg",
+    "ipfs_origin": "QmZ8DB4oZEDcGEacxePEzuKBwtYQMVHRjgGSNBKRiqAk4p"
   },
   "support": {
     "email": "admin@iadowrcoin.com",

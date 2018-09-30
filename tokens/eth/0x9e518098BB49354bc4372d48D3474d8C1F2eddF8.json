@@ -9,12 +9,13 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVMAbRKrcfRcv8hE7HG3qRw1RPZnLpCiMY2F8HEn98nbN",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/poly.svg"
     },
     "sourceBest": "trivial",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/poly.svg"
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/poly.svg",
+    "ipfs_origin": "QmSfyToJhhr1qbBkzrBVwpkP2zfTQ98G5LSzsYXsaTDwHb"
   },
   "support": {
     "email": "",

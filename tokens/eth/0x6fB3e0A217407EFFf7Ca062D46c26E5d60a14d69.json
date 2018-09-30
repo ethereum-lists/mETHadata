@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPpa25xq1r2iVM3PCVE46AbN2vinXDy1PBqzTm4mSzDuN",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/958835708185100288/Njsdvvpv.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/958835708185100288/Njsdvvpv.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/958835708185100288/Njsdvvpv.jpg",
+    "ipfs_origin": "QmRHTJ9exsKxA8tBx1TmdrGBrJsKAyg8HrgcjxQsew8VcX"
   },
   "support": {
     "email": "hello@iotex.io",

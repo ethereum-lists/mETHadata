@@ -9,14 +9,15 @@
     "src": "https://www.beyond-the-void.net/nxc.png",
     "width": 300,
     "height": 300,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmUncA88sqaEDyh8gkDNzBgFVbyoyCvYAYR2NrBntoMRfM",
     "sources": {
       "token-list": "https://www.beyond-the-void.net/nxc.png",
       "twitter": "http://pbs.twimg.com/profile_images/897817078543126529/Gt66ANuV.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x45e42d659d9f9466cd5df622506033145a9b89bc.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x45e42d659d9f9466cd5df622506033145a9b89bc.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x45e42d659d9f9466cd5df622506033145a9b89bc.png",
+    "ipfs_origin": "QmQEF84P4KMeK3MmHFcUV4fTVQkacYWibJfPLwQxRzk7kY"
   },
   "support": {
     "email": "contact@beyond-the-void.net",

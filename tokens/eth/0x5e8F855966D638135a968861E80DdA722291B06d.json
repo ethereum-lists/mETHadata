@@ -9,14 +9,15 @@
     "src": "https://coinve.st/assets/images/Coinvest_Profile.png",
     "width": "250",
     "height": "250",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmP9cKyRB9KAFSyzFume3XvQMdQEMdsg9WRBsD9ratuBkj",
     "sources": {
       "token-list": "https://coinve.st/assets/images/Coinvest_Profile.png",
       "twitter": "http://pbs.twimg.com/profile_images/931641537267724288/-0eoIbc_.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e8f855966d638135a968861e80dda722291b06d.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/931641537267724288/-0eoIbc_.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/931641537267724288/-0eoIbc_.jpg",
+    "ipfs_origin": "QmSavAuJsGWv54UsDwSPN6pjHvctUMo56ZMHJYq3RtmKFv"
   },
   "support": {
     "email": "support@coinve.st",

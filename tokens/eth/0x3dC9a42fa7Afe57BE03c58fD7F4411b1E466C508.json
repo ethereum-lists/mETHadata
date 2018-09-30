@@ -9,13 +9,14 @@
     "src": "https://github.com/CryptoLiveLeak/CLL-Token/blob/master/28%20x%2028%20CLL%20png.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmTEj8EGpKJChs5C4Z5tVezuBXjm8H27T2uWPyB4Act2tw",
     "sources": {
       "token-list": "https://github.com/CryptoLiveLeak/CLL-Token/blob/master/28%20x%2028%20CLL%20png.png",
       "twitter": "http://pbs.twimg.com/profile_images/913812150858272774/QxzYPhQ3.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/913812150858272774/QxzYPhQ3.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/913812150858272774/QxzYPhQ3.jpg",
+    "ipfs_origin": "QmP6vY4DFjrJpQiAx5WG7T6FKa6bE8uif3Q6wDYZiNcJzm"
   },
   "support": {
     "email": "contactus@cryptoliveleak.com",

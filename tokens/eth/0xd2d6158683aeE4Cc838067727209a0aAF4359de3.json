@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd2d6158683aee4cc838067727209a0aaf4359de3.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmQxLjrnzrhrDvUfoRAkF58tbVeJuCZ6Aywsc9zhCvXyWM",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/bnty.svg",
       "twitter": "http://pbs.twimg.com/profile_images/939186167232077824/V2oi8IkC.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd2d6158683aee4cc838067727209a0aaf4359de3.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd2d6158683aee4cc838067727209a0aaf4359de3.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd2d6158683aee4cc838067727209a0aaf4359de3.png",
+    "ipfs_origin": "QmXX9ZE4TjtQquAj97Q1g6mxZWUFXod72LkUuYEuQ8jrqo"
   },
   "support": {
     "email": "contact@bounty0x.io",

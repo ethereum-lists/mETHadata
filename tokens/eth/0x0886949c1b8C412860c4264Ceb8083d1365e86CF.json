@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0886949c1b8c412860c4264ceb8083d1365e86cf.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmbrqZk9fMkVsYgi1pAKn2U5VrJiEi5e7d5o6iqzRykbih",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0886949c1b8c412860c4264ceb8083d1365e86cf.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0886949c1b8c412860c4264ceb8083d1365e86cf.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0886949c1b8c412860c4264ceb8083d1365e86cf.png",
+    "ipfs_origin": "QmTBcyDVjYcNJKg8yavw8mfspyQFujHFodjjpPKnBZpj4V"
   },
   "support": {
     "email": "btcetoken@gmail.com",

@@ -9,12 +9,13 @@
     "src": "https://image.ibb.co/eYVsoH/monaco_estate_logo_28x28.png",
     "width": "28",
     "height": "28",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmPHMpn97uc2RZmpRVXag1Do2QHVG6MFddGxyvEmwQ2QUf",
     "sources": {
       "token-list": "https://image.ibb.co/eYVsoH/monaco_estate_logo_28x28.png"
     },
     "sourceBest": "src",
-    "origin": "https://image.ibb.co/eYVsoH/monaco_estate_logo_28x28.png"
+    "origin": "https://image.ibb.co/eYVsoH/monaco_estate_logo_28x28.png",
+    "ipfs_origin": "QmbgyHHi7XRzMg9TPkd6DW2FSir4htNGPq6ChtBN1gJNBx"
   },
   "support": {
     "email": "contact@monacoestate.io",

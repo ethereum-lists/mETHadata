@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdf6ef343350780bf8c3410bf062e0c015b1dd671.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZfGyLxSVCuMfVPgeQ1qxDReJyNk9zg9bcpfjiPh3NCxd",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/953971843253391360/34iqH5Ky.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdf6ef343350780bf8c3410bf062e0c015b1dd671.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/953971843253391360/34iqH5Ky.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/953971843253391360/34iqH5Ky.jpg",
+    "ipfs_origin": "QmbxkU7yiDtBeb2tp1VdQ9w1kMCq6tYeqxxhHPC4t9bWcY"
   },
   "support": {
     "email": "account@blackmooncrypto.com",

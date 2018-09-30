@@ -9,14 +9,15 @@
     "src": "https://imgur.com/hm9naIz",
     "width": "385",
     "height": "385",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmbxzxQThxEYpRqgEsSFQb1RzSahrj2GpqThP2GwwigpzR",
     "sources": {
       "token-list": "https://imgur.com/hm9naIz",
       "twitter": "http://pbs.twimg.com/profile_images/950904403502010374/l8t2S1iA.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd94f2778e2b3913c53637ae60647598be588c570.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/950904403502010374/l8t2S1iA.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/950904403502010374/l8t2S1iA.jpg",
+    "ipfs_origin": "QmVsY5p4ZL97FEv5RRLnDy3F1LnWWprYApdy4ZyBReMGbp"
   },
   "support": {
     "email": "support@gamingforgood.net",

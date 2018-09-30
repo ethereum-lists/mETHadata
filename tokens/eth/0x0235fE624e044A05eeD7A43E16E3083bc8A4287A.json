@@ -9,14 +9,15 @@
     "src": "https://originalcryptocoin.com/wp-content/uploads/2018/01/cc-black-500.png",
     "width": "500",
     "height": "500",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmVwSW4GxNT26eRUuaGFm7pn5RZWwx3DFD9WqzU7Ge8LL5",
     "sources": {
       "token-list": "https://originalcryptocoin.com/wp-content/uploads/2018/01/cc-black-500.png",
       "twitter": "http://pbs.twimg.com/profile_images/957375932116840448/_Q1cK1E3.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0235fe624e044a05eed7a43e16e3083bc8a4287a.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0235fe624e044a05eed7a43e16e3083bc8a4287a.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0235fe624e044a05eed7a43e16e3083bc8a4287a.png",
+    "ipfs_origin": "QmTZs1d3N5oyNbza5uzgfcDu9tGM5eWr46xxDebQdW3vrU"
   },
   "support": {
     "email": "support@originalcryptocoin.com",

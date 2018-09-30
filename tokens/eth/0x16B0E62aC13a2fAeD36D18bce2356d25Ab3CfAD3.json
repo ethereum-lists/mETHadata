@@ -9,13 +9,14 @@
     "src": "https://s9.postimg.org/6r4j2hc3z/btcbtq.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZNWKVZTGVeack1xWh3hJ4RAS2DbwSEpfBmRo3TwsxkNx",
     "sources": {
       "token-list": "https://s9.postimg.org/6r4j2hc3z/btcbtq.png",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x16b0e62ac13a2faed36d18bce2356d25ab3cfad3.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x16b0e62ac13a2faed36d18bce2356d25ab3cfad3.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x16b0e62ac13a2faed36d18bce2356d25ab3cfad3.png",
+    "ipfs_origin": "QmPUzQSLbbABB5uR7H1u3TTk1XAFd9h9YzU7ZuA65968rN"
   },
   "support": {
     "email": "btcbtq@gmail.com",

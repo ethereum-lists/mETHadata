@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmePiXzA74PZLikBKugJxZiUQJzgdg99hiAUsqtp3TPqaz",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b.png",
+    "ipfs_origin": "QmU2YXtCHXEzhYqwD3FS8TFptsttFbjZHwrNXER2RRgf6X"
   },
   "support": {
     "email": "support@commodityadnetwork.com",

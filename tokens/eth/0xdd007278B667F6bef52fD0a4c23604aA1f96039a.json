@@ -9,14 +9,15 @@
     "src": "https://etherscan.io/token/images/riptide_28.png",
     "width": 24,
     "height": 24,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmdKzpcLH8qfboWCdqy8MexvXASrMWuHTNRewy43bH1Cnr",
     "sources": {
       "token-list": "https://etherscan.io/token/images/riptide_28.png",
       "twitter": "http://pbs.twimg.com/profile_images/906670938808238080/vRMKrag0.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd007278b667f6bef52fd0a4c23604aa1f96039a.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd007278b667f6bef52fd0a4c23604aa1f96039a.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd007278b667f6bef52fd0a4c23604aa1f96039a.png",
+    "ipfs_origin": "QmUYLE1BseQtYEeZvYkWZXkdkCpL1vxHuMAoGFnw7paMtJ"
   },
   "support": {
     "email": "support@riptidecoin.com",

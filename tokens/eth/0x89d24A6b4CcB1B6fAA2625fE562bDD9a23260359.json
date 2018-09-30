@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmNxejxVnCnEwHnahNM7nT1cE71RbXi5T3NSoP79wU6noh",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/929117604643454978/ebUqZEdk.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/929117604643454978/ebUqZEdk.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/929117604643454978/ebUqZEdk.jpg",
+    "ipfs_origin": "QmedTEBbLodGod9CQSuCLV3qjNy8hoUCzWGBxagdHEqV4G"
   },
   "support": {
     "email": "support@makerdao.com",

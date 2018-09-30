@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba2184520a1cc49a6159c57e61e1844e085615b6.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmRqbvKEfYjHv9mrgPqfhNw19okVF1hwf4JJpHcHgKKRYP",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba2184520a1cc49a6159c57e61e1844e085615b6.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba2184520a1cc49a6159c57e61e1844e085615b6.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba2184520a1cc49a6159c57e61e1844e085615b6.png",
+    "ipfs_origin": "QmRgbqdM7G2VFYqvoEvk6UqCF3ehzoYxqnZ254YWJeGT16"
   },
   "support": {
     "email": "foundation@hellogold.org",

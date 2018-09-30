@@ -9,12 +9,13 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55648de19836338549130b1af587f16bea46f66b.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmYrL2tPJrxGs4XLECvRvZZe5tgzBThbAam7RcHFLcLMrP",
     "sources": {
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55648de19836338549130b1af587f16bea46f66b.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55648de19836338549130b1af587f16bea46f66b.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55648de19836338549130b1af587f16bea46f66b.png",
+    "ipfs_origin": "QmNaQgQvc947WkfJwX5USk382QwBHkqvtofJC9yCYjGbNK"
   },
   "support": {
     "email": "info@publica.io",

@@ -9,13 +9,14 @@
     "src": "https://workcoin.net/images/workcoin_logo.svg",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmYF1Z5PpPwATvEuP3FqqaWYN36HrpMz1aLfSh3gbYiTLb",
     "sources": {
       "token-list": "https://workcoin.net/images/workcoin_logo.svg",
       "twitter": "http://pbs.twimg.com/profile_images/963130660960460800/6YdYtytZ.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/963130660960460800/6YdYtytZ.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/963130660960460800/6YdYtytZ.jpg",
+    "ipfs_origin": "QmZh9VKE5YK589LWLR5nrT8BZYzTkMd17wa2TurorNXC6V"
   },
   "support": {
     "email": "support@workcoin.net",

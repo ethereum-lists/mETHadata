@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmeR8u4APz8MaEGF5BEoJ5hsvfaupBPPxiJvGDz1nxU5xF",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/aion.svg",
       "twitter": "http://pbs.twimg.com/profile_images/986238877370220545/vSKdndPS.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/986238877370220545/vSKdndPS.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/986238877370220545/vSKdndPS.jpg",
+    "ipfs_origin": "QmcfKrboG8kkpEfAMFn6RZY4Ub7JoJw8BHY25fHSwVaGbW"
   },
   "support": {
     "email": "media@aion.network",

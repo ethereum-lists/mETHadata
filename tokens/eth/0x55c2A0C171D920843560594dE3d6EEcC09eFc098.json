@@ -9,12 +9,13 @@
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmNM9Twz2iT8UFwcQ4nfth9utHz6n9YJcbUUp3jHwvtT1P",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/946791792753741824/EFvJkEzU.jpg"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/946791792753741824/EFvJkEzU.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/946791792753741824/EFvJkEzU.jpg",
+    "ipfs_origin": "QmR8QzU3uaDgWvqGdj9qvb9GhQjLg3zRv5QaqZs6s4UFUM"
   },
   "support": {
     "email": "erc20@prime-ex.com",

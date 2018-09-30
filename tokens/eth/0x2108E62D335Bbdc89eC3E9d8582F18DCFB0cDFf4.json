@@ -9,13 +9,14 @@
     "src": "https://image.ibb.co/mEQjbw/CARCO_crypto_logo.png",
     "width": 291,
     "height": 291,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmYEWZCQNH8LgRwU2hbWsSrcoZCmRJCSCoZRLmqoNJNNnT",
     "sources": {
       "token-list": "https://image.ibb.co/mEQjbw/CARCO_crypto_logo.png",
       "twitter": "http://pbs.twimg.com/profile_images/945286165946621952/ysdC3LjY.jpg"
     },
     "sourceBest": "src",
-    "origin": "https://image.ibb.co/mEQjbw/CARCO_crypto_logo.png"
+    "origin": "https://image.ibb.co/mEQjbw/CARCO_crypto_logo.png",
+    "ipfs_origin": "QmcZtjrYCVUR2nZDsNE5TokXQsfkabtYNVKFdWFqPJcJWs"
   },
   "support": {
     "email": "info@carcohub.com",

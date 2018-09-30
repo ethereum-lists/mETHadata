@@ -9,14 +9,15 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmZ6ho1tAkRBPshhZsi5S8YqTy5UAsoedHt97R6ShqBZRP",
     "sources": {
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/enj.svg",
       "twitter": "http://pbs.twimg.com/profile_images/931594541223809024/A9ERo3xs.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png"
     },
     "sourceBest": "trustwallet",
-    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png"
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png",
+    "ipfs_origin": "QmanAhMjfjbTRKcM5pdMG6BrxMH5pyGgPaPL5NSbgxFDDr"
   },
   "support": {
     "email": "info@enjin.com",

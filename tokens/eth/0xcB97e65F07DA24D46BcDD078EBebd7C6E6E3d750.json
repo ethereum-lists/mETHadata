@@ -9,7 +9,7 @@
     "src": "https://etherscan.io/token/images/bytom_28.png",
     "width": 28,
     "height": 28,
-    "ipfs_hash": "",
+    "ipfs_hash": "QmNq1hApkFH1EcNipUWH3LXm5HTcyCCk6zcyuyFD13ZejW",
     "sources": {
       "token-list": "https://etherscan.io/token/images/bytom_28.png",
       "trivial": "http://trivial.co/static/vendor/icons/svg/color/btm.svg",
@@ -17,7 +17,8 @@
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750.png"
     },
     "sourceBest": "trivial",
-    "origin": "http://trivial.co/static/vendor/icons/svg/color/btm.svg"
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/btm.svg",
+    "ipfs_origin": "QmZor7t1G5psZWzVgm5c4wKUg9Yt5xutQWNSernkrmpnHD"
   },
   "support": {
     "email": "contact@bytom.io",

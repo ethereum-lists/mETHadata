@@ -9,13 +9,14 @@
     "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27695e09149adc738a978e9a678f99e4c39e9eb9.png",
     "width": "",
     "height": "",
-    "ipfs_hash": "",
+    "ipfs_hash": "QmQ5j1FdVLhqvMKDAaDVqn7rBvk8T4DDwJzoHXE6Qu3eCF",
     "sources": {
       "twitter": "http://pbs.twimg.com/profile_images/901899861368467458/VH47S68x.jpg",
       "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27695e09149adc738a978e9a678f99e4c39e9eb9.png"
     },
     "sourceBest": "twitter",
-    "origin": "http://pbs.twimg.com/profile_images/901899861368467458/VH47S68x.jpg"
+    "origin": "http://pbs.twimg.com/profile_images/901899861368467458/VH47S68x.jpg",
+    "ipfs_origin": "QmSQVdjGX1YC328Cn4aFy2drgJ4LvPNp8FjjxwCEpsibbL"
   },
   "support": {
     "email": "support@kickico.com",
