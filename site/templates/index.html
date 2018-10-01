@@ -50,7 +50,7 @@
 
     {% for net in tokens %}
       {% for token in tokens[net] %}
-
+{#
       <tr>
       <td>
         <td valign="top" style="width:80px">
@@ -85,10 +85,9 @@
         {% endif %}
 
       </td>
-    </tr>{#
+    </tr> #}
       <tr>
-        <td>
-
+        <td valign=top>
       <a href="https://github.com/ethereum-lists/mETHadata/edit/master/tokens/{{net}}/{{token.address}}.json">edit</a>
     </td>
     <td style="padding-left:10px; padding-bottom:30px">
@@ -96,12 +95,12 @@
       <a href="http://trivial.co/t/{{token.address}}">{{token.address}}</a><br>
       <br>
       {% if token.website %}
-        Website: <a href="{{token.website}}">{{token.website}}</a><br>
+        Website: <a href="{{token.website}}">{{token.website|truncate(100, True)}}</a><br>
       {% endif %}
 
       {% for site in token.social %}
         {% if token.social[site] %}
-          {{site|title}}: <a href="{{token.social[site]}}">{{token.social[site]}}</a><br>
+          {{site|title}}: <a href="{{token.social[site]}}">{{token.social[site]|truncate(60, True)}}</a><br>
         {% endif %}
       {% endfor %}
     </td>
@@ -109,8 +108,13 @@
        <b>ERC-20 token</b><br>
        decimals: <b>{{token.decimals}}</b><br>
        symbol: <b>{{token.symbol}}</b><br>
+       <br>
+             {% if token.logo.ipfs_hash %}
+      <img src="https://dweb.me/ipfs/{{token.logo.ipfs_hash}}" style="width:64px" /><br>
+      {% endif %}
+
     </td>
-  </tr>#}
+  </tr>
   {% endfor %}
   {%endfor%}
 </table>
