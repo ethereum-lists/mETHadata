@@ -1,0 +1,9 @@
+known_addresses = {
+        "0x4b01721f0244e7c5b5f63c20942850e447f5a5ee": "CoinExchange",
+        "0x9c67e141c0472115aa1b98bd0088418be68fd249": "HitBTC Exchange",
+        "0x8271b2e8cbe29396e9563229030c89679b9470db": "Liqui Exchange",
+        "0x5e575279bf9f4acf0a130c186861454247394c06": "Liqui Exchange",
+        "0x7071f121c038a98f8a7d485648a27fcd48891ba8": "BitPanda Exchange",
+        "0x12459c951127e0c374ff9105dda097662a027093": "0x Exchange",
+        "0x2a0c0dbecc7e4d658f48e01e3fa353f44050c208": "IDEX"
+}
