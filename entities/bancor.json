@@ -29,7 +29,7 @@
 	"eth": [
 		{
 			"name": "Token",
-			"address": "0x1522900b6dafac587d499a862861c0869be6e428",
+			"address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
 			"erc20": {
 				"symbol": "BNT",
 				"decimals": 18,
