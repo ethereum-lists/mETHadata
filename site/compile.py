@@ -2,6 +2,8 @@ from jinja2 import Environment, FileSystemLoader
 import os
 import json
 
+from urllib.parse import urlparse
+
 ENV = Environment(loader=FileSystemLoader('./templates'))
 
 PAGE_LIST = ['index']
@@ -45,10 +47,11 @@ for entity_name in entities:
 
 tokens = {}
 
-def by_site(token):
+def get_host(token):
 #    print(token)
     if 'website' in token:
-        return token['website']
+        return urlparse(token['website']).netloc
+#        return token['website']
     else:
         return ''
 
@@ -67,15 +70,16 @@ for network in TOKEN_LIST:
             token = json.loads(f.read())
             tokens[network].append(token)
 
-        tokens[network].sort(key=by_site)
+        tokens[network].sort(key=get_host)
 
 prev = 'NIL'
 for t in tokens[network]:
-    if 'website' not in t or t['website'] == '':
+    host = get_host(t)
+    if host == '' or host == 'bitcointalk.org':
         continue
-    if prev == t['website']:
+    if prev == host:
         t['merge'] = True
-    prev = t['website']
+    prev = host
 
 
 for item in PAGE_LIST:
