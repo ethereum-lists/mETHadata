@@ -45,5 +45,17 @@
         "name": "aeternity"
       }
     }
+  ],
+  "kov": [
+    {
+      "name": "Aeternity",
+      "address": "0x8667559254241ddeD4d11392f868d72092765367",
+      "url": "https://www.reddit.com/r/Aeternity/comments/6xif4c/ae_distribution_smart_contract_deployed_on/",
+      "erc20": {
+        "symbol": "Aeternity",
+        "decimals": 18,
+        "name": "Aeternity"
+      }
+    }
   ]
 }
