@@ -1,0 +1,42 @@
+{
+  "name": "BiCode",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2296578.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BiCode",
+      "address": "0x56e7f2Cd7d5382506aaB084a67D70E603Cdb23f7",
+      "erc20": {
+        "symbol": "CODE",
+        "decimals": 8,
+        "name": "BiCode"
+      }
+    }
+  ]
+}

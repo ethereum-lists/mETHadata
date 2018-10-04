@@ -1,0 +1,47 @@
+{
+  "name": "BitSerial",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6733d909e10ddedb8d6181b213de32a30ceac7ed.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWLhDztuyMGnHsiKZk25AgfvWoBjw88N3Wfg7qqVXaseN",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6733d909e10ddedb8d6181b213de32a30ceac7ed.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6733d909e10ddedb8d6181b213de32a30ceac7ed.png",
+    "ipfs_origin": "QmQvQjv2ZZifF7RgC4xfouhTZpvHpvYZe6cge9YV9qoTCS"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BitSerialNews",
+    "twitter": "https://twitter.com/BitSerialNews",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BitSerial",
+      "address": "0x6733D909e10DDedB8d6181b213dE32A30cEac7ed",
+      "erc20": {
+        "symbol": "BTE",
+        "decimals": 18,
+        "name": "BitSerial"
+      }
+    }
+  ]
+}

@@ -47,6 +47,17 @@
         "decimals": 18,
         "name": "Persians"
       }
+    },    
+    {
+      "name": "Immortals",
+      "address": "0x22E5F62D0FA19974749faa194e3d3eF6d89c08d7",
+      "url": "https://bitcointalk.org/index.php?topic=2061584",
+      "erc20": {
+        "symbol": "IMT",
+        "decimals": 0,
+        "name": "Immortals"
+      }
     }
+     
   ]
 }

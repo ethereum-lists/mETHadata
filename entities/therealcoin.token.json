@@ -1,0 +1,46 @@
+{
+  "name": "The Real Coin",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcb3f902bf97626391bf8ba87264bbc3dc13469be.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZ2vMgARna4DSxYa9PqYUmLZKLHPmqki6xRcCUoerHLmS",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcb3f902bf97626391bf8ba87264bbc3dc13469be.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcb3f902bf97626391bf8ba87264bbc3dc13469be.png",
+    "ipfs_origin": "QmeCgbKNJaJFFbUFt8ofWxATW7B6g5ZHE2HBbbQwKiQb2U"
+  },
+  "support": {
+    "email": "therealcoin2017@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "The Real Coin",
+      "address": "0xcB3F902bf97626391bF8bA87264bbC3DC13469be",
+      "erc20": {
+        "symbol": "TRC",
+        "decimals": 18,
+        "name": "The Real Coin"
+      }
+    }
+  ]
+}

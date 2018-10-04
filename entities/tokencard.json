@@ -1,0 +1,49 @@
+{
+  "name": "TokenCard",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaaaf91d9b90df800df4f55c205fd6989c977e73a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTByCqCLBf8ifEp5mTFNHgKKhhSQMtntWPFJicByvpSEv",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/tkn.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1013671737538605061/M7Zc_HOc.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaaaf91d9b90df800df4f55c205fd6989c977e73a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaaaf91d9b90df800df4f55c205fd6989c977e73a.png",
+    "ipfs_origin": "QmU77wdGJ5rpzQhF7uFoGnH4rqXBCW2nJv7xxLNspLFA5T"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@Tokencard",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1887092.0",
+    "github": "https://github.com/tokencard",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TokenCard/",
+    "slack": "https://tokencard-team.herokuapp.com",
+    "telegram": "https://t.me/TokenCard",
+    "twitter": "https://twitter.com/tokencard_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TokenCard",
+      "address": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a",
+      "erc20": {
+        "symbol": "TKN",
+        "decimals": 8,
+        "name": "TokenCard"
+      }
+    }
+  ]
+}

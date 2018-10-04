@@ -1,0 +1,42 @@
+{
+  "name": "Woonk",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Woonk",
+      "address": "0xd73A66B8FB26Be8B0AcD7c52Bd325054Ac7d468b",
+      "erc20": {
+        "symbol": "WNK",
+        "decimals": 18,
+        "name": "Woonk"
+      }
+    }
+  ]
+}

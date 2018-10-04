@@ -1,0 +1,42 @@
+{
+  "name": "Digital Safe Coin",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "teammember@digitalsafecoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/xxxxyy1",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Digital Safe Coin",
+      "address": "0x1e09BD8Cadb441632e441Db3e1D79909EE0A2256",
+      "erc20": {
+        "symbol": "DSC",
+        "decimals": 1,
+        "name": "Digital Safe Coin"
+      }
+    }
+  ]
+}

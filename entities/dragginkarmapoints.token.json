@@ -1,0 +1,43 @@
+{
+  "name": "Draggin Karma Points",
+  "ens_address": "dkptoken.eth",
+  "website": "",
+  "comment": "Game built on Ethereum and Unity, currently being developed in stealth mode",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Draggin Karma Points",
+      "address": "0xBA187B09fFA8DDdc80d2571eD3cbC4Be0Af69E0c",
+      "erc20": {
+        "symbol": "DKP",
+        "decimals": 18,
+        "name": "Draggin Karma Points"
+      }
+    }
+  ]
+}

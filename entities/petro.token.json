@@ -1,0 +1,42 @@
+{
+  "name": "PETRO",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/getpetro",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "PETRO",
+      "address": "0xeC18f898B4076A3E18f1089D33376CC380BDe61D",
+      "erc20": {
+        "symbol": "PETRO",
+        "decimals": 18,
+        "name": "PETRO"
+      }
+    }
+  ]
+}

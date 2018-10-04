@@ -1,0 +1,47 @@
+{
+  "name": "DualChain",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://image.ibb.co/iniG4c/282541262323.png",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": "Qma6NjZiANsyLdWSbJrpfNM2J7sbbCWTWJfznJJMNfHD1X",
+    "sources": {
+      "token-list": "https://image.ibb.co/iniG4c/282541262323.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://image.ibb.co/iniG4c/282541262323.png",
+    "ipfs_origin": "QmdryNboB4sgHiHah2XyePkH6aq2GAv5vhguhf85LZ9Cfv"
+  },
+  "support": {
+    "email": "admin@comprabitcoin.online",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CompraBitcoin-1453383194773687/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DualChain",
+      "address": "0x9fC0583220eB44fAeE9e2dc1E63F39204DDD9090",
+      "erc20": {
+        "symbol": "2DC",
+        "decimals": 18,
+        "name": "DualChain"
+      }
+    }
+  ]
+}

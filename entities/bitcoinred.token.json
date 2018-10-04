@@ -1,0 +1,47 @@
+{
+  "name": "Bitcoin Red",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qme1UyrHLGgvskzLeaj5ZZyxNypS1VCvo7mCa32zBimqio",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11.png",
+    "ipfs_origin": "QmXVpx5Jn2QrpfD2QpX6k9h9WqYs17YEdG1hZTPj6iw9cc"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/BitcoinRed1/",
+    "forum": "https://discordapp.com/invite/asGqdU3",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BTCRED/",
+    "slack": "",
+    "telegram": "https://web.telegram.org/#/im?p=@BitcoinRedOfficial",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bitcoin Red",
+      "address": "0x6Aac8CB9861E42bf8259F5AbDC6aE3Ae89909E11",
+      "erc20": {
+        "symbol": "BTCR",
+        "decimals": 8,
+        "name": "Bitcoin Red"
+      }
+    }
+  ]
+}

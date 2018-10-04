@@ -1,0 +1,47 @@
+{
+  "name": "HODLCoin",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb45d7bc4cebcab98ad09babdf8c818b2292b672c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdxzFmnVPGeF6YFTR1UorD55e3jAq8DgwPS1iYMEzfjFm",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb45d7bc4cebcab98ad09babdf8c818b2292b672c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb45d7bc4cebcab98ad09babdf8c818b2292b672c.png",
+    "ipfs_origin": "QmYS9Qqv78fECJMAT6kBJRfu4MapS3JEyh4dsZvMa9vhCV"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/arachnid/hodlcoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "HODLCoin",
+      "address": "0xb45d7Bc4cEBcAB98aD09BABDF8C818B2292B672c",
+      "erc20": {
+        "symbol": "HODL",
+        "decimals": 18,
+        "name": "HODLCoin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "CTL",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbf4cfd7d1edeeea5f6600827411b41a21eb08abd.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmP1cmiqnB9Rb4Z3A9KvKWUma5CC1Yib9jrkCjvAPss1es",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbf4cfd7d1edeeea5f6600827411b41a21eb08abd.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbf4cfd7d1edeeea5f6600827411b41a21eb08abd.png",
+    "ipfs_origin": "QmZ14LV1n1R3KSaDHvqwur5eepYzjzoY5nrdqpdhJKJPEF"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CTL",
+      "address": "0xBf4cFD7d1eDeeEA5f6600827411B41A21eB08abd",
+      "erc20": {
+        "symbol": "CTL",
+        "decimals": 2,
+        "name": "CTL"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "LoveToken",
+  "social": {
+    "twitter": "https://twitter.com/GNSPS",
+    "github": "https://github.com/GNSPS",
+    "reddit": "https://www.reddit.com/r/ethdev/comments/91krgg/first_solidity_project_some_basic_questions/e2zuras"
+  },
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/938461349113417728/NVSwGs2u.jpg"
+    }
+  },
+  "eth": [
+    {
+      "name": "LoveToken",
+      "address": "0x5a276Aeb77bCfDAc8Ac6f31BBC7416AE1A85eEF2",
+      "erc20": {
+        "symbol": "LOVE",
+        "decimals": 0,
+        "name": "LoveToken"
+      }
+    }
+  ]
+}

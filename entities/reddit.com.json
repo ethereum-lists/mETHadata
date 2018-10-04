@@ -1,0 +1,42 @@
+{
+  "name": "BeerCoin",
+  "ens_address": "",
+  "website": "https://www.reddit.com/r/ethereum/comments/4v7opj/introducing_beercoin/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ethereum/comments/4v7opj/introducing_beercoin/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BeerCoin",
+      "address": "0x74C1E4b8caE59269ec1D85D3D4F324396048F4ac",
+      "erc20": {
+        "symbol": "BeerCoin",
+        "decimals": 0,
+        "name": "BeerCoin"
+      }
+    }
+  ]
+}

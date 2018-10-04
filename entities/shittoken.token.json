@@ -1,0 +1,42 @@
+{
+  "name": "SHIT token",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2174052",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SHIT token",
+      "address": "0x1Bb9E8eA817d56eccC212CE63f7dA95298F98719",
+      "erc20": {
+        "symbol": "SHIT",
+        "decimals": 2,
+        "name": "SHIT token"
+      }
+    }
+  ]
+}

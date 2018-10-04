@@ -1,0 +1,42 @@
+{
+  "name": "CryptoKEE",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CryptoKEE",
+      "address": "0x72D32ac1c5E66BfC5b08806271f8eEF915545164",
+      "erc20": {
+        "symbol": "KEE",
+        "decimals": 0,
+        "name": "CryptoKEE"
+      }
+    }
+  ]
+}

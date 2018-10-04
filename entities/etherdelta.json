@@ -1,7 +1,7 @@
 {
-  "name": "Forkdelta",
+  "name": "Etherdelta",
   "ens_address": "",
-  "website": "http://forkdelta.com",
+  "website": "http://etherdelta.com",
   "logo": {
     "src": "",
     "width": "",
@@ -14,25 +14,20 @@
   },
   "social": {
     "blog": "",
-    "chat": "",
+    "chat": "https://gitter.im/etherdelta/etherdelta.github.io",
     "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/EtherDelta/",
     "slack": "",
     "telegram": "",
-    "twitter": "",
-    "youtube": ""
+    "twitter": "https://twitter.com/etherdelta",
+    "youtube": "https://www.youtube.com/channel/UCkUTWdqHjFUfC98gFUsNuzg"
   },
   "eth": [
-    {
-      "name": "Donation",
-      "address": "0x3a2aEdc3B54A99e429ae36637681d4560cE5C05b",
-      "url": "https://forkdelta.app/about/"
-    },
     {
       "name": "Exchange",
       "address": "0x8d12a197cb00d4747a1fe03395095ce2a5cc6819"

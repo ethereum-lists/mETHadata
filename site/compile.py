@@ -31,6 +31,8 @@ for filename in os.listdir('../entities'):
 for entity_name in entities:
     fpath = "../entities/{}.json".format(entity_name)
 
+    print(fpath)
+
     with open(fpath) as f:
         entity = json.loads(f.read())
 
@@ -44,6 +46,8 @@ for entity_name in entities:
         with open('entities/{}.html'.format(entity_name), 'w') as out_file:
             out_file.write(html)
 
+
+print("hello")
 
 tokens = {}
 
@@ -69,15 +73,25 @@ for network in TOKEN_LIST:
     for fname in os.listdir(os.path.join(path, network)):
         fpath = os.path.join(path, network, fname)
 
+        print(fpath)
+
         with open(fpath) as f:
             token = json.loads(f.read())
             tokens[network].append(token)
 
         tokens[network].sort(key=get_host)
 
+def nice_name(t):
+    return t['name'].lower().replace(" ", "") + '.token'
+
 prev = 'NIL'
 for t in tokens[network]:
     host = get_host(t)
+
+    t['nice_name'] = nice_name(t)
+
+    print(nice_name(t))
+
     if host == '' or host == 'bitcointalk.org' or host == 'github.com':
         continue
     if prev == host:

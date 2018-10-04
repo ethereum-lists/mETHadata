@@ -1,0 +1,49 @@
+{
+  "name": "MoneyToken",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "http://moneytoken.com",
+  "description": "MoneyToken provides crypto-backed loans, stablecoin MTC and decentralized exchange service",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13119e34e140097a507b07a5564bde1bc375d9e6.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQM9XfSkdsjnEdgK8ibmePKdKRaWyF6VH85XFY1G22a2k",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13119e34e140097a507b07a5564bde1bc375d9e6.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13119e34e140097a507b07a5564bde1bc375d9e6.png",
+    "ipfs_origin": "QmP4RsLDWV1aEmYNoiPL2zmgyZK3ctaHPxV7vnQ5JpvUZL"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.moneytoken.com",
+    "chat": "",
+    "facebook": "https://www.facebook.com/MoneyTokenOfficial/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/moneytoken",
+    "twitter": "https://twitter.com/MoneyToken",
+    "youtube": "https://www.youtube.com/c/MoneyToken"
+  },
+  "eth": [
+    {
+      "name": "MoneyToken",
+      "address": "0x13119E34E140097a507B07a5564bDe1bC375D9e6",
+      "erc20": {
+        "symbol": "IMT",
+        "decimals": 18,
+        "name": "MoneyToken"
+      }
+    }
+  ]
+}

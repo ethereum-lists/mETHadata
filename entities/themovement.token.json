@@ -1,0 +1,47 @@
+{
+  "name": "The Movement",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYWtz5rHWNBsiV1X3vcwX3MMcyy6yuNLxojZ8TuB3HBZM",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/907663278360416266/F46MiIUK.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/907663278360416266/F46MiIUK.jpg",
+    "ipfs_origin": "QmY8V5KHwsni1xEv4hAUayaYmt7Bjo8YCvNXgogXzXryrt"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2068554.0",
+    "github": "https://github.com/MovementDAO",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/MovementDAO/",
+    "slack": "",
+    "telegram": "https://t.me/TheMovementDAO?",
+    "twitter": "https://twitter.com/MovementDAO",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "The Movement",
+      "address": "0x3D46454212c61ECb7b31248047Fa033120B88668",
+      "erc20": {
+        "symbol": "MVT",
+        "decimals": 18,
+        "name": "The Movement"
+      }
+    }
+  ]
+}

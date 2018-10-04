@@ -1,0 +1,47 @@
+{
+  "name": "Carboneum",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSvKm3Gp9QGDquNhAf8N4nU8t9Wnr3NoFaEUPwCAfukHi",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d.png",
+    "ipfs_origin": "QmUdVLoCoxkH3sRoBPg3vLFswf8nBr1Z7L3MuhCtQcJ6gs"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Carboneum",
+      "address": "0xd42debE4eDc92Bd5a3FBb4243e1ecCf6d63A4A5d",
+      "erc20": {
+        "symbol": "C8",
+        "decimals": 18,
+        "name": "Carboneum"
+      }
+    }
+  ]
+}

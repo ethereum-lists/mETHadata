@@ -1,0 +1,47 @@
+{
+  "name": "EDU Token",
+  "ens_address": "",
+  "website": "https://os.university/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a22e5cca00a3d63308fa39f29202eb1b39eef52.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmb6XVhpDm6TepeKf6DzjDui3vk5UXr5Wq4gARtyq9aaNm",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a22e5cca00a3d63308fa39f29202eb1b39eef52.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a22e5cca00a3d63308fa39f29202eb1b39eef52.png",
+    "ipfs_origin": "QmX3G78K4XkSE5f1kHCtNnQNaMHWWh9Nij64SUYqoGJKr8"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EDU Token",
+      "address": "0x2A22e5cCA00a3D63308fa39f29202eB1b39eEf52",
+      "erc20": {
+        "symbol": "EDU",
+        "decimals": 6,
+        "name": "EDU Token"
+      }
+    }
+  ]
+}

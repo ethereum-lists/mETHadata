@@ -1,0 +1,44 @@
+{
+  "name": "JetCoins",
+  "ens_address": "",
+  "website": "http://www.jetcoins.trade",
+  "whitepaper": "",
+  "description": "I wanted to learn more about Ethereum, ERC-20 Tokens, and contracts such as those used by CryptoDerivatives.Market. I decided a good way to learn this would be to create my own token, and so have created JetCoins (JET)",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/jetcoinsico",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "JetCoins",
+      "address": "0x773450335eD4ec3DB45aF74f34F2c85348645D39",
+      "erc20": {
+        "symbol": "JetCoins",
+        "decimals": 18,
+        "name": "JetCoins"
+      }
+    }
+  ]
+}

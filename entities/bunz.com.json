@@ -1,0 +1,49 @@
+{
+  "type": "ERC20",
+  "name": "BTZ by Bunz",
+  "ens_address": "",
+  "website": "http://bunz.com/",
+  "description": "Send and receive BTZ with anyone on Bunz, and redeem them at local businesses!",
+  "logo": {
+    "src": "https://imagecdn.bunz.com/unsafe/filters:quality(70)/https://s3-us-west-2.amazonaws.com/www.bunz.com/logo/logo_black.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUQiRshQJQdVWDsQHL7xv7t5hK2RcQ6YXgYsTha6N8Xfx",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe5f867de1ea81346df5181b8b48dd6b0bb3357b0.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://imagecdn.bunz.com/unsafe/filters:quality(70)/https://s3-us-west-2.amazonaws.com/www.bunz.com/logo/logo_black.png",
+    "ipfs_origin": "QmYJALya8YxAX9VUJLYU44PYQQ6ix1fuAL4tFxbi8Sr9bL"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@bunz",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BTZ by Bunz",
+      "address": "0xE5f867dE1EA81346df5181b8b48DD6B0BB3357B0",
+      "erc20": {
+        "symbol": "BTZ",
+        "decimals": 18,
+        "name": "BTZ by Bunz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Mainstreet",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe23cd160761f63fc3a1cf78aa034b6cdf97d3e0c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVE8GXUzxJbSmJqkwwaQJ3Tzy9fYUbmQ5xQt3jZWBd4K1",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe23cd160761f63fc3a1cf78aa034b6cdf97d3e0c.png"
+    },
+    "ipfs_origin": "QmZKcFRcBKgPUrxpNDMnfUapodKT2M4K6DFKF6CBuKHC1x"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Mainstreet",
+      "address": "0xe23cd160761f63FC3a1cF78Aa034b6cdF97d3E0C",
+      "erc20": {
+        "symbol": "MIT",
+        "decimals": 18,
+        "name": "Mainstreet"
+      }
+    }
+  ]
+}

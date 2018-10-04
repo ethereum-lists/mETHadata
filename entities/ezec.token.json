@@ -1,0 +1,42 @@
+{
+  "name": "eZEC",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2251063.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ezectoken",
+    "twitter": "https://twitter.com/eZECToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eZEC",
+      "address": "0xae4191A7eB25713ac90483eA75828aE8038f94dc",
+      "erc20": {
+        "symbol": "EZEC",
+        "decimals": 18,
+        "name": "eZEC"
+      }
+    }
+  ]
+}
