@@ -48,10 +48,13 @@ for entity_name in entities:
 tokens = {}
 
 def get_host(token):
-#    print(token)
     if 'website' in token:
-        return urlparse(token['website']).netloc
-#        return token['website']
+        host = urlparse(token['website']).netloc
+
+        if host[:4] == 'www.':
+            host = host[4:]
+
+        return host
     else:
         return ''
 
@@ -75,7 +78,7 @@ for network in TOKEN_LIST:
 prev = 'NIL'
 for t in tokens[network]:
     host = get_host(t)
-    if host == '' or host == 'bitcointalk.org':
+    if host == '' or host == 'bitcointalk.org' or host == 'github.com':
         continue
     if prev == host:
         t['merge'] = True
