@@ -1,8 +1,5 @@
 {
-  "symbol": "BEC",
   "name": "BitEther",
-  "address": "0x085fb4f24031EAedbC2B611AA528f22343eB52Db",
-  "decimals": 8,
   "website": "",
   "logo": {
     "src": "",
@@ -28,5 +25,16 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
-  }
+  },
+  "etc": [
+    {
+      "name": "BitEther",
+      "address": "0x085fb4f24031EAedbC2B611AA528f22343eB52Db",
+      "erc20": {
+        "symbol": "BEC",
+        "decimals": 8,
+        "name": "BitEther"
+      }
+    }
+  ]
 }

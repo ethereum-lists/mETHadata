@@ -1,0 +1,21 @@
+{
+  "name": "WALLETH Community-Token",
+  "support": {
+    "email": "ligi@ligi.de"
+  },
+  "website": "https://walleth.org",
+  "social": {
+    "github": "https://github.com/walleth"
+  },
+  "rin": [
+    {
+      "name": "WALLETH Community-Token",
+      "address": "0x0A057a87CE9C56D7e336B417c79cf30E8d27860B",
+      "erc20": {
+        "symbol": "WALL",
+        "decimals": 15,
+        "name": "WALLETH Community-Token"
+      }
+    }
+  ]
+}

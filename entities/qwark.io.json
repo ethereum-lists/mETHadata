@@ -1,10 +1,7 @@
 {
-  "symbol": "RICKS",
-  "address": "0x5e1715bB79805Bd672729760B3f7F34D6f485098",
-  "decimals": 8,
-  "name": "RICKS",
+  "name": "QWARK",
   "ens_address": "",
-  "website": "https://picklericks.wixsite.com/picklewix",
+  "website": "https://www.qwark.io",
   "logo": {
     "src": "",
     "width": "",
@@ -29,5 +26,16 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
-  }
+  },
+  "ubq": [
+    {
+      "name": "QWARK",
+      "address": "0x4b4899a10F3E507DB207b0ee2426029eFa168a67",
+      "erc20": {
+        "symbol": "QWARK",
+        "decimals": 8,
+        "name": "QWARK"
+      }
+    }
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "name": "PP Donation",
+  "support": {
+    "email": "cchen408@gmail.com"
+  },
+  "social": {
+    "github": "https://github.com/cchen408"
+  },
+  "rin": [
+    {
+      "name": "PP Donation",
+      "address": "0x12fE174C097F6B3e876B3b060C9061F4B9dEBB80",
+      "erc20": {
+        "symbol": "PPD",
+        "decimals": 18,
+        "name": "PP Donation"
+      }
+    }
+  ]
+}

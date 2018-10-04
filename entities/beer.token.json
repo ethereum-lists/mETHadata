@@ -1,9 +1,7 @@
 {
-  "symbol": "GNT",
-  "name": "RadarRelay test Golem Network Token",
-  "address": "0xeF7FfF64389B814A946f3E92105513705CA6B990",
-  "decimals": 18,
-  "website": "https://faucet.kovan.radarrelay.com",
+  "name": "BEER",
+  "ens_address": "",
+  "website": "",
   "logo": {
     "src": "",
     "width": "",
@@ -28,5 +26,16 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
-  }
+  },
+  "ubq": [
+    {
+      "name": "BEER",
+      "address": "0xFF3bF057ADF3b0E015b6465331a6236e55688274",
+      "erc20": {
+        "symbol": "BEER",
+        "decimals": 0,
+        "name": "BEER"
+      }
+    }
+  ]
 }

@@ -1,9 +1,6 @@
 {
-  "symbol": "REP",
-  "name": "RadarRelay test Augur Reputation Token",
-  "address": "0xB18845c260F680d5B9D84649638813E342E4F8C9",
-  "decimals": 18,
-  "website": "https://faucet.kovan.radarrelay.com",
+  "name": "GUP",
+  "website": "",
   "logo": {
     "src": "",
     "width": "",
@@ -28,5 +25,16 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
-  }
+  },
+  "kov": [
+    {
+      "name": "GUP",
+      "address": "0x3C67f7D4decF7795225f51b54134F81137385f83",
+      "erc20": {
+        "symbol": "GUP",
+        "decimals": 3,
+        "name": "GUP"
+      }
+    }
+  ]
 }

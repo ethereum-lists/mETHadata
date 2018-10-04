@@ -1,10 +1,7 @@
 {
-  "symbol": "BEER",
-  "address": "0xFF3bF057ADF3b0E015b6465331a6236e55688274",
-  "decimals": 0,
-  "name": "BEER",
+  "name": "CEFS",
   "ens_address": "",
-  "website": "",
+  "website": "https://www.cryptopiashares.com",
   "logo": {
     "src": "",
     "width": "",
@@ -29,5 +26,16 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
-  }
+  },
+  "ubq": [
+    {
+      "name": "CEFS",
+      "address": "0x08533D6A06CE365298b12Ef92eb407cBA8Aa8273",
+      "erc20": {
+        "symbol": "CEFS",
+        "decimals": 8,
+        "name": "CEFS"
+      }
+    }
+  ]
 }

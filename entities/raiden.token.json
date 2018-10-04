@@ -1,0 +1,15 @@
+{
+  "name": "Raiden",
+  "website": "https://github.com/gnosis/dx-examples-liquidity-bots",
+  "rin": [
+    {
+      "name": "Raiden",
+      "address": "0x3615757011112560521536258c1E7325Ae3b48AE",
+      "erc20": {
+        "symbol": "RDN",
+        "decimals": 18,
+        "name": "Raiden"
+      }
+    }
+  ]
+}
