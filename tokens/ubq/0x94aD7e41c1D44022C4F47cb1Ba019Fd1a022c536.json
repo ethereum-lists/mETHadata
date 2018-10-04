@@ -2,7 +2,7 @@
   "symbol": "DOT",
   "address": "0x94aD7e41c1D44022C4F47cb1Ba019Fd1a022c536",
   "decimals": 8,
-  "name": "DOT",
+  "name": "Dotcoin",
   "ens_address": "",
   "website": "",
   "logo": {
@@ -27,7 +27,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/DotcoinNZ",
     "youtube": ""
   }
 }

@@ -1,6 +1,6 @@
 {
   "symbol": "BEC",
-  "name": "BEC",
+  "name": "BitEther",
   "address": "0x085fb4f24031EAedbC2B611AA528f22343eB52Db",
   "decimals": 8,
   "website": "",
@@ -15,11 +15,11 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@splix/bitether-coin-on-ethereum-classic-b17c7034dcb6",
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/splix/bec",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
