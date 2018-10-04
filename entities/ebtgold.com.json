@@ -1,0 +1,47 @@
+{
+  "name": "eBTG",
+  "ens_address": "",
+  "website": "http://www.ebtgold.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmd3gpm6qmzpqJ7cmyj5TPF28MU6kFuQ3aHKQYuJZ6zZKK",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/924396842820997120/rVV90Cwp.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/924396842820997120/rVV90Cwp.jpg",
+    "ipfs_origin": "QmcNHaH6s8iZ9pAHgV5MUeswoY3kVLn496CDVC5n5UzLr7"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/ebtgold",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eBTG",
+      "address": "0x44e6d9Ae9053A16E9311Fd9702291c5516804359",
+      "erc20": {
+        "symbol": "eBTG",
+        "decimals": 0,
+        "name": "eBTG"
+      }
+    }
+  ]
+}

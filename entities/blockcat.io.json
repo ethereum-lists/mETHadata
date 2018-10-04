@@ -1,0 +1,48 @@
+{
+  "name": "CAT (Blockcat)",
+  "ens_address": "",
+  "website": "https://blockcat.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x56ba2ee7890461f463f7be02aac3099f6d5811a8.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmazAzTr7P87mstUXKj2pMFT1qcwupssyipai1sWzhKD7V",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/875905861830311936/iHtYLhqy.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x56ba2ee7890461f463f7be02aac3099f6d5811a8.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/875905861830311936/iHtYLhqy.jpg",
+    "ipfs_origin": "Qmab5XoafTHYqdZ9dXqoRZbPCGjmqRdMafQ16u9hAf3iXi"
+  },
+  "support": {
+    "email": "team@blockcat.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@blockcat",
+    "chat": "",
+    "facebook": "https://www.facebook.com/BlockCATio/",
+    "forum": "https://bitcointalk.org/index.php?topic=1971103.0",
+    "github": "https://github.com/BlockCatIO",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BlockCat/",
+    "slack": "https://slack.blockcat.io",
+    "telegram": "https://t.me/blockcatio",
+    "twitter": "https://twitter.com/blockcatio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CAT (Blockcat)",
+      "address": "0x56ba2Ee7890461f463F7be02aAC3099f6d5811A8",
+      "erc20": {
+        "symbol": "CAT (Blockcat)",
+        "decimals": 18,
+        "name": "CAT (Blockcat)"
+      }
+    }
+  ]
+}

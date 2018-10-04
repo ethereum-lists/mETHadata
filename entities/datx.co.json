@@ -1,0 +1,48 @@
+{
+  "name": "DATx",
+  "ens_address": "",
+  "website": "https://www.datx.co/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWZCaxXoWnYBGyQLh2U4cTL5BarEdip52TjbdfoX4iARU",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/956178283850166272/wfqH1JUG.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab.png",
+    "ipfs_origin": "QmRX9L7ZpTPYm51mc1TYtbPFUaTWre2V2KxmCF8UxAPsEv"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@datxofficial",
+    "chat": "",
+    "facebook": "https://www.facebook.com/DATx-210156636211492/",
+    "forum": "",
+    "github": "https://github.com/DATx-Protocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/DatxOfficial",
+    "slack": "",
+    "telegram": "https://t.me/datxofficial01",
+    "twitter": "https://twitter.com/DATxOfficial",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DATx",
+      "address": "0xaBbBB6447B68ffD6141DA77C18c7B5876eD6c5ab",
+      "erc20": {
+        "symbol": "DATx",
+        "decimals": 18,
+        "name": "DATx"
+      }
+    }
+  ]
+}

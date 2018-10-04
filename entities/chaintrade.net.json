@@ -1,0 +1,48 @@
+{
+  "name": "ChainTrade Token",
+  "ens_address": "",
+  "website": "https://chaintrade.net",
+  "logo": {
+    "src": "https://chaintrade.net/wp-content/uploads/2017/09/chaintrade-logo-600x600.png",
+    "width": 600,
+    "height": 600,
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://chaintrade.net/wp-content/uploads/2017/09/chaintrade-logo-600x600.png",
+      "twitter": "http://pbs.twimg.com/profile_images/911668601551237120/3tRyyn11.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://chaintrade.net/wp-content/uploads/2017/09/chaintrade-logo-600x600.png"
+  },
+  "support": {
+    "email": "contact@chaintrade.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@ChainTrade/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ChainTrade",
+    "forum": "https://bitcointalk.org/index.php?topic=2209841",
+    "github": "https://github.com/ChainTrade",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/27022636/",
+    "reddit": "https://www.reddit.com/r/chaintrade/",
+    "slack": "http://slack.chaintrade.net/",
+    "telegram": "https://t.me/ChainTrade",
+    "twitter": "https://twitter.com/ChainTrade",
+    "youtube": "https://www.youtube.com/channel/UCUuSL2luzBpErQ32mHhp10Q"
+  },
+  "eth": [
+    {
+      "name": "ChainTrade Token",
+      "address": "0xE3Fa177AcecfB86721Cf6f9f4206bd3Bd672D7d5",
+      "erc20": {
+        "symbol": "CTT",
+        "decimals": 18,
+        "name": "ChainTrade Token"
+      }
+    }
+  ]
+}

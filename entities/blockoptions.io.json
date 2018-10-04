@@ -1,0 +1,56 @@
+{
+  "name": "Blockoptions",
+  "ens_address": "",
+  "website": "http://blockoptions.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qma964f4nBebDS2HMw5thg31kxmTu8AMHnAWDUXYgnDLv2",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/880824365654319104/B-xS1xnv.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/880824365654319104/B-xS1xnv.jpg",
+    "ipfs_origin": "QmQ3t1ysw883qq3Zp6VJevaoaZbR2JTDKrN9c7UbyM5p4H"
+  },
+  "support": {
+    "email": "support@blockoptions.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@blockoptions",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Blockoptions-1282191258569444/",
+    "forum": "https://bitcointalk.org/index.php?topic=2047320",
+    "github": "https://github.com/blockoptions",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/blockoptions/",
+    "slack": "https://slack.blockoptions.io/",
+    "telegram": "",
+    "twitter": "https://twitter.com/blockoptions_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Blockoptions",
+      "address": "0x9Cb9eb4BB7800BDbB017be2A4fFBECCb67454eA9",
+      "erc20": {
+        "symbol": "BOPT",
+        "decimals": 8,
+        "name": "Blockoptions"
+      }
+    },
+    {
+      "name": "BlockOptions",
+      "address": "0x7F1E2C7d6A69bf34824D72C53B4550E895C0D8C2",
+      "erc20": {
+        "symbol": "BOP",
+        "decimals": 8,
+        "name": "BlockOptiopns Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "VIB",
+  "ens_address": "",
+  "website": "https://www.viberate.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQ9TmPN9voodQw8LA8feXtq7tiSVFscWLwtxqi8TKuZ18",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/vib.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/877774395602849792/1tN5hB7u.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/vib.svg",
+    "ipfs_origin": "QmTwRrWcJKnKKL1Dn2PV6FFR3RHAeknd4uwo6b3mXiwPrQ"
+  },
+  "support": {
+    "email": "support@viberate.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/viberate-blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/viberateOFC/",
+    "forum": "https://bitcointalk.org/index.php?topic=2029450.0",
+    "github": "https://github.com/viberate",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company-beta/10428955/",
+    "reddit": "https://www.reddit.com/r/viberate/",
+    "slack": "https://viberateico.slack.com",
+    "telegram": "https://t.me/joinchat/F-zenkQffjbGY7YqqSQl1w",
+    "twitter": "https://twitter.com/viberate_com",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "VIB",
+      "address": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724",
+      "erc20": {
+        "symbol": "VIB",
+        "decimals": 18,
+        "name": "VIB"
+      }
+    }
+  ]
+}

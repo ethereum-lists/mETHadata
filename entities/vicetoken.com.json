@@ -1,0 +1,48 @@
+{
+  "name": "Vice Industry Token",
+  "ens_address": "",
+  "website": "https://vicetoken.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x23b75bc7aaf28e2d6628c3f424b3882f8f072a3c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZKeLLv3HwvguTLg1eNAJzq4H6RPcTQ1nsNJANv7DRFiu",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/992471858749558784/uVFWEMCJ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x23b75bc7aaf28e2d6628c3f424b3882f8f072a3c.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/992471858749558784/uVFWEMCJ.jpg",
+    "ipfs_origin": "QmTJCbbqubKALwDMk8gg1pLTs6up9JeWgGR8dWzfgDX3Z9"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/viceindustrytoken",
+    "chat": "",
+    "facebook": "https://www.facebook.com/vicetoken/",
+    "forum": "",
+    "github": "https://github.com/ViceIndustryToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/viceindustrytoken",
+    "twitter": "https://twitter.com/ViceToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Vice Industry Token",
+      "address": "0x23b75Bc7AaF28e2d6628C3f424B3882F8f072a3c",
+      "erc20": {
+        "symbol": "VIT",
+        "decimals": 18,
+        "name": "Vice Industry Token"
+      }
+    }
+  ]
+}

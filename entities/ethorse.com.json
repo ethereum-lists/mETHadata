@@ -1,0 +1,49 @@
+{
+  "name": "HORSE",
+  "ens_address": "",
+  "website": "https://ethorse.com",
+  "logo": {
+    "src": "https://ethorse.com/images/ethorse-logo.png",
+    "width": "480",
+    "height": "695",
+    "ipfs_hash": "QmZoUGxn3KadXaHswFVYkf8UdsBC6vxTCehas1azqzZZU8",
+    "sources": {
+      "token-list": "https://ethorse.com/images/ethorse-logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/939016374852055040/uZsDToIC.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b0751713b2527d7f002c0c4e2a37e1219610a6b.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b0751713b2527d7f002c0c4e2a37e1219610a6b.png",
+    "ipfs_origin": "QmeMSGicaAqRYGqwYCCaA8n5iAx7feuwV5PUKrdXC7nG1c"
+  },
+  "support": {
+    "email": "support@ethorse.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@ethorse",
+    "chat": "https://discordapp.com/invite/vdTXRmT",
+    "facebook": "https://www.facebook.com/Ethorse-137754290239208",
+    "forum": "https://bitcointalk.org/index.php?topic=2573978.0",
+    "github": "https://github.com/ethorse",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Ethorse/",
+    "slack": "",
+    "telegram": "https://telegram.me/ethorse",
+    "twitter": "https://twitter.com/EthorseTeam",
+    "youtube": "https://www.youtube.com/channel/UC2lOnpQUPVE13E_Mpp5TVsA"
+  },
+  "eth": [
+    {
+      "name": "HORSE",
+      "address": "0x5B0751713b2527d7f002c0c4e2a37e1219610A6B",
+      "erc20": {
+        "symbol": "HORSE",
+        "decimals": 18,
+        "name": "HORSE"
+      }
+    }
+  ]
+}

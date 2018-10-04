@@ -1,0 +1,47 @@
+{
+  "name": "Linkey ",
+  "ens_address": "",
+  "website": "https://www.linkey.info/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x49bd2da75b1f7af1e4dfd6b1125fecde59dbec58.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZkhh29fsWSkN7Erx3bYyKhcdY5QMpb15qDFUzXYcJHxQ",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x49bd2da75b1f7af1e4dfd6b1125fecde59dbec58.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x49bd2da75b1f7af1e4dfd6b1125fecde59dbec58.png",
+    "ipfs_origin": "QmS5j5sXNw7Bz1XENnqQuTDP8cpkg2pgijCGNa8wFvdDUU"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Linkey ",
+      "address": "0x49bD2DA75b1F7AF1E4dFd6b1125FEcDe59dBec58",
+      "erc20": {
+        "symbol": "LKY",
+        "decimals": 18,
+        "name": "Linkey "
+      }
+    }
+  ]
+}

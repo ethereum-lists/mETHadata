@@ -1,0 +1,49 @@
+{
+  "name": "ODEM Token",
+  "ens_address": "",
+  "website": "https://odem.io/",
+  "logo": {
+    "src": "https://odem.io/wp-content/uploads/2017/09/odem-logo-sq-v0.2.png",
+    "width": "1000",
+    "height": "1000",
+    "ipfs_hash": "QmV6uEL4yLW4AEazCgJchMAaATFNpV2UDmMMRg8ZWvddrU",
+    "sources": {
+      "token-list": "https://odem.io/wp-content/uploads/2017/09/odem-logo-sq-v0.2.png",
+      "twitter": "http://pbs.twimg.com/profile_images/950505589427224576/rlIuNPu-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a.png",
+    "ipfs_origin": "QmZgWbBqM5sPK51KyCUgVwq7YrPXG3SZ8WDQKrUG7mHkgK"
+  },
+  "support": {
+    "email": "support@odem.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/odem",
+    "chat": "",
+    "facebook": "https://www.facebook.com/odemio/",
+    "forum": "https://bitcointalk.org/index.php?topic=2591616.0",
+    "github": "https://github.com/odemio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/odem-io/",
+    "reddit": "https://www.reddit.com/r/ODEM/",
+    "slack": "",
+    "telegram": "https://t.me/odem_io",
+    "twitter": "https://twitter.com/ODEM_IO",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ODEM Token",
+      "address": "0xbf52F2ab39e26E0951d2a02b49B7702aBe30406a",
+      "erc20": {
+        "symbol": "ODE",
+        "decimals": 18,
+        "name": "ODEM Token"
+      }
+    }
+  ]
+}

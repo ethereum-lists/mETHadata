@@ -1,0 +1,49 @@
+{
+  "name": "QRL",
+  "ens_address": "",
+  "website": "https://theqrl.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x697beac28b09e122c4332d163985e8a73121b97f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQ5k4JgbZ54R9HcfcVP87QddT7gabcop4d2AhK3YfMCgN",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/qrl.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/939792816376631296/z0CnKfva.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x697beac28b09e122c4332d163985e8a73121b97f.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x697beac28b09e122c4332d163985e8a73121b97f.png",
+    "ipfs_origin": "QmV5XoGwDtvx9f7Ck2WuB7LuKpGqdRepkgQpkA6h4VQZUA"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/the-quantum-resistant-ledger",
+    "chat": "",
+    "facebook": "https://www.facebook.com/theqrl/",
+    "forum": "https://bitcointalk.org/index.php?topic=1730273.0",
+    "github": "https://github.com/theQRL",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/QRL/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/qrledger",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "QRL",
+      "address": "0x697beac28B09E122C4332D163985e8a73121b97F",
+      "erc20": {
+        "symbol": "QRL",
+        "decimals": 8,
+        "name": "QRL"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "BF Token",
+  "ens_address": "",
+  "website": "https://bnktothefuture.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRs92YLxytdAxVqPwQ54Vg1ubKnEVy5XGsvQgruMEUtfk",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1888762025/BF_LOW_RES.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1888762025/BF_LOW_RES.png",
+    "ipfs_origin": "QmaQPJKWdaSgtaTMxRcMhdczaMnQrzgoXYHtX3NXbiy2bh"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://blog.bnktothefuture.com/",
+    "chat": "",
+    "facebook": "https://bnktothefuture.com/facebook",
+    "forum": "",
+    "github": "https://github.com/BankToTheFuture/bft",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/bf_token",
+    "twitter": "https://twitter.com/BankToTheFuture",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BF Token",
+      "address": "0x01fF50f8b7f74E4f00580d9596cd3D0d6d6E326f",
+      "erc20": {
+        "symbol": "BFT",
+        "decimals": 18,
+        "name": "BF Token"
+      }
+    }
+  ]
+}

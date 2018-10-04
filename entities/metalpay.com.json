@@ -1,0 +1,49 @@
+{
+  "name": "MetalPay",
+  "ens_address": "",
+  "website": "https://www.metalpay.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf433089366899d83a9f26a773d59ec7ecf30355e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdZbS74aTRdhhXtUAt4aLWfVaBTSUjF17TH9n7nfe2SNb",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/mtl.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/996195327475527680/aGBmnZ9J.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf433089366899d83a9f26a773d59ec7ecf30355e.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/996195327475527680/aGBmnZ9J.jpg",
+    "ipfs_origin": "QmT2chhfSx3YkiDZWug9PnixgEJwy1cZQdNGKd9wU8Ajok"
+  },
+  "support": {
+    "email": "support@metalpay.co",
+    "url": "https://support.metalpay.com"
+  },
+  "social": {
+    "blog": "https://medium.com/metalpay",
+    "chat": "",
+    "facebook": "https://www.facebook.com/metalpaysme/",
+    "forum": "https://bitcointalk.org/index.php?topic=1935014.0",
+    "github": "https://github.com/MetalPay",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/metalpaysme/",
+    "reddit": "https://www.reddit.com/r/MetalPay/",
+    "slack": "https://www.metalpay.chat",
+    "telegram": "https://t.me/metalpay",
+    "twitter": "https://twitter.com/metalpaysme",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MetalPay",
+      "address": "0xF433089366899D83a9f26A773D59ec7eCF30355e",
+      "erc20": {
+        "symbol": "MTL",
+        "decimals": 8,
+        "name": "MetalPay"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Bob's repair",
+  "ens_address": "",
+  "website": "https://bobsrepair.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRVL1br5AtLHAv6CrwQjPAbW7CB7gmrfQdbFoXHRpfr1j",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134.png",
+    "ipfs_origin": "QmR1E634UbqqP5kq7FfRwd2Ain3kYQUsApkYj55Rv8r6Qs"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bob's repair",
+      "address": "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
+      "erc20": {
+        "symbol": "BOB",
+        "decimals": 18,
+        "name": "Bob's repair"
+      }
+    }
+  ]
+}

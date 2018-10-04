@@ -1,0 +1,47 @@
+{
+  "name": "CCB",
+  "ens_address": "",
+  "website": "http://www.cccoin.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x01c67791309c71aa4ed373025a0c089696d7c9e4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXjLen4Y1MtzoZeN2jNsFGBSHvNpbN7A6V3ZnpXrTQyjU",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x01c67791309c71aa4ed373025a0c089696d7c9e4.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x01c67791309c71aa4ed373025a0c089696d7c9e4.png",
+    "ipfs_origin": "QmXQ2fdTHRsVXupcWfBqTKyNjjmZrSiUQLePpfcHwy9kJd"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/CCCoinTeam",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CCCoinTeam/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CCB",
+      "address": "0x01C67791309c71aA4Ed373025a0C089696D7c9e4",
+      "erc20": {
+        "symbol": "CCB",
+        "decimals": 18,
+        "name": "CCB"
+      }
+    }
+  ]
+}

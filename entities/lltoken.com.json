@@ -1,0 +1,47 @@
+{
+  "name": "LLToken",
+  "ens_address": "",
+  "website": "https://www.lltoken.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6d5cac36c1ae39f41d52393b7a425d0a610ad9f2.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcYfdpwdFejdNKZnQqJR9YyxQciDhMyrMMsepHdNY9YJF",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6d5cac36c1ae39f41d52393b7a425d0a610ad9f2.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6d5cac36c1ae39f41d52393b7a425d0a610ad9f2.png",
+    "ipfs_origin": "QmQYzPBMP12FVrooUaM2vcszmzLBcc9458h5sxZMeVGeDc"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/lltoken_com",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "LLToken",
+      "address": "0x6D5caC36c1AE39f41d52393b7a425d0A610ad9f2",
+      "erc20": {
+        "symbol": "LLT",
+        "decimals": 8,
+        "name": "LLToken"
+      }
+    }
+  ]
+}

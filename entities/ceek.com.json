@@ -1,0 +1,49 @@
+{
+  "name": "CEEK VR Token",
+  "ens_address": "",
+  "website": "https://www.ceek.com/",
+  "logo": {
+    "src": "https://www.ceek.io/wp-content/uploads/2018/04/coin.png",
+    "width": "317",
+    "height": "308",
+    "ipfs_hash": "QmQPtfbHzJX6bArjU5KB8fQKwCinN7XoGW7HVqDq73sHvU",
+    "sources": {
+      "token-list": "https://www.ceek.io/wp-content/uploads/2018/04/coin.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1012325272752967680/oXwDPNBr.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb056c38f6b7dc4064367403e26424cd2c60655e1.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1012325272752967680/oXwDPNBr.jpg",
+    "ipfs_origin": "QmeEeZye22gjvLusrC28xqJZws3ooc5qu2BRXswe2f13M6"
+  },
+  "support": {
+    "email": "success@ceek.com",
+    "url": "https://www.ceek.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ceekvrtokensale",
+    "twitter": "https://twitter.com/CEEK",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CEEK VR Token",
+      "address": "0xb056c38f6b7Dc4064367403E26424CD2c60655e1",
+      "erc20": {
+        "symbol": "CEEK",
+        "decimals": 18,
+        "name": "CEEK VR Token"
+      }
+    }
+  ]
+}

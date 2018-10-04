@@ -1,0 +1,47 @@
+{
+  "name": "SwftCoin",
+  "ens_address": "",
+  "website": "http://www.swftcoin.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVzjMKGnDYSEgKuKSgPXCuT3GorCsttMAMdPBAjfQDfbT",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e.png",
+    "ipfs_origin": "QmV7ivzuQsTUkAJTZT6cSEs6a7qF9dFK2MKFdUZr3EufWT"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SwftCoin-1383035815146267",
+    "forum": "",
+    "github": "https://github.com/SwftCoins/SwftCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SwftCoin/",
+    "slack": "",
+    "telegram": "https://t.me/swfcoin",
+    "twitter": "https://twitter.com/SwftCoin?lang=en",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SwftCoin",
+      "address": "0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
+      "erc20": {
+        "symbol": "SWFTC",
+        "decimals": 8,
+        "name": "SwftCoin"
+      }
+    }
+  ]
+}

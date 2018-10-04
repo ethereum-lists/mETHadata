@@ -1,0 +1,49 @@
+{
+  "name": "Cindicator",
+  "ens_address": "",
+  "website": "https://cindicator.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd4c435f5b09f855c3317c8524cb1f586e42795fa.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNxJd4bmcYCHGKWwBr37GtUGgeL2muwTL4E63EdSfzYZW",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/cnd.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1019602436384845824/DJhoMmNE.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd4c435f5b09f855c3317c8524cb1f586e42795fa.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1019602436384845824/DJhoMmNE.jpg",
+    "ipfs_origin": "QmSDc12KTJfvvcaKo4GwpLwUeHwSkc9qaCww2PHbXNws3e"
+  },
+  "support": {
+    "email": "support@cindicator.com",
+    "url": "https://cindicator.com"
+  },
+  "social": {
+    "blog": "https://medium.com/@Cindicator",
+    "chat": "",
+    "facebook": "https://www.facebook.com/crowdindicator",
+    "forum": "https://bitcointalk.org/index.php?topic=2062875",
+    "github": "https://github.com/cindicator",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Cindicator",
+    "slack": "",
+    "telegram": "https://t.me/cindicator_news",
+    "twitter": "https://twitter.com/crowd_indicator",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Cindicator",
+      "address": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
+      "erc20": {
+        "symbol": "CND",
+        "decimals": 18,
+        "name": "Cindicator"
+      }
+    }
+  ]
+}

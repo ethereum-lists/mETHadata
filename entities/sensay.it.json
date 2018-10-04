@@ -1,0 +1,48 @@
+{
+  "name": "Sensay",
+  "ens_address": "",
+  "website": "https://sensay.it",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6745fab6801e376cd24f03572b9c9b0d4edddccf.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRmvq1e49sfanpYnH3UT1xkRfzA46eL3e3EJ3KbALTWm8",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/848637958110326784/UoYSDREo.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6745fab6801e376cd24f03572b9c9b0d4edddccf.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/848637958110326784/UoYSDREo.jpg",
+    "ipfs_origin": "QmNr6q1ZafubXRpvLdbngZNi9UnQSA7VatKTm7j7imQsRa"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/sensay",
+    "chat": "",
+    "facebook": "https://www.facebook.com/sensaybot/",
+    "forum": "https://bitcointalk.org/index.php?topic=2096600.0",
+    "github": "https://github.com/sensay/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/sensetoken/",
+    "slack": "",
+    "telegram": "https://t.me/SenseToken",
+    "twitter": "https://twitter.com/sensay",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Sensay",
+      "address": "0x6745fAB6801e376cD24F03572B9C9B0D4EdDDCcf",
+      "erc20": {
+        "symbol": "SENSE",
+        "decimals": 8,
+        "name": "Sensay"
+      }
+    }
+  ]
+}

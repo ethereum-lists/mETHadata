@@ -1,0 +1,48 @@
+{
+  "name": "Blackmoon Crypto BMC Token",
+  "ens_address": "",
+  "website": "https://blackmooncrypto.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdf6ef343350780bf8c3410bf062e0c015b1dd671.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZfGyLxSVCuMfVPgeQ1qxDReJyNk9zg9bcpfjiPh3NCxd",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/953971843253391360/34iqH5Ky.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdf6ef343350780bf8c3410bf062e0c015b1dd671.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/953971843253391360/34iqH5Ky.jpg",
+    "ipfs_origin": "QmbxkU7yiDtBeb2tp1VdQ9w1kMCq6tYeqxxhHPC4t9bWcY"
+  },
+  "support": {
+    "email": "account@blackmooncrypto.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/blackmoon-crypto",
+    "chat": "",
+    "facebook": "https://www.facebook.com/blackmoonfg/",
+    "forum": "",
+    "github": "https://github.com/blackmoonfg",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BlackMoonCrypto/",
+    "slack": "https://blackmooncrypto.herokuapp.com",
+    "telegram": "https://t.me/blackmooncrypto",
+    "twitter": "https://twitter.com/BlackmoonFG",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Blackmoon Crypto BMC Token",
+      "address": "0xDf6Ef343350780BF8C3410BF062e0C015B1DD671",
+      "erc20": {
+        "symbol": "BMC",
+        "decimals": 8,
+        "name": "Blackmoon Crypto BMC Token"
+      }
+    }
+  ]
+}

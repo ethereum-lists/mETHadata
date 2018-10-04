@@ -1,0 +1,44 @@
+{
+  "name": "PLAY",
+  "ens_address": "",
+  "website": "https://play.lab10.coop",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+    }
+  },
+  "support": {
+    "email": "play@lab10.coop",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/play4privacy",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "PLAY",
+      "address": "0xfB41f7b63c8e84f4BA1eCD4D393fd9daa5d14D61",
+      "erc20": {
+        "symbol": "PLY",
+        "decimals": 18,
+        "name": "PLAY"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "CargoX",
+  "ens_address": "",
+  "website": "https://cargox.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb6ee9668771a79be7967ee29a63d4184f8097143.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmce8pKBKwhZsgRHAaZkZb3o23ha4cbtYetWatKx7wUrfW",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/914965674379939841/soatwFwn.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb6ee9668771a79be7967ee29a63d4184f8097143.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb6ee9668771a79be7967ee29a63d4184f8097143.png",
+    "ipfs_origin": "QmWw1srjK5iz85NBAN7FCCrKhVMJGs7Ayv24c36EsVL7S9"
+  },
+  "support": {
+    "email": "info@cargox.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/cargoxio",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cargox.io",
+    "forum": "https://bitcointalk.org/index.php?topic=2619373",
+    "github": "https://github.com/cargoxio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/cargoxio",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GAKhBQ48675fRRMEd-kLcw",
+    "twitter": "https://twitter.com/cargoxio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CargoX",
+      "address": "0xb6EE9668771a79be7967ee29a63D4184F8097143",
+      "erc20": {
+        "symbol": "CXO",
+        "decimals": 18,
+        "name": "CargoX"
+      }
+    }
+  ]
+}

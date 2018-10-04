@@ -1,0 +1,57 @@
+{
+  "name": "Cardstack Token",
+  "ens_address": "",
+  "website": "https://cardstack.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb07ec2c28834b889b1ce527ca0f19364cd38935c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeVU6ZPhPbGZCKu7WzaW6yLV4snXWkzxTmLjExd81d6R2",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/900379003734937600/71w3A-_P.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb07ec2c28834b889b1ce527ca0f19364cd38935c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb07ec2c28834b889b1ce527ca0f19364cd38935c.png",
+    "ipfs_origin": "QmfGY2Cd9GKhLMnbxWM5g65kyviegty3QdGoZPq6TgATtR"
+  },
+  "support": {
+    "email": "support@cardstack.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/cardstack",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/cardstack",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://telegram.me/cardstack",
+    "twitter": "https://twitter.com/cardstack",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Cardstack Token",
+      "address": "0xB07ec2c28834B889b1CE527Ca0F19364cD38935c",
+      "erc20": {
+        "symbol": "CARD",
+        "decimals": 0,
+        "name": "Cardstack Token"
+      }
+    },
+    {
+      "name": "Cardstack Token",
+      "address": "0x1ed2B1eaEd8e968bc36EB90a914660A71827A5E9",
+      "erc20": {
+        "symbol": "CARD",
+        "decimals": 0,
+        "name": "Cardstack Token"
+      }
+    }
+  ]
+}

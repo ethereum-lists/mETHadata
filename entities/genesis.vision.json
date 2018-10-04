@@ -1,0 +1,49 @@
+{
+  "name": "Genesis Vision",
+  "ens_address": "",
+  "website": "https://genesis.vision",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x103c3a209da59d3e7c4a89307e66521e081cfdf0.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSwULwvoNEcj6yqQW36Y37dPBvB2dVjaGuQuowtmHNriC",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/gvt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/892485117846880256/pdr-CtPW.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x103c3a209da59d3e7c4a89307e66521e081cfdf0.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x103c3a209da59d3e7c4a89307e66521e081cfdf0.png",
+    "ipfs_origin": "QmRbzkcZLEN5Zg1WiCrcjkRzwLLQ7B5bhu6iiAwG5FDzTv"
+  },
+  "support": {
+    "email": "support@genesis.vision",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/genesisvision/",
+    "chat": "",
+    "facebook": "https://fb.me/GenesisVisionProject",
+    "forum": "https://bitcointalk.org/index.php?topic=2143279.0",
+    "github": "https://github.com/GenesisVision",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/genesisvision/",
+    "slack": "",
+    "telegram": "https://t.me/genesisvision",
+    "twitter": "https://twitter.com/genesis_vision",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Genesis Vision",
+      "address": "0x103c3A209da59d3E7C4A89307e66521e081CFDF0",
+      "erc20": {
+        "symbol": "GVT",
+        "decimals": 18,
+        "name": "Genesis Vision"
+      }
+    }
+  ]
+}

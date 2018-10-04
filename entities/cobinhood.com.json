@@ -1,0 +1,49 @@
+{
+  "name": "Cobinhood Token",
+  "ens_address": "",
+  "website": "https://cobinhood.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb2f7eb1f2c37645be61d73953035360e768d81e6.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmf5gPm2S21o4deYFRVrmr1m4Sm51ZRkFAUK1j7wUhPVTQ",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/cob.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/907819119927537670/Z3hjGZSC.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb2f7eb1f2c37645be61d73953035360e768d81e6.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/907819119927537670/Z3hjGZSC.jpg",
+    "ipfs_origin": "QmRWgBTj2pYddB1y2dfcAk2VTm9RMJVPUnM55yPLP7ZSNh"
+  },
+  "support": {
+    "email": "support@cobinhood.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@cobinhood",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cobinhood.exchange",
+    "forum": "https://bitcointalk.org/index.php?topic=2169745.0",
+    "github": "https://github.com/cobinhood",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/cobinhood/",
+    "slack": "http://slack.cobinhood.com",
+    "telegram": "https://t.me/cobinhood",
+    "twitter": "https://twitter.com/cobinhood",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Cobinhood Token",
+      "address": "0xb2F7EB1f2c37645bE61d73953035360e768D81E6",
+      "erc20": {
+        "symbol": "COB",
+        "decimals": 18,
+        "name": "Cobinhood Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "KredX Token",
+  "ens_address": "",
+  "website": "https://kredx.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5783862cef49094be4de1fe31280b2e33cf87416.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNZSHbjJYDe84hvZKKCofiYK2A2VoGF4gxfA4bQdJzWLY",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5783862cef49094be4de1fe31280b2e33cf87416.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5783862cef49094be4de1fe31280b2e33cf87416.png",
+    "ipfs_origin": "QmcY66JpXn7JDFrTDVnSQ1stm7wtLcTQSx3gNp4wS6EXYi"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/kredX",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "KredX Token",
+      "address": "0x5783862cef49094bE4DE1fe31280B2E33cF87416",
+      "erc20": {
+        "symbol": "KRT",
+        "decimals": 4,
+        "name": "KredX Token"
+      }
+    }
+  ]
+}

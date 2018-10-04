@@ -1,0 +1,48 @@
+{
+  "name": "EVE",
+  "ens_address": "",
+  "website": "https://devery.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXXUjeLwRwLgqHuWBWhfdDDv27GTKqr2MnCY5wwemUGWt",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/916519658169044992/y9l3hKQ-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/916519658169044992/y9l3hKQ-.jpg",
+    "ipfs_origin": "QmQZ3LKocFxpBZH1LFDEkUgR943rivmdrU666iF52xX5b1"
+  },
+  "support": {
+    "email": "contact@devery.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/devery-io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/devery.io",
+    "forum": "https://bitcointalk.org/index.php?topic=2245120.0",
+    "github": "https://github.com/devery",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18282115",
+    "reddit": "https://www.reddit.com/r/deveryofficial",
+    "slack": "",
+    "telegram": "https://t.me/deverychat",
+    "twitter": "https://twitter.com/deveryofficial",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EVE",
+      "address": "0x923108a439C4e8C2315c4f6521E5cE95B44e9B4c",
+      "erc20": {
+        "symbol": "EVE",
+        "decimals": 18,
+        "name": "EVE"
+      }
+    }
+  ]
+}

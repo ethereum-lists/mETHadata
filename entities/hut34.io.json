@@ -1,0 +1,58 @@
+{
+  "name": "Hut34",
+  "ens_address": "",
+  "website": "https://hut34.io/",
+  "logo": {
+    "src": "https://hut34.io/images/comms/Hut34-logo-orange.jpg",
+    "width": "300",
+    "height": "300",
+    "sources": {
+      "token-list": "https://hut34.io/images/comms/Hut34-logo-orange.jpg",
+      "twitter": "http://pbs.twimg.com/profile_images/958937991044521985/ra83XWET.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5bc7e5f0ab8b2e10d2d0a3f21739fce62459aef3.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/958937991044521985/ra83XWET.jpg",
+    "ipfs_hash": "QmXaQbkH7TA55wkAADvpj87RL8ioeMsyY1DMbvY3s96fWY",
+    "ipfs_origin": "QmVbTxugnQjvtLgeeCBbCfsP75qwFM43XoSKoHhUfvVkvd"
+  },
+  "support": {
+    "email": "admin@hut34.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@hut34project",
+    "chat": "",
+    "facebook": "https://www.facebook.com/hut34project",
+    "forum": "",
+    "github": "https://github.com/hut34",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18132913/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/hut34",
+    "twitter": "https://twitter.com/hut34project",
+    "youtube": "https://www.youtube.com/channel/UCiemFFyT2Sv2ulrRQfNI89Q"
+  },
+  "eth": [
+    {
+      "name": "Hut34 Entropy Token",
+      "address": "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3",
+      "erc20": {
+        "symbol": "ENTRP",
+        "decimals": 18,
+        "name": "Hut34 Entropy Token"
+      }
+    },
+    {
+      "name": "Hut34 Entropy",
+      "address": "0x9901ed1e649C4a77C7Fff3dFd446ffE3464da747",
+      "erc20": {
+        "symbol": "ENT",
+        "decimals": 18,
+        "name": "Hut34 Entropy"
+      }
+    }
+  ]
+}

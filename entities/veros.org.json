@@ -1,0 +1,47 @@
+{
+  "name": "Veros",
+  "ens_address": "",
+  "website": "https://veros.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xedbaf3c5100302dcdda53269322f3730b1f0416d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmctrR16Y7TS92SDKBaC9tqRLyuBW6gVG4eyKmpsXVdZQK",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xedbaf3c5100302dcdda53269322f3730b1f0416d.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xedbaf3c5100302dcdda53269322f3730b1f0416d.png",
+    "ipfs_origin": "QmcBQyeLD8EgtAQYoV3AZKY3hZtCqj3dwFS248Y9KeEdaG"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Veros",
+      "address": "0xeDBaF3c5100302dCddA53269322f3730b1F0416d",
+      "erc20": {
+        "symbol": "VRS",
+        "decimals": 5,
+        "name": "Veros"
+      }
+    }
+  ]
+}

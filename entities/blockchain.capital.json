@@ -1,0 +1,48 @@
+{
+  "name": "BCAP",
+  "ens_address": "",
+  "website": "http://blockchain.capital/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNo88m3ZHNx2Mof72cn7RcUSwGhENeYgAX5eUuj3KvtYn",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/834190222531268608/FOEMuzbl.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/834190222531268608/FOEMuzbl.jpg",
+    "ipfs_origin": "QmNcykHLiJp66KQfdMCQoXbD4s3Bmhc6cfqTGA7gSuFSrK"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/BCAPtoken/BCAPToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/3748873/",
+    "reddit": "https://www.reddit.com/r/vctoken/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/blockchaincap",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BCAP",
+      "address": "0xFf3519eeeEA3e76F1F699CCcE5E23ee0bdDa41aC",
+      "erc20": {
+        "symbol": "BCAP",
+        "decimals": 0,
+        "name": "BCAP"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Social Media Market",
+  "ens_address": "",
+  "website": "https://socialmedia.market",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcH9bYp5fRogK5khQ4Yy9snZz3289XYbcBrxTpNpWog5M",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/972385605261852672/YIvxNtvm.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/972385605261852672/YIvxNtvm.jpg",
+    "ipfs_origin": "QmV6NySbRPh4NL8ffHQqEHoynei98uJKdkMkCSXicUz7EM"
+  },
+  "support": {
+    "email": "support@socialmedia.market",
+    "url": "https://t.me/socialmediamarket_eng"
+  },
+  "social": {
+    "blog": "https://medium.com/socialmedia-market",
+    "chat": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
+    "facebook": "https://www.facebook.com/SocialMedia.Market.platform",
+    "forum": "https://bitcointalk.org/index.php?topic=2291309.0",
+    "github": "https://github.com/SocialMediaMarket",
+    "gitter": "",
+    "instagram": "https://instagram.com/socialmedia.io",
+    "linkedin": "https://www.linkedin.com/company/socialmedia-market/",
+    "reddit": "https://github.com/SocialMediaMarket",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
+    "twitter": "https://twitter.com/socialmedia_mrk",
+    "youtube": "https://www.youtube.com/channel/UCPJ919jN8eCcVDkzbCR06nw"
+  },
+  "eth": [
+    {
+      "name": "Social Media Market",
+      "address": "0x78Eb8DC641077F049f910659b6d580E80dC4d237",
+      "erc20": {
+        "symbol": "SMT",
+        "decimals": 8,
+        "name": "Social Media Market"
+      }
+    }
+  ]
+}

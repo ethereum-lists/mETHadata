@@ -1,0 +1,48 @@
+{
+  "name": "HeroCoin",
+  "ens_address": "",
+  "website": "http://www.herocoin.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe477292f1b3268687a29376116b0ed27a9c76170.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmahuYSrmsnAe2dkgPeZidg3pehnidcRXpBj8HcRoKwCsu",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/890916867371663361/RToGnr1-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe477292f1b3268687a29376116b0ed27a9c76170.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe477292f1b3268687a29376116b0ed27a9c76170.png",
+    "ipfs_origin": "QmdpthZxFjyvdYvJFTdQPF89sm1WHc4qpSovH72NVjjseg"
+  },
+  "support": {
+    "email": "info@herocoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/herosphere.gg",
+    "forum": "https://bitcointalk.org/index.php?topic=2116864.msg21169697#msg21169697",
+    "github": "https://github.com/byteheroes/herocoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/HEROcoin",
+    "slack": "https://join.slack.com/t/herocoin/shared_invite/enQtMjQyNTQ1NDU3ODYxLTVmMzlmNTg5ZTUyODM4NzFjZGVjNGFlZjYzOTM0MzI1YWIwZWMxN2UzMWMxYWQ2MDE4NDQ3OTE4Y2I1NmMyYjU",
+    "telegram": "https://t.me/joinchat/FsEwOwtrCZMWwHokEj70Gw",
+    "twitter": "https://twitter.com/HEROcoinio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "HeroCoin",
+      "address": "0xE477292f1B3268687A29376116B0ED27A9c76170",
+      "erc20": {
+        "symbol": "PLAY",
+        "decimals": 18,
+        "name": "HeroCoin"
+      }
+    }
+  ]
+}

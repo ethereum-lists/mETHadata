@@ -1,0 +1,49 @@
+{
+  "name": "Gnosis",
+  "ens_address": "",
+  "website": "https://gnosis.pm",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6810e776880c02933d47db1b9fc05908e5386b96.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmchptRh8yEpAtYcghQsHxAfyfjPDPS9xwW9nh8bK3B6Bh",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/gno.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/641699680120930304/p5MlrKcS.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6810e776880c02933d47db1b9fc05908e5386b96.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6810e776880c02933d47db1b9fc05908e5386b96.png",
+    "ipfs_origin": "QmPpFYcSqYR2XqCNFYJGDb3ZQAy77E1iMuNTSW1GtQ8PuY"
+  },
+  "support": {
+    "email": "info@gnosis.pm",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.gnosis.pm/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Gnosis.pm/",
+    "forum": "https://bitcointalk.org/index.php?topic=1529098.0",
+    "github": "https://github.com/gnosis",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/gnosis-limited/",
+    "reddit": "https://www.reddit.com/r/gnosisPM/",
+    "slack": "https://slack.gnosis.pm",
+    "telegram": "https://telegram.me/gnosispm",
+    "twitter": "https://twitter.com/gnosisPM",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Gnosis",
+      "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
+      "erc20": {
+        "symbol": "GNO",
+        "decimals": 18,
+        "name": "Gnosis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Crystal Clear Token",
+  "ens_address": "",
+  "website": "http://crystal-clear.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVosvFPq4LUqLiYQTFHRqDuhWaVKAVGr5ELwWkZ1sgZgz",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/901226019620880386/vM05zI__.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22.png",
+    "ipfs_origin": "QmZ72BxzYXsfG3jcRkU6otzDSxkR16xQoAVuxed8ijenof"
+  },
+  "support": {
+    "email": "ccs@crystal-clear.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CCSer/",
+    "forum": "",
+    "github": "https://github.com/CrystalClearS",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/CrystalClearICO",
+    "twitter": "https://twitter.com/CCS_Crystal",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Crystal Clear Token",
+      "address": "0x336F646F87D9f6bC6Ed42Dd46E8b3fD9DbD15C22",
+      "erc20": {
+        "symbol": "CCT",
+        "decimals": 18,
+        "name": "Crystal Clear Token"
+      }
+    }
+  ]
+}

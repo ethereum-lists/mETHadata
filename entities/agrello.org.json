@@ -1,0 +1,49 @@
+{
+  "name": "Agrello",
+  "ens_address": "",
+  "website": "https://www.agrello.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x07e3c70653548b04f0a75970c1f81b4cbbfb606f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWjoYru2rxxAcL7FkUmph8wkY1fZDT5x5nriJ9wXLksnW",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/dlt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/936727355443343360/tt2nKiAJ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x07e3c70653548b04f0a75970c1f81b4cbbfb606f.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x07e3c70653548b04f0a75970c1f81b4cbbfb606f.png",
+    "ipfs_origin": "QmRmdxBoZJLZtDR6DPhFcSeiNqajaRNv8V2YhWhRzJKddL"
+  },
+  "support": {
+    "email": "support@agrello.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.agrello.org/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/agrellofoundation/",
+    "forum": "https://bitcointalk.org/index.php?topic=1934422.0",
+    "github": "https://github.com/Agrello",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/agrello",
+    "slack": "",
+    "telegram": "https://t.me/agrello",
+    "twitter": "https://twitter.com/AgrelloOfficial",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Agrello",
+      "address": "0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
+      "erc20": {
+        "symbol": "DLT",
+        "decimals": 18,
+        "name": "Agrello"
+      }
+    }
+  ]
+}

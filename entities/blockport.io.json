@@ -1,0 +1,49 @@
+{
+  "name": "Blockport Token",
+  "ens_address": "",
+  "website": "https://blockport.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x327682779bab2bf4d1337e8974ab9de8275a7ca8.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXQzdjQxzsPNxGqPaQsxV6XewNaDriMFiwZWArPDvmYTD",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/bpt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/951770977553305600/rB8nfa1q.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x327682779bab2bf4d1337e8974ab9de8275a7ca8.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/951770977553305600/rB8nfa1q.jpg",
+    "ipfs_origin": "QmPgXRDFWz8ZpF4TCK1bnM8sJB5JH3eAEQ7vwH7F9neKPo"
+  },
+  "support": {
+    "email": "support@blockport.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/blockport",
+    "chat": "https://t.me/blockport",
+    "facebook": "https://facebook.com/blockport",
+    "forum": "https://bitcointalk.org/index.php?topic=2549733",
+    "github": "https://github.com/Blockport/tokensale",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/blockport.io/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Blockport/",
+    "slack": "",
+    "telegram": "https://t.me/blockport",
+    "twitter": "https://twitter.com/Blockportio",
+    "youtube": "https://www.youtube.com/channel/UCdNoOi83qcievKU_T0jOyig"
+  },
+  "eth": [
+    {
+      "name": "Blockport Token",
+      "address": "0x327682779bAB2BF4d1337e8974ab9dE8275A7Ca8",
+      "erc20": {
+        "symbol": "BPT",
+        "decimals": 18,
+        "name": "Blockport Token"
+      }
+    }
+  ]
+}

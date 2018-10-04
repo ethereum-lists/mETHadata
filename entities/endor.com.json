@@ -1,0 +1,48 @@
+{
+  "name": "Endor Protocol Token",
+  "ens_address": "",
+  "website": "https://www.endor.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc528c28fec0a90c083328bc45f587ee215760a0f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSLpnQ28dztZw8APNWGtKLsbEaZzbmYaCCMjj4vHZVBkc",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1005774430285586432/4JySWTrw.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc528c28fec0a90c083328bc45f587ee215760a0f.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc528c28fec0a90c083328bc45f587ee215760a0f.png",
+    "ipfs_origin": "Qmf7y2KFTuu14MW93KGdamkadS9Y16u6YFpYiWm8CCPUD9"
+  },
+  "support": {
+    "email": "info@endor.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@endorcoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Endordotcom-1105921412798077",
+    "forum": "https://bitcointalk.org/index.php?topic=2943168",
+    "github": "https://github.com/EndorCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/endor-software-ltd",
+    "reddit": "https://www.reddit.com/r/EndorCoin/",
+    "slack": "",
+    "telegram": "https://t.me/endorcoinGroup",
+    "twitter": "https://twitter.com/endorprotocol",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Endor Protocol Token",
+      "address": "0xc528c28FEC0A90C083328BC45f587eE215760A0F",
+      "erc20": {
+        "symbol": "EDR",
+        "decimals": 18,
+        "name": "Endor Protocol Token"
+      }
+    }
+  ]
+}

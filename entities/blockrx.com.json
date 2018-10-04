@@ -1,0 +1,47 @@
+{
+  "name": "BlockRx",
+  "ens_address": "",
+  "website": "https://www.blockrx.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVXK32q5Dvg3jA4kL8MHEjfSpnruWLsXb2U62n7BU5pYf",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/888495604128788480/n05WsqXv.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/888495604128788480/n05WsqXv.jpg",
+    "ipfs_origin": "QmPnJuFLWd7Pn1ZXnwRpP7E9DFoiaXqs1pqUhvZgQufte9"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BlockRX",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/blockrxproject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BlockRx",
+      "address": "0x3cf9E0c385a5ABEC9FD2a71790AA344C4e8E3570",
+      "erc20": {
+        "symbol": "BKRx",
+        "decimals": 18,
+        "name": "BlockRx"
+      }
+    }
+  ]
+}

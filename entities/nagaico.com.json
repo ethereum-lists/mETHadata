@@ -1,0 +1,57 @@
+{
+  "name": "NAGA Coin",
+  "ens_address": "",
+  "website": "https://www.nagaico.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmV6EfU1aiNDoP9QQEL2uU265uKQbP46kAcdm3Vh5jMKAb",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ngc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/968572274398978048/gNY9AKhg.jpg"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/ngc.svg",
+    "ipfs_origin": "QmWiyYRiTJiFZAU8HRtRr8zKxS51VJZjNQ1X2dccUsiBHH"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@thenagaico",
+    "chat": "",
+    "facebook": "https://www.facebook.com/thenagaico/",
+    "forum": "https://bitcointalk.org/index.php?topic=2357275.0",
+    "github": "https://github.com/nagadevelopment/contracts",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/nagacoin/",
+    "slack": "",
+    "telegram": "https://t.me/nagaico",
+    "twitter": "https://twitter.com/thenagaico",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NAGA",
+      "address": "0xabFB11De26e9D9a57d3B7620424992310cC8Ca3A",
+      "erc20": {
+        "symbol": "NGC",
+        "decimals": 18,
+        "name": "NAGA"
+      }
+    },
+    {
+      "name": "NAGA Coin",
+      "address": "0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131",
+      "erc20": {
+        "symbol": "NGC",
+        "decimals": 18,
+        "name": "NAGA Coin"
+      }
+    }
+  ]
+}

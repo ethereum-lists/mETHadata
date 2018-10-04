@@ -1,0 +1,48 @@
+{
+  "name": "Delphy Token",
+  "ens_address": "",
+  "website": "https://delphy.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6c2adc2073994fb2ccc5032cc2906fa221e9b391.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTHDhzGhfiaZ44NgR5yV9ELhLQsGCJ8vUp1kY3pKGRxJC",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/941063620959510528/nAPCGRL-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6c2adc2073994fb2ccc5032cc2906fa221e9b391.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6c2adc2073994fb2ccc5032cc2906fa221e9b391.png",
+    "ipfs_origin": "QmRjVVrJFDho52cwSsBCd3MX1vywnZKJyKKwEsCzhcarkZ"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Delphyfoundation/",
+    "forum": "",
+    "github": "https://github.com/DelphyProject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/Delphy_org",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Delphy Token",
+      "address": "0x6C2adC2073994fb2CCC5032cC2906Fa221e9B391",
+      "erc20": {
+        "symbol": "DPY",
+        "decimals": 18,
+        "name": "Delphy Token"
+      }
+    }
+  ]
+}

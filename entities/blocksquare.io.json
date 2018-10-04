@@ -1,0 +1,48 @@
+{
+  "name": "BlocksquareToken",
+  "ens_address": "",
+  "website": "https://blocksquare.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmf3BCbSG3vgG5Z5vgCPRvYHdCpQ2MU1VkUDi325RkvT1t",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1013798240683266048/zRim1x6M.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.png",
+    "ipfs_origin": "Qme25NmUskTQ8FT5oBRHsiSYNVuPKNi6Y3wAPc49EB4CTq"
+  },
+  "support": {
+    "email": "future@blocksquare.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://go.blocksquare.io/medium",
+    "chat": "",
+    "facebook": "http://go.blocksquare.io/facebook",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "http://go.blocksquare.io/reddit",
+    "slack": "",
+    "telegram": "http://go.blocksquare.io/telegram",
+    "twitter": "http://go.blocksquare.io/twitter",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BlocksquareToken",
+      "address": "0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a",
+      "erc20": {
+        "symbol": "BST",
+        "decimals": 18,
+        "name": "BlocksquareToken"
+      }
+    }
+  ]
+}

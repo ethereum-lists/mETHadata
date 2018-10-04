@@ -1,0 +1,49 @@
+{
+  "name": "CVC",
+  "ens_address": "",
+  "website": "https://www.civic.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x41e5560054824ea6b0732e656e3ad64e20e94e45.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSqE4wZWRrCX88j4pCoU7D72gTn6Hmj59p2yMNSH6ePpM",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/cvc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/776531471368527872/1sifB4mh.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x41e5560054824ea6b0732e656e3ad64e20e94e45.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/cvc.svg",
+    "ipfs_origin": "QmUqM1gRkF6pgMM1AxPEwv8MUgg3N4vEkrDUVCYGqCWKoK"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/civictechnologiesinc",
+    "forum": "https://bitcointalk.org/index.php?topic=1942882.0",
+    "github": "https://github.com/civicteam",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/civic-technologies",
+    "reddit": "https://www.reddit.com/r/civicplatform/",
+    "slack": "",
+    "telegram": "https://t.me/civicplatform",
+    "twitter": "https://twitter.com/civickey",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CVC",
+      "address": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
+      "erc20": {
+        "symbol": "CVC",
+        "decimals": 8,
+        "name": "CVC"
+      }
+    }
+  ]
+}

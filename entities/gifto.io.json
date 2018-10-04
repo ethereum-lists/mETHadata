@@ -1,0 +1,49 @@
+{
+  "name": "Gifto",
+  "ens_address": "",
+  "website": "https://gifto.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc5bbae50781be1669306b9e001eff57a2957b09d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcwaAePEEW2Bd4coCjU5Jrr3pBLwz9RbzNZ5SffCxk1YA",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/gto.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1029322853500346369/L7WgWWCx.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc5bbae50781be1669306b9e001eff57a2957b09d.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1029322853500346369/L7WgWWCx.jpg",
+    "ipfs_origin": "QmQ3Xu6A6y6BcfRYZZazKx28VCsVQMHnxjMvc82E4jsMYS"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@GIFTO",
+    "chat": "",
+    "facebook": "https://www.facebook.com/gifto.io/",
+    "forum": "https://bitcointalk.org/index.php?topic=2356301.0",
+    "github": "https://github.com/GIFTO-io",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/GIFTO-io/",
+    "slack": "",
+    "telegram": "https://t.me/GIFTOOfficial",
+    "twitter": "https://twitter.com/GIFTO_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Gifto",
+      "address": "0xC5bBaE50781Be1669306b9e001EFF57a2957b09d",
+      "erc20": {
+        "symbol": "GTO",
+        "decimals": 5,
+        "name": "Gifto"
+      }
+    }
+  ]
+}

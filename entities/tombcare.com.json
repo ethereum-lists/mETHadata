@@ -1,0 +1,49 @@
+{
+  "name": "Token CARE",
+  "ens_address": "",
+  "website": "https://tombcare.com/",
+  "logo": {
+    "src": "https://tombcare.com/images/logo.png",
+    "width": "45",
+    "height": "45",
+    "ipfs_hash": "Qmd9re1xZS43tMvPXuWUF487H23fvHFNj3aJAsXXSLGq1q",
+    "sources": {
+      "token-list": "https://tombcare.com/images/logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/910611196247756801/snHJAll5.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbf18f246b9301f231e9561b35a3879769bb46375.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/910611196247756801/snHJAll5.jpg",
+    "ipfs_origin": "QmekAFxXvj7URyZG2LXFxS7WT67tB3L2KYSn7mHAeWN1RU"
+  },
+  "support": {
+    "email": "support@tombcare.com",
+    "url": "https://t.me/tombcare"
+  },
+  "social": {
+    "blog": "https://medium.com/tombcare",
+    "chat": "https://t.me/tombcare",
+    "facebook": "https://www.facebook.com/TombCare/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/tombcare/",
+    "slack": "",
+    "telegram": "https://t.me/tombcare",
+    "twitter": "https://twitter.com/TombCare",
+    "youtube": "https://www.youtube.com/channel/UCCzBf2groMdCzeE4akKwRpA"
+  },
+  "eth": [
+    {
+      "name": "Token CARE",
+      "address": "0xbF18F246B9301F231e9561B35A3879769BB46375",
+      "erc20": {
+        "symbol": "CARE",
+        "decimals": 18,
+        "name": "Token CARE"
+      }
+    }
+  ]
+}

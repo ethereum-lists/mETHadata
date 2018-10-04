@@ -1,0 +1,48 @@
+{
+  "name": "ACE Token",
+  "ens_address": "",
+  "website": "https://tokenstars.com/ace/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x06147110022b768ba8f99a8f385df11a151a9cc8.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmaw2ZDtRA6JHGc23gp1TYZcdtnf5YxYpisR8xb6GGSDFw",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/915688240954445824/396mUhjg.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x06147110022b768ba8f99a8f385df11a151a9cc8.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/915688240954445824/396mUhjg.jpg",
+    "ipfs_origin": "QmWz5h15HBH36a3fLPBxeK7pjrZAfLHPiThM5NcnSQGfHJ"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TokenStars/",
+    "forum": "",
+    "github": "https://github.com/tokenstars/ace-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TokenStars/",
+    "slack": "",
+    "telegram": "https://t.me/TokenStars_en",
+    "twitter": "https://twitter.com/TokenStars",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ACE Token",
+      "address": "0x06147110022B768BA8F99A8f385df11a151A9cc8",
+      "erc20": {
+        "symbol": "ACE",
+        "decimals": 0,
+        "name": "ACE Token"
+      }
+    }
+  ]
+}

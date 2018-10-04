@@ -1,0 +1,48 @@
+{
+  "name": "PronCoin",
+  "ens_address": "",
+  "website": "https://proncoin.io",
+  "logo": {
+    "src": "https://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB_400x400.jpg",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": "QmPmLqZ78kKy13gk16T6FjC1ogCGBiGziJ2TsmcP3x3emg",
+    "sources": {
+      "token-list": "https://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB_400x400.jpg",
+      "twitter": "http://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB.jpg"
+    },
+    "sourceBest": "src",
+    "origin": "https://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB_400x400.jpg",
+    "ipfs_origin": "QmNyaYDUrpnCYDJrbyiRxSV7CnZDzTnZ15Zo3YNL61HTPY"
+  },
+  "support": {
+    "email": "support@proncoin.io",
+    "url": "https://proncoin.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/PronCoin-914325038734407",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/PronCoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "PronCoin",
+      "address": "0xA3149E0fA0061A9007fAf307074cdCd290f0e2Fd",
+      "erc20": {
+        "symbol": "PRON",
+        "decimals": 8,
+        "name": "PronCoin"
+      }
+    }
+  ]
+}

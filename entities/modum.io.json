@@ -1,0 +1,49 @@
+{
+  "name": "Modum",
+  "ens_address": "",
+  "website": "https://modum.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmW6GXsW41XeLWeNzH5xr75aXAr4pdx6uiZvkMujqbwKiM",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/mod.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1031819039243419648/9a1fcFNr.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e.png",
+    "ipfs_origin": "QmakLw7n5RhX6iUg4hgJppGFB584anbtb6Lo1c7brmoAYF"
+  },
+  "support": {
+    "email": "token@modum.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/modum-io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/modum.io",
+    "forum": "",
+    "github": "https://github.com/modum-io",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/modum.io-ag/",
+    "reddit": "https://www.reddit.com/r/modum_io",
+    "slack": "https://modum-token.slack.com",
+    "telegram": "https://t.me/joinchat/GOpSHUkujWHJ_D_AXK8WQA",
+    "twitter": "https://twitter.com/modum_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Modum",
+      "address": "0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e",
+      "erc20": {
+        "symbol": "MOD",
+        "decimals": 0,
+        "name": "Modum"
+      }
+    }
+  ]
+}

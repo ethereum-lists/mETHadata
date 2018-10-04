@@ -1,0 +1,47 @@
+{
+  "name": "LifeRun Coin",
+  "ens_address": "",
+  "website": "https://www.liferun.cc",
+  "logo": {
+    "src": "https://www.liferun.cc/static/LRF/images/liferun-logo28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmX2JtntXynSS4en2L2PSNep41Tk9sSnJzCdAakPLYkhAW",
+    "sources": {
+      "token-list": "https://www.liferun.cc/static/LRF/images/liferun-logo28.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://www.liferun.cc/static/LRF/images/liferun-logo28.png",
+    "ipfs_origin": "QmQUnDPL6wWWcEPyMkRbFNXSvYHj3c5S4i6jRfx1cq4JCT"
+  },
+  "support": {
+    "email": "support@liferun.cc",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "LifeRun Coin",
+      "address": "0xc798cd1c49db0E297312E4c682752668CE1dB2AD",
+      "erc20": {
+        "symbol": "LFR",
+        "decimals": 5,
+        "name": "LifeRun Coin"
+      }
+    }
+  ]
+}

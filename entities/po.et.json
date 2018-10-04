@@ -1,0 +1,49 @@
+{
+  "name": "Po.et Tokens",
+  "ens_address": "",
+  "website": "https://po.et",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcUXdYoG14vYc2BfRJVdLTLc9DAQRBTyUg1WcxVrbRKHH",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/poe.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/961010646778183680/q7GkdGYV.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195.png",
+    "ipfs_origin": "QmUxEanQYRNFJWH4oPVavbwaHb1xbqe7ARmfQsAxJGRFud"
+  },
+  "support": {
+    "email": "contact@po.et",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.po.et",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/poetapp",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/poetproject/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GKMQ1kOQSdXVZpN1Rygcdw",
+    "twitter": "https://twitter.com/_poetproject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Po.et Tokens",
+      "address": "0x0e0989b1f9B8A38983c2BA8053269Ca62Ec9B195",
+      "erc20": {
+        "symbol": "POE",
+        "decimals": 8,
+        "name": "Po.et Tokens"
+      }
+    }
+  ]
+}

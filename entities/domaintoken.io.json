@@ -1,0 +1,42 @@
+{
+  "name": "DomainToken",
+  "ens_address": "",
+  "website": "http://www.domaintoken.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DomainToken",
+      "address": "0x30Aee7F259d6D1564ebEf457847c672B30f13cbC",
+      "erc20": {
+        "symbol": "DOM",
+        "decimals": 0,
+        "name": "DomainToken"
+      }
+    }
+  ]
+}

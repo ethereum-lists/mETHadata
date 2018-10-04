@@ -1,0 +1,49 @@
+{
+  "name": "ARTWOOK COIN",
+  "ens_address": "",
+  "website": "https://artwook.com",
+  "logo": {
+    "src": "https://artwook.com/logo/akc-line.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": "QmZPKWKfCHMUWSc1pkb8BogBHDpBikTVb6zyNDrEhrfNsU",
+    "sources": {
+      "token-list": "https://artwook.com/logo/akc-line.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1022418835901538304/t1DNAiIs.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1ca43a170bad619322e6f54d46b57e504db663aa.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://artwook.com/logo/akc-line.png",
+    "ipfs_origin": "QmNzweQ7TMe5PUsHeGhBpCsEdR9xNPU6Fmrg8hYLqFHrk9"
+  },
+  "support": {
+    "email": "contact@artwook.com",
+    "url": "https://artwook.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ArtWook-2029005760759166",
+    "forum": "",
+    "github": "https://github.com/artwook",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/artwook",
+    "twitter": "https://twitter.com/artwook_akc",
+    "youtube": "https://www.youtube.com/watch?v=TJn_TojlmHI"
+  },
+  "eth": [
+    {
+      "name": "ARTWOOK COIN",
+      "address": "0x1Ca43a170BaD619322e6f54d46b57e504dB663aA",
+      "erc20": {
+        "symbol": "AKC",
+        "decimals": 18,
+        "name": "ARTWOOK COIN"
+      }
+    }
+  ]
+}

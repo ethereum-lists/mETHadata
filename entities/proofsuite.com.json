@@ -1,0 +1,58 @@
+{
+  "name": "Proof",
+  "ens_address": "",
+  "website": "https://www.proofsuite.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmU8drLpVtmhePGCpZaMJUEFC9LbhmV4LbbDnNngHUX7Eg",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ppt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/872664039448469504/uFw8Nu8c.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/872664039448469504/uFw8Nu8c.jpg",
+    "ipfs_origin": "QmQ41wj524EHpAMobJ6Azvr4AuSrVksJbGiPSaGu6MHcDk"
+  },
+  "support": {
+    "email": "hello@proofsuite.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/proofsuite/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company-beta/13257690/",
+    "reddit": "https://twitter.com/proofsuite",
+    "slack": "http://slack.proofsuite.com/",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Proof",
+      "address": "0xC5ceA8292e514405967D958c2325106f2f48dA77",
+      "erc20": {
+        "symbol": "PRFT",
+        "decimals": 18,
+        "name": "Proof"
+      }
+    },
+    {
+      "name": "Proof Presale Token",
+      "address": "0x2469f31A34FCaAc0debf73806cE39B2388874B13",
+      "erc20": {
+        "symbol": "PPT",
+        "decimals": 18,
+        "name": "Proof Presale Token"
+      },
+      "url": "http://www.proofsuite.com/presale/"
+    }
+  ]
+}

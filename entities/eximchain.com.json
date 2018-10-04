@@ -1,0 +1,48 @@
+{
+  "name": "Eximchain ",
+  "ens_address": "",
+  "website": "https://www.eximchain.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x00c4b398500645eb5da00a1a379a88b11683ba01.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYjZ6N3wttCQLUWF465S572A4y8G3PDFRbrLt1UB4Ykuj",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/938115639650193413/HRnaKIKp.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x00c4b398500645eb5da00a1a379a88b11683ba01.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/938115639650193413/HRnaKIKp.jpg",
+    "ipfs_origin": "QmV3xBCLddy6tjf8SSd4fbK9ELi457kBQcXU6TGhCSke8E"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/eximchain/",
+    "forum": "",
+    "github": "https://github.com/eximchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/EximChain/",
+    "slack": "",
+    "telegram": "https://t.me/eximchain",
+    "twitter": "https://twitter.com/EximchainEXC",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Eximchain ",
+      "address": "0x00c4B398500645eb5dA00a1a379a88B11683ba01",
+      "erc20": {
+        "symbol": "EXC",
+        "decimals": 18,
+        "name": "Eximchain "
+      }
+    }
+  ]
+}

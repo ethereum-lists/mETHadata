@@ -1,0 +1,47 @@
+{
+  "name": "Intelligent Transportation System",
+  "ens_address": "",
+  "website": "http://www.itschain.cn",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd784da5c740c617aafb80399fa81b86e1da99a5.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmfFXbQt7N9ixNbPZNmrrMh8Z48Zs8VYGuKymiLH6b6asx",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd784da5c740c617aafb80399fa81b86e1da99a5.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd784da5c740c617aafb80399fa81b86e1da99a5.png",
+    "ipfs_origin": "QmWBZBTNxksdCBUxgCTferjDwe8L7f4Mfx62au22eZuCTp"
+  },
+  "support": {
+    "email": "itschain01@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Intelligent Transportation System",
+      "address": "0xfd784DA5c740c617AAFB80399fa81B86e1Da99a5",
+      "erc20": {
+        "symbol": "ITS",
+        "decimals": 8,
+        "name": "Intelligent Transportation System"
+      }
+    }
+  ]
+}

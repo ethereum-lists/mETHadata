@@ -1,0 +1,49 @@
+{
+  "name": "Golem",
+  "ens_address": "",
+  "website": "https://golem.network",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa74476443119a942de498590fe1f2454d7d4ac0d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTEaWnYWjSYZc7m9YQV6UPQgoRFzDM71LgvsL5iajPvKA",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/gnt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1015197751997583361/U-486dPh.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa74476443119a942de498590fe1f2454d7d4ac0d.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1015197751997583361/U-486dPh.jpg",
+    "ipfs_origin": "QmNMCDCwHMxNVQJ59x6n6ymdLLxZoijtfUnxQjuogffTor"
+  },
+  "support": {
+    "email": "contact@golemproject.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.golemproject.net",
+    "chat": "https://chat.golem.network/home",
+    "facebook": "https://www.facebook.com/golemproject/",
+    "forum": "https://bitcointalk.org/index.php?topic=1655002.0",
+    "github": "https://github.com/golemfactory/golem",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/17948664/",
+    "reddit": "https://www.reddit.com/r/GolemProject/",
+    "slack": "https://golemproject.org:3000",
+    "telegram": "https://t.me/GolemProject",
+    "twitter": "https://twitter.com/golemproject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Golem",
+      "address": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d",
+      "erc20": {
+        "symbol": "GNT",
+        "decimals": 18,
+        "name": "Golem"
+      }
+    }
+  ]
+}

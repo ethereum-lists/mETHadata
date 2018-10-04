@@ -1,0 +1,47 @@
+{
+  "name": "RCT",
+  "ens_address": "",
+  "website": "http://www.rcfund.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a3aa9eca41e720ed46b5a70d6c37efa47f768ac.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmT7ogS5m6Utf4EcfZyvUMkdroYAQzQPqqhJQE544zfjg4",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a3aa9eca41e720ed46b5a70d6c37efa47f768ac.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a3aa9eca41e720ed46b5a70d6c37efa47f768ac.png",
+    "ipfs_origin": "QmT9A4EZCda1uBkhJgJejvBdgvd4779NfMPvCBXoXghBAG"
+  },
+  "support": {
+    "email": "martin@rcfund.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "RCT",
+      "address": "0x2a3Aa9ECA41E720Ed46B5A70D6C37EfA47f768Ac",
+      "erc20": {
+        "symbol": "RCT",
+        "decimals": 18,
+        "name": "RCT"
+      }
+    }
+  ]
+}

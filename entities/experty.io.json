@@ -1,0 +1,48 @@
+{
+  "name": "Experty",
+  "ens_address": "",
+  "website": "https://experty.io/en",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5c743a35e903f6c584514ec617acee0611cf44f3.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmU4tcCoLeCc4PAYNAKvUoo6KmMQMs1HvhGWbAQXyRNAfn",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/890240504570490882/iFe4YlDF.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5c743a35e903f6c584514ec617acee0611cf44f3.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5c743a35e903f6c584514ec617acee0611cf44f3.png",
+    "ipfs_origin": "QmQhzbW6mHewCnowAABAtLBfy6fbd4Bph8daWgQ2Z3FQA4"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@experty_io",
+    "chat": "",
+    "facebook": "https://web.facebook.com/experty.io",
+    "forum": "https://bitcointalk.org/index.php?topic=2337020.0",
+    "github": "https://github.com/Experty",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/experty/",
+    "slack": "",
+    "telegram": "https://t.me/experty_io",
+    "twitter": "https://twitter.com/experty_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Experty",
+      "address": "0x5c743a35E903F6c584514ec617ACEe0611Cf44f3",
+      "erc20": {
+        "symbol": "EXY",
+        "decimals": 18,
+        "name": "Experty"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Medical Token Currency",
+  "ens_address": "",
+  "website": "https://ico.docademic.com/",
+  "logo": {
+    "src": "https://cdn.docademic.com/images/ico/mtc200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": "QmeziYCjQgWVinRENpSD6iuAsLVQpJdykueJ8n1NvvpM64",
+    "sources": {
+      "token-list": "https://cdn.docademic.com/images/ico/mtc200.png",
+      "twitter": "http://pbs.twimg.com/profile_images/912801065614970880/AbcMTjxS.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x905e337c6c8645263d3521205aa37bf4d034e745.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://cdn.docademic.com/images/ico/mtc200.png",
+    "ipfs_origin": "QmST9bPS6DhBJT3bYXGRY7SeZBXETBHsTucm74wPVMBHcq"
+  },
+  "support": {
+    "email": "support@docademic.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://news.docademic.com",
+    "chat": "",
+    "facebook": "https://www.facebook.com/docademic",
+    "forum": "https://bitcointalk.org/index.php?topic=2757588.0",
+    "github": "https://github.com/Docademic",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/docademic/",
+    "linkedin": "https://www.linkedin.com/company/doctordice/",
+    "reddit": "https://www.reddit.com/user/Docademic/",
+    "slack": "",
+    "telegram": "https://t.me/docademicofficial",
+    "twitter": "https://twitter.com/docademic",
+    "youtube": "https://www.youtube.com/channel/UCnF48IoeGNu6P78ABB2XhSw/videos?view_as=subscriber"
+  },
+  "eth": [
+    {
+      "name": "Medical Token Currency",
+      "address": "0x905E337c6c8645263D3521205Aa37bf4d034e745",
+      "erc20": {
+        "symbol": "MTC",
+        "decimals": 18,
+        "name": "Medical Token Currency"
+      }
+    }
+  ]
+}

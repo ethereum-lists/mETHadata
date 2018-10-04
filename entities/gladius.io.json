@@ -1,0 +1,48 @@
+{
+  "name": "Gladius Token",
+  "ens_address": "",
+  "website": "https://gladius.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x71d01db8d6a2fbea7f8d434599c237980c234e4c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmT82LYDzJLakTVp8g7xqMGipANmACScdZ8oqCRKi5K5cT",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1030537150209523712/p4tQr9x3.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x71d01db8d6a2fbea7f8d434599c237980c234e4c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x71d01db8d6a2fbea7f8d434599c237980c234e4c.png",
+    "ipfs_origin": "QmQWaRfP11LCRMP3eTS1ikKXjfFwJ1tP5gjviC1HspbKrn"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/gladiusio",
+    "forum": "",
+    "github": "https://github.com/gladiusio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/GladiusNetwork/",
+    "slack": "",
+    "telegram": "http://t.me/gladiusio",
+    "twitter": "https://twitter.com/gladiusio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Gladius Token",
+      "address": "0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C",
+      "erc20": {
+        "symbol": "GLA",
+        "decimals": 8,
+        "name": "Gladius Token"
+      }
+    }
+  ]
+}

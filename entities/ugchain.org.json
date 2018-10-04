@@ -1,0 +1,48 @@
+{
+  "name": "UG Token",
+  "ens_address": "",
+  "website": "http://ugchain.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x43ee79e379e7b78d871100ed696e803e7893b644.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcdtRRiTZ3AxT83bY613UEJ7ZD76LZJf6LWSRffSx6nDn",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/950208589230059521/nobnTOkI.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x43ee79e379e7b78d871100ed696e803e7893b644.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/950208589230059521/nobnTOkI.jpg",
+    "ipfs_origin": "QmWk84TyQQtpvBfC6gGHpCdcGiUsK8581comAgUcrGLF7D"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ugChain",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ugChain/",
+    "slack": "",
+    "telegram": "https://t.me/ugChainOfficial",
+    "twitter": "https://twitter.com/ugChain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "UG Token",
+      "address": "0x43eE79e379e7b78D871100ed696e803E7893b644",
+      "erc20": {
+        "symbol": "UGT",
+        "decimals": 18,
+        "name": "UG Token"
+      }
+    }
+  ]
+}

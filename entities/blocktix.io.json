@@ -1,0 +1,49 @@
+{
+  "name": "Blocktix",
+  "ens_address": "",
+  "website": "https://www.blocktix.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea1f346faf023f974eb5adaf088bbcdf02d761f4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYrBg7ckRra8neX7BfJXWVgWdtLUsESeWkwPBHLPAFnCW",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/tix.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/780329487737257984/V8993xli.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea1f346faf023f974eb5adaf088bbcdf02d761f4.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea1f346faf023f974eb5adaf088bbcdf02d761f4.png",
+    "ipfs_origin": "Qmapx38ge8PCejhfkvDHWv2gW2euVYEdREXhpVaQ1MVKrC"
+  },
+  "support": {
+    "email": "info@blocktix.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@Blocktix",
+    "chat": "",
+    "facebook": "https://www.facebook.com/blocktix/",
+    "forum": "https://bitcointalk.org/index.php?topic=1764196.0",
+    "github": "https://github.com/blocktix",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18145098/",
+    "reddit": "https://www.reddit.com/r/blocktix/",
+    "slack": "https://slack.blocktix.io",
+    "telegram": "",
+    "twitter": "https://twitter.com/blocktix",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Blocktix",
+      "address": "0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4",
+      "erc20": {
+        "symbol": "TIX",
+        "decimals": 18,
+        "name": "Blocktix"
+      }
+    }
+  ]
+}

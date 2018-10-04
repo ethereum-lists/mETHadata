@@ -1,0 +1,53 @@
+{
+  "name": "Back to Earth",
+  "ens_address": "",
+  "website": "https://backto.earth",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/915970822321274880/o3Oj0sOK.jpg"
+    }
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/backtoearthproductions",
+    "forum": "https://bitcointalk.org/index.php?topic=1759190.0",
+    "github": "https://github.com/sprux/BackToEarth",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/_backtoearth",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GTKT",
+      "address": "0x025abAD9e518516fdaAFBDcdB9701b37fb7eF0FA",
+      "erc20": {
+        "symbol": "GTKT",
+        "decimals": 0,
+        "name": "GTKT"
+      }
+    },
+    {
+      "name": "STRC",
+      "address": "0x46492473755e8dF960F8034877F61732D718CE96",
+      "erc20": {
+        "symbol": "STRC",
+        "decimals": 8,
+        "name": "STRC"
+      }
+    }
+  ]
+}

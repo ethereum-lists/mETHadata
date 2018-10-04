@@ -1,0 +1,48 @@
+{
+  "name": "Centra token",
+  "ens_address": "",
+  "website": "https://www.centra.tech",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x96a65609a7b84e8842732deb08f56c3e21ac6f8a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmURmZDsT1gPT77N7zBjM5eo8m7NwpEAD5zL1EDzMKudm1",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1025423240582320131/pzV4De6v.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x96a65609a7b84e8842732deb08f56c3e21ac6f8a.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1025423240582320131/pzV4De6v.jpg",
+    "ipfs_origin": "QmV7nuYUcXoMfAdcvXVyGMF2vnfqC1YYMSSKSGkuqwrjqj"
+  },
+  "support": {
+    "email": "upport@centra.tech",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CentraCard",
+    "forum": "",
+    "github": "https://github.com/CentraTech",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/11201140/",
+    "reddit": "https://www.reddit.com/r/CentraTech/",
+    "slack": "",
+    "telegram": "https://t.me/centratech",
+    "twitter": "https://twitter.com/Centra_Card",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Centra token",
+      "address": "0x96A65609a7B84E8842732DEB08f56C3E21aC6f8a",
+      "erc20": {
+        "symbol": "Centra",
+        "decimals": 18,
+        "name": "Centra token"
+      }
+    }
+  ]
+}

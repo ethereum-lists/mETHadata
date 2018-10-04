@@ -1,0 +1,42 @@
+{
+  "name": "ethPoker",
+  "ens_address": "",
+  "website": "https://ethpoker.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "admin@ethpoker.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ethPoker",
+      "address": "0x473319898464Ca640Af692A0534175981AB78Aa1",
+      "erc20": {
+        "symbol": "PKT",
+        "decimals": 4,
+        "name": "ethPoker"
+      }
+    }
+  ]
+}

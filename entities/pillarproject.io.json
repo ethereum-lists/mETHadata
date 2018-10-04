@@ -1,0 +1,49 @@
+{
+  "name": "Pillar Project",
+  "ens_address": "",
+  "website": "https://www.pillarproject.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3818504c1b32bf1557b16c238b2e01fd3149c17.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmViAjtkwKsUeHps1f4SgT3RGn9jWVzF7Au9Lpnc2QHTKY",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/plr.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/940934996143038464/JgDrxaF3.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3818504c1b32bf1557b16c238b2e01fd3149c17.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3818504c1b32bf1557b16c238b2e01fd3149c17.png",
+    "ipfs_origin": "QmRjFcvZ1bsmD5Gh42Uwjp7Prm2fg5Nuq7pxL5KSSaj2oG"
+  },
+  "support": {
+    "email": "info@pillarproject.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@pullnews",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2048187",
+    "github": "https://github.com/twentythirty/PillarToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/pillarproject/",
+    "reddit": "https://www.reddit.com/r/PillarProject/",
+    "slack": "https://pillarproject.slack.com",
+    "telegram": "https://t.me/joinchat/FWJrO0NziLGZZQeDPaykPQ",
+    "twitter": "https://twitter.com/PillarWallet",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Pillar Project",
+      "address": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
+      "erc20": {
+        "symbol": "PLR",
+        "decimals": 18,
+        "name": "Pillar Project"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "AstroTokens",
+  "ens_address": "",
+  "website": "https://www.astronaut.capital/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7b22938ca841aa392c93dbb7f4c42178e3d65e88.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSpwXKxSakr8Ug9LuZz8mjP5RXb6ocYDkRjh7cqy4ij6r",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/900323313158832128/SR7p6byK.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7b22938ca841aa392c93dbb7f4c42178e3d65e88.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/900323313158832128/SR7p6byK.jpg",
+    "ipfs_origin": "QmdNCQAjH4X76LQpGk6yqyivPpiiVE5znLC5nmkXXie32h"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/astronautcap/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/astronautcapital/",
+    "slack": "",
+    "telegram": "https://t.me/astroico",
+    "twitter": "https://twitter.com/astronautcap",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AstroTokens",
+      "address": "0x7B22938ca841aA392C93dBB7f4c42178E3d65E88",
+      "erc20": {
+        "symbol": "ASTRO",
+        "decimals": 4,
+        "name": "AstroTokens"
+      }
+    }
+  ]
+}

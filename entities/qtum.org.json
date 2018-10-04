@@ -1,0 +1,49 @@
+{
+  "name": "Qtum",
+  "ens_address": "",
+  "website": "https://qtum.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a642d6b3368ddc662ca244badf32cda716005bc.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNvAy1Fn33sfoUjJXwwAHbQ8GH61BiM772qxQDd1Z19dv",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/qtum.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/923454462965858306/9e17rwRG.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a642d6b3368ddc662ca244badf32cda716005bc.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a642d6b3368ddc662ca244badf32cda716005bc.png",
+    "ipfs_origin": "QmY7C9qBFovAcbf25sFUokNjQAg7YHQExYKWZanLA7ucth"
+  },
+  "support": {
+    "email": "foundation@qtum.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://qtum.org/en/blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/QtumOfficial/",
+    "forum": "https://forum.qtum.org/",
+    "github": "https://github.com/qtumproject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Qtum/",
+    "slack": "https://qtumslack.herokuapp.com/",
+    "telegram": "https://t.me/joinchat/D5oBaw29NeOdpw6qqqf2lw",
+    "twitter": "https://twitter.com/QtumOfficial",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Qtum",
+      "address": "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC",
+      "erc20": {
+        "symbol": "QTUM",
+        "decimals": 18,
+        "name": "Qtum"
+      }
+    }
+  ]
+}

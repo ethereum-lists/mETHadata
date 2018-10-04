@@ -1,0 +1,48 @@
+{
+  "name": "BNC",
+  "ens_address": "",
+  "website": "https://bravenewcoin.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6bf56ca2ada24c683fac50e37783e55b57af9f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaPFCNpXL3KwCRyPKFwPh875d1ShMShuu4e3hDaGnmUEz",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/997244483786887168/bJv4gCRL.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6bf56ca2ada24c683fac50e37783e55b57af9f.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6bf56ca2ada24c683fac50e37783e55b57af9f.png",
+    "ipfs_origin": "QmVbCbhqCGsgGCAV58pghFAbaW1viMWUdQXouLpTJqXoXX"
+  },
+  "support": {
+    "email": "contact@bravenewcoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bravenewcoin/?ref=br_rs",
+    "forum": "https://bitcointalk.org/index.php?topic=456248.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/4853730/",
+    "reddit": "https://www.reddit.com/r/BraveNewCoin/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/bravenewcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BNC",
+      "address": "0xdD6Bf56CA2ada24c683FAC50E37783e55B57AF9F",
+      "erc20": {
+        "symbol": "BNC",
+        "decimals": 12,
+        "name": "BNC"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "DAB",
+  "ens_address": "",
+  "website": "https://dabco.in",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "support@dabco.in",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DAB",
+      "address": "0xdab0C31BF34C897Fb0Fe90D12EC9401caf5c36Ec",
+      "erc20": {
+        "symbol": "DAB",
+        "decimals": 0,
+        "name": "DAB"
+      }
+    }
+  ]
+}

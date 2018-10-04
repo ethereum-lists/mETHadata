@@ -1,0 +1,47 @@
+{
+  "name": "Limit",
+  "ens_address": "",
+  "website": "http://www.limit-token.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcYfJAeKxkg5x6uLaCvjuEgqkRS51UwPUzoX7hzEEksXB",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/919573035228782592/_4I_BDQd.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/919573035228782592/_4I_BDQd.jpg",
+    "ipfs_origin": "QmQ1mBRNCJdRgBggw7RC7dp7BerBTwF7G7GY91So9aaAuf"
+  },
+  "support": {
+    "email": "info@limit-token.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/Limittoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Limit",
+      "address": "0xDdEd69d8e28d38d640f6244ab5294f309fd40cE1",
+      "erc20": {
+        "symbol": "LMT",
+        "decimals": 8,
+        "name": "Limit"
+      }
+    }
+  ]
+}

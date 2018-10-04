@@ -1,0 +1,48 @@
+{
+  "name": "BET",
+  "ens_address": "",
+  "website": "https://dao.casino",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXnnKUxXCrtkDysmT9TZXAkjR4UbroAy2ag45ZpXsUGPc",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1043094194582171649/GbYSpdiK.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2.png",
+    "ipfs_origin": "Qmd46527dK6NT6EgG17FVXtoAcHJX1DcZXxYJEbFWH9go5"
+  },
+  "support": {
+    "email": "team@dao.casino",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@dao.casino",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Dao.casino",
+    "forum": "https://bitcointalk.org/index.php?topic=1928183.0",
+    "github": "https://github.com/daocasino",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/17953958/",
+    "reddit": "https://www.reddit.com/r/DaoCasino/",
+    "slack": "https://dao.casino/slack-invite.html",
+    "telegram": "https://t.me/daocasino",
+    "twitter": "https://twitter.com/daocasino",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BET",
+      "address": "0x8aA33A7899FCC8eA5fBe6A608A109c3893A1B8b2",
+      "erc20": {
+        "symbol": "BET",
+        "decimals": 18,
+        "name": "BET"
+      }
+    }
+  ]
+}

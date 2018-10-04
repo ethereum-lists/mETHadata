@@ -1,0 +1,42 @@
+{
+  "name": "jdini",
+  "ens_address": "",
+  "website": "https://jdini.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "jdi@jdini.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://discordapp.com/invite/wnBD4Kc",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "jdini",
+      "address": "0x6b9e8076a536459303DB301Ba4430913a7f14C5a",
+      "erc20": {
+        "symbol": "JDI",
+        "decimals": 2,
+        "name": "jdini"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Distributed Credit Chain",
+  "ens_address": "",
+  "website": "http://dcc.finance",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffa93aacf49297d51e211817452839052fdfb961.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSPgRcXK4yK2NpqF1Pe53sdWCPs1ojMr9zeAVMySV13E4",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/963602785903132672/qeyiwzUy.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffa93aacf49297d51e211817452839052fdfb961.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/963602785903132672/qeyiwzUy.jpg",
+    "ipfs_origin": "QmWpVKFUKraKP5JsP8LGFACb6TLZEn2y57GPtZPCh7p7Z6"
+  },
+  "support": {
+    "email": "contact@dcc.finance",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Distributed-Credit-Chain-425721787866299/",
+    "forum": "",
+    "github": "https://github.com/DistributedBanking/DCC",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/dccofficial/",
+    "slack": "",
+    "telegram": "https://t.me/DccOfficial",
+    "twitter": "https://twitter.com/DccOfficial2018/",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Distributed Credit Chain",
+      "address": "0xFFa93Aacf49297D51E211817452839052FDFB961",
+      "erc20": {
+        "symbol": "DCC",
+        "decimals": 18,
+        "name": "Distributed Credit Chain"
+      }
+    }
+  ]
+}

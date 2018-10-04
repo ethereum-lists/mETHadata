@@ -1,0 +1,47 @@
+{
+  "name": "Donation Efficiency Token",
+  "ens_address": "",
+  "website": "https://www.donationefficiency.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmfHDi8P5c5DTsL99BfktDeJm9Dy9htAfaZMa9J4D4tfB8",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/893582069007138816/9pdMKSBi.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/893582069007138816/9pdMKSBi.jpg",
+    "ipfs_origin": "QmXMH8zP6MTWnmgb1a877qsnKzWy31DoXB6KBEb4Z2Rudp"
+  },
+  "support": {
+    "email": "donationefficiency@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/DONE_Token",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Donation Efficiency Token",
+      "address": "0x91126CFA7dB2983527B0B749CC8a61fdeFFeDC28",
+      "erc20": {
+        "symbol": "DONE",
+        "decimals": 16,
+        "name": "Donation Efficiency Token"
+      }
+    }
+  ]
+}

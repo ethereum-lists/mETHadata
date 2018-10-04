@@ -1,0 +1,49 @@
+{
+  "name": "ANT",
+  "ens_address": "",
+  "website": "https://aragon.one/network",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x960b236a07cf122663c4303350609a66a7b288c0.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbExfpR5s5RrzLYWQkG4thJb5JHrZgJ7rPnefYymXPvJK",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ant.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/828669925996781569/4clLqawr.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x960b236a07cf122663c4303350609a66a7b288c0.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/ant.svg",
+    "ipfs_origin": "QmYAAUgbAAw8mYWZwsXrLJt9EMeeKtTYnVYt9uLAhrkmSg"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.aragon.one/",
+    "chat": "https://aragon.chat/home",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/aragon",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/aragonproject/",
+    "reddit": "https://www.reddit.com/r/aragonproject/",
+    "slack": "",
+    "telegram": "https://t.me/AragonProject",
+    "twitter": "https://twitter.com/AragonProject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ANT",
+      "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+      "erc20": {
+        "symbol": "ANT",
+        "decimals": 18,
+        "name": "ANT"
+      }
+    }
+  ]
+}

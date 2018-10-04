@@ -1,0 +1,50 @@
+{
+  "name": "Telex",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://telexai.com",
+  "logo": {
+    "src": "http://telexai.com/img/tlxlogo.png",
+    "width": "656px",
+    "height": "656px",
+    "ipfs_hash": "QmPKPvsTs1zwTmSEzcDimCBuTd4cpHSQFDH7AcNJpmUTQu",
+    "sources": {
+      "token-list": "http://telexai.com/img/tlxlogo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/917841551732232192/xptILVqY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb3616550abc8af79c7a5902def9efa3bc9a95200.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb3616550abc8af79c7a5902def9efa3bc9a95200.png",
+    "ipfs_origin": "QmUFb6mnHyYAWusHbVMQcW9bpxpzuW2nkEMjzhkK5goK85"
+  },
+  "support": {
+    "email": "info@telexai.com",
+    "url": "https://t.me/telexai"
+  },
+  "social": {
+    "blog": "https://medium.com/telexai",
+    "chat": "",
+    "facebook": "https://www.facebook.com/telexai",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/telexai",
+    "twitter": "https://twitter.com/telex_ai",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Telex",
+      "address": "0xb3616550aBc8AF79c7A5902DEF9Efa3bC9A95200",
+      "erc20": {
+        "symbol": "TLX",
+        "decimals": 8,
+        "name": "Telex"
+      }
+    }
+  ]
+}

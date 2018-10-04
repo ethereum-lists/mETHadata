@@ -1,0 +1,49 @@
+{
+  "name": "ELYCOIN",
+  "ens_address": "",
+  "website": "https://elycoin.io",
+  "logo": {
+    "src": "https://elycoin.io/assets/images/ely128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": "QmXJCrAV4Myggm5W87puPnQdotgk5cTw8iTwtfdsAgnwPq",
+    "sources": {
+      "token-list": "https://elycoin.io/assets/images/ely128.png",
+      "twitter": "http://pbs.twimg.com/profile_images/983543811233136640/xhoVdAp9.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa95592dcffa3c080b4b40e459c5f5692f67db7f8.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa95592dcffa3c080b4b40e459c5f5692f67db7f8.png",
+    "ipfs_origin": "QmZJAdNmMe4Szfz4Cse2RitbobNV9PvhyU4qppP3shXW3H"
+  },
+  "support": {
+    "email": "support@elycoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@Elysian_Ely",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ElysianxELY",
+    "forum": "https://forum.elycoin.io/",
+    "github": "https://github.com/Elysian-ELY",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/elysian-ely",
+    "reddit": "https://www.reddit.com/r/elysian_ely",
+    "slack": "",
+    "telegram": "https://t.me/elysian_ely",
+    "twitter": "https://twitter.com/Elysian_ELY",
+    "youtube": "https://www.youtube.com/channel/UCm0BGtPu1nB-7HbeJsHKJTw"
+  },
+  "eth": [
+    {
+      "name": "ELYCOIN",
+      "address": "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8",
+      "erc20": {
+        "symbol": "ELY",
+        "decimals": 18,
+        "name": "ELYCOIN"
+      }
+    }
+  ]
+}

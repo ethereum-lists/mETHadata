@@ -1,0 +1,48 @@
+{
+  "name": "Covesting",
+  "ens_address": "",
+  "website": "https://covesting.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe2fb6529ef566a080e6d23de0bd351311087d567.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmWsktxSxwWPb9wpG1aSw9emGXrWjZ37Z5LGW27VH84eqP",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/911895183930855425/ZSKkdfBc.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe2fb6529ef566a080e6d23de0bd351311087d567.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/911895183930855425/ZSKkdfBc.jpg",
+    "ipfs_origin": "QmTAPr3e2KFLoxzrwgmSURRggYVDuncTSgxzieJV9d6Pda"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@Covesting",
+    "chat": "",
+    "facebook": "https://facebook.com/covesting",
+    "forum": "https://bitcointalk.org/index.php?topic=2660460.0",
+    "github": "https://github.com/covesting",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CovestingOfficial/",
+    "slack": "",
+    "telegram": "https://t.me/covesting",
+    "twitter": "https://twitter.com/covesting",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Covesting",
+      "address": "0xE2FB6529EF566a080e6d23dE0bd351311087D567",
+      "erc20": {
+        "symbol": "COV",
+        "decimals": 18,
+        "name": "Covesting"
+      }
+    }
+  ]
+}

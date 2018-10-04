@@ -1,0 +1,48 @@
+{
+  "name": "CNN Token",
+  "ens_address": "",
+  "website": "https://cnntoken.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8713d26637cf49e1b6b4a7ce57106aabc9325343.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZLfGyoT7J3LK7sUE8UtwywWUZ3ZCWpQy9AFM2HRo78ER",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/973788008536256512/v_FKPcBz.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8713d26637cf49e1b6b4a7ce57106aabc9325343.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8713d26637cf49e1b6b4a7ce57106aabc9325343.png",
+    "ipfs_origin": "QmWbuHwpDrtpXwkrjbKp5AFxJmDshLmqCSn5k1WABsUiE4"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/cnntoken/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/cnn_blockchain_official",
+    "twitter": "https://twitter.com/CNN_Blockchain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CNN Token",
+      "address": "0x8713d26637CF49e1b6B4a7Ce57106AaBc9325343",
+      "erc20": {
+        "symbol": "CNN",
+        "decimals": 18,
+        "name": "CNN Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "1bit",
+  "ens_address": "",
+  "website": "https://bithereum.tech/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbYcWNZSH4UdN6ZRZCcShVA9yGmNDYGfJFYAvgbvxbe6H",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/923437423303913474/R2K5e9Ur.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/923437423303913474/R2K5e9Ur.png",
+    "ipfs_origin": "QmSyu1N66NUUfH2AD4iY3F2fqiHD1xYt8qhgHLgTYVewqU"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Bithereum",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://bithereumcommunity.slack.com/",
+    "telegram": "https://t.me/Bithereum4",
+    "twitter": "https://twitter.com/Bithereum4",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "1bit",
+      "address": "0x9b8eb7a73a3C65FC3c892b494Ab29CB061Cf05aE",
+      "erc20": {
+        "symbol": "1bit",
+        "decimals": 0,
+        "name": "1bit"
+      }
+    }
+  ]
+}

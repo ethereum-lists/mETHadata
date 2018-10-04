@@ -1,0 +1,47 @@
+{
+  "name": "TeslaWatt",
+  "ens_address": "",
+  "website": "https://www.teslawatt.com",
+  "logo": {
+    "src": "https://www.teslawatt.com/icon-tesla1.jpg",
+    "width": "270",
+    "height": "270",
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://www.teslawatt.com/icon-tesla1.jpg",
+      "twitter": "http://pbs.twimg.com/profile_images/984722549991985152/hSw3D36I.jpg"
+    },
+    "sourceBest": "src",
+    "origin": "https://www.teslawatt.com/icon-tesla1.jpg"
+  },
+  "support": {
+    "email": "blockchain@teslawatt.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TeslaWatt-146558099344457/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/teslawattllc/",
+    "linkedin": "https://www.linkedin.com/company/teslawatt/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://bit.ly/2J0NHxT",
+    "twitter": "https://twitter.com/TeslaWatt",
+    "youtube": "https://www.youtube.com/channel/UC57TF8T2Ct90sN-FwzALXaQ/featured?view_as=subscriber"
+  },
+  "eth": [
+    {
+      "name": "TeslaWatt",
+      "address": "0x6B87999bE87358065bBdE41e8a0fe0B7b1cd2514",
+      "erc20": {
+        "symbol": "TSW",
+        "decimals": 18,
+        "name": "TeslaWatt"
+      }
+    }
+  ]
+}

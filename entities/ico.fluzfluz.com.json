@@ -1,0 +1,48 @@
+{
+  "name": "Fluz Fluz Global",
+  "ens_address": "",
+  "website": "https://ico.fluzfluz.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x954b5de09a55e59755acbda29e1eb74a45d30175.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYnTdDyxR2KYKhuuMsfA3vdp3VEimNKXacqm3dNaSGnW8",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/960558594285539332/x83Q2pCG.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x954b5de09a55e59755acbda29e1eb74a45d30175.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/960558594285539332/x83Q2pCG.jpg",
+    "ipfs_origin": "QmQUxNZAD3UfXcPUr4KHHJnsnc72q5jWUy5TH9fJDR5AAr"
+  },
+  "support": {
+    "email": "ico@fluzfluz.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/fluzfluz",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/FluzFluzGlobal",
+    "slack": "",
+    "telegram": "https://t.me/fluzfluzico",
+    "twitter": "https://twitter.com/fluzfluz",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Fluz Fluz Global",
+      "address": "0x954b5De09A55e59755aCBda29e1Eb74A45D30175",
+      "erc20": {
+        "symbol": "FLUZ",
+        "decimals": 18,
+        "name": "Fluz Fluz Global"
+      }
+    }
+  ]
+}

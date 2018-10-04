@@ -1,0 +1,48 @@
+{
+  "name": "Delphi Tech Token",
+  "ens_address": "",
+  "website": "https://delphifund.org/",
+  "logo": {
+    "src": "https://delphifund.org/wp-content/uploads/2018/04/delphi400x400.jpg",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": "QmUnKdyQqLJv8ezuMDhj9j7cXwhPapJcCnaUPB451D5rE4",
+    "sources": {
+      "token-list": "https://delphifund.org/wp-content/uploads/2018/04/delphi400x400.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf9f7c29cfdf19fcf1f2aa6b84aa367bcf1bd1676.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf9f7c29cfdf19fcf1f2aa6b84aa367bcf1bd1676.png",
+    "ipfs_origin": "QmdDwVcpMBhS2FUdTmSaz9bqB6kFpscQZiUicNgFsyE3nm"
+  },
+  "support": {
+    "email": "support@delphifund.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/DTToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/Delphitechtoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Delphi Tech Token",
+      "address": "0xf9F7c29CFdf19FCf1f2AA6B84aA367Bcf1bD1676",
+      "erc20": {
+        "symbol": "DTT",
+        "decimals": 18,
+        "name": "Delphi Tech Token"
+      }
+    }
+  ]
+}

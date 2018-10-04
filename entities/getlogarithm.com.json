@@ -1,0 +1,49 @@
+{
+  "name": "Logarithm",
+  "ens_address": "",
+  "website": "https://getlogarithm.com",
+  "logo": {
+    "src": "https://getlogarithm.com/images/logo256.png",
+    "width": 256,
+    "height": 256,
+    "ipfs_hash": "Qme8SCoqSo9gu4Y5VbEeWLFY2rKnsuVUdrJSVSLV7Yy6nd",
+    "sources": {
+      "token-list": "https://getlogarithm.com/images/logo256.png",
+      "twitter": "http://pbs.twimg.com/profile_images/995275410308026368/t0PhD4jd.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2eb86e8fc520e0f6bb5d9af08f924fe70558ab89.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2eb86e8fc520e0f6bb5d9af08f924fe70558ab89.png",
+    "ipfs_origin": "QmWxVfzQ2E9MY1AdWcEV4yUZakFqFkN59zpKhU3DWQmQek"
+  },
+  "support": {
+    "email": "one@getlogarithm.com",
+    "url": "https://getlogarithm.com/contact"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/joinchat/CkoPiQxH8UujJ5tkifNIGA",
+    "facebook": "https://www.facebook.com/getlogarithm",
+    "forum": "https://bitcointalk.org/index.php?topic=2348732",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/CkoPiQxH8UujJ5tkifNIGA",
+    "twitter": "https://twitter.com/getlogarithm",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Logarithm",
+      "address": "0x2eb86e8fC520E0F6Bb5D9Af08F924fe70558Ab89",
+      "erc20": {
+        "symbol": "LGR",
+        "decimals": 8,
+        "name": "Logarithm"
+      }
+    }
+  ]
+}

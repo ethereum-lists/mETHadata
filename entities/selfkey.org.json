@@ -1,0 +1,48 @@
+{
+  "name": "SelfKey",
+  "ens_address": "",
+  "website": "https://selfkey.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeAxW5maxmQBPtCEeWD4rQeYeVPxAT4UmVugUfAdnwsfh",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/946921157567045632/eLcp66BC.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/946921157567045632/eLcp66BC.jpg",
+    "ipfs_origin": "QmXF5HwMafao4HvpqFHkGqYUCaQxvHSCsBNXSBo9gNokJJ"
+  },
+  "support": {
+    "email": "support@selfkey.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/selfkey",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SelfKeyNetwork",
+    "forum": "https://bitcointalk.org/index.php?topic=2310691",
+    "github": "https://github.com/mredmundto/selfkey-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18232422",
+    "reddit": "https://www.reddit.com/r/selfkey",
+    "slack": "",
+    "telegram": "https://t.me/selfkeyfoundation",
+    "twitter": "http://twitter.com/SelfKey",
+    "youtube": "https://www.youtube.com/channel/UCsilze3-MhbCY3_QkKul3PQ"
+  },
+  "eth": [
+    {
+      "name": "SelfKey",
+      "address": "0x4CC19356f2D37338b9802aa8E8fc58B0373296E7",
+      "erc20": {
+        "symbol": "KEY",
+        "decimals": 18,
+        "name": "SelfKey"
+      }
+    }
+  ]
+}

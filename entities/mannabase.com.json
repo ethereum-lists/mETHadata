@@ -1,0 +1,47 @@
+{
+  "name": "MANNABASE",
+  "ens_address": "",
+  "website": "https://www.mannabase.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeNubsrvvYVcZFR4u3xwZVsaw6VySMbAwsVzbLaEPCi3K",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/883397130311745537/QMKZUGg8.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/883397130311745537/QMKZUGg8.jpg",
+    "ipfs_origin": "QmZ42wpaowppmiPPgDnFw5tjQdB5F8au4G1syepDziphKy"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/MannaCurrency/",
+    "forum": "",
+    "github": "https://github.com/mannacurrency",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/MannaCurrency/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/HHBZw0hPHLIrEcNLtbj0jA",
+    "twitter": "https://twitter.com/MannaCurrency",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MANNABASE",
+      "address": "0xDb5c44a179c646A221d6e4c33293450D0f21f2BD",
+      "erc20": {
+        "symbol": "MANNA",
+        "decimals": 0,
+        "name": "MANNABASE"
+      }
+    }
+  ]
+}

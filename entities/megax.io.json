@@ -1,0 +1,47 @@
+{
+  "name": "MEGA X",
+  "ens_address": "",
+  "website": "https://megax.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTPvkXTqQiB4NHFK5iPkMPG2AziL2K3mJQASNgYq72cAV",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/897430962933387265/8u18aKQp.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/897430962933387265/8u18aKQp.jpg",
+    "ipfs_origin": "Qmee58LMAXyWgCNrZtohwsWoxqz3ZfSMHDrsv8wV7otoks"
+  },
+  "support": {
+    "email": "hello@megax.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/megaxcoin/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/megaxcoin/",
+    "linkedin": "https://www.linkedin.com/company/13470856/",
+    "reddit": "https://www.reddit.com/r/megax/",
+    "slack": "",
+    "telegram": "https://t.me/Megaxcoin",
+    "twitter": "https://twitter.com/megaXcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MEGA X",
+      "address": "0xC79d440551A03f84f863b1f259F135794C8A7190",
+      "erc20": {
+        "symbol": "MGX",
+        "decimals": 18,
+        "name": "MEGA X"
+      }
+    }
+  ]
+}

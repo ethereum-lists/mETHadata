@@ -1,0 +1,48 @@
+{
+  "name": "CAN",
+  "ens_address": "",
+  "website": "https://canya.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmR4DncyZcZzXwhEVfuGsxgv2NcJX6h7DERWeGRMLsqfkw",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/993590633532215296/bVUhSQjY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/993590633532215296/bVUhSQjY.jpg",
+    "ipfs_origin": "QmVUUmugbFVANCBujVNYzUtJ5JUU2nujZsRJ1hwjbHCUby"
+  },
+  "support": {
+    "email": "",
+    "url": "support@canya.io"
+  },
+  "social": {
+    "blog": "https://medium.com/@Canyacoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CanYaCoin/",
+    "forum": "https://bitcointalk.org/index.php?topic=2295074.0",
+    "github": "https://github.com/CanYaCoinSale/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/canya-io",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/HBzcbUP42NwHZKBwnEIkkw",
+    "twitter": "https://twitter.com/canya_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CAN",
+      "address": "0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0",
+      "erc20": {
+        "symbol": "CAN",
+        "decimals": 6,
+        "name": "CAN"
+      }
+    }
+  ]
+}

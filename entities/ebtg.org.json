@@ -1,0 +1,42 @@
+{
+  "name": "eBGOLD",
+  "ens_address": "",
+  "website": "https://www.ebtg.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eBGOLD",
+      "address": "0xc51C938C4d513780C66C722a41c197D3a89Fa9A8",
+      "erc20": {
+        "symbol": "eBTG",
+        "decimals": 8,
+        "name": "eBGOLD"
+      }
+    }
+  ]
+}

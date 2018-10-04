@@ -1,0 +1,49 @@
+{
+  "name": "Substratum",
+  "ens_address": "",
+  "website": "https://substratum.net",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXWe7zNW1HSYpmYMD63PqMU2qrGjpNfibvzndRX37BqxQ",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/sub.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/906383342937034752/UU1vg2JC.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/sub.svg",
+    "ipfs_origin": "QmWX3EpnQQr7zeE2UpVqsu1kNoNFM1777zZo6athsmHeva"
+  },
+  "support": {
+    "email": "justin@substratum.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://substratum.net/blog/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/substratumnet/",
+    "forum": "https://bitcointalk.org/index.php?topic=2054963.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SubstratumNetwork",
+    "slack": "http://x.co/SubSlack",
+    "telegram": "https://t.me/SubstratumCommunity",
+    "twitter": "https://twitter.com/SubstratumNet",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Substratum",
+      "address": "0x12480E24eb5bec1a9D4369CaB6a80caD3c0A377A",
+      "erc20": {
+        "symbol": "SUB",
+        "decimals": 2,
+        "name": "Substratum"
+      }
+    }
+  ]
+}

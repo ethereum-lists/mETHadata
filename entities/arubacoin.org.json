@@ -1,0 +1,48 @@
+{
+  "name": "ArubaCoin",
+  "ens_address": "",
+  "website": "http://arubacoin.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb29678a4805a7d787dc9589e179d27f7575bb9f7.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmfTcjwRBaymkHmcFx1qeB57L1444yGg2DA45ip3r58Cvu",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/904432926988886016/E0OVDrmW.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb29678a4805a7d787dc9589e179d27f7575bb9f7.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/904432926988886016/E0OVDrmW.jpg",
+    "ipfs_origin": "QmbJxXALtXEAxLieqhTfnFtWZMVUWk5vXQDxNGLPq6kQr5"
+  },
+  "support": {
+    "email": "email@arubacoin.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ArubaCoin-316896295458223/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ArubaCoin/",
+    "slack": "",
+    "telegram": "https://t.me/bitcoinaruba",
+    "twitter": "https://twitter.com/arubacoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ArubaCoin",
+      "address": "0xB29678a4805a7d787dc9589E179D27F7575bB9f7",
+      "erc20": {
+        "symbol": "AUA",
+        "decimals": 5,
+        "name": "ArubaCoin"
+      }
+    }
+  ]
+}

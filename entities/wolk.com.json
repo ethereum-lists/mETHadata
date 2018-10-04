@@ -1,0 +1,48 @@
+{
+  "name": "Wolk Token",
+  "ens_address": "",
+  "website": "https://www.wolk.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf6b55acbbc49f4524aa48d19281a9a77c54de10f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTDJNsLRC3sYMhQfQoAza3EspRpg2AaiUpSm5EEs3dPmZ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/905216668095234048/GBd2uOYc.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf6b55acbbc49f4524aa48d19281a9a77c54de10f.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf6b55acbbc49f4524aa48d19281a9a77c54de10f.png",
+    "ipfs_origin": "QmXJ35o1JFSwxDA3eRpBxv9kWP4Kyu6zsvjDjXRYzG6TQF"
+  },
+  "support": {
+    "email": "services@wolk.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.wolk.com",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/wolktoken",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GkePIg2-n4y5VQn4epAQOw",
+    "twitter": "https://twitter.com/wolkinc",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Wolk Token",
+      "address": "0xF6B55acBBC49f4524Aa48D19281A9A77c54DE10f",
+      "erc20": {
+        "symbol": "WOLK",
+        "decimals": 18,
+        "name": "Wolk Token"
+      }
+    }
+  ]
+}

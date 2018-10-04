@@ -1,0 +1,48 @@
+{
+  "name": "Mithril ",
+  "ens_address": "",
+  "website": "https://mith.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmT4RQbEMst4ceeFztasQN8cGZp6Nx3c9sHURo9VGiJg6k",
+    "sources": {
+      "twitter": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb.png",
+    "ipfs_origin": "QmSwYUYKdARMHhQkAdfCYJrodWCFYjHzvZ7E3QYtr2sn3L"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/MithrilToken",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/mithrilchat",
+    "twitter": "https://twitter.com/MithrilToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Mithril ",
+      "address": "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB",
+      "erc20": {
+        "symbol": "MITH",
+        "decimals": 18,
+        "name": "Mithril "
+      }
+    }
+  ]
+}

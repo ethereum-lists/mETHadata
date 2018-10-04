@@ -1,0 +1,49 @@
+{
+  "name": "CREDITS",
+  "ens_address": "",
+  "website": "https://credits.com/en",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x46b9ad944d1059450da1163511069c718f699d31.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmS6Ci1sjGzNexnXkknm61Uz2HBrY3DqsPc23mBwPx9bUi",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/cs.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/988390221954846720/anQN28fE.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x46b9ad944d1059450da1163511069c718f699d31.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/cs.svg",
+    "ipfs_origin": "QmTBpsvV3fTqydzgHTkm6nXJ3s9Z8dAK1Pv3zdiEmmDZiH"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Creditscom-1488549834790421/",
+    "forum": "",
+    "github": "https://gist.github.com/Credits-com/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CreditsOfficial/",
+    "slack": "",
+    "telegram": "https://t.me/creditscom",
+    "twitter": "https://twitter.com/creditscom",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CREDITS",
+      "address": "0x46b9Ad944d1059450Da1163511069C718F699D31",
+      "erc20": {
+        "symbol": "CS",
+        "decimals": 6,
+        "name": "CREDITS"
+      }
+    }
+  ]
+}

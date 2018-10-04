@@ -1,0 +1,42 @@
+{
+  "name": "ESMS",
+  "ens_address": "",
+  "website": "http://www.esms.trade",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "info@esms.trade",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/EsmsToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ESMS",
+      "address": "0x9375b738083101617F0642D7DBeAA89E361545E3",
+      "erc20": {
+        "symbol": "ESMS",
+        "decimals": 0,
+        "name": "ESMS"
+      }
+    }
+  ]
+}

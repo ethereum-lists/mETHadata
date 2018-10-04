@@ -1,0 +1,48 @@
+{
+  "name": "Zloadr Token",
+  "ens_address": "",
+  "website": "http://www.zloadr.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x71f1bc89f38b241f3ebf0d5a013fa2850c63a1d4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWf5mmT4jLWAAaspPupaHxFBSGKSZJsbLZzQsG6xZdomp",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1030539857737789440/ihA_liGZ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x71f1bc89f38b241f3ebf0d5a013fa2850c63a1d4.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x71f1bc89f38b241f3ebf0d5a013fa2850c63a1d4.png",
+    "ipfs_origin": "QmQrv13S853asbm1rJN4JTiQ7MRYsfa9ZZ7aDjMewHDJKb"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://en-gb.facebook.com/zloadrmedia/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://uk.linkedin.com/company/zloadr",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/zloadr",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Zloadr Token",
+      "address": "0x71f1Bc89f38B241f3eBF0D5a013Fa2850c63a1D4",
+      "erc20": {
+        "symbol": "ZDR",
+        "decimals": 8,
+        "name": "Zloadr Token"
+      }
+    }
+  ]
+}

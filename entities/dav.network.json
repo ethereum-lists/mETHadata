@@ -1,0 +1,49 @@
+{
+  "name": "DAV Token",
+  "ens_address": "",
+  "website": "https://dav.network/",
+  "logo": {
+    "src": "https://dav.network/img/logo-mew.png",
+    "width": 500,
+    "height": 500,
+    "ipfs_hash": "QmR6WRCccBEmSffwPNWyZG5wJ8ik8DYbGPgr4NwW8NEoiR",
+    "sources": {
+      "token-list": "https://dav.network/img/logo-mew.png",
+      "twitter": "http://pbs.twimg.com/profile_images/960883354408247298/2H8esQQu.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd82df0abd3f51425eb15ef7580fda55727875f14.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://dav.network/img/logo-mew.png",
+    "ipfs_origin": "QmZspjXG3N1p32j59M5a4T8V3gTvv5MpkpnK42ZW9z8jeK"
+  },
+  "support": {
+    "email": "support@dav.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/davnetwork",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/DAVFoundation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/dav-foundation",
+    "reddit": "https://www.reddit.com/r/DAVNetwork/",
+    "slack": "",
+    "telegram": "https://t.me/DAVNetwork",
+    "twitter": "https://twitter.com/DavNetwork",
+    "youtube": "https://www.youtube.com/c/DAVNetwork"
+  },
+  "eth": [
+    {
+      "name": "DAV Token",
+      "address": "0xd82Df0ABD3f51425Eb15ef7580fDA55727875f14",
+      "erc20": {
+        "symbol": "DAV",
+        "decimals": 18,
+        "name": "DAV Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Blockpass Token",
+  "ens_address": "",
+  "website": "https://blockpasscompany.github.io/blockpass-website/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcGiGqiDjwYAFuPGbtXZUQvptmbYMZJTpTmsmj8ehUkU7",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/bpt.svg"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/bpt.svg",
+    "ipfs_origin": "QmZQPPeWvCVHnkMRpunpofdjMudwMBPTX99m6s6AzdgP5K"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Blockpass Token",
+      "address": "0x2160E6c0aE8cA7D62fE1F57fC049F8363283Ff5f",
+      "erc20": {
+        "symbol": "BPT",
+        "decimals": 18,
+        "name": "Blockpass Token"
+      }
+    }
+  ]
+}

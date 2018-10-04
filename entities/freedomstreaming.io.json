@@ -1,0 +1,47 @@
+{
+  "name": "Freedom Token",
+  "ens_address": "",
+  "website": "https://freedomstreaming.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmcag6TXDNLhViwdSNfW5NXebStvopgpvosjHLUrVeLc53",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/990223135369641986/pIRI1EO_.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/990223135369641986/pIRI1EO_.jpg",
+    "ipfs_origin": "Qmb5Yfoa1oNmzMmbQp9Z6GPvR16TEpjyRE5oDHdg3M7xPW"
+  },
+  "support": {
+    "email": "freedominvestmentltd@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/freedomstreaming",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/freedomstream01",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Freedom Token",
+      "address": "0xA94C128a138504E1F81d727cc21bcB9AE6581015",
+      "erc20": {
+        "symbol": "FDM",
+        "decimals": 18,
+        "name": "Freedom Token"
+      }
+    }
+  ]
+}

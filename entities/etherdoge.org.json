@@ -1,0 +1,47 @@
+{
+  "name": "EtherDoge",
+  "ens_address": "",
+  "website": "https://etherdoge.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaWhVHtKbohEDHcRGbVbgxQwpAeCEoKYG5njp1ipqHCR8",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/edoge.svg"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/edoge.svg",
+    "ipfs_origin": "QmSihkN6fFwWjh8pnfaRF3xC8dj26xu4dVjcQ5kVxrXfuW"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EtherDoge",
+      "address": "0x8a7b7B9B2f7d0c63F66171721339705A6188a7D5",
+      "erc20": {
+        "symbol": "EDOGE",
+        "decimals": 18,
+        "name": "EtherDoge"
+      }
+    }
+  ]
+}

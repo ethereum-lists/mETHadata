@@ -1,0 +1,49 @@
+{
+  "name": "Revain",
+  "ens_address": "",
+  "website": "https://revain.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x48f775efbe4f5ece6e0df2f7b5932df56823b990.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmV51WJ8E5FPSZggkvo4fBdLcoRW6VcaerR9LceEayuHoL",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/r.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/996721559359324160/sRBVtAfs.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x48f775efbe4f5ece6e0df2f7b5932df56823b990.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/r.svg",
+    "ipfs_origin": "QmPznWKEAMJgy34hWFGLNtuAtmiBnjZBrbbuPeTTEDUv7m"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Revain-Reinventing-Reviews-on-Blockchain-657353151128295/",
+    "forum": "",
+    "github": "https://github.com/Revain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/revain_org/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/CzZcC0PCgpJcbBCb3JfNeQ",
+    "twitter": "https://twitter.com/Revain_org",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Revain",
+      "address": "0x48f775EFBE4F5EcE6e0DF2f7b5932dF56823B990",
+      "erc20": {
+        "symbol": "R",
+        "decimals": 0,
+        "name": "Revain"
+      }
+    }
+  ]
+}

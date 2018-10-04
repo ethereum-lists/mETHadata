@@ -1,0 +1,49 @@
+{
+  "name": "LOOM",
+  "ens_address": "loomnetwork.eth",
+  "website": "https://loomx.io",
+  "logo": {
+    "src": "https://s3.amazonaws.com/loomrandom/loom-ticker-logo+small.png",
+    "width": "29",
+    "height": "29",
+    "ipfs_hash": "QmbvV5zjhJxeHZKXJJXgTmzZ1WBeCDjwLGpcHJcK88oipT",
+    "sources": {
+      "token-list": "https://s3.amazonaws.com/loomrandom/loom-ticker-logo+small.png",
+      "twitter": "http://pbs.twimg.com/profile_images/939416633419821057/AgqO1tTQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0.png",
+    "ipfs_origin": "QmU9piJjiXW9F1f5L12NE422AdjHJv96MdN41Sx9VFBth8"
+  },
+  "support": {
+    "email": "hello@loomx.io",
+    "url": "https://delegatecall.com/questions?tag=loom"
+  },
+  "social": {
+    "blog": "https://medium.com/loom-network",
+    "chat": "",
+    "facebook": "https://www.facebook.com/loomxnetwork/",
+    "forum": "",
+    "github": "github.com/loomnetwork/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/loomnetwork/",
+    "slack": "",
+    "telegram": "https://t.me/loomnetwork",
+    "twitter": "https://twitter.com/loomnetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "LOOM",
+      "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
+      "erc20": {
+        "symbol": "LOOM",
+        "decimals": 18,
+        "name": "LOOM"
+      }
+    }
+  ]
+}

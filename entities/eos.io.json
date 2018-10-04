@@ -1,0 +1,49 @@
+{
+  "name": "EOS",
+  "ens_address": "",
+  "website": "https://eos.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNUhFLKoEDRT7MsJH8WARDRQZaZS5pPsbXqsVWVM4t4ph",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/eos.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1044588501566705664/RoOx1MPe.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0.png",
+    "ipfs_origin": "QmXS1bTpBemeTDbxGTrWZ5ExZUZq9h94gZe9uU8Dr9DZi9"
+  },
+  "support": {
+    "email": "eos@block.one",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/eosio",
+    "chat": "",
+    "facebook": "https://www.facebook.com/eosblockchain",
+    "forum": "",
+    "github": "https://github.com/eosio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/eos/",
+    "slack": "",
+    "telegram": "https://t.me/EOSProject",
+    "twitter": "https://twitter.com/eos_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EOS",
+      "address": "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0",
+      "erc20": {
+        "symbol": "EOS",
+        "decimals": 18,
+        "name": "EOS"
+      }
+    }
+  ]
+}

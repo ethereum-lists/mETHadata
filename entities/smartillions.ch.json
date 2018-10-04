@@ -1,0 +1,60 @@
+{
+  "name": "Smartillions",
+  "ens_address": "",
+  "website": "https://www.smartillions.ch",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "admin@smartillions.ch",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "S-A-PAT",
+      "address": "0x1EC8fE51a9B6A3a6C427D17d9ECC3060fbc4a45c",
+      "erc20": {
+        "symbol": "S-A-PAT",
+        "decimals": 18,
+        "name": "S-A-PAT"
+      }
+    },
+    {
+      "name": "PATENTS",
+      "address": "0x694404595e3075A942397F466AAcD462FF1a7BD0",
+      "erc20": {
+        "symbol": "PATENTS",
+        "decimals": 18,
+        "name": "PATENTS"
+      }
+    },
+    {
+      "name": "S-ETH",
+      "address": "0x3eb91D237e491E0DEE8582c402D85CB440fb6b54",
+      "erc20": {
+        "symbol": "S-ETH",
+        "decimals": 18,
+        "name": "S-ETH"
+      }
+    }
+  ]
+}

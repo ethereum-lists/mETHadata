@@ -1,0 +1,42 @@
+{
+  "name": "CoinCrowd",
+  "ens_address": "coincrowd.eth",
+  "website": "https://www.coincrowd.it",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "staff@coincrowd.it",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@coincrowdit",
+    "chat": "",
+    "facebook": "https://www.facebook.com/coincrowd",
+    "forum": "https://bitcointalk.org/index.php?topic=2085273.0",
+    "github": "https://github.com/coincrowd-it",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/coincrowd/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/coincrowd",
+    "twitter": "https://twitter.com/coincrowdit",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CoinCrowd",
+      "address": "0x4d829f8C92a6691c56300D020c9e0dB984Cfe2BA",
+      "erc20": {
+        "symbol": "XCC",
+        "decimals": 18,
+        "name": "CoinCrowd"
+      }
+    }
+  ]
+}

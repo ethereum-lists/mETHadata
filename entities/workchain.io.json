@@ -1,0 +1,57 @@
+{
+  "name": "WorkChain",
+  "ens_address": "worktoken.eth",
+  "website": "https://workchain.io",
+  "logo": {
+    "src": "https://workchain.io/downloads/workTOKEN/logo_256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": "QmWzFsWKHGj7ryV1yTwKK41CX1v5sovAno5GuKr6xzx6bi",
+    "sources": {
+      "token-list": "https://workchain.io/downloads/workTOKEN/logo_256.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1029403739260637184/SrdtjsS_.jpg"
+    },
+    "sourceBest": "src",
+    "origin": "https://workchain.io/downloads/workTOKEN/logo_256.png",
+    "ipfs_origin": "QmRjKeHfhvofx6XyivYTuFBfjB5gyZdGh5TaFQPn1QAnEB"
+  },
+  "support": {
+    "email": "ping@workchain.io",
+    "url": "https://help.workchain.io"
+  },
+  "social": {
+    "blog": "https://medium.com/workchain-io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/workchain.io",
+    "forum": "https://bitcointalk.org/index.php?topic=4747371.0",
+    "github": "https://github.com/workchainio",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/workchain.io/",
+    "linkedin": "https://www.linkedin.com/company/workchain-io/",
+    "reddit": "https://www.reddit.com/r/workchainio",
+    "slack": "",
+    "telegram": "https://t.me/workchainio",
+    "twitter": "https://twitter.com/workchain_io",
+    "youtube": "https://www.youtube.com/channel/UCA8M_FrBflu3ahdF0sBFPcA"
+  },
+  "eth": [
+    {
+      "name": "workTOKEN",
+      "address": "0xD18e454D844eb0009D32E07A0Cde89E18d64CFb4",
+      "erc20": {
+        "symbol": "WORK",
+        "decimals": 18,
+        "name": "workTOKEN"
+      }
+    },
+    {
+      "name": "WorkChain App Token",
+      "address": "0x829A4cA1303383F1082B6B1fB937116e4b3b5605",
+      "erc20": {
+        "symbol": "WATT",
+        "decimals": 18,
+        "name": "WorkChain App Token"
+      }
+    }
+  ]
+}

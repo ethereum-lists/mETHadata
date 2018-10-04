@@ -1,0 +1,48 @@
+{
+  "name": "Universa",
+  "ens_address": "",
+  "website": "https://www.universa.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVfdZxRoDESefBMcQ94SuhdpksQBngjdjHatEvEqTH1Ec",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1026380119986892800/wLRInrr6.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7.png",
+    "ipfs_origin": "QmYvESZuMa9QZ8nNVQobkreyq4or5iucnzcw8zWSBPrzx6"
+  },
+  "support": {
+    "email": "support@universa.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/universablockchain",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Universablockchain/",
+    "forum": "https://bitcointalk.org/index.php?topic=2137898",
+    "github": "https://github.com/UniversaBlockchain/universa",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Universa_Blockchain/",
+    "slack": "",
+    "telegram": "https://t.me/Uplatform",
+    "twitter": "https://twitter.com/Universa_News",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Universa",
+      "address": "0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7",
+      "erc20": {
+        "symbol": "UTN-P",
+        "decimals": 18,
+        "name": "Universa"
+      }
+    }
+  ]
+}

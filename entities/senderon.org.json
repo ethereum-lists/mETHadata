@@ -1,0 +1,48 @@
+{
+  "name": "SENDERON",
+  "ens_address": "",
+  "website": "https://www.senderon.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x73b534fb6f07381a29a60b01eed5ae57d4ee24d7.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRomSCX2DoAjUJbpiSQ2BSfVnxZLDxHQh9EhZMaWThynH",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/974687533144657922/OD_Loj-F.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x73b534fb6f07381a29a60b01eed5ae57d4ee24d7.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x73b534fb6f07381a29a60b01eed5ae57d4ee24d7.png",
+    "ipfs_origin": "QmdPcbp7DRRvMqKqq7DQgb7hJw3EWQzZP7CWpa16Nv6rV1"
+  },
+  "support": {
+    "email": "devteam@senderon.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Senderon/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/SenderonToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SENDERON",
+      "address": "0x73B534fb6F07381a29a60B01eed5ae57D4EE24D7",
+      "erc20": {
+        "symbol": "SDRN",
+        "decimals": 18,
+        "name": "SENDERON"
+      }
+    }
+  ]
+}

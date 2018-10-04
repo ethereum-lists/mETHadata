@@ -1,0 +1,47 @@
+{
+  "name": "Ethereum Lite",
+  "ens_address": "",
+  "website": "http://ethereumlite.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0a76aad21948ea1ef447d26dee91a54370e151e0.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmU1TMSmgd4bLH5ir7KAKnPmFjRq2aA5Lf7pC6DY4RSiUn",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0a76aad21948ea1ef447d26dee91a54370e151e0.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0a76aad21948ea1ef447d26dee91a54370e151e0.png",
+    "ipfs_origin": "QmVnHocBXQb4FXxH2RpWX6cMMo1D53x4nkXCx4pp8UPEty"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Ethereum Lite",
+      "address": "0x0A76aad21948eA1ef447D26DEe91a54370E151e0",
+      "erc20": {
+        "symbol": "ELITE",
+        "decimals": 18,
+        "name": "Ethereum Lite"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "WABnetwork",
+  "ens_address": "",
+  "website": "https://wab.network/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4bbbc57af270138ef2ff2c50dbfad684e9e0e604.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNQiMop25QdjG6HQ2bFwb8kysgAr6ty9iP5ti1qcGvDJa",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1005675977840578560/yTG6jf8m.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4bbbc57af270138ef2ff2c50dbfad684e9e0e604.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4bbbc57af270138ef2ff2c50dbfad684e9e0e604.png",
+    "ipfs_origin": "QmQeQsYeYq2vjfYxxS5oRM7xw8obwWzBHXzKkbE2hy9WGz"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@WABnetwork",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/WABnetwork/Token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/u/WABnetwork",
+    "slack": "",
+    "telegram": "https://t.me/WABgroup",
+    "twitter": "https://twitter.com/WABnetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "WABnetwork",
+      "address": "0x4BBbC57aF270138Ef2FF2C50DbfAD684e9E0e604",
+      "erc20": {
+        "symbol": "WAB",
+        "decimals": 18,
+        "name": "WABnetwork"
+      }
+    }
+  ]
+}

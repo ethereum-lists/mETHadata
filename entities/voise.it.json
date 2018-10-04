@@ -1,0 +1,48 @@
+{
+  "name": "Voise",
+  "ens_address": "",
+  "website": "https://voise.it",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x83eea00d838f92dec4d1475697b9f4d3537b56e3.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaKy2mvYi6adou9maj1sPHgMyEzMFYisTHcMiFjuPAAsb",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/911232778259361793/eG8_gRlY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x83eea00d838f92dec4d1475697b9f4d3537b56e3.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x83eea00d838f92dec4d1475697b9f4d3537b56e3.png",
+    "ipfs_origin": "QmWjsywVWmkVQ3e2puZ7KKLz5uJmXUWPvNXyp57RFgig9c"
+  },
+  "support": {
+    "email": "support@voise.it",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@voisecom",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1846376.0",
+    "github": "https://github.com/voisecom/SmartContract/blob/master/smartcontract.sol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/voise/",
+    "slack": "",
+    "telegram": "https://t.me/voisecom",
+    "twitter": "https://twitter.com/voisecom",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Voise",
+      "address": "0x83eEA00D838f92dEC4D1475697B9f4D3537b56E3",
+      "erc20": {
+        "symbol": "VOISE",
+        "decimals": 8,
+        "name": "Voise"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Globitex",
+  "ens_address": "",
+  "website": "https://www.globitexico.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fcd6463e66974cf7bbc24ffc4d40d6be458283.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdMXoJpdpeHmj5nCUJtdS2pitpADVrBkXi2Xv8pyKcZFq",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/gbx.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/953584824081526786/4gf0Xxso.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fcd6463e66974cf7bbc24ffc4d40d6be458283.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/gbx.svg",
+    "ipfs_origin": "QmNmW7RJ4pT26HEXkiWaEi8LHuSQu8ABCNNDBdXYuyUdKw"
+  },
+  "support": {
+    "email": "ico@globitex.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@globitex",
+    "chat": "",
+    "facebook": "https://www.facebook.com/globitex",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Globitex",
+    "slack": "",
+    "telegram": "https://t.me/globitex",
+    "twitter": "https://twitter.com/globitex_",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Globitex",
+      "address": "0x12fCd6463E66974cF7bBC24FFC4d40d6bE458283",
+      "erc20": {
+        "symbol": "GBX",
+        "decimals": 18,
+        "name": "Globitex"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Ethino",
+  "ens_address": "",
+  "website": "https://www.ethino.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmY29fb2AYnxAUpyCBj6WReYKrKmSH4ER94Dfh9Za67h4v",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/894952665272246273/q2tzKAmn.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/894952665272246273/q2tzKAmn.jpg",
+    "ipfs_origin": "QmQhAc8E6TrmTiVBCnizEfBJBBfje4vbAAeHzxDkW9B5g2"
+  },
+  "support": {
+    "email": "contact@ethino.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ethino/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Gw2mJBEVeULdXrJn7WPhZQ/",
+    "twitter": "https://twitter.com/Ethino_Casino",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Ethino",
+      "address": "0x614ea929892EA43d3EA2C5e3311B01CC589bAD6C",
+      "erc20": {
+        "symbol": "ENO",
+        "decimals": 18,
+        "name": "Ethino"
+      }
+    }
+  ]
+}

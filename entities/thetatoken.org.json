@@ -1,0 +1,49 @@
+{
+  "name": "Theta Token",
+  "ens_address": "",
+  "website": "https://www.thetatoken.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3883f5e181fccaf8410fa61e12b59bad963fb645.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmX9bj64oNRbFMh4FG8xf7VH8KcPCMuxehyYsownPSfb6T",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/theta.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/932868157261225984/jxOQobOB.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3883f5e181fccaf8410fa61e12b59bad963fb645.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3883f5e181fccaf8410fa61e12b59bad963fb645.png",
+    "ipfs_origin": "QmeBSvn6jA4Rq6WbUcJHMXFhMpUAxBAcqyqH4GUSjQ5pZQ"
+  },
+  "support": {
+    "email": "support@thetatoken.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@ThetaLabs",
+    "chat": "",
+    "facebook": "facebook.com/ThetaToken/",
+    "forum": "https://bitcointalk.org/index.php?topic=2451089.0",
+    "github": "https://github.com/thetatoken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "reddit.com/r/thetatoken/",
+    "slack": "",
+    "telegram": "https://t.me/thetatoken",
+    "twitter": "twitter.com/thetatoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Theta Token",
+      "address": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
+      "erc20": {
+        "symbol": "THETA",
+        "decimals": 18,
+        "name": "Theta Token"
+      }
+    }
+  ]
+}

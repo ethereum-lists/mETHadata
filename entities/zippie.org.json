@@ -1,0 +1,48 @@
+{
+  "name": "Zippie",
+  "ens_address": "",
+  "website": "https://zippie.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xedd7c94fd7b4971b916d15067bc454b9e1bad980.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPw4Rnb6dcfWKj86EXa9b8PbQugvsBdQCqhhyv186MDET",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/979257500078891008/B6qr2_yD.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xedd7c94fd7b4971b916d15067bc454b9e1bad980.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/979257500078891008/B6qr2_yD.jpg",
+    "ipfs_origin": "QmeaKgQTukGNyn4pddpYPys4WZprZbw5Hk7nkhuSTdkNCa"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/zippiehq",
+    "forum": "",
+    "github": "https://github.com/zippiehq",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Zippie/",
+    "slack": "",
+    "telegram": "https://t.me/zippiehq",
+    "twitter": "https://twitter.com/zippiehq",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Zippie",
+      "address": "0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980",
+      "erc20": {
+        "symbol": "ZIPT",
+        "decimals": 18,
+        "name": "Zippie"
+      }
+    }
+  ]
+}

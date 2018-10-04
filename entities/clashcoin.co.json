@@ -1,0 +1,47 @@
+{
+  "name": "clash",
+  "ens_address": "",
+  "website": "https://clashcoin.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qme3p3evSpxfDD11YFLB23cg1nqv776hYe7wPwqckW6TPE",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/932417896067751936/7n2Ldp8C_normal.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/932417896067751936/7n2Ldp8C_normal.png",
+    "ipfs_origin": "QmPn4eAHQF2TmvgbmkseHcb1BT7F1vadoHfPizX8GWmnCy"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/clashcoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/Clashcoin",
+    "slack": "https://clashcoin.co/https//clashcoin.slack.com",
+    "telegram": "https://t.me/Clashcoin",
+    "twitter": "https://twitter.com/clashcoin_clash",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "clash",
+      "address": "0xEe9704a1D61aA2C1401e2303Ac7E1f81c29ED860",
+      "erc20": {
+        "symbol": "clash",
+        "decimals": 0,
+        "name": "clash"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Aditus",
+  "ens_address": "",
+  "website": "https://aditus.net",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8810c63470d38639954c6b41aac545848c46484a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUVZ4u1owW66ijqLS51Nn9EMHwzBB8toD3GNSUfe5aBmM",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8810c63470d38639954c6b41aac545848c46484a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8810c63470d38639954c6b41aac545848c46484a.png",
+    "ipfs_origin": "QmXZabwC3Z2Czqk6BNzoQYHDQYabzndsZ9qpEzkBis8Vgp"
+  },
+  "support": {
+    "email": "info@aditus.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/aditusnetwork",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/aditus",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/aditus",
+    "slack": "",
+    "telegram": "http://t.me/aditusnetwork",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Aditus",
+      "address": "0x8810C63470d38639954c6B41AaC545848C46484a",
+      "erc20": {
+        "symbol": "ADI",
+        "decimals": 18,
+        "name": "Aditus"
+      }
+    }
+  ]
+}

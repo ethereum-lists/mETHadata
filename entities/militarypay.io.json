@@ -1,0 +1,47 @@
+{
+  "name": "MilitaryPay",
+  "ens_address": "",
+  "website": "https://militarypay.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPxXDeB8DLwpXUU2rRfXp8s6j5hzjEjX61xu9hVaxt5uf",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/987164171736252416/1f4WhFeK.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/987164171736252416/1f4WhFeK.jpg",
+    "ipfs_origin": "QmXVye6KTqJ8aaTs9QiknfesJmARcRi6gh9AuS8TvT8yPD"
+  },
+  "support": {
+    "email": "support@trafficspeedster.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/MilitaryPay",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/MilitaryPayMTP",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MilitaryPay",
+      "address": "0xDAb5dFa0966C3435dA991B39D205C3bA1c64fe31",
+      "erc20": {
+        "symbol": "MilitaryPay",
+        "decimals": 1,
+        "name": "MilitaryPay"
+      }
+    }
+  ]
+}

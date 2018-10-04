@@ -1,0 +1,47 @@
+{
+  "name": "Blockchain Certified Data Token",
+  "ens_address": "bcdiploma.eth",
+  "website": "https://www.bcdiploma.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcME5vRqK3Dq3AtpVXn7vHFDToqRfZunsvvtFS9Vj1ZPn",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/897569242408734721/pI-O1aGm.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/897569242408734721/pI-O1aGm.jpg",
+    "ipfs_origin": "QmTFvqTQyv4Sm1gmebBaRN5TC5t1Acdyh1ePrWDq4MxPCo"
+  },
+  "support": {
+    "email": "contactus@blockchaincertifieddata.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/bcdiploma",
+    "chat": "",
+    "facebook": "https://www.facebook.com/BCDiploma",
+    "forum": "",
+    "github": "https://github.com/VinceBCD/BCDiploma",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/showcase/25042709",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BCDiploma",
+    "twitter": "https://twitter.com/BCDiploma",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Blockchain Certified Data Token",
+      "address": "0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5",
+      "erc20": {
+        "symbol": "BCDT",
+        "decimals": 18,
+        "name": "Blockchain Certified Data Token"
+      }
+    }
+  ]
+}

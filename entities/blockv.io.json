@@ -1,0 +1,48 @@
+{
+  "name": "BLOCKv",
+  "ens_address": "",
+  "website": "https://blockv.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x340d2bde5eb28c1eed91b2f790723e3b160613b7.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qma7zph2oesRmw3mu5RBJDVCwa4SoeXTFNCJScA82ExVeb",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/991825443857678336/luZQzw7P.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x340d2bde5eb28c1eed91b2f790723e3b160613b7.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/991825443857678336/luZQzw7P.jpg",
+    "ipfs_origin": "QmU7TXHNMgAKvn5H5SHzH7F6Mp75hHjv2yVkquNfz4Y6sQ"
+  },
+  "support": {
+    "email": "jessica@blockv.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@blockv_io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/blockv.io",
+    "forum": "https://bitcointalk.org/index.php?topic=2181569.0",
+    "github": "https://github.com/blockv",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/blockv",
+    "slack": "",
+    "telegram": "https://t.me/block_v",
+    "twitter": "https://twitter.com/blockv_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BLOCKv",
+      "address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+      "erc20": {
+        "symbol": "VEE",
+        "decimals": 18,
+        "name": "BLOCKv"
+      }
+    }
+  ]
+}

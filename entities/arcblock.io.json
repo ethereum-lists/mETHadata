@@ -1,0 +1,49 @@
+{
+  "name": "ArcBlock Token",
+  "ens_address": "",
+  "website": "https://www.arcblock.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb98d4c97425d9908e66e53a6fdf673acca0be986.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmW819tijB1K9k671zoUL9AoEMZGKef53yg9mcAiPneZg3",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/abt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1032138442690326528/bNeRvaCG.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb98d4c97425d9908e66e53a6fdf673acca0be986.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb98d4c97425d9908e66e53a6fdf673acca0be986.png",
+    "ipfs_origin": "QmWxnQmKkdpw2HAge1cx1fUtLS2PAng5vsWqjAJQ2uhqdM"
+  },
+  "support": {
+    "email": "contact@arcblock.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/arcblock",
+    "chat": "",
+    "facebook": "https://www.facebook.com/arcblock.io/",
+    "forum": "https://bitcointalk.org/index.php?topic=2699379",
+    "github": "https://github.com/arcblock",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/arcblock/",
+    "slack": "",
+    "telegram": "https://t.me/ArcBlock",
+    "twitter": "https://twitter.com/ArcBlock_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ArcBlock Token",
+      "address": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
+      "erc20": {
+        "symbol": "ABT",
+        "decimals": 18,
+        "name": "ArcBlock Token"
+      }
+    }
+  ]
+}

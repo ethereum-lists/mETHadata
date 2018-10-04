@@ -1,0 +1,48 @@
+{
+  "name": "I HOUSE TOKEN",
+  "ens_address": "",
+  "website": "https://ihtcoin.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xeda8b016efa8b1161208cf041cd86972eee0f31e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmaw4wqB4zhCGUf5i4kjWNCmByRpFMf95EmByTjyFzeHzA",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1004802520668037120/bb6WZHk5.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xeda8b016efa8b1161208cf041cd86972eee0f31e.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xeda8b016efa8b1161208cf041cd86972eee0f31e.png",
+    "ipfs_origin": "QmXNwyusynaUvdCrVgPd32eQqTDrM6KN2m17WKMupTc5HN"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ihtcoin/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/IHTcoin/",
+    "slack": "",
+    "telegram": "http://t.me/IHTcoin",
+    "twitter": "https://twitter.com/ihtcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "I HOUSE TOKEN",
+      "address": "0xEda8B016efA8b1161208Cf041cD86972eeE0F31E",
+      "erc20": {
+        "symbol": "IHT",
+        "decimals": 18,
+        "name": "I HOUSE TOKEN"
+      }
+    }
+  ]
+}

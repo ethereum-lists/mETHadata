@@ -1,0 +1,47 @@
+{
+  "name": "Digital Assets Power Play",
+  "ens_address": "",
+  "website": "https://www.dapowerplay.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x01b3ec4aae1b8729529beb4965f27d008788b0eb.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXtWKu5KbufBgqLDoquybNHKCSz7Wmu7DJZckgFQigc2C",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x01b3ec4aae1b8729529beb4965f27d008788b0eb.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x01b3ec4aae1b8729529beb4965f27d008788b0eb.png",
+    "ipfs_origin": "QmbjUu6Q63rUfCR1p5XqMaNnKQKiBYUSX43ZfvJYkEtWYz"
+  },
+  "support": {
+    "email": "",
+    "url": "https://support.cofound.it/hc/en-us/articles/115001315351-Crowdsale-token-list-information"
+  },
+  "social": {
+    "blog": "https://medium.com/@DaPowerPlay",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/DAPowerPlay",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/dapowerplay/",
+    "slack": "https://join.slack.com/t/dpp-official/shared_invite/enQtMjU3OTQ4MjI3MjA1LWQ5OGQ3MDEzNTQzMmM3NTI4MjBiYThiOGFjN2UxODk1NDlhNDZiZDlkZmIzMjg4MWJiNWZhY2Y1MzJhZTAxMzc",
+    "telegram": "https://t.me/dapowerplay",
+    "twitter": "https://twitter.com/da_powerplay",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Digital Assets Power Play",
+      "address": "0x01b3Ec4aAe1B8729529BEB4965F27d008788B0EB",
+      "erc20": {
+        "symbol": "DPP",
+        "decimals": 18,
+        "name": "Digital Assets Power Play"
+      }
+    }
+  ]
+}

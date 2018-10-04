@@ -1,0 +1,48 @@
+{
+  "name": "DOW",
+  "ens_address": "",
+  "website": "https://dowcoin.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x76974c7b79dc8a6a109fd71fd7ceb9e40eff5382.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmevLwF5cuHHNu2RTuDSJUmKrgQMZYoxPvQ54gsiPTuanz",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/880852100141404160/Ni0UBkHY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x76974c7b79dc8a6a109fd71fd7ceb9e40eff5382.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x76974c7b79dc8a6a109fd71fd7ceb9e40eff5382.png",
+    "ipfs_origin": "QmZGkRRqfCvU94pgZ1XwhnDqFATpMn5mxiSf2DPv1hyi1C"
+  },
+  "support": {
+    "email": "dowcoin@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DOW",
+      "address": "0x76974C7B79dC8a6a109Fd71fd7cEb9E40eff5382",
+      "erc20": {
+        "symbol": "DOW",
+        "decimals": 18,
+        "name": "DOW"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "NeworkCoin",
+  "ens_address": "",
+  "website": "http://nework.pro/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5a1a29dbb6ad6153db764568c1289076bc876df6.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPZPDMSPYJS8ghCWKkcsZaUPk2aqDHLKCsUZRHeHyDX7R",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5a1a29dbb6ad6153db764568c1289076bc876df6.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5a1a29dbb6ad6153db764568c1289076bc876df6.png",
+    "ipfs_origin": "QmWqEwhPnXHjYmv1Lmbzjji6z8GFqUz4aQS9u5tYvSfawK"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/neworkglobal",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NeworkCoin",
+      "address": "0x5A1A29DBb6Ad6153DB764568C1289076bC876df6",
+      "erc20": {
+        "symbol": "NKC",
+        "decimals": 18,
+        "name": "NeworkCoin"
+      }
+    }
+  ]
+}

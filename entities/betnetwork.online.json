@@ -1,0 +1,47 @@
+{
+  "name": "BETNetwork",
+  "ens_address": "",
+  "website": "https://betnetwork.online/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaA5Ja7KoTfP8dF7oaNT7nn5p7zGoswbz2kBgRd4Hrfzs",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/890984021110513664/zIQSByfR.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/890984021110513664/zIQSByfR.jpg",
+    "ipfs_origin": "QmXBHMZ8wKS9pT93PAzhxY6jSHGGQd54KPoMvn5e851c3L"
+  },
+  "support": {
+    "email": "support@betnetwork.online",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Bet-Network-702524976614422",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/BETNetwork1",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BETNetwork",
+      "address": "0x437CF0Bf53634E3DFa5e3eAFf3104004D50FB532",
+      "erc20": {
+        "symbol": "BTN",
+        "decimals": 4,
+        "name": "BETNetwork"
+      }
+    }
+  ]
+}

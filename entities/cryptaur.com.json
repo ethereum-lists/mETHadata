@@ -1,0 +1,56 @@
+{
+  "name": "Cryptaur",
+  "ens_address": "",
+  "website": "https://cryptaur.com/home",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdX6LZU3DekpXb4i3rn6APcJRqdS7fbyWzN7mUmuBNZpX",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/928999999626797057/n3w6Z9xW.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/928999999626797057/n3w6Z9xW.jpg",
+    "ipfs_origin": "QmZTUrDsTu8ofK4JN6sv9ezpzeB6JxZ6zQoAgt2dPMwXGK"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cryptaur/",
+    "forum": "",
+    "github": "https://github.com/Cryptaur",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Cryptaur/",
+    "slack": "",
+    "telegram": "https://t.me/cryptaur",
+    "twitter": "https://twitter.com/cryptaur",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Cryptaur",
+      "address": "0x9899AF5Aa1EfA90921d686212c87e70F4fbea035",
+      "erc20": {
+        "symbol": "CPT",
+        "decimals": 8,
+        "name": "Cryptaur"
+      }
+    },
+    {
+      "name": "Cryptaur",
+      "address": "0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1",
+      "erc20": {
+        "symbol": "CPT",
+        "decimals": 8,
+        "name": "Cryptaur"
+      }
+    }
+  ]
+}

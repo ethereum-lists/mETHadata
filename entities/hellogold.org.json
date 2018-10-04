@@ -1,0 +1,65 @@
+{
+  "name": "HelloGold",
+  "ens_address": "",
+  "website": "https://www.hellogold.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTyZbGptRwKiHS7Q5XAztBLuLD5Erky6u2LbQEtHSweUC",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/876748520132194304/OKWje-sU.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/876748520132194304/OKWje-sU.jpg",
+    "ipfs_origin": "QmV4yJT7rc549SJtKc1GBxhgKfTEz9P14Y1wxeWFWpyUoR"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/hellogold",
+    "chat": "",
+    "facebook": "https://www.facebook.com/HelloGoldFoundation/",
+    "forum": "",
+    "github": "https://github.com/myHelloGold/Foundation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/HelloGold/",
+    "slack": "",
+    "telegram": "https://t.me/HelloGoldFoundation",
+    "twitter": "https://twitter.com/FoundationHG",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GBT",
+      "address": "0x7585F835ae2d522722d2684323a0ba83401f32f5",
+      "erc20": {
+        "symbol": "GBT",
+        "decimals": 18,
+        "name": "GBT"
+      }
+    },
+    {
+      "name": "GOLDX",
+      "address": "0xeAb43193CF0623073Ca89DB9B712796356FA7414",
+      "erc20": {
+        "symbol": "GOLDX",
+        "decimals": 18,
+        "name": "GOLDX"
+      }
+    },
+    {
+      "name": "HGT",
+      "address": "0xba2184520A1cC49a6159c57e61E1844E085615B6",
+      "erc20": {
+        "symbol": "HGT",
+        "decimals": 8,
+        "name": "HGT"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "MolikToken",
+  "ens_address": "",
+  "website": "https://molikcoin.imweb.me",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MolikToken",
+      "address": "0x09DeBe702678140C1BE278213109719faB98D0d8",
+      "erc20": {
+        "symbol": "MOL",
+        "decimals": 18,
+        "name": "MolikToken"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "BCDN",
+  "ens_address": "",
+  "website": "https://www.blockcdn.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1e797ce986c3cff4472f7d38d5c4aba55dfefe40.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSAL3u6Q9bKRu7BoHqksrxwvpt9Lfs6yPPi32q4oKLheR",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1e797ce986c3cff4472f7d38d5c4aba55dfefe40.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1e797ce986c3cff4472f7d38d5c4aba55dfefe40.png",
+    "ipfs_origin": "QmdNFHYvCX58VLKbLokxAWpPY5MCfpJ27UWCug35NAZxLq"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Blockcdnteam",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BCDN",
+      "address": "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
+      "erc20": {
+        "symbol": "BCDN",
+        "decimals": 15,
+        "name": "BCDN"
+      }
+    }
+  ]
+}

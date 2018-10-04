@@ -1,0 +1,48 @@
+{
+  "name": "Fuck Trump Coin",
+  "ens_address": "",
+  "website": "https://fucktrumpcoin.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZRtRYJ1jn7e6eBmvnGUcbXQkVjK19FnSZCfmnMMVL1ij",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ftc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/973888538046590976/Y4YPVjA1.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/973888538046590976/Y4YPVjA1.jpg",
+    "ipfs_origin": "QmVsMnvMaGCYM6UYxSjqZEBvFLrXBKTwxvQS65wbX9b8Xz"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/FuckTrumpCoin/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/fucktrumpcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Fuck Trump Coin",
+      "address": "0xFBE0e9846Bd736B84A0A973322AD2a1fC8d7E5CA",
+      "erc20": {
+        "symbol": "FTC",
+        "decimals": 0,
+        "name": "Fuck Trump Coin"
+      }
+    }
+  ]
+}

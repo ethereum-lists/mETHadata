@@ -1,0 +1,47 @@
+{
+  "name": "OAK",
+  "ens_address": "",
+  "website": "https://aco.ai",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVUzcdkZg94uWC7apZbouiPuTeGXbB88KLpkdK7Vv8mRq",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/978973276482437122/V5uqtyKB.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/978973276482437122/V5uqtyKB.jpg",
+    "ipfs_origin": "QmbBBZ3Je3mM6bLQtDib5wL8DTr8xWc3vEREhk4RCBhyBV"
+  },
+  "support": {
+    "email": "support:aco.ai",
+    "url": "https://knowledgebase.aco.ai"
+  },
+  "social": {
+    "blog": "https://medium.com/theacorncollective",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TheAcornCollectiveICO",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/acorncollective/",
+    "reddit": "https://www.reddit.com/r/TheAcornCollective/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/HI_eCBG0fCRCl1ja-d5JDg",
+    "twitter": "https://twitter.com/AcoCollective",
+    "youtube": "https://www.youtube.com/channel/UCfwHzwNR66HYtgruKKKxEvA"
+  },
+  "eth": [
+    {
+      "name": "OAK",
+      "address": "0x5e888B83B7287EED4fB7DA7b7d0A0D4c735d94b3",
+      "erc20": {
+        "symbol": "OAK",
+        "decimals": 18,
+        "name": "OAK"
+      }
+    }
+  ]
+}

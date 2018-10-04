@@ -1,0 +1,42 @@
+{
+  "name": "Twit",
+  "ens_address": "",
+  "website": "http://twit.rocks/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.co/KQAy95f7hs",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Twit",
+      "address": "0x60200c0FefC1D0ade1E19A247b703cf3ccDC915A",
+      "erc20": {
+        "symbol": "TWIT",
+        "decimals": 8,
+        "name": "Twit"
+      }
+    }
+  ]
+}

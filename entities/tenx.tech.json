@@ -1,0 +1,49 @@
+{
+  "name": "TenX",
+  "ens_address": "",
+  "website": "http://www.tenx.tech",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb97048628db6b661d4c2aa833e95dbe1a905b280.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qme7gCa8wMh62dihbjFz8c84VrsDcfr14vqC7wZ2KogHQr",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/pay.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1009671904213401600/dmH08DDR.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb97048628db6b661d4c2aa833e95dbe1a905b280.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1009671904213401600/dmH08DDR.jpg",
+    "ipfs_origin": "QmNWBJzDgDtZPb7ieKUEr4ayzBJpJvgxeqLYhMsZNEEhpQ"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.tenx.tech/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tenxwallet/",
+    "forum": "https://bitcointalk.org/index.php?topic=1953612.0",
+    "github": "https://github.com/wonko433/epay",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TenX/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/tenxwallet",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TenX",
+      "address": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
+      "erc20": {
+        "symbol": "PAY",
+        "decimals": 18,
+        "name": "TenX"
+      }
+    }
+  ]
+}

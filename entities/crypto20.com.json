@@ -1,0 +1,48 @@
+{
+  "name": "Crypto20's Token",
+  "ens_address": "crypto20.eth",
+  "website": "https://crypto20.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x26e75307fc0c021472feb8f727839531f112f317.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmP9kNTFEDHF8R7KfM8coR6YLiGkcLUJZVjDZc7ZG5Sc1R",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/981552143646765056/k9LyMZj8.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x26e75307fc0c021472feb8f727839531f112f317.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x26e75307fc0c021472feb8f727839531f112f317.png",
+    "ipfs_origin": "QmYbTrs8XV6UpKV5ehnJz4v5CAbjThcxCDzAj4gPXFG6Wk"
+  },
+  "support": {
+    "email": "team@crypto20.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.crypto20.com",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cryptotwenty/",
+    "forum": "https://bitcointalk.org/index.php?topic=2190451.0",
+    "github": "https://github.com/cryptotwenty",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/cryptotwenty",
+    "slack": "https://join.slack.com/t/cryptotwenty/shared_invite/enQtMjU1NjI1NDg3NjMyLWU3NTUwMzY3NzA1MzFlYTMyMDYxYTQ5OTFhMzhhZDU4NWJkZjVhN2M2NTE2MDhhYTEyM2IwNWE4ZmQ3YTk5N2Y",
+    "telegram": "",
+    "twitter": "https://twitter.com/CRYPTOtwenty",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Crypto20's Token",
+      "address": "0x26E75307Fc0C021472fEb8F727839531F112f317",
+      "erc20": {
+        "symbol": "C20",
+        "decimals": 18,
+        "name": "Crypto20's Token"
+      }
+    }
+  ]
+}

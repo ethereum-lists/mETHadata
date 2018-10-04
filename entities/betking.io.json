@@ -1,0 +1,47 @@
+{
+  "name": "BetKing Bankroll Token",
+  "ens_address": "",
+  "website": "https://betking.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmf1uopdiiZQXWQgMQHFQ6t1X11QK6b31JBm9pTVzkRorh",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1012992426829668352/KgsLgo9M.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1012992426829668352/KgsLgo9M.jpg",
+    "ipfs_origin": "QmaPe5x1dW7SneU7zMFi3cbiiTn3Dbm64SyexAxjAFt94y"
+  },
+  "support": {
+    "email": "admin@betking.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://betking.io/blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/betkingcasino",
+    "forum": "https://bitcointalk.org/index.php?topic=2150057",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BetKing",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GmNTqw7kaxhGRqsJhRuzzw",
+    "twitter": "https://twitter.com/betkingio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BetKing Bankroll Token",
+      "address": "0xB2Bfeb70B903F1BAaC7f2ba2c62934C7e5B974C4",
+      "erc20": {
+        "symbol": "BKB",
+        "decimals": 8,
+        "name": "BetKing Bankroll Token"
+      }
+    }
+  ]
+}

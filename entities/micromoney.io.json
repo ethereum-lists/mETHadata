@@ -1,0 +1,47 @@
+{
+  "name": "MicroMoney",
+  "ens_address": "",
+  "website": "https://www.micromoney.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8b1f49491477e0fb46a29fef53f1ea320d13c349.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRBFDLvxRAnsyz2EeChYxUSBjRPdKtodXVNtoZ1ANxH3v",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8b1f49491477e0fb46a29fef53f1ea320d13c349.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8b1f49491477e0fb46a29fef53f1ea320d13c349.png",
+    "ipfs_origin": "QmPqbojP46Zo3oEKNVW4EKLp7d1Sd8Pe3jWfTjASdSEAzt"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/micromoneymyanmar/",
+    "forum": "",
+    "github": "https://github.com/micro-money/prime",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/antondziatkovskii",
+    "slack": "",
+    "telegram": "https://t.me/micromoneyico",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MicroMoney",
+      "address": "0x8B1F49491477e0fB46a29fef53F1EA320D13c349",
+      "erc20": {
+        "symbol": "AMM",
+        "decimals": 6,
+        "name": "MicroMoney"
+      }
+    }
+  ]
+}

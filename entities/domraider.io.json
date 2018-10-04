@@ -1,0 +1,48 @@
+{
+  "name": "DomRaiderToken",
+  "ens_address": "",
+  "website": "https://www.domraider.io/en/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPnu5R3FeswAvXFLMtSR5yswRjCz1H4osdpoUh8ii5qRU",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/958742414465880064/wMs4_0H1.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/958742414465880064/wMs4_0H1.jpg",
+    "ipfs_origin": "QmXdg3jFHfArBb6V5kZB46PTj2VwYkCoZWq93yr4LpnTyp"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/Domraider-1432606216988548",
+    "forum": "",
+    "github": "https://github.com/Domraider/dr-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/DomRaider/",
+    "slack": "",
+    "telegram": "https://t.me/DomRaider_Chat",
+    "twitter": "https://twitter.com/domraider",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DomRaiderToken",
+      "address": "0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab",
+      "erc20": {
+        "symbol": "DRT",
+        "decimals": 8,
+        "name": "DomRaiderToken"
+      }
+    }
+  ]
+}

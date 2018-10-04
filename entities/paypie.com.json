@@ -1,0 +1,49 @@
+{
+  "name": "PayPie",
+  "ens_address": "",
+  "website": "https://www.paypie.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc42209accc14029c1012fb5680d95fbd6036e2a0.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZCqzuu5Navg3u5ryEtMfABgqL7n3zyWRzdoMvMp14hYb",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ppp.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1024726858015813633/bRBdHeYe.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc42209accc14029c1012fb5680d95fbd6036e2a0.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc42209accc14029c1012fb5680d95fbd6036e2a0.png",
+    "ipfs_origin": "QmfWz5UZyq56ikGhWv9duEH48sm8pcoX6FYb7Q8TiZf5jS"
+  },
+  "support": {
+    "email": "help@paypie.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.paypie.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/PayPiePlatform",
+    "forum": "https://bitcointalk.org/index.php?topic=2061671.0",
+    "github": "https://github.com/PayPie",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/PayPie/",
+    "slack": "",
+    "telegram": "https://t.me/PayPieTokens",
+    "twitter": "https://twitter.com/PayPiePlatform",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "PayPie",
+      "address": "0xc42209aCcC14029c1012fB5680D95fBd6036E2a0",
+      "erc20": {
+        "symbol": "PPP",
+        "decimals": 18,
+        "name": "PayPie"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Autonio",
+  "ens_address": "",
+  "website": "https://auton.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5554e04e76533e1d14c52f05beef6c9d329e1e30.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaJyR5R2XDTj2GWTkZVZt3tcq7sD9tEXERsVAYqd6vhg3",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/982277281216278528/p5IzMQ89.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5554e04e76533e1d14c52f05beef6c9d329e1e30.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/982277281216278528/p5IzMQ89.jpg",
+    "ipfs_origin": "QmUPHuyK56L1psp3yHwvo4JpupDFUWPYYcfJJyDgYyuGgv"
+  },
+  "support": {
+    "email": "contact@auton.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AIAutonio/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Autonio/",
+    "slack": "",
+    "telegram": "https://t.me/Autonio",
+    "twitter": "https://twitter.com/AI_Autonio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Autonio",
+      "address": "0x5554e04e76533E1d14c52f05beEF6c9d329E1E30",
+      "erc20": {
+        "symbol": "NIO",
+        "decimals": 0,
+        "name": "Autonio"
+      }
+    }
+  ]
+}

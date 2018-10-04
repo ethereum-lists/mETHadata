@@ -1,0 +1,42 @@
+{
+  "name": "BioPayCoin",
+  "ens_address": "",
+  "website": "https://biopaycoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "https://biopaycoin.com/contact.php",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/biopay.coin.1",
+    "forum": "",
+    "github": "https://github.com/biopaycoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/biopaycoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BioPayCoin",
+      "address": "0x25432dD810730331498C22FBf6b98432E7ef3E66",
+      "erc20": {
+        "symbol": "BIO",
+        "decimals": 18,
+        "name": "BioPayCoin"
+      }
+    }
+  ]
+}

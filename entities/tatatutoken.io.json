@@ -1,0 +1,48 @@
+{
+  "name": "TaTaTu",
+  "ens_address": "",
+  "website": "https://tatatutoken.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9cda8a60dd5afa156c95bd974428d91a0812e054.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWxBkSgDPbSzn5zTehbWkzjLNeTQxpqeGQjKPtZbPgiSY",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1003541861171191809/MKQUsSk9.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9cda8a60dd5afa156c95bd974428d91a0812e054.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9cda8a60dd5afa156c95bd974428d91a0812e054.png",
+    "ipfs_origin": "QmXjjGg8mVuT6sqB43P4QXxnf1MfFazV1rdBBxCxhCpcbn"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TatatuOfficial/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GgHdfUhVY-w9zlfwD-jf1Q",
+    "twitter": "https://twitter.com/TaTaTu_Official",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TaTaTu",
+      "address": "0x9CDa8A60dd5AfA156c95Bd974428d91a0812e054",
+      "erc20": {
+        "symbol": "TTU",
+        "decimals": 18,
+        "name": "TaTaTu"
+      }
+    }
+  ]
+}

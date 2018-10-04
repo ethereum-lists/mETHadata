@@ -1,0 +1,49 @@
+{
+  "name": "Exchange Union Coin",
+  "ens_address": "",
+  "website": "https://www.exchangeunion.com/xuc",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc324a2f6b05880503444451b8b27e6f9e63287cb.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXXUNmibXAaNoBD4nBDA86uDj1KypGLL9j4uwu3Ct5tY5",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/xuc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/958258994618839040/gC0pHuvp.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc324a2f6b05880503444451b8b27e6f9e63287cb.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/xuc.svg",
+    "ipfs_origin": "QmcUMRtKD1VLSMK6zPYtJUsCJNKi88Ge6ioL55TDubN7qA"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ExchangeUnion/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company-beta/18154224",
+    "reddit": "",
+    "slack": "https://exchange-union.slack.com/",
+    "telegram": "https://t.me/exchangeunion",
+    "twitter": "https://twitter.com/exchange_union",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Exchange Union Coin",
+      "address": "0xc324a2f6b05880503444451B8b27e6f9e63287Cb",
+      "erc20": {
+        "symbol": "XUC",
+        "decimals": 18,
+        "name": "Exchange Union Coin"
+      }
+    }
+  ]
+}

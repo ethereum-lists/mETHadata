@@ -1,0 +1,42 @@
+{
+  "name": "Dogetoken",
+  "ens_address": "",
+  "website": "http://dogetoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/DogeToken/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Dogetoken",
+      "address": "0x8b9C35C79AF5319C70dd9A3E3850F368822ED64E",
+      "erc20": {
+        "symbol": "DGT",
+        "decimals": 18,
+        "name": "Dogetoken"
+      }
+    }
+  ]
+}

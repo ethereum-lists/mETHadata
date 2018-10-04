@@ -1,0 +1,42 @@
+{
+  "name": "Handelion  token",
+  "ens_address": "",
+  "website": "https://handelion.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "support@handelion.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://www.facebook.com/handelion.io",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/handelion.io",
+    "linkedin": "https://www.linkedin.com/company/18275742/",
+    "reddit": "https://www.reddit.com/user/Handelion",
+    "slack": "",
+    "telegram": "https://t.me/handelionITO",
+    "twitter": "https://twitter.com/handelion_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Handelion  token",
+      "address": "0x4B4e611823702285FD526D7A8A3B0Aa99aB2DBCD",
+      "erc20": {
+        "symbol": "HDLT",
+        "decimals": 18,
+        "name": "Handelion  token"
+      }
+    }
+  ]
+}

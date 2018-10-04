@@ -1,0 +1,42 @@
+{
+  "name": "Jade",
+  "ens_address": "",
+  "website": "https://www.jadecoinofficial.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "jadecoinofficial@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Jade",
+      "address": "0xa6E7172662379f1f4C72108655869AbdBB7F7672",
+      "erc20": {
+        "symbol": "Jade",
+        "decimals": 5,
+        "name": "Jade"
+      }
+    }
+  ]
+}

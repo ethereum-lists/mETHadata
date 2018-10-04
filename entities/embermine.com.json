@@ -1,0 +1,48 @@
+{
+  "name": "Embers",
+  "ens_address": "",
+  "website": "https://embermine.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x386467f1f3ddbe832448650418311a479eecfc57.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXR4KBPt911f5Nw8GJpdA8RBxBYn5VGuYpC1eoTKQxGU8",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/926093194332270593/SO3AerzY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x386467f1f3ddbe832448650418311a479eecfc57.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x386467f1f3ddbe832448650418311a479eecfc57.png",
+    "ipfs_origin": "QmbBdW8mEXvv1TBCQsZ1Ln7NktCkx5CEXwFMKZgWYwLKA6"
+  },
+  "support": {
+    "email": "info@embermine.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/embermine",
+    "facebook": "https://www.facebook.com/embermine/",
+    "forum": "https://bitcointalk.org/index.php?topic=1914703.640",
+    "github": "https://github.com/theembermine",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/16164397/",
+    "reddit": "https://www.reddit.com/r/Embermine/",
+    "slack": "",
+    "telegram": "https://t.me/embermine",
+    "twitter": "https://twitter.com/TheEmbermine",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Embers",
+      "address": "0x386467F1f3ddbE832448650418311a479EECFC57",
+      "erc20": {
+        "symbol": "MBRS",
+        "decimals": 0,
+        "name": "Embers"
+      }
+    }
+  ]
+}

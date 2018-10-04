@@ -1,0 +1,42 @@
+{
+  "name": "Filmscoin",
+  "ens_address": "",
+  "website": "https://filmscoin.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Filmscoin",
+      "address": "0x5976F7dac1525eF3277836043bA474a35E6B4272",
+      "erc20": {
+        "symbol": "FLMC",
+        "decimals": 0,
+        "name": "Filmscoin"
+      }
+    }
+  ]
+}

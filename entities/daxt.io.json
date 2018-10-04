@@ -1,0 +1,48 @@
+{
+  "name": "Digital Asset Exchange Token",
+  "ens_address": "",
+  "website": "https://www.daxt.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x61725f3db4004afe014745b21dab1e1677cc328b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeR4YhoZSZwXYE9f4X8nUvXTjyYvaCvadgRnxMGebggkK",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/933638125485789185/i8095EL-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x61725f3db4004afe014745b21dab1e1677cc328b.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x61725f3db4004afe014745b21dab1e1677cc328b.png",
+    "ipfs_origin": "QmeR4YhoZSZwXYE9f4X8nUvXTjyYvaCvadgRnxMGebggkK"
+  },
+  "support": {
+    "email": "concierge@blockex.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.blockex.com/blogslistings",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://blockex.slack.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/blockex",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Digital Asset Exchange Token",
+      "address": "0x61725f3db4004AFE014745B21DAb1E1677CC328b",
+      "erc20": {
+        "symbol": "DAXT",
+        "decimals": 18,
+        "name": "Digital Asset Exchange Token"
+      }
+    }
+  ]
+}

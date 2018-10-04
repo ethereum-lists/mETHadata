@@ -1,0 +1,48 @@
+{
+  "name": "PumaPay",
+  "ens_address": "",
+  "website": "https://pumapay.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x846c66cf71c43f80403b51fe3906b3599d63336f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcnQrSoXoiUipZMoPUDhttWCMMqsWRcEJXuGv2LeQQ6bz",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1015209088333041664/uM_phkDL.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x846c66cf71c43f80403b51fe3906b3599d63336f.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x846c66cf71c43f80403b51fe3906b3599d63336f.png",
+    "ipfs_origin": "QmSYA8zmeGajbzxeB6cj99fLUnLXF4C4ux3Qo5eYsBoG5W"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/PumaPay/",
+    "forum": "",
+    "github": "https://github.com/pumapayio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/PumaPay/",
+    "slack": "",
+    "telegram": "https://t.me/PumaPay",
+    "twitter": "https://www.twitter.com/PumaPay/",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "PumaPay",
+      "address": "0x846C66cf71C43f80403B51fE3906B3599D63336f",
+      "erc20": {
+        "symbol": "PMA",
+        "decimals": 18,
+        "name": "PumaPay"
+      }
+    }
+  ]
+}

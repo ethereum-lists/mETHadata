@@ -1,0 +1,48 @@
+{
+  "name": "NOX",
+  "ens_address": "",
+  "website": "https://nitro.live",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xec46f8207d766012454c408de210bcbc2243e71c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNmLei2suoznwD4d5xcKKBXvzwYraW3CjiWDYreeTCe2K",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/908727051686780929/aNRUxoCz.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xec46f8207d766012454c408de210bcbc2243e71c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xec46f8207d766012454c408de210bcbc2243e71c.png",
+    "ipfs_origin": "QmbyTzLkawpnd3gxA2HpXofzyVNmqkQ3upDLrmpzoeGNZC"
+  },
+  "support": {
+    "email": "general@nitro.live",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@NitroToken",
+    "chat": "",
+    "facebook": "https://www.facebook.com/NitroToken",
+    "forum": "https://bitcointalk.org/index.php?topic=2254986.0",
+    "github": "https://github.com/nitrotoken/nitro-crowdsale",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/nitrotoken",
+    "slack": "",
+    "telegram": "https://t.me/NitroToken_NOX",
+    "twitter": "https://twitter.com/nitrotoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NOX",
+      "address": "0xeC46f8207D766012454c408De210BCBc2243E71c",
+      "erc20": {
+        "symbol": "NOX",
+        "decimals": 18,
+        "name": "NOX"
+      }
+    }
+  ]
+}

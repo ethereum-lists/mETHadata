@@ -1,0 +1,73 @@
+{
+  "name": "Prediction Token",
+  "ens_address": "",
+  "website": "https://predictiontoken.github.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Mayweather No",
+      "address": "0xAB130BC7ff83192656a4B3079741c296615899C0",
+      "erc20": {
+        "symbol": "MAYN",
+        "decimals": 18,
+        "name": "Mayweather No"
+      },
+      "url": "https://predictiontoken.github.io/#MAY"
+    },
+    {
+      "name": "Mayweather Yes",
+      "address": "0xBfA4d71a51B9e0968Be4Bc299F8BA6cBb2f86789",
+      "erc20": {
+        "symbol": "MAYY",
+        "decimals": 18,
+        "name": "Mayweather Yes"
+      },
+      "url": "https://predictiontoken.github.io/#MAY"
+    },
+    {
+      "name": "PredictionToken",
+      "address": "0x289Fe11c6f46E28F9f1CfC72119AEE92C1dA50D0",
+      "erc20": {
+        "symbol": "EPOSN",
+        "decimals": 0,
+        "name": "PredictionToken"
+      },
+      "url": "https://predictiontoken.github.io/#EPOS"
+    },
+    {
+      "name": "PredictionToken",
+      "address": "0xce3d9c3F3D302436D12f18ECA97A3b00e97bE7cd",
+      "erc20": {
+        "symbol": "EPOSY",
+        "decimals": 0,
+        "name": "PredictionToken"
+      },
+      "url": "https://predictiontoken.github.io/#EPOS"
+    }
+  ]
+}

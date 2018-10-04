@@ -1,0 +1,49 @@
+{
+  "name": "IOSToken",
+  "ens_address": "",
+  "website": "https://iost.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmb6afhqLuQR3aNpz5oV6mzJ1RZn81TZCsur2nV7jNghNf",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/iost.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/946760995703320576/7S2erRsu.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/946760995703320576/7S2erRsu.jpg",
+    "ipfs_origin": "QmTtdJ93iDM4Y6135WAHxxTKp2TAmCiQBvctRngHApRk3o"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@iostoken",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2786059.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/IOStoken/",
+    "slack": "",
+    "telegram": "https://t.me/officialios",
+    "twitter": "https://twitter.com/iostoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "IOSToken",
+      "address": "0xFA1a856Cfa3409CFa145Fa4e20Eb270dF3EB21ab",
+      "erc20": {
+        "symbol": "IOST",
+        "decimals": 18,
+        "name": "IOSToken"
+      }
+    }
+  ]
+}

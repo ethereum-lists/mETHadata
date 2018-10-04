@@ -1,0 +1,48 @@
+{
+  "name": "PIX",
+  "ens_address": "",
+  "website": "http://www.lampix.co",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8effd494eb698cc399af6231fccd39e08fd20b15.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmfQiQFP2hYYdRM1AEsfHM5eFZTeQFFQ3ymGo4aXqqbX7q",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/976920583010242560/CkvvWBYe.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8effd494eb698cc399af6231fccd39e08fd20b15.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8effd494eb698cc399af6231fccd39e08fd20b15.png",
+    "ipfs_origin": "QmZhb9drRa3QdWCzGiPVrpahEsK7ECM7gjXdVgRHVVhD1m"
+  },
+  "support": {
+    "email": "support@lampix.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@lampix",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Lampix.co",
+    "forum": "https://bitcointalk.org/index.php?topic=2044884.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/lampix/",
+    "reddit": "https://www.reddit.com/r/Lampix",
+    "slack": "https://lampix-invite.herokuapp.com",
+    "telegram": "https://t.me/lampix_project",
+    "twitter": "https://twitter.com/lampix_co",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "PIX",
+      "address": "0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15",
+      "erc20": {
+        "symbol": "PIX",
+        "decimals": 0,
+        "name": "PIX"
+      }
+    }
+  ]
+}

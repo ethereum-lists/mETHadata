@@ -1,0 +1,47 @@
+{
+  "name": "Polybius",
+  "ens_address": "",
+  "website": "https://polybius.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVVwNfT1ZKRv54SEUnteC9F9kpAWxmPMxMRpTKTkyr5ry",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02.png",
+    "ipfs_origin": "QmVzBWTwPwGsxBtFZYxj2Qu6u5gqAfxEjRTfTjRKKYZ9pu"
+  },
+  "support": {
+    "email": "support@polybius.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@PolybiusBank",
+    "chat": "",
+    "facebook": "https://www.facebook.com/projectpolybius",
+    "forum": "https://bitcointalk.org/index.php?topic=2372808.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/polybius_eng",
+    "twitter": "https://twitter.com/PolybiusBank",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Polybius",
+      "address": "0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02",
+      "erc20": {
+        "symbol": "PLBT",
+        "decimals": 6,
+        "name": "Polybius"
+      }
+    }
+  ]
+}

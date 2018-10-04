@@ -1,0 +1,42 @@
+{
+  "name": "iMPERIUM COIN",
+  "ens_address": "",
+  "website": "https://www.imperium.network/welcome/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "iMPERIUM COIN",
+      "address": "0x5cF4e9dFD975C52AA523fB5945A12235624923DC",
+      "erc20": {
+        "symbol": "MPRM",
+        "decimals": 0,
+        "name": "iMPERIUM COIN"
+      }
+    }
+  ]
+}

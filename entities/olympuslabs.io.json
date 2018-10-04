@@ -1,0 +1,48 @@
+{
+  "name": "MOT",
+  "ens_address": "",
+  "website": "https://olympuslabs.io/web",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x263c618480dbe35c300d8d5ecda19bbb986acaed.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYGahMDDFQpi4MLi36XemL9MzxyrtxLkqg8FtXfZNeNKe",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/933786584251473920/Tz5NqDVz.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x263c618480dbe35c300d8d5ecda19bbb986acaed.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/933786584251473920/Tz5NqDVz.jpg",
+    "ipfs_origin": "QmRHYrL2HGBF1agRyKn3CC8Y2o79pktJRwyiRunJkwQZ4V"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/OlympusLabsBC/",
+    "forum": "",
+    "github": "https://github.com/Olympus-Labs",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/OlympusLabs/",
+    "slack": "",
+    "telegram": "http://t.me/olympuslabs",
+    "twitter": "https://twitter.com/olympuslabsbc",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MOT",
+      "address": "0x263c618480DBe35C300D8d5EcDA19bbB986AcaeD",
+      "erc20": {
+        "symbol": "MOT",
+        "decimals": 18,
+        "name": "MOT"
+      }
+    }
+  ]
+}

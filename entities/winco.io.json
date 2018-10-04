@@ -1,0 +1,47 @@
+{
+  "name": "Winco",
+  "ens_address": "",
+  "website": "http://winco.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qme4Uru3baoP8zHdAuwsDKPzpGAoe5cyT1dJESbKLgVLtj",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/940975552957177861/L6HOpMNI.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/940975552957177861/L6HOpMNI.jpg",
+    "ipfs_origin": "QmazjRKat2npjP9Gv8ExwHTtvr88QNJECPusiP5d9gop4H"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/WincoCryptocurrency/",
+    "forum": "",
+    "github": "https://github.com/WincoCrypto",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GzfroEx1-sfwP2zRuDcw9A",
+    "twitter": "https://twitter.com/WincoCrypto",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Winco",
+      "address": "0xd44bb6663936CAb1310584A277f7DAa6943d4904",
+      "erc20": {
+        "symbol": "WCO",
+        "decimals": 8,
+        "name": "Winco"
+      }
+    }
+  ]
+}

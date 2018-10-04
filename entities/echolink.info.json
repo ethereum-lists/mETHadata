@@ -1,0 +1,48 @@
+{
+  "name": "EchoLink",
+  "ens_address": "",
+  "website": "https://echolink.info/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQB514ZUusjjCyFBmqQdofBxf32TCCLuYskqyeZtpo6GH",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/933045154180620289/rBdmEv8R.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee.png",
+    "ipfs_origin": "QmeA7qoLKJJabU9ATSfPMqDF1UgRgEAs5tEjR1D4NtTwpH"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://echolink.info/newsen.html",
+    "chat": "",
+    "facebook": "https://www.facebook.com/EchoLink-Foundation-374324432994231/",
+    "forum": "",
+    "github": "https://github.com/EchoLinkTech/Echo",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/EchoLinkInfo/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/G7hT8kcwsaDRGfXbvuCcig",
+    "twitter": "https://twitter.com/EchoLinkInfo1",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EchoLink",
+      "address": "0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE",
+      "erc20": {
+        "symbol": "EKO",
+        "decimals": 18,
+        "name": "EchoLink"
+      }
+    }
+  ]
+}

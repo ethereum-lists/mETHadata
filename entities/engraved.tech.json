@@ -1,0 +1,47 @@
+{
+  "name": "Engraved Token",
+  "ens_address": "",
+  "website": "https://engraved.tech",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXMsdPKk86BDfBUY8e9vBcAEQRJk5wyBdAQ49F2CUjdoz",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/919613423117307906/VG7ndGpF.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/919613423117307906/VG7ndGpF.jpg",
+    "ipfs_origin": "QmXue2ary2yXu1axvuUrHUCzUwb3MS2CtJncasyJWBviy3"
+  },
+  "support": {
+    "email": "info@engraved.tech",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/engravedTech",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GshO5UJrdVC_kZhqIK9LAw",
+    "twitter": "https://twitter.com/engravedTech",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Engraved Token",
+      "address": "0x044DD17bbbcbF1CF65f543918561BF8CF8130e7B",
+      "erc20": {
+        "symbol": "EGR",
+        "decimals": 3,
+        "name": "Engraved Token"
+      }
+    }
+  ]
+}

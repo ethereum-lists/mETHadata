@@ -1,0 +1,49 @@
+{
+  "name": "WINGS",
+  "ens_address": "",
+  "website": "https://wings.ai",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x667088b212ce3d06a1b553a7221e1fd19000d9af.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNZgS2DEvRoVqdgzpXaERVkNGfnvXx1pdKfUcE6qLwoi7",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/wings.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/927966346410782720/KuGKLi4q.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x667088b212ce3d06a1b553a7221e1fd19000d9af.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/927966346410782720/KuGKLi4q.jpg",
+    "ipfs_origin": "QmYXcnAWW6KJjFatAwEQ4Wd8yJQCn8fgsYnZNUojwsFbKx"
+  },
+  "support": {
+    "email": "support@url.ai",
+    "url": "https://hi.wings.ai"
+  },
+  "social": {
+    "blog": "https://blog.wings.ai/",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1477055.0",
+    "github": "https://github.com/WingsDao",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/wings-stiftung/",
+    "reddit": "https://www.reddit.com/r/WingsDAO/",
+    "slack": "",
+    "telegram": "https://telegram.me/wingschat",
+    "twitter": "https://twitter.com/wingsplatform",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "WINGS",
+      "address": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
+      "erc20": {
+        "symbol": "WINGS",
+        "decimals": 18,
+        "name": "WINGS"
+      }
+    }
+  ]
+}

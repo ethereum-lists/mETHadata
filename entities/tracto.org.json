@@ -1,0 +1,48 @@
+{
+  "name": "Tracto",
+  "ens_address": "",
+  "website": "http://www.tracto.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x30cecb5461a449a90081f5a5f55db4e048397bab.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXC6pmKvbnkdfJbmDQhhXrrBjJNvHF8dvggZ3YeRYGtyA",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/915113529836937217/IlcOCwYZ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x30cecb5461a449a90081f5a5f55db4e048397bab.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/915113529836937217/IlcOCwYZ.jpg",
+    "ipfs_origin": "QmTJrnigFsZ9sY17LXNfrH5QJLfGJ8nkhpGrL4F12AAxHS"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://www.tracto.org/news/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tracto.org/",
+    "forum": "",
+    "github": "https://github.com/tracto2/Tracto-ERC20",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/tracto14",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Tracto",
+      "address": "0x30ceCB5461A449A90081F5a5F55db4e048397BAB",
+      "erc20": {
+        "symbol": "TRCT",
+        "decimals": 8,
+        "name": "Tracto"
+      }
+    }
+  ]
+}

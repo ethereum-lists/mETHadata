@@ -1,0 +1,58 @@
+{
+  "name": "Status",
+  "ens_address": "",
+  "website": "https://status.im",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x744d70fdbe2ba4cf95131626614a1763df805b9e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQ8LkrWnyKpjdiU6s89in5Ysy3ZS2GnfFfEe6aL4cTDnR",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/snt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x744d70fdbe2ba4cf95131626614a1763df805b9e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x744d70fdbe2ba4cf95131626614a1763df805b9e.png",
+    "ipfs_origin": "Qmat6vkNLoUtmbkF2o1ies7HhgiTzYKfrq8HPqhDkxz9dA"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.status.im/",
+    "chat": "https://chat.status.im/#/register",
+    "facebook": "https://www.facebook.com/ethstatus",
+    "forum": "",
+    "github": "https://github.com/status-im",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/status.im/",
+    "reddit": "https://www.reddit.com/r/statusim/",
+    "slack": "",
+    "telegram": "https://t.me/StatusNetworkChat",
+    "twitter": "https://twitter.com/ethstatus",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Status Network Token",
+      "address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
+      "erc20": {
+        "symbol": "SNT",
+        "decimals": 18,
+        "name": "Status Network Token"
+      }
+    },
+    {
+      "name": "SGT",
+      "address": "0xd248B0D48E44aaF9c49aea0312be7E13a6dc1468",
+      "erc20": {
+        "symbol": "SGT",
+        "decimals": 1,
+        "name": "SGT"
+      }
+    }
+  ]
+}

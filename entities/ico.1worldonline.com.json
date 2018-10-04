@@ -1,0 +1,48 @@
+{
+  "name": "1WO",
+  "ens_address": "",
+  "website": "https://ico.1worldonline.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQmqSX6QryY6jxxjqUMQtjFyKhAFTE5VRkp4yHqBSo4Zf",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/742866753034674176/4uUOrNGd.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23.png",
+    "ipfs_origin": "Qmb6RUwgUpbDP1hEUeRLic3UotyW8nQAX2s5n8eVgBcG3Z"
+  },
+  "support": {
+    "email": "support@1worldonline.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@1WorldOnline",
+    "chat": "https://chat.whatsapp.com/invite/GQW3AIZVZivDib14eXcOPr",
+    "facebook": "https://www.facebook.com/1WorldOnlineInc",
+    "forum": "https://bitcointalk.org/index.php?topic=2231928.0",
+    "github": "https://github.com/1World-Online",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company-beta/2751873",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Fu2jLgtH-b2obpp1FO5jyQ",
+    "twitter": "https://twitter.com/1World_Online",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "1WO",
+      "address": "0xfDBc1aDc26F0F8f8606a5d63b7D3a3CD21c22B23",
+      "erc20": {
+        "symbol": "1WO",
+        "decimals": 8,
+        "name": "1WO"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Zebi Coin",
+  "ens_address": "",
+  "website": "https://www.zebi.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2008e3057bd734e10ad13c9eae45ff132abc1722.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdnhFGnM7fULEbgz7nStjBBSvu4hpEmcmHiPDXk6xzijE",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/953233122291666944/JVJNOYuz.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2008e3057bd734e10ad13c9eae45ff132abc1722.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/953233122291666944/JVJNOYuz.jpg",
+    "ipfs_origin": "QmP4A4bC1owcXsgdd7KU4RFrq4j9HhfCpepX9LqLffPyGi"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ZebidataIndia/",
+    "forum": "",
+    "github": "https://zebidata.github.io/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/ZebiData/",
+    "slack": "",
+    "telegram": "https://t.me/ZebiData",
+    "twitter": "https://twitter.com/ZebidataIndia",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Zebi Coin",
+      "address": "0x2008e3057BD734e10AD13c9EAe45Ff132aBc1722",
+      "erc20": {
+        "symbol": "ZCO",
+        "decimals": 8,
+        "name": "Zebi Coin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Etheroll",
+  "ens_address": "",
+  "website": "https://etheroll.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2e071d2966aa7d8decb1005885ba1977d6038a65.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTF5LUQnby2aNBW72iVpiJjbB24HmyJAq4BW4QQRPGybB",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/986131219711586304/4Dtl8s-l.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2e071d2966aa7d8decb1005885ba1977d6038a65.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/986131219711586304/4Dtl8s-l.jpg",
+    "ipfs_origin": "QmQBTJLAQ3hGiwBiW71oW5Tdnr44MNJ1LjnSkfWDvEgRx6"
+  },
+  "support": {
+    "email": "support@etheroll.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@etheroll",
+    "chat": "",
+    "facebook": "https://www.facebook.com/etheroll/?ref=br_rs",
+    "forum": "",
+    "github": "https://github.com/bokkypoobah/TokenTrader/wiki/DICE-%E2%80%90-Etheroll",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/etheroll",
+    "slack": "",
+    "telegram": "https://t.me/GameEtheroll",
+    "twitter": "https://twitter.com/etheroll",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Etheroll",
+      "address": "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65",
+      "erc20": {
+        "symbol": "DICE",
+        "decimals": 16,
+        "name": "Etheroll"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Rocket Pool",
+  "ens_address": "",
+  "website": "https://www.rocketpool.net",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4efd85c19999d84251304bda99e90b92300bd93.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVGMGNXQEpCkPDqQRNttKiCuFmuo7MxeDtHf6SaQAaUta",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4efd85c19999d84251304bda99e90b92300bd93.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb4efd85c19999d84251304bda99e90b92300bd93.png",
+    "ipfs_origin": "Qmf1tzQaAJ1CMRxLK3qQcNEBSuAG9g3Pg8XZwDZtoFzgQ7"
+  },
+  "support": {
+    "email": "support@mail.rocketpool.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@darcius/rocket-pool-your-new-casper-friendly-ethereum-pos-pool-in-alpha-75709bd19936",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/darcius/rocketpool",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/rocketpool",
+    "slack": "http://slack.rocketpool.net",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Rocket Pool",
+      "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+      "erc20": {
+        "symbol": "RPL",
+        "decimals": 18,
+        "name": "Rocket Pool"
+      }
+    }
+  ]
+}

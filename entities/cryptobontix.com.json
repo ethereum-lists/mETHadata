@@ -1,0 +1,48 @@
+{
+  "name": "Dignity",
+  "ens_address": "",
+  "website": "https://cryptobontix.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x093e5c256ff8b32c7f1377f4c20e331674c77f00.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPgFBu4svpY5tm4zrHmPiSpGZEU4Gn2Mq18DmjYgbC92g",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/967358197957906432/B4x6WIP1.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x093e5c256ff8b32c7f1377f4c20e331674c77f00.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/967358197957906432/B4x6WIP1.jpg",
+    "ipfs_origin": "QmXq67N7Y3KeR3urPm72cYGnqB1oPXYcsXuP9Z9htLuUMx"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/DignityCoin/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/HGxGFEy2uFpDPWxCw4vD4A",
+    "twitter": "https://twitter.com/cryptobontix",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Dignity",
+      "address": "0x093e5C256Ff8B32c7F1377f4C20e331674C77F00",
+      "erc20": {
+        "symbol": "DIG",
+        "decimals": 8,
+        "name": "Dignity"
+      }
+    }
+  ]
+}

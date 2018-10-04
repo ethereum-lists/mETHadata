@@ -1,0 +1,49 @@
+{
+  "name": "Bancor",
+  "ens_address": "",
+  "website": "https://www.bancor.network/discover",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQf3Uo2VYHhC6vUw7tVfd8N1vTxVxm9tvXHLAzdLhzYxP",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/bnt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/840850808732291072/9Nt4fRLR.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c.png",
+    "ipfs_origin": "QmWEXnWvPNYUCm6E7Fqw7ZQPjPxmfgq4ZVLq5jc4XPkMzC"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.bancor.network/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bancor/",
+    "forum": "https://bitcointalk.org/index.php?topic=1789222.0",
+    "github": "https://github.com/bancorprotocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Bancor/",
+    "slack": "",
+    "telegram": "https://t.me/bancor",
+    "twitter": "https://twitter.com/Bancor",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bancor",
+      "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
+      "erc20": {
+        "symbol": "BNT",
+        "decimals": 18,
+        "name": "Bancor"
+      }
+    }
+  ]
+}

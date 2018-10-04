@@ -1,0 +1,49 @@
+{
+  "name": "IEx.ec",
+  "ens_address": "",
+  "website": "http://crowdsale.iex.ec",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x607f4c5bb672230e8672085532f7e901544a7375.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPv4kVuMJRZErorpN5ivP3aqUVrkNTcYHFvaGH9F1vGHh",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/rlc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/969202604910759936/7O3oWKdQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x607f4c5bb672230e8672085532f7e901544a7375.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/969202604910759936/7O3oWKdQ.jpg",
+    "ipfs_origin": "QmUxGyra8V3YeqzHfUsJ8tWztZf7ueTRL9cULezcTWQjfw"
+  },
+  "support": {
+    "email": "contact@iex.ec",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/iex-ec",
+    "chat": "",
+    "facebook": "https://www.facebook.com/iexecteam/",
+    "forum": "https://bitcointalk.org/index.php?topic=1746241.0",
+    "github": "https://github.com/iExecBlockchainComputing",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/iex.ec/",
+    "reddit": "https://www.reddit.com/r/iexec/",
+    "slack": "https://52.44.51.109:3000",
+    "telegram": "https://t.me/joinchat/FswFJw6AaL-kpQeWdBSwRA",
+    "twitter": "https://twitter.com/iEx_ec",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "IEx.ec",
+      "address": "0x607F4C5BB672230e8672085532f7e901544a7375",
+      "erc20": {
+        "symbol": "RLC",
+        "decimals": 9,
+        "name": "IEx.ec"
+      }
+    }
+  ]
+}

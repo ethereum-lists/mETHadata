@@ -1,0 +1,47 @@
+{
+  "name": "OHNI",
+  "ens_address": "",
+  "website": "http://ohni.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPCco1f1wDJqeicPUtBiPwBJCcsAYFCCjBBaNoBnBLauZ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1020687632529932288/EufAgzKv.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1020687632529932288/EufAgzKv.jpg",
+    "ipfs_origin": "Qmdq6WMXVW2jnhBiCBeZ3oR8tzkPmWHL6pFPqzLhV1UNWN"
+  },
+  "support": {
+    "email": "customer.service@ohni.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ohniio/",
+    "forum": "https://bitcointalk.org/index.php?topic=2278934.0",
+    "github": "https://github.com/ttmohni/Ohni",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/ohni/",
+    "reddit": "https://www.reddit.com/r/Ohni_Official/",
+    "slack": "",
+    "telegram": "https://t.me/OhniGroup",
+    "twitter": "https://twitter.com/ohni_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "OHNI",
+      "address": "0x7F2176cEB16dcb648dc924eff617c3dC2BEfd30d",
+      "erc20": {
+        "symbol": "OHNI",
+        "decimals": 0,
+        "name": "OHNI"
+      }
+    }
+  ]
+}

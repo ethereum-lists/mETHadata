@@ -1,0 +1,49 @@
+{
+  "name": "JNT",
+  "ens_address": "",
+  "website": "https://jibrel.network",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRJNvTX21ordWP24dUa3mMjHHquJJXtjaAbrrfZh9vx6u",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/jnt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1004111904531460096/BLKdprU-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1004111904531460096/BLKdprU-.jpg",
+    "ipfs_origin": "QmVuwPBjf4AK9JTfzCDeD6xujsD7fiyJMxoPr4PfaEtPff"
+  },
+  "support": {
+    "email": "support@jibrel.network",
+    "url": "https://jibrelnetwork.freshdesk.com/support/tickets/new"
+  },
+  "social": {
+    "blog": "https://medium.com/@jibrelnetwork",
+    "chat": "",
+    "facebook": "https://www.facebook.com/jibrelnetwork",
+    "forum": "https://bitcointalk.org/index.php?topic=2057487.0",
+    "github": "https://github.com/jibrelnetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/jibrel-network",
+    "reddit": "https://www.reddit.com/r/JibrelNetwork",
+    "slack": "https://jibrel.io",
+    "telegram": "https://t.me/jibrel_network",
+    "twitter": "https://twitter.com/JibrelNetwork",
+    "youtube": "https://www.youtube.com/channel/UChRHMyaETb7M9OwfQQodh7g"
+  },
+  "eth": [
+    {
+      "name": "JNT",
+      "address": "0xa5Fd1A791C4dfcaacC963D4F73c6Ae5824149eA7",
+      "erc20": {
+        "symbol": "JNT",
+        "decimals": 18,
+        "name": "JNT"
+      }
+    }
+  ]
+}

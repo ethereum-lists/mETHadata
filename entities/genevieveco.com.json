@@ -1,0 +1,47 @@
+{
+  "name": "GXC",
+  "ens_address": "",
+  "website": "https://genevieveco.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x58ca3065c0f24c7c96aee8d6056b5b5decf9c2f8.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmT7LAzGXdyiLo3BbssKEQETG7TSCmbzZ1uVjMJSB88Y5K",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x58ca3065c0f24c7c96aee8d6056b5b5decf9c2f8.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x58ca3065c0f24c7c96aee8d6056b5b5decf9c2f8.png",
+    "ipfs_origin": "QmTidsFnAQQMncCLbe4o7wQuLeDGBwx2Mcc763rmAdFWx2"
+  },
+  "support": {
+    "email": "info@genevieveco.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@genevievegx/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18142885/",
+    "reddit": "https://www.reddit.com/r/GxCoin/",
+    "slack": "",
+    "telegram": "https://t.me/GXCommunity",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GXC",
+      "address": "0x58ca3065C0F24C7c96Aee8d6056b5B5deCf9c2f8",
+      "erc20": {
+        "symbol": "GXC",
+        "decimals": 10,
+        "name": "GXC"
+      }
+    }
+  ]
+}

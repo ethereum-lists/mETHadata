@@ -1,0 +1,48 @@
+{
+  "name": "EXRNchain",
+  "ens_address": "",
+  "website": "https://exrnchain.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe469c4473af82217b30cf17b10bcdb6c8c796e75.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRJxH2wtPfTcBjpiZtv8bgVgi8icHEWbhuwyNXUtoN76i",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/988426708083707904/_VrM8jpL.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe469c4473af82217b30cf17b10bcdb6c8c796e75.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/988426708083707904/_VrM8jpL.jpg",
+    "ipfs_origin": "QmVLEUz8eHej1ZTZ4z3FDA73FgENYBoCVVQ8dH4tmAGcUP"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/etherdelta/etherdelta.github.io/blob/master/tokenGuides/EXRN.ejs",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/EXRNchain/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/EXRNToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EXRNchain",
+      "address": "0xe469c4473af82217B30CF17b10BcDb6C8c796e75",
+      "erc20": {
+        "symbol": "EXRN",
+        "decimals": 0,
+        "name": "EXRNchain"
+      }
+    }
+  ]
+}

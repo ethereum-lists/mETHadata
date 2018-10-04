@@ -1,0 +1,48 @@
+{
+  "name": "HMQ",
+  "ens_address": "",
+  "website": "https://humaniq.co",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPgCdH2nt8w8aUjau96G3i2z7QefpXpDnoXYSkEx9pT7j",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/892524846868987905/V48KUZHN.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/892524846868987905/V48KUZHN.jpg",
+    "ipfs_origin": "QmQvw7uF2SQLMzXkDSNxBfc3TZ9SfnLRH6yUm9jCkwbg6o"
+  },
+  "support": {
+    "email": "info@humaniq.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.humaniq.co/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/humaniq.co/",
+    "forum": "https://bitcointalk.org/index.php?topic=1711764.0",
+    "github": "https://github.com/humaniq",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/search?q=Humaniq",
+    "slack": "",
+    "telegram": "https://t.me/HMQtrader",
+    "twitter": "https://twitter.com/Humaniq_co",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "HMQ",
+      "address": "0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
+      "erc20": {
+        "symbol": "HMQ",
+        "decimals": 8,
+        "name": "HMQ"
+      }
+    }
+  ]
+}

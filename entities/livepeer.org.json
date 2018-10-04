@@ -1,0 +1,49 @@
+{
+  "name": "Livepeer Token",
+  "ens_address": "",
+  "website": "https://livepeer.org/",
+  "logo": {
+    "src": "https://livepeer-dev.s3.amazonaws.com/logos/lpt_transparent_200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": "QmNaH28JEEe1dRkLK3zoUStSSKbh83zFk2zVHjppLrc4Cz",
+    "sources": {
+      "token-list": "https://livepeer-dev.s3.amazonaws.com/logos/lpt_transparent_200.png",
+      "twitter": "http://pbs.twimg.com/profile_images/939266490490150913/g0fVt0R2.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x58b6a8a3302369daec383334672404ee733ab239.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x58b6a8a3302369daec383334672404ee733ab239.png",
+    "ipfs_origin": "QmZ1x3w6ihmCuAxTnJi2AJKLWDZHrh4rDoAikUngMSPo5h"
+  },
+  "support": {
+    "email": "contact@livepeer.org",
+    "url": "https://forum.livepeer.org"
+  },
+  "social": {
+    "blog": "https://medium.com/livepeer-blog",
+    "chat": "https://discord.gg/RR4kFAh",
+    "facebook": "https://www.facebook.com/livepeer/",
+    "forum": "https://forum.livepeer.org",
+    "github": "https://github.com/livepeer",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/livepeer/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/LivepeerOrg",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Livepeer Token",
+      "address": "0x58b6A8A3302369DAEc383334672404Ee733aB239",
+      "erc20": {
+        "symbol": "LPT",
+        "decimals": 18,
+        "name": "Livepeer Token"
+      }
+    }
+  ]
+}

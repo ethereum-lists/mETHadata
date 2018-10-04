@@ -1,0 +1,47 @@
+{
+  "name": "Futourist Token",
+  "ens_address": "",
+  "website": "https://futourist.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTTkir2dvXTzezH7xKo7UuXDbnRwU9uXMJurQmkjVqUbB",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1011891792285970432/Fx9UBqLO.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1011891792285970432/Fx9UBqLO.jpg",
+    "ipfs_origin": "QmafhNQ8v6Srh7Fm2j1Sr2kRez9XzRNCzxcadk1j8q3294"
+  },
+  "support": {
+    "email": "support@futourist.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/futourist",
+    "chat": "",
+    "facebook": "https://www.facebook.com/futourist.io/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/futourist.io/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://medium.com/futourist",
+    "twitter": "https://twitter.com/futouristinfo",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Futourist Token",
+      "address": "0x2023DCf7c438c8C8C0B0F28dBaE15520B4f3Ee20",
+      "erc20": {
+        "symbol": "FTR",
+        "decimals": 18,
+        "name": "Futourist Token"
+      }
+    }
+  ]
+}

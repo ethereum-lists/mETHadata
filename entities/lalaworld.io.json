@@ -1,0 +1,48 @@
+{
+  "name": "LALA World Token",
+  "ens_address": "",
+  "website": "https://lalaworld.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYjDohRudHh6HT4ZM1dpNi7nDSbwA8AVpM2B2r5LscdSU",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/959642040748294145/qM7qOSS7.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9.png",
+    "ipfs_origin": "QmSqCmWvReYDf8QNZvSj5qi5YKDxWVVGoF1ycyyUFL7tJK"
+  },
+  "support": {
+    "email": "hello@lalaworld.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.lalaworld.io/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/MyLaLaWorld",
+    "forum": "https://bitcointalk.org/index.php?topic=2268691.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/MyLaLaWorld/",
+    "reddit": "https://www.reddit.com/user/MyLaLaWorld/",
+    "slack": "http://bit.ly/2yiWRE4",
+    "telegram": "https://t.me/LaLaWorld",
+    "twitter": "https://twitter.com/MyLaLaWorld",
+    "youtube": "https://www.youtube.com/channel/UCCcnh2DTw_mXECPgOOBN84Q/videos"
+  },
+  "eth": [
+    {
+      "name": "LALA World Token",
+      "address": "0xfD107B473AB90e8Fbd89872144a3DC92C40Fa8C9",
+      "erc20": {
+        "symbol": "LALA",
+        "decimals": 18,
+        "name": "LALA World Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Amber Token",
+  "ens_address": "",
+  "website": "https://ambrosus.com/index.html",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmR2cKtZ4RuBPKvRBSvv4uJmonGQ6TpXLWpXW1n1jWWAuE",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/amb.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/883752170352504833/_nSEjidJ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce.png",
+    "ipfs_origin": "QmWP9NuTySSm1GRpbWypi3uKU2BVmKPxKb6aorbrVTsGLZ"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.ambrosus.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ambrosusAMB",
+    "forum": "https://bitcointalk.org/index.php?topic=2034826.0",
+    "github": "https://github.com/ambrosus",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/ambrosus",
+    "reddit": "https://www.reddit.com/r/ambrosus/",
+    "slack": "",
+    "telegram": "https://t.me/AmbrosusAMB",
+    "twitter": "https://twitter.com/AmbrosusAMB",
+    "youtube": "https://youtu.be/OkdCV6zw3lI"
+  },
+  "eth": [
+    {
+      "name": "Amber Token",
+      "address": "0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE",
+      "erc20": {
+        "symbol": "AMB",
+        "decimals": 18,
+        "name": "Amber Token"
+      }
+    }
+  ]
+}

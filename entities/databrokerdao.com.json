@@ -1,0 +1,57 @@
+{
+  "name": "DataBroker DAO",
+  "ens_address": "",
+  "website": "https://databrokerdao.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x765f0c16d1ddc279295c1a7c24b0883f62d33f75.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXT7L8hHrdu4S8MQyaXLyecRUQFJuCy6fnUDVPCp9JpCe",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/882967532034027520/aSp_oU0F.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x765f0c16d1ddc279295c1a7c24b0883f62d33f75.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x765f0c16d1ddc279295c1a7c24b0883f62d33f75.png",
+    "ipfs_origin": "QmdQpGDqUrVmVqNWySpgz7BP4XKruqQMRWRQ7AZksCVQCX"
+  },
+  "support": {
+    "email": "hello@databrokerdao.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/databrokerdao",
+    "chat": "",
+    "facebook": "https://www.facebook.com/DataBrokerDAO",
+    "forum": "https://bitcointalk.org/index.php?topic=2113309.0",
+    "github": "https://github.com/DataBrokerDAO",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/DatabrokerDAO/",
+    "slack": "https://slack.databrokerdao.com",
+    "telegram": "https://t.me/databrokerdao",
+    "twitter": "https://twitter.com/DataBrokerDAO",
+    "youtube": "https://www.youtube.com/channel/UCUmxSlaliIuF0Z3yNw8y_uA"
+  },
+  "eth": [
+    {
+      "name": "DaTa eXchange Token",
+      "address": "0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75",
+      "erc20": {
+        "symbol": "DTX",
+        "decimals": 18,
+        "name": "DaTa eXchange Token"
+      }
+    },
+    {
+      "name": "DataBrokerDAO Token",
+      "address": "0x1B5f21ee98eed48d292e8e2d3Ed82b40a9728A22",
+      "erc20": {
+        "symbol": "DATABroker",
+        "decimals": 18,
+        "name": "DataBrokerDAO Token"
+      }
+    }
+  ]
+}

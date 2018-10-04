@@ -1,0 +1,48 @@
+{
+  "name": "AdShares",
+  "ens_address": "",
+  "website": "https://adshares.net",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x422866a8f0b032c5cf1dfbdef31a20f4509562b0.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNfJhgQ5jcjHJeD9Gkfzgo4mwfwW6TBswtsPnkczpD7e6",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/879952050020388864/MxAMlpV3.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x422866a8f0b032c5cf1dfbdef31a20f4509562b0.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/879952050020388864/MxAMlpV3.jpg",
+    "ipfs_origin": "QmYSpjNLd28o692hWCux5VLTNyMY8hxEfj2WFcLzm6uKjp"
+  },
+  "support": {
+    "email": "office@adshares.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/adshares",
+    "chat": "",
+    "facebook": "https://www.facebook.com/adshares/",
+    "forum": "https://bitcointalk.org/index.php?topic=1994545.0",
+    "github": "https://github.com/adshares",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/adshares/",
+    "slack": "",
+    "telegram": "https://t.me/adshares",
+    "twitter": "https://twitter.com/adsharesNet",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AdShares",
+      "address": "0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0",
+      "erc20": {
+        "symbol": "ADST",
+        "decimals": 0,
+        "name": "AdShares"
+      }
+    }
+  ]
+}

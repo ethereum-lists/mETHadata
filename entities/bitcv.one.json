@@ -1,0 +1,48 @@
+{
+  "name": "BitCapitalVendor Token",
+  "ens_address": "",
+  "website": "https://bitcv.one/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1014613e2b3cbc4d575054d4982e580d9b99d7b1.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZJreByUvB5tcKsHanqENtMPd3bsjGTJkWbHfS5UBnJ6h",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/959747029965553665/hqQw2WGE.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1014613e2b3cbc4d575054d4982e580d9b99d7b1.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1014613e2b3cbc4d575054d4982e580d9b99d7b1.png",
+    "ipfs_origin": "QmUMDnMRoKMRzi6zN5QiFxe8owwEkeapMnXj1NgJQAL9rk"
+  },
+  "support": {
+    "email": "",
+    "url": "https://bitcv.one/#contact"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/BitCapitalVendor",
+    "forum": "",
+    "github": "https://github.com/bitcv",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/bcvtoken",
+    "twitter": "https://twitter.com/BCVofficial",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BitCapitalVendor Token",
+      "address": "0x1014613E2B3CBc4d575054D4982E580d9b99d7B1",
+      "erc20": {
+        "symbol": "BCV",
+        "decimals": 8,
+        "name": "BitCapitalVendor Token"
+      }
+    }
+  ]
+}

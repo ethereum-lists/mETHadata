@@ -1,0 +1,47 @@
+{
+  "name": "Droplex",
+  "ens_address": "",
+  "website": "https://droplex.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3c75226555fc496168d48b88df83b95f16771f37.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYbrXh1L1aqK43HHezW5bGBu4sex1yRH9nDavQq5MikFz",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3c75226555fc496168d48b88df83b95f16771f37.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3c75226555fc496168d48b88df83b95f16771f37.png",
+    "ipfs_origin": "Qma3rHgKAFEG5ApLwriAP1dgdy8ze696Uzo5SyGUfugP7H"
+  },
+  "support": {
+    "email": "support@droplex.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Droplex",
+      "address": "0x3c75226555FC496168d48B88DF83B95F16771F37",
+      "erc20": {
+        "symbol": "DROP",
+        "decimals": 0,
+        "name": "Droplex"
+      }
+    }
+  ]
+}

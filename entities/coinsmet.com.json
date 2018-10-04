@@ -1,0 +1,47 @@
+{
+  "name": "CoinsMet",
+  "ens_address": "",
+  "website": "http://www.coinsmet.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZYoLTJxfqJSS2NX9562FugG1Kfps1rtPsqrxmojMx53t",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/917995207886606336/IBAQ436T.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/917995207886606336/IBAQ436T.jpg",
+    "ipfs_origin": "Qmb6NzV5NezCgC6etnSCMqWAjJqFCiWmvcokMrmF6aS7Q4"
+  },
+  "support": {
+    "email": "i@coinsmet.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/coins.met.1",
+    "forum": "https://discord.gg/pqvVDg8",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/coinsmet",
+    "twitter": "https://twitter.com/coinsmet/",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CoinsMet",
+      "address": "0x7A79ABD3905ef37b8D243c4C28ceE73a751EB076",
+      "erc20": {
+        "symbol": "CM",
+        "decimals": 18,
+        "name": "CoinsMet"
+      }
+    }
+  ]
+}

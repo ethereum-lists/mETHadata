@@ -1,0 +1,47 @@
+{
+  "name": "HealthHeart Tokens",
+  "ens_address": "",
+  "website": "http://www.healthheart.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcepS4bgqkrEeGZ8BWB4szMYcNzLUVbw44Bagg5uN4ajp",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/913833120419467265/NddsNN3H.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/913833120419467265/NddsNN3H.jpg",
+    "ipfs_origin": "QmQMouEbfESLwrERA4r2nPy7oU6p74Fg6JTUAPW5k11tef"
+  },
+  "support": {
+    "email": "hello@healthheart.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/healthheartllc/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18268949/",
+    "reddit": "https://www.reddit.com/r/healthheart/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GEWnPhHB4wAZMf1MFV5cAQ",
+    "twitter": "https://twitter.com/healthheartllc",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "HealthHeart Tokens",
+      "address": "0x4FBC28e3B3C1c50eE05dCD66D9fC614A0cb99705",
+      "erc20": {
+        "symbol": "HHT",
+        "decimals": 18,
+        "name": "HealthHeart Tokens"
+      }
+    }
+  ]
+}

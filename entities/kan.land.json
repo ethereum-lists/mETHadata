@@ -1,0 +1,48 @@
+{
+  "name": "BitKan",
+  "ens_address": "",
+  "website": "http://www.kan.land/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1410434b0346f5be678d0fb554e5c7ab620f8f4a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSGyBWktkN5rB8G3Uim6oMoRSX8rZ54DbC5zU1dLBVip4",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/927746856997699584/ttSEZbqh.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1410434b0346f5be678d0fb554e5c7ab620f8f4a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1410434b0346f5be678d0fb554e5c7ab620f8f4a.png",
+    "ipfs_origin": "QmdBGq769gdedsyrZu5vEoso1Aa753tL8Mkdnqb3RSrGXP"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BitKan",
+    "twitter": "https://twitter.com/BitKanOfficial",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BitKan",
+      "address": "0x1410434b0346f5bE678d0FB554E5c7ab620f8f4a",
+      "erc20": {
+        "symbol": "KAN",
+        "decimals": 18,
+        "name": "BitKan"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Decent.Bet Token",
+  "ens_address": "",
+  "website": "https://www.decent.bet/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b68bfae21df5a510931a262cecf63f41338f264.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qma7B9zcshifH9fmeNyWDfnUzGXbL4aAPMbvJRPcqDcY9T",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1028062558249340929/Fp9e_TJY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b68bfae21df5a510931a262cecf63f41338f264.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b68bfae21df5a510931a262cecf63f41338f264.png",
+    "ipfs_origin": "QmQbdoV6XpQZ81MzFQtatneJXMXsYNZRpz9X8rVhurAM4T"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/decentbet/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/decentbet/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://www.twitter.com/decent_bet/",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Decent.Bet Token",
+      "address": "0x540449E4D172cd9491c76320440cD74933d5691a",
+      "erc20": {
+        "symbol": "DBET",
+        "decimals": 18,
+        "name": "Decent.Bet Token"
+      }
+    },
+    {
+      "name": "Decent.Bet Token",
+      "address": "0x9b68bFaE21DF5A510931A262CECf63f41338F264",
+      "erc20": {
+        "symbol": "DBET",
+        "decimals": 18,
+        "name": "Decent.Bet Token"
+      }
+    }
+  ]
+}

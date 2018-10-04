@@ -1,0 +1,48 @@
+{
+  "name": "DAEX",
+  "ens_address": "",
+  "website": "https://daex.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0b4bdc478791897274652dc15ef5c135cae61e60.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeGgBRToPATPQ11bagzdJWSMe8XdngfbM87o76M7gnwvP",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/989802631538212869/jsE6DYxn.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0b4bdc478791897274652dc15ef5c135cae61e60.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0b4bdc478791897274652dc15ef5c135cae61e60.png",
+    "ipfs_origin": "Qmd95fex3tVQhaiZe3qEKDvTaqxoSzm3nWtYS7xhYxi5xN"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/DAEX_Blockchain/",
+    "slack": "",
+    "telegram": "https://t.me/DAEXOfficial_en",
+    "twitter": "https://twitter.com/DaexBlockchain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DAEX",
+      "address": "0x0B4BdC478791897274652DC15eF5C135cae61E60",
+      "erc20": {
+        "symbol": "DAX",
+        "decimals": 18,
+        "name": "DAEX"
+      }
+    }
+  ]
+}

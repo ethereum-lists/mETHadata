@@ -1,0 +1,49 @@
+{
+  "name": "District0x Network Token",
+  "ens_address": "",
+  "website": "https://district0x.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0abdace70d3790235af448c88547603b945604ea.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUhcSeAigvkqanbgqEiwYLTXbtnTtRwbuTsNAfM7FhEzA",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/dnt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/871831497006764033/X-5Z8jrg.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0abdace70d3790235af448c88547603b945604ea.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/871831497006764033/X-5Z8jrg.jpg",
+    "ipfs_origin": "QmQ4fdFL7TxqZKjqkCFmLg8F79R8bUBg2RY9RZxoB7k7Ld"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.district0x.io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/district0x",
+    "forum": "https://bitcointalk.org/index.php?topic=2009966.0",
+    "github": "https://github.com/district0x",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/district0x/",
+    "slack": "https://district0x-slack.herokuapp.com",
+    "telegram": "https://t.me/district0x",
+    "twitter": "https://twitter.com/district0x",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "District0x Network Token",
+      "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
+      "erc20": {
+        "symbol": "DNT",
+        "decimals": 18,
+        "name": "District0x Network Token"
+      }
+    }
+  ]
+}

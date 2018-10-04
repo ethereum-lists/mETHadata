@@ -1,0 +1,47 @@
+{
+  "name": "Martcoin",
+  "ens_address": "",
+  "website": "https://martcoin.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSSzksbRa7JeN1vqGF2row6vEQkru2JbMxvd6o5vs5Goy",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/923838031810973696/tki3m4VQ.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/923838031810973696/tki3m4VQ.jpg",
+    "ipfs_origin": "QmUBrcDWkSwNt9oGiwzRK5yhdohiuJLbTQLfKmhiCNtaMH"
+  },
+  "support": {
+    "email": "support@martcoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/martcoin",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/martcoinchannel",
+    "twitter": "https://twitter.com/martcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Martcoin",
+      "address": "0xfdcc07Ab60660de533b5Ad26e1457b565a9D59Bd",
+      "erc20": {
+        "symbol": "MART",
+        "decimals": 18,
+        "name": "Martcoin"
+      }
+    }
+  ]
+}

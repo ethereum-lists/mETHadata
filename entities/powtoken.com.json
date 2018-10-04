@@ -1,0 +1,47 @@
+{
+  "name": "POW Token",
+  "ens_address": "",
+  "website": "https://powtoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbDdJumBncWo3D8njAXckhxPaNu13oX2VuVVnPXSoexj4",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/884854659898253313/rSj8aDUQ.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/884854659898253313/rSj8aDUQ.jpg",
+    "ipfs_origin": "QmdSg4NrHyaFHj7JrQvCziKgvwmozq8YzDt5cUkzGK1KQD"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/POWmessages",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/altcoin/comments/717l0w/the_pow_lite_global_airdrop_is_confirmed_for_0900/",
+    "slack": "",
+    "telegram": "https://t.me/powtoken",
+    "twitter": "https://www.twitter.com/powtoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "POW Token",
+      "address": "0xEb2dA9FAC54284cEA731D1F10bb34EEcB3c00c14",
+      "erc20": {
+        "symbol": "POW",
+        "decimals": 18,
+        "name": "POW Token"
+      }
+    }
+  ]
+}

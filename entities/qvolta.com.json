@@ -1,0 +1,47 @@
+{
+  "name": "QVT",
+  "ens_address": "",
+  "website": "https://qvolta.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1183f92a5624d68e85ffb9170f16bf0443b4c242.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTGJsxxf5JMrErMxHizwb2GpxbR4nAHuy7n1DnNvAank7",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1183f92a5624d68e85ffb9170f16bf0443b4c242.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1183f92a5624d68e85ffb9170f16bf0443b4c242.png",
+    "ipfs_origin": "QmTJfhMgWXteaEMYRjGyiVm52XUHdWGXh1Sx8svVpMu3Rm"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/qvolta/",
+    "forum": "",
+    "github": "https://github.com/qvolta",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/qvoltaexchange/",
+    "slack": "",
+    "telegram": "https://t.me/qvolta",
+    "twitter": "https://twitter.com/Qvolta_platform",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "QVT",
+      "address": "0x1183F92A5624D68e85FFB9170F16BF0443B4c242",
+      "erc20": {
+        "symbol": "QVT",
+        "decimals": 18,
+        "name": "QVT"
+      }
+    }
+  ]
+}

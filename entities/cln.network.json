@@ -1,0 +1,48 @@
+{
+  "name": "ColuLocalNetwork",
+  "ens_address": "",
+  "website": "https://cln.network",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4162178b78d6985480a308b2190ee5517460406d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQuX2h1uPzjiEeDYMWJB27wyZXWHNNGsapeqp6WNa9aWs",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1001061690690232320/K4E4gEGX.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4162178b78d6985480a308b2190ee5517460406d.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4162178b78d6985480a308b2190ee5517460406d.png",
+    "ipfs_origin": "QmdvcDfQRZcqf5uaQjFv7RRmFomxoVKN7Xf33N7yB2EppQ"
+  },
+  "support": {
+    "email": "cln@colu.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/colu",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ColuNetwork/",
+    "forum": "https://bitcointalk.org/index.php?topic=2578510.0",
+    "github": "https://github.com/colucom/CLN-solidity",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ColuNetwork/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Gcrd9Q_E_rgGEjDqmn9Gtg",
+    "twitter": "https://twitter.com/ColuNetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ColuLocalNetwork",
+      "address": "0x4162178B78D6985480A308B2190EE5517460406D",
+      "erc20": {
+        "symbol": "CLN",
+        "decimals": 18,
+        "name": "ColuLocalNetwork"
+      }
+    }
+  ]
+}

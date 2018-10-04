@@ -1,0 +1,48 @@
+{
+  "name": "EARTH Token",
+  "ens_address": "",
+  "website": "https://earth-token.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x900b4449236a7bb26b286601dd14d2bde7a6ac6c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXY2y9ivki3hDwQz1TSLM9xJ6WFf1oGJpznXNz7tJEMWJ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/912002327963242496/LXdM11ST.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x900b4449236a7bb26b286601dd14d2bde7a6ac6c.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/912002327963242496/LXdM11ST.jpg",
+    "ipfs_origin": "QmRKBwSABiV6fhCQBhMF6rSDreuayjco671JFzgW5gtjtK"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/earthtoken",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/EarthToken/",
+    "slack": "",
+    "telegram": "https://t.me/earthtokenofficial",
+    "twitter": "https://twitter.com/earthtokens",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EARTH Token",
+      "address": "0x900b4449236a7bb26b286601dD14d2bDe7a6aC6c",
+      "erc20": {
+        "symbol": "EARTH",
+        "decimals": 8,
+        "name": "EARTH Token"
+      }
+    }
+  ]
+}

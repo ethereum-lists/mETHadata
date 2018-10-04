@@ -1,0 +1,48 @@
+{
+  "name": "MUXE",
+  "ens_address": "",
+  "website": "https://www.muxe.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x515669d308f887fd83a471c7764f5d084886d34d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQSYbeqrUvbXj7j7yud2s6mXfJQ3tvMx61bw6rj6HEXom",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/964199527350665216/fkf_ty6s.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x515669d308f887fd83a471c7764f5d084886d34d.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x515669d308f887fd83a471c7764f5d084886d34d.png",
+    "ipfs_origin": "QmTYXjSFV9ubxWY8b2yC2tzQaAQPzu1wY9mwxAgSHYaVPZ"
+  },
+  "support": {
+    "email": "info@muxe.io",
+    "url": "https://support.muxe.io"
+  },
+  "social": {
+    "blog": "https://www.muxe.io/blog",
+    "chat": "https://www.muxe.io",
+    "facebook": "https://www.facebook.com/MUXEproject",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://nl.linkedin.com/in/muxe-project",
+    "reddit": "https://www.reddit.com/user/MuxeProject",
+    "slack": "",
+    "telegram": "https://t.me/MUXEproject",
+    "twitter": "https://twitter.com/muxeproject",
+    "youtube": "https://www.youtube.com/channel/UCH6oO2fazB72bTdvMGK-H7w"
+  },
+  "eth": [
+    {
+      "name": "MUXE",
+      "address": "0x515669d308f887Fd83a471C7764F5d084886D34D",
+      "erc20": {
+        "symbol": "MUXE",
+        "decimals": 18,
+        "name": "MUXE"
+      }
+    }
+  ]
+}

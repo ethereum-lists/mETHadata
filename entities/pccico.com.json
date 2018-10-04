@@ -1,0 +1,47 @@
+{
+  "name": "PCC Token",
+  "ens_address": "",
+  "website": "https://pccico.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcM2pF34pGWeUmFUZnEeY9x76vbeJ7MZ8gbL62nGRTZUp",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/902784730633879552/uqjqSfvc.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/902784730633879552/uqjqSfvc.jpg",
+    "ipfs_origin": "QmdiDZKekvirP5XgrRULE5yd8uSqApt1e2p2RBzUxuN2LF"
+  },
+  "support": {
+    "email": "info@pccico.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/pccicoofficial",
+    "twitter": "https://twitter.com/PornCorn_Video",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "PCC Token",
+      "address": "0xfB7dA9863E030495Db8b4D067d665fc8433ffF85",
+      "erc20": {
+        "symbol": "PCC",
+        "decimals": 18,
+        "name": "PCC Token"
+      }
+    }
+  ]
+}

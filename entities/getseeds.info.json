@@ -1,0 +1,48 @@
+{
+  "name": "GetSeeds Token",
+  "ens_address": "",
+  "website": "https://getseeds.info",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2368056f36035d01e7c2aa2a15b87e47cc9d2d23.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSmfMtLmtNyiH1dV7tBo93i1NfiZ4fVdN51FGoeVZ4uk1",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1008565429638516741/xuT6j8CY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2368056f36035d01e7c2aa2a15b87e47cc9d2d23.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1008565429638516741/xuT6j8CY.jpg",
+    "ipfs_origin": "QmbbaSu755YGyF5Ru8AKUWdvoKXnpJngkANtGHS8H4HMAi"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://web.facebook.com/seeders.getseeds/",
+    "forum": "",
+    "github": "https://github.com/Getseeds-GSD/Getseeds-Token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/getseedschat",
+    "twitter": "https://twitter.com/GetseedsGSD",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GetSeeds Token",
+      "address": "0x2368056f36035d01E7c2Aa2a15b87E47Cc9d2d23",
+      "erc20": {
+        "symbol": "GSD",
+        "decimals": 18,
+        "name": "GetSeeds Token"
+      }
+    }
+  ]
+}

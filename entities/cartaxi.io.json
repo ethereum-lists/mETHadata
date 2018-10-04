@@ -1,0 +1,48 @@
+{
+  "name": "CarTaxi",
+  "ens_address": "",
+  "website": "https://cartaxi.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUFGhqEejxxZKzg4yFcVT5oUovtxMHjKo665SEUBt8X9P",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/909825326225686529/WuRbi6XC.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66.png",
+    "ipfs_origin": "QmW2qnNmvSZE5p75hxzLQCw2ooGkDZ9zdd6auD8krBxHZF"
+  },
+  "support": {
+    "email": "info@cartaxi.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cartaxi.io",
+    "forum": "https://bitcointalk.org/index.php?topic=2113124",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/cartaxi_io",
+    "twitter": "https://twitter.com/CarTaxi_24",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CarTaxi",
+      "address": "0x662aBcAd0b7f345AB7FfB1b1fbb9Df7894f18e66",
+      "erc20": {
+        "symbol": "CTX",
+        "decimals": 18,
+        "name": "CarTaxi"
+      }
+    }
+  ]
+}

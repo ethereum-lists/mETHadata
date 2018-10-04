@@ -1,0 +1,48 @@
+{
+  "name": "Pylon Token",
+  "ens_address": "",
+  "website": "https://pylon-network.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYvjtRyWAPtd8raRMK9VpmSCcqSc9DbxtypXHEnKhXKJn",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/889562016356208645/VeZZ-c8y.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e.png",
+    "ipfs_origin": "QmRTp8bF3oQNYBKBe2F2RTHyKWXQCtTJ1DtWb2icYvrHpT"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://pylon-network.org/blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/KlenergyTechOfficial/",
+    "forum": "",
+    "github": "https://github.com/klenergy",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/PylonNetwork/",
+    "slack": "",
+    "telegram": "https://t.me/pylonnetworkofficialtelegram",
+    "twitter": "https://twitter.com/KlenergyTech",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Pylon Token",
+      "address": "0x7703C35CfFdC5CDa8D27aa3df2F9ba6964544b6e",
+      "erc20": {
+        "symbol": "PYLNT",
+        "decimals": 18,
+        "name": "Pylon Token"
+      }
+    }
+  ]
+}

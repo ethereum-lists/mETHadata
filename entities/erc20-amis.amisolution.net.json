@@ -1,0 +1,46 @@
+{
+  "name": "AMIS",
+  "ens_address": "",
+  "website": "http://erc20-amis.amisolution.net",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x949bed886c739f1a3273629b3320db0c5024c719.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSz2yzLUwbmF7Mkjzb449V3nb3yH1SKngpu5UKtsrQTNq",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/843461452828676096/2DhEm6Ie.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x949bed886c739f1a3273629b3320db0c5024c719.png"
+    },
+    "ipfs_origin": "QmPPi2sYCv4kc5bW9z55ANLwLEYzEbMJ2hGJFfuAgfynSV"
+  },
+  "support": {
+    "email": "info@amisolution.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@AMIS_ERC20",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1816765.0",
+    "github": "https://github.com/amisolution/ERC20-AMIS",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://amisolution.herokuapp.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/AMIS_ERC20",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AMIS",
+      "address": "0x949bEd886c739f1A3273629b3320db0C5024c719",
+      "erc20": {
+        "symbol": "AMIS",
+        "decimals": 9,
+        "name": "AMIS"
+      }
+    }
+  ]
+}

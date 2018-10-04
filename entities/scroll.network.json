@@ -1,0 +1,48 @@
+{
+  "name": "Scroll",
+  "ens_address": "",
+  "website": "https://scroll.network/scrl/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24dcc881e7dd730546834452f21872d5cb4b5293.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNTMWdYpaaoCQ1gm1QGX9f5KEerpppPwsxGRp9eB1764w",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1007692350926311424/T60lh4XQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24dcc881e7dd730546834452f21872d5cb4b5293.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24dcc881e7dd730546834452f21872d5cb4b5293.png",
+    "ipfs_origin": "QmVaYKnHFbhCPuVhTmwfmwce9SB86FqmDJTRjYCjuNGked"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/OfficialScroll/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/IGswQk2xBnqipPeMBrhYxw",
+    "twitter": "https://twitter.com/OfficialScroll",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Scroll",
+      "address": "0x24DCc881E7Dd730546834452F21872D5cb4b5293",
+      "erc20": {
+        "symbol": "SCRL",
+        "decimals": 18,
+        "name": "Scroll"
+      }
+    }
+  ]
+}

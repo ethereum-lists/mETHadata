@@ -1,0 +1,48 @@
+{
+  "name": "Vdice",
+  "ens_address": "",
+  "website": "https://www.vdice.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5c543e7ae0a1104f78406c340e9c64fd9fce5170.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNoVsRDddqhp5KF9jLxfKxSysj69CpULGdL8x5JhdpNpp",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/823105468348235776/LcKhPmGG.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5c543e7ae0a1104f78406c340e9c64fd9fce5170.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5c543e7ae0a1104f78406c340e9c64fd9fce5170.png",
+    "ipfs_origin": "QmWYnFF8CU3M8AQXr1gPad5zAWRFwMBVb6rsGM9XyGmC4P"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.vdice.io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/vDice.io",
+    "forum": "https://bitcointalk.org/index.php?topic=1691524.0",
+    "github": "https://github.com/jamesgroton/vDice-Contract-Code",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/vDice/",
+    "slack": "https://vdice-slack-invite-page.stamplayapp.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/vdice_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Vdice",
+      "address": "0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170",
+      "erc20": {
+        "symbol": "VSL",
+        "decimals": 18,
+        "name": "Vdice"
+      }
+    }
+  ]
+}

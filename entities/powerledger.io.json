@@ -1,0 +1,49 @@
+{
+  "name": "PowerLedger",
+  "ens_address": "",
+  "website": "https://powerledger.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x595832f8fc6bf59c85c527fec3740a1b7a361269.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmeinu6F9cFe7jXZxPud7cvkTnyv9FkUYpP5mMbHb3Vdov",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/powr.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1032166263861071872/pqmf5KRM.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x595832f8fc6bf59c85c527fec3740a1b7a361269.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1032166263861071872/pqmf5KRM.jpg",
+    "ipfs_origin": "QmYJdYxJcvhuKaroE4AkiqrkKY8Sx9x71sM5a4nGuhyYZm"
+  },
+  "support": {
+    "email": "mc@powerledger.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/power-ledger",
+    "chat": "",
+    "facebook": "https://www.facebook.com/powerledger",
+    "forum": "https://bitcointalk.org/index.php?topic=2003922.0",
+    "github": "http://no/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/icocrypto/comments/6mr791/power_ledger_token_sale_powr/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Gop-90DIMiPF7N_EtvFzjA",
+    "twitter": "https://twitter.com/PowerLedger_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "PowerLedger",
+      "address": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
+      "erc20": {
+        "symbol": "POWR",
+        "decimals": 6,
+        "name": "PowerLedger"
+      }
+    }
+  ]
+}

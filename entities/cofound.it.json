@@ -1,0 +1,47 @@
+{
+  "name": "Cofound.it",
+  "ens_address": "",
+  "website": "https://cofound.it/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmfZAFGED6sqUz864JtFG4CL7Xiz2pi2zGhi6s4FAjh4A1",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e.png",
+    "ipfs_origin": "QmX6wGEc5wmaVNBaP5y6nvFiMJAViwcYEhBSYNPKGBBw1c"
+  },
+  "support": {
+    "email": "support@cofound.it",
+    "url": "https://support.cofound.it/"
+  },
+  "social": {
+    "blog": "https://blog.cofound.it/",
+    "chat": "https://t.me/cofoundit",
+    "facebook": "https://www.facebook.com/CofounditEcosystem/",
+    "forum": "https://bitcointalk.org/index.php?topic=1849911.0",
+    "github": "https://github.com/cofoundit",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/cofound.it/",
+    "linkedin": "https://www.linkedin.com/company/cofound.it/",
+    "reddit": "https://www.reddit.com/r/cofoundit/",
+    "slack": "",
+    "telegram": "https://t.me/cofounditnews",
+    "twitter": "https://twitter.com/cofound_it",
+    "youtube": "https://www.youtube.com/c/Cofoundit"
+  },
+  "eth": [
+    {
+      "name": "Cofound.it",
+      "address": "0x12FEF5e57bF45873Cd9B62E9DBd7BFb99e32D73e",
+      "erc20": {
+        "symbol": "CFI",
+        "decimals": 18,
+        "name": "Cofound.it"
+      }
+    }
+  ]
+}

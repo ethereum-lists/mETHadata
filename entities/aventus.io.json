@@ -1,0 +1,47 @@
+{
+  "name": "AVT",
+  "ens_address": "",
+  "website": "https://aventus.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d88ed6e74bbfd96b831231638b66c05571e824f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeMqn4p2LjZrfWe54VEm1sgMR97rf1ftEagE4RTJTawHo",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d88ed6e74bbfd96b831231638b66c05571e824f.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d88ed6e74bbfd96b831231638b66c05571e824f.png",
+    "ipfs_origin": "QmP77mWXjcD4TFDKJYJZKANKA9BGwaUTjbirDweeQXcG9B"
+  },
+  "support": {
+    "email": "info@aventus.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.aventus.io/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AventusPF/",
+    "forum": "https://bitcointalk.org/index.php?topic=1955231.0",
+    "github": "https://github.com/AventusProtocolFoundation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/15212509/",
+    "reddit": "https://www.reddit.com/r/Aventus",
+    "slack": "https://slack.aventus.io",
+    "telegram": "https://t.me/joinchat/HIDa30p_VOA2Mk-V14EVMA",
+    "twitter": "https://twitter.com/AventusSystems",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AVT",
+      "address": "0x0d88eD6E74bbFD96B831231638b66C05571e824F",
+      "erc20": {
+        "symbol": "AVT",
+        "decimals": 18,
+        "name": "AVT"
+      }
+    }
+  ]
+}

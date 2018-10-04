@@ -1,0 +1,47 @@
+{
+  "name": "MOVI",
+  "ens_address": "",
+  "website": "http://movitoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmX5Y9c8uFahwxTYh8X46pFwAmvqHhXtkBiLqgBiabcPU4",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/979020894734639105/Sv0EizTJ.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/979020894734639105/Sv0EizTJ.jpg",
+    "ipfs_origin": "QmVGZtvFCyhez6hMTu2ECXiStUWUdLnRaTwD2EUj1MZYJK"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://facebook.com/movitoken",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://t.me/movitoken",
+    "twitter": "http://twitter.com/movitoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MOVI",
+      "address": "0x623B925b0A57a24EA8dE301F2E3E692cE903f0c3",
+      "erc20": {
+        "symbol": "MOVI",
+        "decimals": 0,
+        "name": "MOVI"
+      }
+    }
+  ]
+}

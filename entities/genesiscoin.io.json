@@ -1,0 +1,47 @@
+{
+  "name": "Genesis",
+  "ens_address": "",
+  "website": "http://genesiscoin.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmac1B9XiYn4FvDs9PJXWjoKhv48a1YNwSizcd2iL9SecU",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/924957092129202176/W42SzpRQ.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/924957092129202176/W42SzpRQ.jpg",
+    "ipfs_origin": "QmdcUaciBdwpk5T8nQ1fFWYERocQnjawAtfUcdkvJ81p6w"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://www.thegenesisforum.com/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/TheGenesisCoin/GenesisCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Genesis_Coin/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/EnbX8Q9P5b34lnomjt06Nw",
+    "twitter": "https://twitter.com/thegenesiscoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Genesis",
+      "address": "0x9dfe4643C04078a46803edCC30a3291b76d4c20c",
+      "erc20": {
+        "symbol": "GEN",
+        "decimals": 18,
+        "name": "Genesis"
+      }
+    }
+  ]
+}

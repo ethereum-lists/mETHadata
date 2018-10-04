@@ -1,0 +1,47 @@
+{
+  "name": "AICoin",
+  "ens_address": "",
+  "website": "https://www.aicoin.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSGMfew2yFSkDb194mkFEtqzbwnKJBVBpVULyX54AD63p",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/874681571248402433/nOzhPr71.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/874681571248402433/nOzhPr71.jpg",
+    "ipfs_origin": "QmRgSxDSKtydSw74x9qtkuBjrjSuqgJojESZBbuvhYxLAq"
+  },
+  "support": {
+    "email": "info@aicoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/aicoinfb-1847270038857638/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/organization/5312889/admin/updates",
+    "reddit": "",
+    "slack": "https://slackpass.io/aicoin",
+    "telegram": "https://t.me/joinchat/AAAAAA4F-3Tvi4aX0haNQg",
+    "twitter": "https://twitter.com/aicoinico",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AICoin",
+      "address": "0x268b7976e94e84a48bf8B2B57Ba34b59eD836A74",
+      "erc20": {
+        "symbol": "XAI",
+        "decimals": 8,
+        "name": "AICoin"
+      }
+    }
+  ]
+}

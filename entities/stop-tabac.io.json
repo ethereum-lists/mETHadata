@@ -1,0 +1,47 @@
+{
+  "name": "Stop Tabac Coin",
+  "ens_address": "",
+  "website": "http://www.stop-tabac.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmcb6aVLUr68jgUXjCa3P5N7upqTbpfXLAGR8C8u839uuZ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/986329423367606273/kIPRZ1n2.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/986329423367606273/kIPRZ1n2.jpg",
+    "ipfs_origin": "Qma78p5r9SuSfzuVaZL11fMLsB9tTS7idb1vWHryp2K8hv"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Stoptabaccoin/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/StopTabacCoin",
+    "twitter": "https://twitter.com/STbCoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Stop Tabac Coin",
+      "address": "0x420C42cE1370c0Ec3ca87D9Be64A7002E78e6709",
+      "erc20": {
+        "symbol": "STCn",
+        "decimals": 0,
+        "name": "Stop Tabac Coin"
+      }
+    }
+  ]
+}

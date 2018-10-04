@@ -1,0 +1,47 @@
+{
+  "name": "SINERGIA",
+  "ens_address": "",
+  "website": "https://sinergiablockchain.org/index-en.html",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQDfMKYo99zbSFws7NASFdB3yLVTVz5bHUE7x5hgACMR7",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/904202574148055041/EiaMwkh7.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/904202574148055041/EiaMwkh7.jpg",
+    "ipfs_origin": "QmeiMXwddrBVwR4AJejobiu963wPr8GgY15wJfeU9SVkKc"
+  },
+  "support": {
+    "email": "support@sinergiablockchain.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SinergiaBlockchain/",
+    "forum": "https://bitcointalk.org/index.php?topic=2210037.0",
+    "github": "https://github.com/SinergiaBlockchain",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/Sinergia_Blockchain",
+    "linkedin": "https://www.linkedin.com/company/11226873/",
+    "reddit": "https://www.reddit.com/user/Sinergia_Blockchain/comments/7huc5i/sinergia_blockchain_first_blockchain_technology/",
+    "slack": "https://slack.singulardtv.com",
+    "telegram": "https://t.me/ComunidadSinergiaBlockchain",
+    "twitter": "https://twitter.com/Sinergia_B",
+    "youtube": "https://www.youtube.com/channel/UCeDj2iS0d3v0tM6YeUdr60g"
+  },
+  "eth": [
+    {
+      "name": "SINERGIA",
+      "address": "0xcFD6Ae8BF13f42DE14867351eAff7A8A3b9FbBe7",
+      "erc20": {
+        "symbol": "SNG",
+        "decimals": 8,
+        "name": "SINERGIA"
+      }
+    }
+  ]
+}

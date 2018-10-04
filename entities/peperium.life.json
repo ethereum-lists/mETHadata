@@ -1,0 +1,47 @@
+{
+  "name": "RARE",
+  "ens_address": "",
+  "website": "http://peperium.life/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZcNrDPJXkFAVYgByMKq1TFQxRZNEaP4LiNw9dVYgCc2e",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/912576206431690752/6ZanIZ0N.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/912576206431690752/6ZanIZ0N.jpg",
+    "ipfs_origin": "QmbP6XBNhSaD357uwLW5SVoYojyr3sSyCMENoCBadExnu4"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/j4de3gg",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "RARE",
+      "address": "0x5dDAB66DA218Fb05dfeDA07f1AfC4ea0738ee234",
+      "erc20": {
+        "symbol": "RARE",
+        "decimals": 8,
+        "name": "RARE"
+      }
+    }
+  ]
+}

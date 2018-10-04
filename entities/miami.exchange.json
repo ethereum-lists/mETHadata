@@ -1,0 +1,47 @@
+{
+  "name": "Miami Crypto Exchange",
+  "ens_address": "",
+  "website": "https://www.miami.exchange/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQnPJA2fz8QwS2PP1w2riSyoBnp56AYbgivSVxtqSMxSU",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1013603687787302912/qyNb622R.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1013603687787302912/qyNb622R.jpg",
+    "ipfs_origin": "QmQwwe5rzA2WQfZEXf8Zmq2W5uvFNbBkTcDmGpeD6P4TRt"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/mercurycash",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://t.me/mercurycash",
+    "twitter": "https://twitter.com/miaexchange",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Miami Crypto Exchange",
+      "address": "0xd9aBcEf171a959992738B32753cEbC8b64132555",
+      "erc20": {
+        "symbol": "MCEX",
+        "decimals": 0,
+        "name": "Miami Crypto Exchange"
+      }
+    }
+  ]
+}

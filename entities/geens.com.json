@@ -1,0 +1,47 @@
+{
+  "name": "Geens NPO",
+  "ens_address": "",
+  "website": "https://www.geens.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbiK2gsaSbLubCTuKYTSe9etxtZZ3p6Pkm4guQmsoBVXE",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1039119363469705216/sa5bn1Ds.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1039119363469705216/sa5bn1Ds.jpg",
+    "ipfs_origin": "QmcdeEV77rW4hCxP9Ua8iBoPMwdZeRNUcWrkm1N5jtrEtp"
+  },
+  "support": {
+    "email": "info@geens.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/GeensNPO",
+    "forum": "",
+    "github": "https://github.com/GeensNPO",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/GeensNPO",
+    "slack": "",
+    "telegram": "https://t.me/GeensNPO",
+    "twitter": "https://twitter.com/GeensNPO",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Geens NPO",
+      "address": "0x4F4f0Db4de903B88f2B1a2847971E231D54F8fd3",
+      "erc20": {
+        "symbol": "GEE",
+        "decimals": 8,
+        "name": "Geens NPO"
+      }
+    }
+  ]
+}

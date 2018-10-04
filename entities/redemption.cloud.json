@@ -1,0 +1,47 @@
+{
+  "name": "REDEEM Token",
+  "ens_address": "",
+  "website": "https://www.redemption.cloud/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeqHCnu8sCwG37iuKQEknUust4JSqgF3aJwwZm44Tth9X",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/893567761326235648/ZgzAbe74.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/893567761326235648/ZgzAbe74.jpg",
+    "ipfs_origin": "QmNmKGm8hQHCerjYUoj4adPDzLafj4M51w4ddQZQhfAQTT"
+  },
+  "support": {
+    "email": "ico@redemption.cloud",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/RedemptionTech/",
+    "forum": "",
+    "github": "https://github.com/RedemptionTech",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Redemption_ICO/",
+    "slack": "https://redemptioncloud.slack.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/Redemption_Tech",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "REDEEM Token",
+      "address": "0x45321004790A4dAe7bA19217A10574d55739EFc7",
+      "erc20": {
+        "symbol": "DEEM",
+        "decimals": 18,
+        "name": "REDEEM Token"
+      }
+    }
+  ]
+}

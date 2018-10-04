@@ -1,0 +1,48 @@
+{
+  "name": "Dropil",
+  "ens_address": "",
+  "website": "https://dropil.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4672bad527107471cb5067a887f4656d585a8a31.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRUjNZatdqJQ4CvoxihZMpbvGEJhoyeznvBiCYGuB4n2J",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/964242128997031936/0rpmSHgb.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4672bad527107471cb5067a887f4656d585a8a31.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4672bad527107471cb5067a887f4656d585a8a31.png",
+    "ipfs_origin": "QmQTWwMreiZe97T5Q468gNXnag266JZewx8SBvEQSjznjH"
+  },
+  "support": {
+    "email": "",
+    "url": "https://dex.dropil.com/newticket"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/DropilCoin/",
+    "forum": "https://bitcointalk.org/index.php?topic=2795128.0",
+    "github": "https://github.com/Dropil",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/dropil/",
+    "slack": "",
+    "telegram": "https://t.me/DropilCoin",
+    "twitter": "https://twitter.com/dropilcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Dropil",
+      "address": "0x4672bAD527107471cB5067a887f4656D585a8A31",
+      "erc20": {
+        "symbol": "DROP (dropil)",
+        "decimals": 18,
+        "name": "Dropil"
+      }
+    }
+  ]
+}

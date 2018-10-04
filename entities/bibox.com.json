@@ -1,0 +1,49 @@
+{
+  "name": "Bibox Token",
+  "ens_address": "",
+  "website": "https://www.bibox.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSJjZmtuDHmienAFw85WP6pLcKXHjkzVfUztMByrXmyZF",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/bix.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1040513649268404224/YCyikXmS.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/bix.svg",
+    "ipfs_origin": "QmVCJQJjbtKdNWomcXMrYdYcEPwt3q7wdZNBNSLhNavN1L"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://bibox.zendesk.com/hc/en-us",
+    "facebook": "https://www.facebook.com/Bibox365",
+    "forum": "",
+    "github": "https://github.com/bibox365/bixtoken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/Bibox365/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GAi9vQ5BEjR0mAxK5cdHjA",
+    "twitter": "http://www.twitter.com/Bibox365",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bibox Token",
+      "address": "0xb3104b4B9Da82025E8b9F8Fb28b3553ce2f67069",
+      "erc20": {
+        "symbol": "BIX",
+        "decimals": 18,
+        "name": "Bibox Token"
+      }
+    }
+  ]
+}

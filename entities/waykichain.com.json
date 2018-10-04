@@ -1,0 +1,48 @@
+{
+  "name": "WaykiCoin",
+  "ens_address": "",
+  "website": "https://www.waykichain.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4f878c0852722b0976a955d68b376e4cd4ae99e5.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmb4SJtUhA57BTxtCwXczifkMfKjxY1NCpjjzEz1FkSzp3",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1030703671527518208/6GAJJxGu.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4f878c0852722b0976a955d68b376e4cd4ae99e5.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1030703671527518208/6GAJJxGu.jpg",
+    "ipfs_origin": "QmevR4cxHUTH2Yh5EiwV4To8NoSTuTooK3q1a4NWFjUUwc"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.waykichain.com/english/newsTold.html",
+    "chat": "",
+    "facebook": "https://www.facebook.com/waykichainofficial",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/wiccofficial",
+    "twitter": "https://twitter.com/wayki_chain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "WaykiCoin",
+      "address": "0x4f878C0852722b0976A955d68B376E4Cd4Ae99E5",
+      "erc20": {
+        "symbol": "WIC",
+        "decimals": 8,
+        "name": "WaykiCoin"
+      }
+    }
+  ]
+}

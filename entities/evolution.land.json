@@ -1,0 +1,49 @@
+{
+  "name": "Evolution Land Global Token",
+  "ens_address": "",
+  "website": "https://www.evolution.land/",
+  "logo": {
+    "src": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/450e60bc-bad7-4058-822d-b88ed4e82262.png",
+    "width": 120,
+    "height": 120,
+    "ipfs_hash": "QmeKwr1LZrTQSZQHWUdRSweEvzXUuDdzKri1QSpceD8UvF",
+    "sources": {
+      "token-list": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/450e60bc-bad7-4058-822d-b88ed4e82262.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1004193551603781632/4hUjrt_B.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x86e56f3c89a14528858e58b3de48c074538baf2c.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/450e60bc-bad7-4058-822d-b88ed4e82262.png",
+    "ipfs_origin": "QmYmzFnSFoYctusVN8v2YXGXTvFxM7X8qnpRhswCQxFGgg"
+  },
+  "support": {
+    "email": "bd@evolution.land ",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@evolutionland9",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/evolutionland9",
+    "twitter": "https://twitter.com/evolutionland9",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Evolution Land Global Token",
+      "address": "0x86E56f3c89a14528858e58B3De48c074538BAf2c",
+      "erc20": {
+        "symbol": "RING",
+        "decimals": 18,
+        "name": "Evolution Land Global Token"
+      }
+    }
+  ]
+}

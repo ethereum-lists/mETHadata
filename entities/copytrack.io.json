@@ -1,0 +1,48 @@
+{
+  "name": "COPYTRACK",
+  "ens_address": "",
+  "website": "https://copytrack.io",
+  "logo": {
+    "src": "https://cdn.copytrack.io/media/cpy.png?auto=compress&w=200",
+    "width": 200,
+    "height": 200,
+    "ipfs_hash": "QmQV7dMXhaidK7Gi8w9Q4hHspczBPcagXYbhbY5WfffC6c",
+    "sources": {
+      "token-list": "https://cdn.copytrack.io/media/cpy.png?auto=compress&w=200",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf44745fbd41f6a1ba151df190db0564c5fcc4410.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf44745fbd41f6a1ba151df190db0564c5fcc4410.png",
+    "ipfs_origin": "QmTNJ7bwyEh1MBwZd5w256f9HRF4GkNjA1pe39gGWobrsV"
+  },
+  "support": {
+    "email": "support@copytrack.io",
+    "url": "https://copytrack.io"
+  },
+  "social": {
+    "blog": "https://medium.com/aditusnetwork",
+    "chat": "",
+    "facebook": "https://www.facebook.com/COPYTRACK",
+    "forum": "https://bitcointalk.org/index.php?topic=2613681.0",
+    "github": "https://github.com/aditus",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/copytrack",
+    "linkedin": "https://www.linkedin.com/company/10840600",
+    "reddit": "https://www.reddit.com/r/Copytrack/",
+    "slack": "",
+    "telegram": "https://t.me/copytrackhq",
+    "twitter": "https://twitter.com/CopytrackHQ",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "COPYTRACK",
+      "address": "0xf44745fBd41F6A1ba151df190db0564c5fCc4410",
+      "erc20": {
+        "symbol": "CPY",
+        "decimals": 18,
+        "name": "COPYTRACK"
+      }
+    }
+  ]
+}

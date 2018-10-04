@@ -1,0 +1,47 @@
+{
+  "name": "King93",
+  "ens_address": "",
+  "website": "https://king93.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUdQqBJXgktqCVcVrtDKUmHDrX88uS37SxFCZDoPqeDRj",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/912834358498734081/FAX2fBa4.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/912834358498734081/FAX2fBa4.jpg",
+    "ipfs_origin": "QmQFrjzhb757Hv3MF56CVvWZgwDe1h7xDdSuZWJ51Fxsw7"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/king93_dev",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "King93",
+      "address": "0xE1479d294807379320DCa9a9e9002AC644539099",
+      "erc20": {
+        "symbol": "KING",
+        "decimals": 18,
+        "name": "King93"
+      }
+    }
+  ]
+}

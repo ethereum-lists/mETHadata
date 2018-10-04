@@ -1,0 +1,49 @@
+{
+  "name": "Attention Token of Media",
+  "ens_address": "",
+  "website": "https://www.atmchain.io/en.html",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b11efcaaa1890f6ee52c6bb7cf8153ac5d74139.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPKaemQAXxvGSmhU2j871czJzyWyDT6wie9jR94fek1FB",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/atm.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1016244757289267200/9-znG7zD.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b11efcaaa1890f6ee52c6bb7cf8153ac5d74139.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/atm.svg",
+    "ipfs_origin": "QmQLucLEAaGPsynTC7RGm5odFryFAGjygfTBvLCEgjt1DH"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://news.atmchain.io/?lng=zh",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ATMChainGlobal",
+    "forum": "",
+    "github": "https://github.com/atmchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ATMChain/",
+    "slack": "",
+    "telegram": "https://t.me/atmchaintelegram",
+    "twitter": "https://twitter.com/at_mchain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Attention Token of Media",
+      "address": "0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139",
+      "erc20": {
+        "symbol": "ATM",
+        "decimals": 8,
+        "name": "Attention Token of Media"
+      }
+    }
+  ]
+}

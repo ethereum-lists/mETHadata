@@ -1,0 +1,49 @@
+{
+  "name": "Ripio Credit Network",
+  "ens_address": "",
+  "website": "https://ripiocredit.network",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmc8sSzRp5QYFxcLWj4eUEV81vr57ZUDg1mBQVbgLpwsKW",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/rcn.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/902267064680939520/cmPH1oTw.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6.png",
+    "ipfs_origin": "QmXkwATzdrSLUfbU9sqiQqx71kuB6wLUmZy6E9kFXtHh36"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@rcn_news",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ripiocredit.network/",
+    "forum": "https://bitcointalk.org/index.php?topic=2202647.0",
+    "github": "https://github.com/ripio/rcn-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/RipioCreditNetwork/",
+    "slack": "",
+    "telegram": "https://t.me/RCNchat",
+    "twitter": "https://twitter.com/RCN_token",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Ripio Credit Network",
+      "address": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6",
+      "erc20": {
+        "symbol": "RCN",
+        "decimals": 18,
+        "name": "Ripio Credit Network"
+      }
+    }
+  ]
+}

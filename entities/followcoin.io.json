@@ -1,0 +1,42 @@
+{
+  "name": "Follow Coin",
+  "ens_address": "",
+  "website": "https://followcoin.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "info@followcoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Follow Coin",
+      "address": "0xA25D01d15fC0e3cDeDE1BEbEE4124394aaE0DB33",
+      "erc20": {
+        "symbol": "FLLW",
+        "decimals": 18,
+        "name": "Follow Coin"
+      }
+    }
+  ]
+}

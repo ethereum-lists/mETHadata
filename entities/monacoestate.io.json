@@ -1,0 +1,47 @@
+{
+  "name": "Monaco Estate",
+  "ens_address": "",
+  "website": "https://monacoestate.io/",
+  "logo": {
+    "src": "https://image.ibb.co/eYVsoH/monaco_estate_logo_28x28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmPHMpn97uc2RZmpRVXag1Do2QHVG6MFddGxyvEmwQ2QUf",
+    "sources": {
+      "token-list": "https://image.ibb.co/eYVsoH/monaco_estate_logo_28x28.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://image.ibb.co/eYVsoH/monaco_estate_logo_28x28.png",
+    "ipfs_origin": "QmbgyHHi7XRzMg9TPkd6DW2FSir4htNGPq6ChtBN1gJNBx"
+  },
+  "support": {
+    "email": "contact@monacoestate.io",
+    "url": "https://monacoestate.io/contact/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/monacoestatetoken/",
+    "forum": "",
+    "github": "https://github.com/monacoestate",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/MonacoEstate/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/monacoestateico",
+    "youtube": "https://www.youtube.com/channel/UCWNTC-aor7Nqm1o5y66yYmQ"
+  },
+  "eth": [
+    {
+      "name": "Monaco Estate",
+      "address": "0x5B8D43FfdE4a2982B9A5387cDF21D54Ead64Ac8d",
+      "erc20": {
+        "symbol": "MEST",
+        "decimals": 18,
+        "name": "Monaco Estate"
+      }
+    }
+  ]
+}

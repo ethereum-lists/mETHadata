@@ -1,0 +1,49 @@
+{
+  "name": "Fan Token",
+  "ens_address": "",
+  "website": "https://tokensale.fanfare.global",
+  "logo": {
+    "src": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/c80e9fbb-c8f9-4c66-9044-0c4c32392405.png",
+    "width": "866",
+    "height": "866",
+    "ipfs_hash": "QmfBbooSvSLCJo5qd6B6b3iAPaMTWpdsR3LW6LN6tqMGyx",
+    "sources": {
+      "token-list": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/c80e9fbb-c8f9-4c66-9044-0c4c32392405.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1026722314161811456/A53KJvtq.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x90162f41886c0946d09999736f1c15c8a105a421.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/c80e9fbb-c8f9-4c66-9044-0c4c32392405.png",
+    "ipfs_origin": "QmNoEyGDhqfDFyNPXMfciwWLHUAy2eiEAcdQUUrbh7bU71"
+  },
+  "support": {
+    "email": "tokensale@fanfare.global",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/fanfareglobal",
+    "chat": "",
+    "facebook": "https://www.facebook.com/fanfareglobal",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/fanfareglobal/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/FanfareICO",
+    "twitter": "https://twitter.com/FanFare_Global",
+    "youtube": "https://www.youtube.com/c/fanfareglobal"
+  },
+  "eth": [
+    {
+      "name": "Fan Token",
+      "address": "0x90162f41886c0946D09999736f1C15c8a105A421",
+      "erc20": {
+        "symbol": "FAN",
+        "decimals": 18,
+        "name": "Fan Token"
+      }
+    }
+  ]
+}

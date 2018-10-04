@@ -1,0 +1,49 @@
+{
+  "name": "Enigma",
+  "ens_address": "",
+  "website": "https://enigma.co/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdT4yAQ7ksywgo2dBw4KPK947oQdkLveV5vYSQPNoQa6V",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/eng.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/989872166618382336/QzIDtmWT.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/eng.svg",
+    "ipfs_origin": "QmTWsWDtJeZtVmoDux588FkjkGPfhgtojnPKdYBNQyc9ni"
+  },
+  "support": {
+    "email": "info@enigma.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.enigma.co/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/enigmacatalyst/",
+    "forum": "https://bitcointalk.org/index.php?topic=2052215.0",
+    "github": "https://github.com/enigmampc",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/enigmacatalyst",
+    "slack": "https://slack.enigma.co/",
+    "telegram": "https://t.me/enigmacatalyst",
+    "twitter": "https://twitter.com/enigmampc",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Enigma",
+      "address": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4",
+      "erc20": {
+        "symbol": "ENG",
+        "decimals": 8,
+        "name": "Enigma"
+      }
+    }
+  ]
+}

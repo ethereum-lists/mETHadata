@@ -1,0 +1,48 @@
+{
+  "name": "CosmoCoin",
+  "ens_address": "",
+  "website": "https://cosmochain.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc4bcd64cb216d49fd3c643a32762f34626b45a1a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXvSzu5QHnDS4vpgnQKQaAmTf8RWvMfBGNMcZZ17ggEw3",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/968385846104731648/U2weMIvV.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc4bcd64cb216d49fd3c643a32762f34626b45a1a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc4bcd64cb216d49fd3c643a32762f34626b45a1a.png",
+    "ipfs_origin": "QmbViMRB4Rfb4tHS9xtWHddx2L7wox2PDjfYdYQ5THWbrS"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/cosmochain",
+    "forum": "",
+    "github": "https://github.com/cosmochain/CosmoCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/cosmochainofficial",
+    "slack": "",
+    "telegram": "https://t.me/cosmochain_english",
+    "twitter": "https://twitter.com/Cosmochain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CosmoCoin",
+      "address": "0xC4Bcd64CB216D49fD3C643A32762F34626b45a1a",
+      "erc20": {
+        "symbol": "COSM",
+        "decimals": 18,
+        "name": "CosmoCoin"
+      }
+    }
+  ]
+}

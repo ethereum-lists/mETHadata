@@ -82,6 +82,7 @@ for t in tokens[network]:
         continue
     if prev == host:
         t['merge'] = True
+        t['host'] = host
     prev = host
 
 

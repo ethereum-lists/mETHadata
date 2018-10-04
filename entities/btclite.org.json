@@ -1,0 +1,48 @@
+{
+  "name": "BTC Lite",
+  "ens_address": "",
+  "website": "http://btclite.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcnBxeoK8Fc19kYBRWfu3RiuS9xpFAVh9VkP1jto6UunS",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/932612771555844096/4umbZipg.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50.png",
+    "ipfs_origin": "QmcmWoMkxGPcaUscJ7yuB31Z1RoM3Z4mz29oywJ4jnB7of"
+  },
+  "support": {
+    "email": "btclitetoken@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://btclite.org/blog/",
+    "chat": "https://t.me/BTCLchat",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/btclite/",
+    "slack": "",
+    "telegram": "http://t.me/BTCLITE",
+    "twitter": "https://twitter.com/BTCliteofficial",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BTC Lite",
+      "address": "0x5acD19b9c91e596b1f062f18e3D02da7eD8D1e50",
+      "erc20": {
+        "symbol": "BTCL",
+        "decimals": 8,
+        "name": "BTC Lite"
+      }
+    }
+  ]
+}

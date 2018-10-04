@@ -1,0 +1,47 @@
+{
+  "name": "Lumino Coin",
+  "ens_address": "",
+  "website": "https://www.luminocoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdeNgAQy853DzWffg9mebt5PacfHhCwdFzbsX8Ck278iJ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/950965150214864897/W2oMF_J6.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/950965150214864897/W2oMF_J6.jpg",
+    "ipfs_origin": "QmSZFnpexVRBefax126ZeFRe2MPH3jeyhRHXGkjrrpnEbG"
+  },
+  "support": {
+    "email": "luminocoin@protonmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@LuminoCoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/luminocoin",
+    "forum": "",
+    "github": "https://github.com/LuminoCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/luminocoin",
+    "slack": "https://luminocoin.slack.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/LuminoCoin/",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Lumino Coin",
+      "address": "0xA89b5934863447f6E4Fc53B315a93e873bdA69a3",
+      "erc20": {
+        "symbol": "LUM",
+        "decimals": 18,
+        "name": "Lumino Coin"
+      }
+    }
+  ]
+}

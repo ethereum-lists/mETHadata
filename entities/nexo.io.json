@@ -1,0 +1,48 @@
+{
+  "name": "Nexo",
+  "ens_address": "",
+  "website": "http://nexo.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeK1GqiK4t7HJRUW5U2jMv5RgrSqd45pduPSugc5YniP1",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/963995197372846080/QBM3wf2M.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206.png",
+    "ipfs_origin": "QmZ4qMTchNFyfVhnCTSWfkwUFfawSWvH8DjHDocSDgS2Fk"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/NexoFinance",
+    "forum": "",
+    "github": "https://github.com/nexofinance/NEXO-Token/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Nexo/",
+    "slack": "",
+    "telegram": "https://t.me/nexofinance",
+    "twitter": "https://twitter.com/NexoFinance",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Nexo",
+      "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
+      "erc20": {
+        "symbol": "NEXO",
+        "decimals": 18,
+        "name": "Nexo"
+      }
+    }
+  ]
+}

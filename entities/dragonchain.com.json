@@ -1,0 +1,50 @@
+{
+  "name": "Dragon",
+  "ens_address": "dragonchain.eth",
+  "website": "https://dragonchain.com",
+  "logo": {
+    "src": "https://dragonchain.com/assets/images/dragon.png",
+    "width": 813,
+    "height": 879,
+    "ipfs_hash": "QmTjTNsh6v15hmjvGfiksHYssdz6Ae9J56Tw7uNYwqGbJv",
+    "sources": {
+      "token-list": "https://dragonchain.com/assets/images/dragon.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/drgn.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/980609456827330560/7_EyamZT.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/980609456827330560/7_EyamZT.jpg",
+    "ipfs_origin": "QmagCCJiyQZAPo9Cb8Jur9SKcMaDeHN8161eZ6JHpMM2dv"
+  },
+  "support": {
+    "email": "support@dragonchain.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://dragonchain.com/blog",
+    "chat": "https://t.me/dragontalk",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2096284.0",
+    "github": "https://github.com/dragonchain/dragonchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18216867",
+    "reddit": "https://www.reddit.com/r/dragonchain",
+    "slack": "https://dragonchain.slack.com/",
+    "telegram": "https://t.me/dragontalk",
+    "twitter": "https://twitter.com/dragonchaingang",
+    "youtube": "https://www.youtube.com/channel/UC2_StJYNWFrQz2wiL8n6hoA/videos"
+  },
+  "eth": [
+    {
+      "name": "Dragon",
+      "address": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
+      "erc20": {
+        "symbol": "DRGN",
+        "decimals": 18,
+        "name": "Dragon"
+      }
+    }
+  ]
+}

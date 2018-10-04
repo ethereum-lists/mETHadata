@@ -1,0 +1,47 @@
+{
+  "name": "Wizzle Infinity Token",
+  "ens_address": "",
+  "website": "https://wizzle.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmf3u2WpbTMY9VLpBet3cpxyYyBr78gPPjkpGVCsB5ZGA1",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/926444986404663297/WozeMqLJ.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/926444986404663297/WozeMqLJ.jpg",
+    "ipfs_origin": "QmWw7qzEeLjxWdJnBGPd8Av9yrywxdSiTf4RVXziHsy4Mk"
+  },
+  "support": {
+    "email": "sales@nl.wizzle.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/wizzle.io/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/wizzle-io/",
+    "reddit": "https://www.reddit.com/user/wizzle_io/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/HxFHQw-ARXX5Jax3eeCHTw",
+    "twitter": "https://twitter.com/wizzle_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Wizzle Infinity Token",
+      "address": "0xb8327F32127aFE37a544c52B628653e222a93BaD",
+      "erc20": {
+        "symbol": "WZI",
+        "decimals": 18,
+        "name": "Wizzle Infinity Token"
+      }
+    }
+  ]
+}

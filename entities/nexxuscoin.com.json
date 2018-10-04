@@ -1,0 +1,61 @@
+{
+  "name": "NexxusCoin",
+  "ens_address": "",
+  "website": "https://www.nexxuscoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdRHYob3ZdkdSEYcEud4QgRYzgfYNaJ9ATppx7WQTBMN5",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/740608891172446208/bwWzSdTS.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/740608891172446208/bwWzSdTS.jpg",
+    "ipfs_origin": "QmWEGyz7ngWicjCNkknz8VepTC4VHaztr8H4mGtH89YCh5"
+  },
+  "support": {
+    "email": "bob@nexxuspartners.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@bobnexxus",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/NexxusUniversity/nexxuscoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/NexxusRewards/",
+    "slack": "https://nexxuspartners.slack.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/nexxusreward",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NXX",
+      "address": "0x5c6183d10A00CD747a6Dbb5F658aD514383e9419",
+      "erc20": {
+        "symbol": "NXX",
+        "decimals": 8,
+        "name": "NXX"
+      },
+      "deprecation": {
+        "hello": "hello",
+        "new_address": "0x7627de4B93263a6a7570b8dAfa64bae812e5c394"
+      }
+    },
+    {
+      "name": "NXX",
+      "address": "0x7627de4B93263a6a7570b8dAfa64bae812e5c394",
+      "erc20": {
+        "symbol": "NXX",
+        "decimals": 8,
+        "name": "NXX"
+      }
+    }
+  ],
+  "description": "NexxusCoin is the internal token that powers the Nexxus Ecosystem and  creates a better world by empowering individuals and communities worldwide"
+}

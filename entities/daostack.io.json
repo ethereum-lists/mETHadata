@@ -1,0 +1,49 @@
+{
+  "name": "DAOstack",
+  "ens_address": "",
+  "website": "https://daostack.io",
+  "logo": {
+    "src": "https://daostack.io/daostack2828.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmWnnopoxb89kX7yfDzSdeRwJx2CZUm9UJaJ9HwvbH8DHm",
+    "sources": {
+      "token-list": "https://daostack.io/daostack2828.png",
+      "twitter": "http://pbs.twimg.com/profile_images/932589128125943808/3Lmhssv9.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x543ff227f64aa17ea132bf9886cab5db55dcaddf.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/932589128125943808/3Lmhssv9.jpg",
+    "ipfs_origin": "QmNNH5zYB65UoxSQhHFhKxoJy9hps2KwiHQkwe99uq3ogW"
+  },
+  "support": {
+    "email": "support@daostack.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/daostack",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://forum.daostack.io",
+    "github": "https://github.com/daostack",
+    "gitter": "https://gitter.im/daostack/Lobby",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/daostack",
+    "slack": "",
+    "telegram": "https://t.me/daostackcommunity",
+    "twitter": "https://twitter.com/daostack",
+    "youtube": "https://www.youtube.com/daostack"
+  },
+  "eth": [
+    {
+      "name": "DAOstack",
+      "address": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
+      "erc20": {
+        "symbol": "GEN",
+        "decimals": 18,
+        "name": "DAOstack"
+      }
+    }
+  ]
+}

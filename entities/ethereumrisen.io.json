@@ -1,0 +1,42 @@
+{
+  "name": "Etheruem Risen",
+  "ens_address": "",
+  "website": "http://ethereumrisen.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/pironmind/EthereumRisen",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Etheruem Risen",
+      "address": "0x6927C69fb4daf2043fbB1Cb7b86c5661416bea29",
+      "erc20": {
+        "symbol": "ETR",
+        "decimals": 18,
+        "name": "Etheruem Risen"
+      }
+    }
+  ]
+}

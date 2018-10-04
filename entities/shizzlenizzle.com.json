@@ -1,0 +1,47 @@
+{
+  "name": "ShizzleNizzle",
+  "ens_address": "",
+  "website": "http://www.shizzlenizzle.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbBhhnRRYtBjasN23aPC96qG4ED1k5ZKvsQpCFSvoMLXy",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/972177203235471361/aKq7GnAk.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/972177203235471361/aKq7GnAk.jpg",
+    "ipfs_origin": "QmdjLmTen9fSL91EotRy45Tkt2U5xdeRS5zq4wXi35p9r3"
+  },
+  "support": {
+    "email": "info@shizzlenizzle.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SHNZ4/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/shizzlenizzle",
+    "twitter": "https://twitter.com/ShizzleNizzle4",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ShizzleNizzle",
+      "address": "0x8b0C9f462C239c963d8760105CBC935C63D85680",
+      "erc20": {
+        "symbol": "SHNZ",
+        "decimals": 8,
+        "name": "ShizzleNizzle"
+      }
+    }
+  ]
+}

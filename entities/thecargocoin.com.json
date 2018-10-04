@@ -1,0 +1,48 @@
+{
+  "name": "CargoCoin",
+  "ens_address": "",
+  "website": "https://thecargocoin.com",
+  "logo": {
+    "src": "https://thecargocoin.com/images/logo_icon.png",
+    "width": "44",
+    "height": "44",
+    "ipfs_hash": "QmdjKLH7FCUAKKeArLRxAg7hooREvx4heHPosuYbqdM9sz",
+    "sources": {
+      "token-list": "https://thecargocoin.com/images/logo_icon.png",
+      "twitter": "http://pbs.twimg.com/profile_images/980415566413467648/ljWa9lDK.jpg"
+    },
+    "sourceBest": "src",
+    "origin": "https://thecargocoin.com/images/logo_icon.png",
+    "ipfs_origin": "QmZEQ53U3Kc9s9G8zj4JF6dtp54cdzS8iLDWEQrt4YbPdx"
+  },
+  "support": {
+    "email": "info@thecargocoin.com",
+    "url": "https://thecargocoin.com/contact.html"
+  },
+  "social": {
+    "blog": "https://medium.com/@thecargocoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/thecargocoin/",
+    "forum": "https://bitcointalk.org/index.php?topic=3224289",
+    "github": "https://github.com/CargoCoinRepo/Cargo-Coin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/cargocoin/",
+    "reddit": "https://www.reddit.com/user/thecargocoin",
+    "slack": "https://thecargocoin.slack.com/",
+    "telegram": "http://t.me/thecargocoingroup",
+    "twitter": "https://twitter.com/thecargocoin",
+    "youtube": "https://www.youtube.com/c/CargoCoin"
+  },
+  "eth": [
+    {
+      "name": "CargoCoin",
+      "address": "0xf49CDD50aD408d387d611F88A647179C3de3492b",
+      "erc20": {
+        "symbol": "CRGO",
+        "decimals": 18,
+        "name": "CargoCoin"
+      }
+    }
+  ]
+}

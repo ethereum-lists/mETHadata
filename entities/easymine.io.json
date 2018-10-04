@@ -1,0 +1,48 @@
+{
+  "name": "easyMINE Token",
+  "ens_address": "",
+  "website": "https://easymine.io",
+  "logo": {
+    "src": "https://etherscan.io/token/images/easymine_28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/easymine_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/872792331723968516/7bRWFrOE.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9501bfc48897dceeadf73113ef635d2ff7ee4b97.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://etherscan.io/token/images/easymine_28.png"
+  },
+  "support": {
+    "email": "support@easymine.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.easymine.io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/easymine.io/",
+    "forum": "https://bitcointalk.org/index.php?topic=2027065.0;all",
+    "github": "https://github.com/easyMINE",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/easymine/",
+    "reddit": "",
+    "slack": "https://slack.easymine.io/",
+    "telegram": "https://t.me/easyMINEio",
+    "twitter": "https://twitter.com/easymineio",
+    "youtube": "https://www.youtube.com/c/easyMINE"
+  },
+  "eth": [
+    {
+      "name": "easyMINE Token",
+      "address": "0x9501BFc48897DCEEadf73113EF635d2fF7ee4B97",
+      "erc20": {
+        "symbol": "EMT",
+        "decimals": 18,
+        "name": "easyMINE Token"
+      }
+    }
+  ]
+}

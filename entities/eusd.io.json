@@ -1,0 +1,47 @@
+{
+  "name": "eUSD",
+  "ens_address": "",
+  "website": "http://eusd.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRWkc4gToxLzU7k8yxKUiXTg5yMmh66N4BvQS1UEmCXwu",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/961326622178557952/d0CqW38U.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/961326622178557952/d0CqW38U.jpg",
+    "ipfs_origin": "QmPch64pnBmmTrjZh9cWQ6XgYY6wfVmo1A6R3qErqxksTP"
+  },
+  "support": {
+    "email": "dev@eusd.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/eUSDtoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eUSD",
+      "address": "0x87611cA3403a3878DfEf0da2a786e209AbfC1Eff",
+      "erc20": {
+        "symbol": "eUSD",
+        "decimals": 8,
+        "name": "eUSD"
+      }
+    }
+  ]
+}

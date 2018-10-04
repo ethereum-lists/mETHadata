@@ -1,0 +1,48 @@
+{
+  "name": "SPINDLE",
+  "ens_address": "",
+  "website": "https://spindle.zone/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1dea979ae76f26071870f824088da78979eb91c8.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRAxhUpPDq2UL6WPxkRFWAUjxB8cpNGvMg6oAjj7gb5zV",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/984436579472232449/glnTe1Ut.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1dea979ae76f26071870f824088da78979eb91c8.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/984436579472232449/glnTe1Ut.jpg",
+    "ipfs_origin": "QmRTh7v8VcaVgyWgC4C7prsj9UmzXuAfgPgenFJoyNuk4N"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/spindlespd/?modal=admin_todo_tour",
+    "forum": "",
+    "github": "https://github.com/spindlezone",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/spindlezone",
+    "slack": "",
+    "telegram": "https://t.me/spindlezone",
+    "twitter": "https://twitter.com/SpindleZone",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SPINDLE",
+      "address": "0x1dEa979ae76f26071870F824088dA78979eb91C8",
+      "erc20": {
+        "symbol": "SPD",
+        "decimals": 18,
+        "name": "SPINDLE"
+      }
+    }
+  ]
+}

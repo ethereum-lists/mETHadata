@@ -1,0 +1,42 @@
+{
+  "name": "CHUCK NORRIS",
+  "ens_address": "",
+  "website": "http://chucknorris.tech/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CHUCK NORRIS",
+      "address": "0x9C23a568A32e8434eC88bDF60891A1d95FFd36cC",
+      "erc20": {
+        "symbol": "CHUCKNORRIS",
+        "decimals": 4,
+        "name": "CHUCK NORRIS"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "ETHC",
+  "ens_address": "",
+  "website": "https://www.ethcodes.com/wp/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZQVYgeciLPqfnz8g7FcSfa1QmGitkbGg2iM2VmnmomXV",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/930839351663251456/gCjRayNf.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/930839351663251456/gCjRayNf.jpg",
+    "ipfs_origin": "QmZACTV8UeK4XYiiGPHgezxtUynNLoTqWRE81cnDgXKdBU"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Gj1B_xIP2xIIJSKNPWNPAQ",
+    "twitter": "https://twitter.com/Ethereumcode",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ETHC",
+      "address": "0x11F8DD7699147566Cf193596083d45C8F592C4BA",
+      "erc20": {
+        "symbol": "ETHC",
+        "decimals": 0,
+        "name": "ETHC"
+      }
+    }
+  ]
+}

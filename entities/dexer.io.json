@@ -1,0 +1,42 @@
+{
+  "name": "Dexer",
+  "ens_address": "",
+  "website": "http://www.dexer.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Dexer",
+      "address": "0x8Ef59B92F21f9E5f21F5f71510d1A7f87A5420bE",
+      "erc20": {
+        "symbol": "DEX",
+        "decimals": 2,
+        "name": "Dexer"
+      }
+    }
+  ]
+}

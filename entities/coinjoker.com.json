@@ -1,0 +1,49 @@
+{
+  "name": "Media Network Token",
+  "ens_address": "",
+  "website": "https://coinjoker.com",
+  "logo": {
+    "src": "https://etherscan.io/token/images/coinjoker_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmbPxtnHeFF6hBa3zY1NAJcisTWUAJGWy5S6RuMkZwr68e",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/coinjoker_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/906547721078796288/TQ4u0KUi.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa9877b1e05d035899131dbd1e403825166d09f92.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/906547721078796288/TQ4u0KUi.jpg",
+    "ipfs_origin": "QmTjyAwW33Usn88Jttekd3zB3n9JqiDR6qVeTquauj42w6"
+  },
+  "support": {
+    "email": "info@coinjoker.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CoinJokerCom",
+    "forum": "",
+    "github": "https://github.com/coinjoker/cjtoken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/CoinJoker",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Media Network Token",
+      "address": "0xA9877b1e05D035899131DBd1e403825166D09f92",
+      "erc20": {
+        "symbol": "MNT",
+        "decimals": 18,
+        "name": "Media Network Token"
+      }
+    }
+  ]
+}

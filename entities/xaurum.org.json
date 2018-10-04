@@ -1,0 +1,56 @@
+{
+  "name": "XGM",
+  "ens_address": "",
+  "website": "https://www.xaurum.org/gamma",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4df812f6064def1e5e029f1ca858777cc98d2d81.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRThMTgBu5dogpjY1xHg3mYjiuj5BTfQ3qxbrr9xxhffH",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4df812f6064def1e5e029f1ca858777cc98d2d81.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4df812f6064def1e5e029f1ca858777cc98d2d81.png",
+    "ipfs_origin": "QmXkZ7xPptbxPz3eG91jFZbVk6jyVZkMVSQr7Bij5ZMWRb"
+  },
+  "support": {
+    "email": "gamma@xaurum.pro",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@xaurumofficial",
+    "chat": "",
+    "facebook": "https://www.facebook.com/xaurumofficial",
+    "forum": "https://bitcointalk.org/index.php?topic=2057494.0",
+    "github": "https://github.com/XaurumTeam/XaurumOnEthereum",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/xaurumproject/",
+    "reddit": "https://www.reddit.com/r/xaurum",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/xaurumofficial",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "XGM",
+      "address": "0x533ef0984b2FAA227AcC620C67cce12aA39CD8CD",
+      "erc20": {
+        "symbol": "XGM",
+        "decimals": 8,
+        "name": "XGM"
+      }
+    },
+    {
+      "name": "Xaurum",
+      "address": "0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
+      "erc20": {
+        "symbol": "XAUR",
+        "decimals": 8,
+        "name": "Xaurum"
+      }
+    }
+  ]
+}

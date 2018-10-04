@@ -1,0 +1,56 @@
+{
+  "name": "Digix",
+  "ens_address": "",
+  "website": "https://digix.global",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55b9a11c2e8351b4ffc7b11561148bfac9977855.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbCtiRnUsyJcYogFWGKXk2vxWQjgfgJQYVGKP68ScxML8",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55b9a11c2e8351b4ffc7b11561148bfac9977855.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55b9a11c2e8351b4ffc7b11561148bfac9977855.png",
+    "ipfs_origin": "QmPSgaTz9LSu3pBmBA5BCFWQ8tDfzrbExNqQz93WGSPY6s"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@Digix",
+    "chat": "https://discord.gg/CCDBJJC",
+    "facebook": "https://www.facebook.com/digixglobal/",
+    "forum": "",
+    "github": "https://github.com/DigixGlobal",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/digix/",
+    "slack": "",
+    "telegram": "https://t.me/digixofficial",
+    "twitter": "https://twitter.com/digixglobal",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Digix Gold Token 1.0",
+      "address": "0x55b9a11c2e8351b4Ffc7b11561148bfaC9977855",
+      "erc20": {
+        "symbol": "DGX1",
+        "decimals": 9,
+        "name": "Digix Gold Token 1.0"
+      }
+    },
+    {
+      "name": "Digix Gold Token",
+      "address": "0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF",
+      "erc20": {
+        "symbol": "DGX",
+        "decimals": 9,
+        "name": "Digix Gold Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "HODL INCENTIVE TOKEN",
+  "ens_address": "",
+  "website": "https://www.hodlit.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNkzqoNfAvPguup6Jo5KPhGUArvmwbhgVqGXjSZzqx9QQ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/976756073783877632/HDCEo-eo.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/976756073783877632/HDCEo-eo.jpg",
+    "ipfs_origin": "QmUsEeNUx2AgeY2o3yH9vabeuPju3ozr4BM4ojw93WbaGS"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Hodlit.Network/",
+    "forum": "",
+    "github": "https://github.com/Hodlit-Network",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://www.t.me/Hodlit_Network",
+    "twitter": "https://twitter.com/HODLIT_Network",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "HODL INCENTIVE TOKEN",
+      "address": "0x24021d38DB53A938446eCB0a31B1267764d9d63D",
+      "erc20": {
+        "symbol": "HIT",
+        "decimals": 18,
+        "name": "HODL INCENTIVE TOKEN"
+      }
+    }
+  ]
+}

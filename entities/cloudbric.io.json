@@ -1,0 +1,48 @@
+{
+  "name": "Cloudbric",
+  "ens_address": "",
+  "website": "https://www.cloudbric.io/",
+  "logo": {
+    "src": "https://uploads-ssl.webflow.com/5ad9bd61b926b5696f03050f/5ad9bdd84bee8e3cee66af78_CLB_symbol_white%20(1).png",
+    "width": "814",
+    "height": "976",
+    "ipfs_hash": "QmQop3Z66NbHquBdcRPVKbFQ9jmQkjwTwQ272iBwan4cwA",
+    "sources": {
+      "token-list": "https://uploads-ssl.webflow.com/5ad9bd61b926b5696f03050f/5ad9bdd84bee8e3cee66af78_CLB_symbol_white%20(1).png",
+      "twitter": "http://pbs.twimg.com/profile_images/1016513276618817537/xZQEozmz.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1016513276618817537/xZQEozmz.jpg",
+    "ipfs_origin": "QmYg42Ws3dDwfQjc6zZyH1kM7QuZNh8aN8k8X8AWH8ZtsE"
+  },
+  "support": {
+    "email": "ico@cloudbric.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://cloudbric.com/blog",
+    "chat": "https://t.me/cloudbric",
+    "facebook": "http://www.facebook.com/cloudbric",
+    "forum": "",
+    "github": "https://github.com/Cloudbric-Project",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/cloudbric/",
+    "reddit": "https://www.reddit.com/r/cloudbric/",
+    "slack": "",
+    "telegram": "https://t.me/cloudbric",
+    "twitter": "http://www.twitter.com/cloudbric",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Cloudbric",
+      "address": "0xb1c1Cb8C7c1992dba24e628bF7d38E71daD46aeB",
+      "erc20": {
+        "symbol": "CLB",
+        "decimals": 18,
+        "name": "Cloudbric"
+      }
+    }
+  ]
+}

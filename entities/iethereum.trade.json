@@ -1,0 +1,48 @@
+{
+  "name": "iEthereum",
+  "ens_address": "",
+  "website": "http://iethereum.trade",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNPWCc8c5AL9jet4nMH9LzRGXcWruFYkGFfH5U7tYeu9r",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/927976384479354880/NEnouENe.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/927976384479354880/NEnouENe.jpg",
+    "ipfs_origin": "QmSsvCPpdAMEwZ96dtwG86fT7vM6MQmWoVZDuRpN6CW4ev"
+  },
+  "support": {
+    "email": "vitalik@iethereum.trade",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/iethereum",
+    "twitter": "https://twitter.com/iethereum",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "iEthereum",
+      "address": "0x859a9C0b44cb7066D956a958B0b82e54C9e44b4B",
+      "erc20": {
+        "symbol": "iETH",
+        "decimals": 8,
+        "name": "iEthereum"
+      }
+    }
+  ]
+}

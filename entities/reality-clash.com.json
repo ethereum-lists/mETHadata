@@ -1,0 +1,48 @@
+{
+  "name": "Reality Clash Coin",
+  "ens_address": "",
+  "website": "https://reality-clash.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b6443b0fb9c241a7fdac375595cea13e6b7807a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcYxke2AyKopmDbtoX8RnXEKjxtNyPt165Dh4nAachSW2",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/926499882969518081/pdqw-Dzf.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b6443b0fb9c241a7fdac375595cea13e6b7807a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b6443b0fb9c241a7fdac375595cea13e6b7807a.png",
+    "ipfs_origin": "QmVpYmMHT3b1MutQpt4zzFG2bX2stHF5VrwDDN7dCysPss"
+  },
+  "support": {
+    "email": "info@reality-clash.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/RealityClash-298707873925397/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FxE2a0MV0xW4RWBhuOIQGw",
+    "twitter": "https://twitter.com/reality_clash",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Reality Clash Coin",
+      "address": "0x9b6443b0fB9C241A7fdAC375595cEa13e6B7807A",
+      "erc20": {
+        "symbol": "RCC",
+        "decimals": 18,
+        "name": "Reality Clash Coin"
+      }
+    }
+  ]
+}

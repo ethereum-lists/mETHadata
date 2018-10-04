@@ -1,0 +1,42 @@
+{
+  "name": "Bitcoin Spoon",
+  "ens_address": "",
+  "website": "http://www.btcspoon.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Hbaypknf1opREdGvEztviA",
+    "twitter": "https://twitter.com/bitcoinspoon",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bitcoin Spoon",
+      "address": "0xd819E892F4DF8659188E8BDA839fDf2215A513bC",
+      "erc20": {
+        "symbol": "SPOON",
+        "decimals": 18,
+        "name": "Bitcoin Spoon"
+      }
+    }
+  ]
+}

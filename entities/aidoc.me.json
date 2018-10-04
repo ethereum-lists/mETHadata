@@ -1,0 +1,48 @@
+{
+  "name": "AI Doctor",
+  "ens_address": "",
+  "website": "http://www.aidoc.me/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x584b44853680ee34a0f337b712a8f66d816df151.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRxoFz8xYtD3DCxjv7aYYbyhzq33BSmKz2C8LgPJcftz6",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/940152617442750464/yN-fHiVL.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x584b44853680ee34a0f337b712a8f66d816df151.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x584b44853680ee34a0f337b712a8f66d816df151.png",
+    "ipfs_origin": "QmUNkKy7JzEHcLpy35TEuRmHuWtMvoAX9HvPBnSQV55FEz"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AIDOCMe",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/AIDOC/",
+    "slack": "",
+    "telegram": "https://t.me/AidocMeEn",
+    "twitter": "https://twitter.com/aidocme",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AI Doctor",
+      "address": "0x584B44853680ee34a0F337B712a8f66d816dF151",
+      "erc20": {
+        "symbol": "AIDOC",
+        "decimals": 18,
+        "name": "AI Doctor"
+      }
+    }
+  ]
+}

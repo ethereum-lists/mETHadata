@@ -1,0 +1,48 @@
+{
+  "name": "PolicyPal Network",
+  "ens_address": "",
+  "website": "https://www.policypal.network",
+  "logo": {
+    "src": "https://etherscan.io/token/images/policypal_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmXGwRu3USZnQ4GE6BQoqw4Sm7WkP4cLdbq1VTpjRUL629",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/policypal_28.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfedae5642668f8636a11987ff386bfd215f942ee.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfedae5642668f8636a11987ff386bfd215f942ee.png",
+    "ipfs_origin": "QmXBt4otVc3DprTqtxz5f6X7QJBLqiKBXo1Titxekh9uGw"
+  },
+  "support": {
+    "email": "info@policypal.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@policypalnet",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/policypalnet",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18528158",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/PolicyPalNetwork",
+    "twitter": "https://twitter.com/PolicyPalNET",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "PolicyPal Network",
+      "address": "0xfeDAE5642668f8636A11987Ff386bfd215F942EE",
+      "erc20": {
+        "symbol": "PAL",
+        "decimals": 18,
+        "name": "PolicyPal Network"
+      }
+    }
+  ]
+}

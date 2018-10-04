@@ -1,0 +1,48 @@
+{
+  "name": "Useless Ethereum Token",
+  "ens_address": "",
+  "website": "https://uetoken.com/#",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27f706edde3ad952ef647dd67e24e38cd0803dd6.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmfBde8NUmRqS8LzwJjHp4V8S9PtybeXX7rt8p523bTBV8",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/879151609095135232/yQZpIiKa.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27f706edde3ad952ef647dd67e24e38cd0803dd6.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/879151609095135232/yQZpIiKa.jpg",
+    "ipfs_origin": "QmX5yZMcfEg3xoWYDzcmNJSZzD8iU5N7fn9bm97Y1cAZCp"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/uetoken/uetoken.github.io",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/domain/uetoken.com/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/uetoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Useless Ethereum Token",
+      "address": "0x27f706edde3aD952EF647Dd67E24e38CD0803DD6",
+      "erc20": {
+        "symbol": "UET",
+        "decimals": 18,
+        "name": "Useless Ethereum Token"
+      }
+    }
+  ]
+}

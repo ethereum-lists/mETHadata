@@ -1,0 +1,47 @@
+{
+  "name": "Windy",
+  "ens_address": "",
+  "website": "https://wndtoken.com/home",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSpLsNn5inaaeZMPhw5vnVbXHAQcFw4kBAidGRcQNjjC9",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/922734426181705728/oL7dmI42.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/922734426181705728/oL7dmI42.jpg",
+    "ipfs_origin": "QmQqEeCAbz1ZM6uhD1zTMAp7V6Rw9YU4wiSzV2pF4nQWUv"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://twitter.com/WndToken",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://wndtoken.slack.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/WndToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Windy",
+      "address": "0x10c0337c42843E0b8CE743d7D5fF39b711f3aD82",
+      "erc20": {
+        "symbol": "WND",
+        "decimals": 18,
+        "name": "Windy"
+      }
+    }
+  ]
+}

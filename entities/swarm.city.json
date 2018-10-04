@@ -1,0 +1,48 @@
+{
+  "name": "Swarm City Token",
+  "ens_address": "",
+  "website": "http://swarm.city",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdtWwD43dqf7iBe3pHwW8v4YJhib9khdK646tb4iFuCBy",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/855103474211594240/r3SACy4j.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/855103474211594240/r3SACy4j.jpg",
+    "ipfs_origin": "QmVGhH8fxCzn6twsRBp4wUa1wvqNo942p9m1NToY2sEULJ"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://press.swarm.city/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/SwarmCity/about/",
+    "forum": "https://bitcointalk.org/index.php?topic=1794644.0",
+    "github": "https://github.com/swarmcity",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/11021284/",
+    "reddit": "https://www.reddit.com/r/SwarmCity/",
+    "slack": "https://swarm-slack-invite.herokuapp.com",
+    "telegram": "https://t.me/swarmcity",
+    "twitter": "https://twitter.com/swarmcitydapp",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Swarm City Token",
+      "address": "0xB9e7F8568e08d5659f5D29C4997173d84CdF2607",
+      "erc20": {
+        "symbol": "SWT",
+        "decimals": 18,
+        "name": "Swarm City Token"
+      }
+    }
+  ]
+}

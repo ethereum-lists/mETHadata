@@ -1,0 +1,47 @@
+{
+  "name": "iMM Coin",
+  "ens_address": "",
+  "website": "https://immcoin.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZTHer798JwBXBKSHq6WyZdgbpwwwNABacLLKGpMrCi3L",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1011895323642359808/kojOwjIU.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1011895323642359808/kojOwjIU.jpg",
+    "ipfs_origin": "QmahCMZAXYjhpNNG8aTe92FshyQuSoXWjHfZe4YNZy8UhC"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://immcoin.wordpress.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/iMMTraders.Official/",
+    "forum": "",
+    "github": "https://github.com/immcoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/immcoin",
+    "slack": "https://join.slack.com/t/immcoin/shared_invite/enQtMjcyNTExNzY1NzE0LTIwZDdhMzM5YTRiNGU0YjMzZTQzZjRhZWVmZGMxZWE1NGNkNzc3YWQ1ZmY4YmY0N2Y1OTMwM2YzZGFiZjIxYjk",
+    "telegram": "",
+    "twitter": "https://twitter.com/immtradersclub",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "iMM Coin",
+      "address": "0xE42Ba5558b00d2E6109CC60412d5D4c9473FE998",
+      "erc20": {
+        "symbol": "IMC",
+        "decimals": 18,
+        "name": "iMM Coin"
+      }
+    }
+  ]
+}

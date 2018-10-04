@@ -1,0 +1,48 @@
+{
+  "name": "BANCA Token",
+  "ens_address": "",
+  "website": "https://www.banca.world/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x998b3b82bc9dba173990be7afb772788b5acb8bd.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVj2V5uNYY9pPKH2VM2AdqHyXkVkk2cY4mSviraFS6Xjp",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/951351080020983808/ijRQxCjQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x998b3b82bc9dba173990be7afb772788b5acb8bd.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x998b3b82bc9dba173990be7afb772788b5acb8bd.png",
+    "ipfs_origin": "QmbgidHgh3d9cmSDupC1P58MMYA2yozrytrNKMZJDiPZcd"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://web.facebook.com/banca.official/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Banca/",
+    "slack": "",
+    "telegram": "https://t.me/banca_official",
+    "twitter": "https://twitter.com/Banca_Official",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BANCA Token",
+      "address": "0x998b3B82bC9dBA173990Be7afb772788B5aCB8Bd",
+      "erc20": {
+        "symbol": "BANCA",
+        "decimals": 18,
+        "name": "BANCA Token"
+      }
+    }
+  ]
+}

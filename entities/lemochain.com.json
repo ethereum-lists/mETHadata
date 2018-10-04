@@ -1,0 +1,65 @@
+{
+  "name": "LemoChain",
+  "ens_address": "",
+  "website": "http://www.lemochain.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVHFZYn6VURss98uaPZHNsjwWvVVtDTYrZPTFciqWBz88",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/957913088975491072/LlWqIMjF.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/957913088975491072/LlWqIMjF.jpg",
+    "ipfs_origin": "QmWELrmoXQcERVRoBv8dYDoYBCG5AN2Ufotg1wH62Sq3DX"
+  },
+  "support": {
+    "email": "foundation@lemochain.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/LemoChain",
+    "forum": "",
+    "github": "https://github.com/LemoFoundationLtd",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/LemoChain",
+    "slack": "",
+    "telegram": "https://t.me/lemochain",
+    "twitter": "https://twitter.com/LemoChain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Lemo",
+      "address": "0xd6e354F07319e2474491D8c7c712137bEe6862a2",
+      "erc20": {
+        "symbol": "LEMO",
+        "decimals": 0,
+        "name": "Lemo"
+      }
+    },
+    {
+      "name": "Lemo",
+      "address": "0x60C24407d01782C2175D32fe7C8921ed732371D1",
+      "erc20": {
+        "symbol": "LEMO",
+        "decimals": 18,
+        "name": "Lemo"
+      }
+    },
+    {
+      "name": "Lemo",
+      "address": "0xB5AE848EdB296C21259b7467331467d2647eEcDf",
+      "erc20": {
+        "symbol": "LEMO",
+        "decimals": 18,
+        "name": "Lemo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "AfterSchool Token",
+  "ens_address": "",
+  "website": "https://tokensale.afterschool.ae/contribute",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmW1ZyJGbNostLPY1H7g4GvrcocHJtgY43n5k4nQ2khp81",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ast.svg"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/ast.svg",
+    "ipfs_origin": "QmQbUznY8dhGhfEJkcScsBcDJKqc7LNa6yy2uqB4spP92A"
+  },
+  "support": {
+    "email": "admin@afterschool.ae",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AfterSchool Token",
+      "address": "0x44F12955189e3F01BE5daF1dd9002Ee4D774F42B",
+      "erc20": {
+        "symbol": "AST",
+        "decimals": 18,
+        "name": "AfterSchool Token"
+      }
+    }
+  ]
+}

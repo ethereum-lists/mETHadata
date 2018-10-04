@@ -1,0 +1,48 @@
+{
+  "name": "FLIXX",
+  "ens_address": "",
+  "website": "http://flixxo.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf04a8ac553fcedb5ba99a64799155826c136b0be.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcQvumAGQENgrNh9qd4BH9xRx5vBbu2yVbLKcmARQtdWy",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/918143135342981122/1Y-I-uVR.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf04a8ac553fcedb5ba99a64799155826c136b0be.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf04a8ac553fcedb5ba99a64799155826c136b0be.png",
+    "ipfs_origin": "QmbT4pDggF6Qbpo1zYAs3gN33xzyoweJvJkxoLr4MiumVJ"
+  },
+  "support": {
+    "email": "",
+    "url": "info@flixxo.com"
+  },
+  "social": {
+    "blog": "https://medium.com/@flixxo",
+    "chat": "",
+    "facebook": "http://facebook.com/flixxook",
+    "forum": "https://bitcointalk.org/index.php?topic=2168758.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Flixxo/",
+    "slack": "",
+    "telegram": "t.me/flixxo",
+    "twitter": "https://twitter.com/flixxo",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "FLIXX",
+      "address": "0xf04a8ac553FceDB5BA99A64799155826C136b0Be",
+      "erc20": {
+        "symbol": "FLIXX",
+        "decimals": 18,
+        "name": "FLIXX"
+      }
+    }
+  ]
+}

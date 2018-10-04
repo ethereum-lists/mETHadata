@@ -1,0 +1,42 @@
+{
+  "name": "DASH GOLD",
+  "ens_address": "",
+  "website": "https://dash-gold.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "coin@dash-gold.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/dash_gold",
+    "twitter": "https://www.twitter.com/dash_gold1",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DASH GOLD",
+      "address": "0x08f8117155aA9414B67113a47ad269D47974e9DC",
+      "erc20": {
+        "symbol": "DHG",
+        "decimals": 18,
+        "name": "DASH GOLD"
+      }
+    }
+  ]
+}

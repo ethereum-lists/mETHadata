@@ -1,0 +1,44 @@
+{
+  "name": "KARMATOKEN",
+  "ens_address": "",
+  "website": "https://www.karmatoken.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/799846421491019776/Ru3XT7yV.jpg"
+    }
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.karmatoken.net/blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Karmatoken2016/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/easteagle13",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "KARMATOKEN",
+      "address": "0xdC0c22285B61405aaE01Cba2530B6Dd5cD328da7",
+      "erc20": {
+        "symbol": "KTN",
+        "decimals": 6,
+        "name": "KARMATOKEN"
+      }
+    }
+  ]
+}

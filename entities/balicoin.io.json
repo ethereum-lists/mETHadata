@@ -1,0 +1,47 @@
+{
+  "name": "BALI COIN",
+  "ens_address": "",
+  "website": "https://balicoin.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x013a06558f07d9e6f9a00c95a33f3a0e0255176b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTGozAJgkcvaS9jHK4B88oWZmHqANQZAKv9yTsZ9wNJri",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x013a06558f07d9e6f9a00c95a33f3a0e0255176b.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x013a06558f07d9e6f9a00c95a33f3a0e0255176b.png",
+    "ipfs_origin": "QmZuhfBNmxUg3TLSQCCJh3NLjfrpPxaxkFy7e4qtcFmwqG"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/CdUpoBDN10siPVeKzXFTdQ",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BALI COIN",
+      "address": "0x013A06558f07d9E6F9A00c95a33f3a0E0255176b",
+      "erc20": {
+        "symbol": "BALI",
+        "decimals": 18,
+        "name": "BALI COIN"
+      }
+    }
+  ]
+}

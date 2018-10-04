@@ -1,0 +1,47 @@
+{
+  "name": "HeroCoin",
+  "ens_address": "",
+  "website": "https://herochain.org/en/index.html",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb96eb33e4a1a9ea3b8581abc8185f9597e45e8aa.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmf1WJtfRAW8aqdnCtUFuAH1tN9W5yvbJPDMXVsbHPcpSr",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/960444184686600192/cIWl1gcJ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb96eb33e4a1a9ea3b8581abc8185f9597e45e8aa.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/960444184686600192/cIWl1gcJ.jpg"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/HeroChain-184496238960821/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/herocoin",
+    "twitter": "https://twitter.com/HeroChainHEC",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "HeroCoin",
+      "address": "0xB96eB33E4a1a9ea3B8581aBC8185F9597E45E8AA",
+      "erc20": {
+        "symbol": "HEC",
+        "decimals": 18,
+        "name": "HeroCoin"
+      }
+    }
+  ]
+}

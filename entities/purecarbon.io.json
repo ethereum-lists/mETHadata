@@ -1,0 +1,44 @@
+{
+  "name": "PureCarbon",
+  "ens_address": "",
+  "website": "https://purecarbon.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1017682330045988865/6JXT7LNS.jpg"
+    }
+  },
+  "support": {
+    "email": "support@purecarbon.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@carbonprotocol",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/seanyc99/PureCarbon-Smart-Contract",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/purecarbonprotocol/",
+    "linkedin": "https://www.linkedin.com/in/PureCarbonInc/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/CarbonProtocol",
+    "youtube": "https://youtu.be/mpfOuwYeiLU"
+  },
+  "eth": [
+    {
+      "name": "PureCarbon",
+      "address": "0xe25ff6Eb959BCE67975778e46A47750C243B6B99",
+      "erc20": {
+        "symbol": "PURC",
+        "decimals": 18,
+        "name": "PureCarbon"
+      }
+    }
+  ]
+}

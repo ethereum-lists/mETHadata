@@ -1,0 +1,49 @@
+{
+  "name": "DeezNuts",
+  "ens_address": "",
+  "website": "https://deeznuts.in",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/DeezNutsToken/DEEZ/master/images/DeezNuts.png",
+    "width": "500px",
+    "height": "500px",
+    "ipfs_hash": "QmW2MEkhnLdS4Zqp6VBZbcbhGv6aHt2LPhrqGkfnvLGrAq",
+    "sources": {
+      "token-list": "https://raw.githubusercontent.com/DeezNutsToken/DEEZ/master/images/DeezNuts.png",
+      "twitter": "http://pbs.twimg.com/profile_images/953372787380555778/luBM_pXL.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x075c60ee2cd308ff47873b38bd9a0fa5853382c4.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x075c60ee2cd308ff47873b38bd9a0fa5853382c4.png",
+    "ipfs_origin": "QmQmEhq2MZfQZuBcqPtn6tPNVLPGR3XHbiXUoF8Kcx6o8T"
+  },
+  "support": {
+    "email": "deez@deeznuts.in",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://peepeth.com/deeznutstoken",
+    "chat": "",
+    "facebook": "https://facebook.com/deeznutstoken",
+    "forum": "",
+    "github": "https://github.com/DeezNutsToken/DEEZ",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/deeznutstoken/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://t.me/deeznutstoken",
+    "twitter": "https://twitter.com/DeezNutsToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DeezNuts",
+      "address": "0x075c60EE2cD308ff47873b38Bd9A0Fa5853382c4",
+      "erc20": {
+        "symbol": "DEEZ",
+        "decimals": 18,
+        "name": "DeezNuts"
+      }
+    }
+  ]
+}

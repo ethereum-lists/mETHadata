@@ -1,0 +1,59 @@
+{
+  "name": "Tether",
+  "ens_address": "",
+  "website": "https://tether.to",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmbDUHoFhQ5p9DoefK537XZixCwVwhPp1YkE1q2xbcWsfG",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/tether28_2.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/usdt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/590917624294289408/676F_xrf.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/usdt.svg",
+    "ipfs_origin": "QmVTACFrEPZ1LMTN4sdLXc2diVimN1iFaXRoY8daoMTVCg"
+  },
+  "support": {
+    "email": "billy@tether.to",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tether.to",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/tether/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/tether_to",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EUR Tether",
+      "address": "0xAbdf147870235FcFC34153828c769A70B3FAe01F",
+      "erc20": {
+        "symbol": "EURT",
+        "decimals": 6,
+        "name": "EUR Tether (erc20)"
+      }
+    },
+    {
+      "name": "USD Tether",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "erc20": {
+        "symbol": "USDT",
+        "decimals": 6,
+        "name": "USD Tether (erc20)"
+      }
+    }
+  ]
+}

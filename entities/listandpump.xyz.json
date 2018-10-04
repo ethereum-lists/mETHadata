@@ -1,0 +1,42 @@
+{
+  "name": "ListAndPump",
+  "ens_address": "",
+  "website": "http://listandpump.xyz/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ListAndPump",
+      "address": "0x87aE38D63A6bbB63E46219F494b549e3bE7Fc400",
+      "erc20": {
+        "symbol": "LAP",
+        "decimals": 8,
+        "name": "ListAndPump"
+      }
+    }
+  ]
+}

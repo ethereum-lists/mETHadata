@@ -1,0 +1,42 @@
+{
+  "name": "normikaivo",
+  "ens_address": "",
+  "website": "http://normikaivo.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "normikaivo",
+      "address": "0xc6B014274D7406641711Fb8889F93F4F11DEC810",
+      "erc20": {
+        "symbol": "NAO",
+        "decimals": 18,
+        "name": "normikaivo"
+      }
+    }
+  ]
+}

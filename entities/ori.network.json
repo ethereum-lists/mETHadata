@@ -1,0 +1,48 @@
+{
+  "name": "Origami Network",
+  "ens_address": "",
+  "website": "https://ori.network/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmStbc91RMEw82yjqJ8tM8R3usVqCTAjqVyb9tdFVaQydg",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/955847324659482625/HNh1IUrJ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49.png",
+    "ipfs_origin": "QmUcWAqGV23he7CznsUxPEder4tNc6o92MRFsQwbNqfmKX"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/origaminetworkico/",
+    "forum": "",
+    "github": "https://github.com/origamiMP",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/OrigamiNetwork/",
+    "slack": "",
+    "telegram": "https://t.me/ori_network_ICO",
+    "twitter": "https://twitter.com/origami_network",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Origami Network",
+      "address": "0xd2Fa8f92Ea72AbB35dBD6DECa57173d22db2BA49",
+      "erc20": {
+        "symbol": "ORI",
+        "decimals": 18,
+        "name": "Origami Network"
+      }
+    }
+  ]
+}

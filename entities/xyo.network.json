@@ -1,0 +1,48 @@
+{
+  "name": "XY Oracle",
+  "ens_address": "",
+  "website": "https://xyo.network/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55296f69f40ea6d20e478533c15a6b08b654e758.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmc6CZs1LqguNkPvSyL4g1yGXNDqnXYBURfmygLjS1zL1f",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1008013567625342976/TA1posqS.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55296f69f40ea6d20e478533c15a6b08b654e758.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55296f69f40ea6d20e478533c15a6b08b654e758.png",
+    "ipfs_origin": "QmRmgCevy6TjTRXMn6rkUeavgA9uiKM9fwnJyjkKCzKArE"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/xyonetwork",
+    "forum": "",
+    "github": "https://github.com/XYOracleNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/xyonetwork",
+    "slack": "",
+    "telegram": "https://t.me/xyonetwork",
+    "twitter": "https://twitter.com/XYOracleNetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "XY Oracle",
+      "address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+      "erc20": {
+        "symbol": "XYO",
+        "decimals": 18,
+        "name": "XY Oracle"
+      }
+    }
+  ]
+}

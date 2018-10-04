@@ -1,0 +1,48 @@
+{
+  "name": "Mysterium",
+  "ens_address": "",
+  "website": "https://mysterium.network",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa645264c5603e96c3b0b078cdab68733794b0a71.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZbHBw7SUtcLapj8NZm1H3JnZe8ToJWMrS5oYAUt2Gj8J",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/961163457381961729/yzI8zRuJ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa645264c5603e96c3b0b078cdab68733794b0a71.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa645264c5603e96c3b0b078cdab68733794b0a71.png",
+    "ipfs_origin": "QmNpR1s42q41tmiYhiupmPLf6ntCU8FFtSbmuoVANFXCLW"
+  },
+  "support": {
+    "email": "",
+    "url": "https://mysterium.network/faq"
+  },
+  "social": {
+    "blog": "https://medium.com/mysterium-network",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1895626.0",
+    "github": "https://github.com/MysteriumNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/MysteriumNetwork/",
+    "slack": "https://slack.mysterium.network",
+    "telegram": "https://t.me/mysterium_network",
+    "twitter": "https://twitter.com/MysteriumNet",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Mysterium",
+      "address": "0xa645264C5603E96c3b0B078cdab68733794B0A71",
+      "erc20": {
+        "symbol": "MYST",
+        "decimals": 8,
+        "name": "Mysterium"
+      }
+    }
+  ]
+}

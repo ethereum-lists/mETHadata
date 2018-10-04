@@ -1,0 +1,48 @@
+{
+  "name": "AidCoin",
+  "ens_address": "",
+  "website": "https://www.aidcoin.co/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x37e8789bb9996cac9156cd5f5fd32599e6b91289.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaULdb9cMKSkp2fp6u3jPqK6vYax7uYvHPg2qTxf7HgLM",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/922404231688138752/OHCpy0qj.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x37e8789bb9996cac9156cd5f5fd32599e6b91289.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/922404231688138752/OHCpy0qj.jpg",
+    "ipfs_origin": "QmTVsjhpwfaNA7FXrYKhB6kbiL3gf3Mddse4BdEAWHAcCK"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AidCoinCo/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/AidCoin/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/BOsPJxAaEb2YQqr0DzPxzg",
+    "twitter": "https://twitter.com/aid_coin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AidCoin",
+      "address": "0x37E8789bB9996CaC9156cD5F5Fd32599E6b91289",
+      "erc20": {
+        "symbol": "AID",
+        "decimals": 18,
+        "name": "AidCoin"
+      }
+    }
+  ]
+}

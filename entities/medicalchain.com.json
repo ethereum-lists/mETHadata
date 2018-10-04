@@ -1,0 +1,48 @@
+{
+  "name": "MedToken",
+  "ens_address": "",
+  "website": "https://medicalchain.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPZTZUAS2LLdhNPFyTfcC5iNS3a7bWftzGx2WUuK4yGbJ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/989582353918984193/O9195cqQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/989582353918984193/O9195cqQ.jpg",
+    "ipfs_origin": "QmYiF6vwqL1nHiJ54fG9AEvkAPhwzm6gve9unAR29dVbjo"
+  },
+  "support": {
+    "email": "",
+    "url": "https://medicalchain.com/en/contact/"
+  },
+  "social": {
+    "blog": "https://medicalchain.com/en/news/",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2113942.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/medicalchain/",
+    "slack": "",
+    "telegram": "https://t.me/medicalchain",
+    "twitter": "https://twitter.com/medical_chain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MedToken",
+      "address": "0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
+      "erc20": {
+        "symbol": "MTN",
+        "decimals": 18,
+        "name": "MedToken"
+      }
+    }
+  ]
+}

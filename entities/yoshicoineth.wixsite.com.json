@@ -1,0 +1,42 @@
+{
+  "name": "YoshiCoin",
+  "ens_address": "",
+  "website": "https://yoshicoineth.wixsite.com/yoshicoin",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "YoshiCoin",
+      "address": "0x4E260e3Ca268e40133C84b142De73108A7c1Ec99",
+      "erc20": {
+        "symbol": "YC",
+        "decimals": 0,
+        "name": "YoshiCoin"
+      }
+    }
+  ]
+}

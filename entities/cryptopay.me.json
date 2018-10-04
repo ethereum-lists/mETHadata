@@ -1,0 +1,48 @@
+{
+  "name": "CPAY Token",
+  "ens_address": "",
+  "website": "https://cryptopay.me/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVGx5fkCnb3czrM4nPQxC2mkLAhZiyrJWzTWnBYWtSeJP",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/884760287240491008/uTwYBrce.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/884760287240491008/uTwYBrce.jpg",
+    "ipfs_origin": "QmZNzRwLSmDQBrPto3sfs1ry9svhMZYP3qzrzRPiAeD2fm"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/cryptopayme",
+    "forum": "",
+    "github": "https://github.com/cryptopay-dev",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CryptopayOfficial/",
+    "slack": "",
+    "telegram": "https://t.me/cryptopayico",
+    "twitter": "https://twitter.com/cryptopay",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CPAY Token",
+      "address": "0x0Ebb614204E47c09B6C3FeB9AAeCad8EE060E23E",
+      "erc20": {
+        "symbol": "CPAY",
+        "decimals": 0,
+        "name": "CPAY Token"
+      }
+    }
+  ]
+}

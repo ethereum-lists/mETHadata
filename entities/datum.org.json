@@ -1,0 +1,50 @@
+{
+  "name": "Datum Token",
+  "ens_address": "",
+  "website": "https://datum.org",
+  "logo": {
+    "src": "https://datum.org/assets/images/datumlogo_square_128px.png",
+    "width": 128,
+    "height": 128,
+    "ipfs_hash": "QmU7p5BBUUxeYxfeiqmVmKJHanaW1BZs8BhumM2fCDLGqX",
+    "sources": {
+      "token-list": "https://datum.org/assets/images/datumlogo_square_128px.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/dat.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1031732418758074369/o58P1Dk_.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1031732418758074369/o58P1Dk_.jpg",
+    "ipfs_origin": "QmShbrji57snKBDMpqzKyZms6KhH51rdmmftFdtjzWAJEp"
+  },
+  "support": {
+    "email": "support@datum.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.datum.org/",
+    "chat": "",
+    "facebook": "https://facebook.com/datumnetwork",
+    "forum": "https://bitcointalk.org/index.php?topic=2049312.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/datumnetwork/",
+    "slack": "",
+    "telegram": "https://t.me/datumnetwork",
+    "twitter": "https://twitter.com/datumnetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Datum Token",
+      "address": "0x81c9151de0C8bafCd325a57E3dB5a5dF1CEBf79c",
+      "erc20": {
+        "symbol": "DAT",
+        "decimals": 18,
+        "name": "Datum Token"
+      }
+    }
+  ]
+}

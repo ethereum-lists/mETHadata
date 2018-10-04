@@ -1,0 +1,49 @@
+{
+  "name": "QASH",
+  "ens_address": "",
+  "website": "https://liquid.plus",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeHPnyvkfzCLe4948zWfjq2iQcGHpv8sQ8sy7oA2qccQo",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/qash.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1022724963629858816/KwiR___0.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6.png",
+    "ipfs_origin": "QmZMnxPBFprNtimz5Mc4S21ZCu8wbiDbN7hzrJNs7CgYjv"
+  },
+  "support": {
+    "email": "",
+    "url": "https://liquid-qash.zendesk.com"
+  },
+  "social": {
+    "blog": "https://steemit.com/@quoineliquid",
+    "chat": "",
+    "facebook": "https://www.facebook.com/QUOINE.SG",
+    "forum": "https://bitcointalk.org/index.php?topic=2256844",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/QASH",
+    "slack": "",
+    "telegram": "https://t.me/QUOINE",
+    "twitter": "https://twitter.com/quoine_SG",
+    "youtube": "https://www.youtube.com/channel/UCOR2GJnFoOgTazC5v6mBTSA"
+  },
+  "eth": [
+    {
+      "name": "QASH",
+      "address": "0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6",
+      "erc20": {
+        "symbol": "QASH",
+        "decimals": 6,
+        "name": "QASH"
+      }
+    }
+  ]
+}

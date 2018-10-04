@@ -1,0 +1,48 @@
+{
+  "name": "DDF",
+  "ens_address": "",
+  "website": "https://www.digitaldevelopersfund.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVk6VTGs5oyowDNcjA7A4YpguSzCWHdY5LL9TR8z4MXGY",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/873463421462867968/fhq4qLcI.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38.png",
+    "ipfs_origin": "QmUSLFugJTPqrV9BWXifoS6xN7YdxPQxCv9HExf9uAHLQC"
+  },
+  "support": {
+    "email": "info@digitaldevelopersfund.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/digitaldevelopersfund/",
+    "forum": "https://bitcointalk.org/index.php?topic=1992157.0",
+    "github": "https://github.com/digitaldevelopersfund/ddf",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/digital-developers-fund/",
+    "reddit": "https://www.reddit.com/r/digitaldevelopersfund/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/DigitalDevFund",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DDF",
+      "address": "0xcC4eF9EEAF656aC1a2Ab886743E98e97E090ed38",
+      "erc20": {
+        "symbol": "DDF",
+        "decimals": 18,
+        "name": "DDF"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "PIPL Coin",
+  "ens_address": "",
+  "website": "https://piplcoin.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQtUGGvWH1mtLViVYM4aH9p7J1h6njLyvLJCGEZFfjJD5",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4.png",
+    "ipfs_origin": "QmVw5gVkv73Q5PgbVB6vxrDghTBeiTVE4CjdYpeAk545VM"
+  },
+  "support": {
+    "email": "support@piplcoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/PiplCoin",
+    "forum": "https://bitcointalk.org/index.php?topic=2018431.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/piplcoin?lang=en",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "PIPL Coin",
+      "address": "0xE64509F0bf07ce2d29A7eF19A8A9bc065477C1B4",
+      "erc20": {
+        "symbol": "PIPL",
+        "decimals": 8,
+        "name": "PIPL Coin"
+      }
+    }
+  ]
+}

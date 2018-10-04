@@ -1,0 +1,47 @@
+{
+  "name": "Tomocoin",
+  "ens_address": "",
+  "website": "https://tomocoin.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8b353021189375591723e7384262f45709a3c3dc.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmR4mpmsFr4TGwRG1KaSvCyCjdfrGwseomU2qadHYkbnyX",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8b353021189375591723e7384262f45709a3c3dc.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8b353021189375591723e7384262f45709a3c3dc.png",
+    "ipfs_origin": "QmP3WoQwS3XRzdqLt8SkmGWiiNg4XMgyvVsVddfdCRr2s9"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tomocoin",
+    "forum": "",
+    "github": "https://github.com/TOMOCOIN",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Tomochain/",
+    "slack": "",
+    "telegram": "https://t.me/tomocoin_io",
+    "twitter": "https://twitter.com/TomoCoin_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Tomocoin",
+      "address": "0x8b353021189375591723E7384262F45709A3C3dC",
+      "erc20": {
+        "symbol": "TOMO",
+        "decimals": 18,
+        "name": "Tomocoin"
+      }
+    }
+  ]
+}

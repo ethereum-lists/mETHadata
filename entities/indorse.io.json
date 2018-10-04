@@ -1,0 +1,48 @@
+{
+  "name": "Indorse",
+  "ens_address": "",
+  "website": "https://indorse.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf8e386eda857484f5a12e4b5daa9984e06e73705.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWamsPABWvvdYyTtcJrgGod2cDA1ELoHF22Saob3JgPiV",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1002839614627942400/YWJTRhWV.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf8e386eda857484f5a12e4b5daa9984e06e73705.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1002839614627942400/YWJTRhWV.jpg",
+    "ipfs_origin": "QmQNjYVLmZDXN3BmtJqr3438ZdQnuKPrxhVC9oUXTqB3vh"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.indorse.io/",
+    "chat": "",
+    "facebook": "https://facebook.com/joinindorse",
+    "forum": "https://bitcointalk.org/index.php?topic=2047503.0",
+    "github": "https://github.com/indorseio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/indorse",
+    "slack": "https://slack.indorse.io",
+    "telegram": "https://t.me/indorseio",
+    "twitter": "https://twitter.com/joinindorse",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Indorse",
+      "address": "0xf8e386EDa857484f5a12e4B5DAa9984E06E73705",
+      "erc20": {
+        "symbol": "IND",
+        "decimals": 18,
+        "name": "Indorse"
+      }
+    }
+  ]
+}

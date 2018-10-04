@@ -1,0 +1,47 @@
+{
+  "name": "Gamerbits",
+  "ens_address": "",
+  "website": "https://www.gbits.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWqtc7ppJseyKxueXG4HUjch9mnY8HH1LnNhwNwSrXET2",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/889421173854949376/rFDNg-rl.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/889421173854949376/rFDNg-rl.jpg",
+    "ipfs_origin": "QmeixNuX44D3jNPZhkvTzNWEjiRnMWjje9UqHoySYFYMzY"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Gamerbits/",
+    "slack": "",
+    "telegram": "https://t.me/gamerbits",
+    "twitter": "https://twitter.com/Gamerbits_",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Gamerbits",
+      "address": "0x944F1A04ab8D735aCDbc46505c5b283F54289152",
+      "erc20": {
+        "symbol": "GBTS",
+        "decimals": 18,
+        "name": "Gamerbits"
+      }
+    }
+  ]
+}

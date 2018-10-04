@@ -1,0 +1,49 @@
+{
+  "name": "Request Network",
+  "ens_address": "",
+  "website": "https://request.network",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8f8221afbb33998d8584a2b05749ba73c37a938a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmT4s4cnhcwbauQP99mNjUKUUBCsCPKWE11eDtstYpxGQd",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/req.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/899619756554276864/Xa7DaqCV.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8f8221afbb33998d8584a2b05749ba73c37a938a.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/899619756554276864/Xa7DaqCV.jpg",
+    "ipfs_origin": "QmeNsSBpbpVqpwLrHJrZgmNwsdibs4Hfr7CU6fBwWJg5Hn"
+  },
+  "support": {
+    "email": "req@request.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.request.network/",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2137740.0",
+    "github": "https://github.com/RequestNetwork/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/requestnetwork",
+    "slack": "https://requestnetwork.slack.com",
+    "telegram": "https://t.me/requestnetwork",
+    "twitter": "https://twitter.com/requestnetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Request Network",
+      "address": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
+      "erc20": {
+        "symbol": "REQ",
+        "decimals": 18,
+        "name": "Request Network"
+      }
+    }
+  ]
+}

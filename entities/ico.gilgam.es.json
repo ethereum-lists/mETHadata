@@ -1,0 +1,47 @@
+{
+  "name": "Gilgames",
+  "ens_address": "",
+  "website": "https://ico.gilgam.es/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVtVDnH36Mtg1Kgr69i7n4mNRzdUHLRgwsoq5qUcq3qnQ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/880522561737564161/de_Yxnp5.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/880522561737564161/de_Yxnp5.jpg",
+    "ipfs_origin": "QmeKgrphyXLs26PFfFWcBckQh773L3vkVh9ror4bG4EmGA"
+  },
+  "support": {
+    "email": "support@gilgam.es",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://fb.me/gilgames.platform",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://ico.gilgam.es/slack",
+    "telegram": "",
+    "twitter": "https://twitter.com/gilgam_es",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Gilgames",
+      "address": "0x68DB10ECC599D9f5E657acDAfDbf6449D658bB2D",
+      "erc20": {
+        "symbol": "GGS",
+        "decimals": 18,
+        "name": "Gilgames"
+      }
+    }
+  ]
+}

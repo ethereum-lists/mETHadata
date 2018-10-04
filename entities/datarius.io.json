@@ -1,0 +1,48 @@
+{
+  "name": "Datarius Credit",
+  "ens_address": "",
+  "website": "https://datarius.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc20464e0c373486d2b3335576e83a218b1618a5e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTuPuWLHDibYQqo5SJxLX7fwkGSSjYTt5m8HjU9iCL7Nt",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/927453790592225280/P0pJA2Rg.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc20464e0c373486d2b3335576e83a218b1618a5e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc20464e0c373486d2b3335576e83a218b1618a5e.png",
+    "ipfs_origin": "QmU9FbUpBmTiV5QXCV2EESaJJx9S7TjfUSTvrrfnajEwvF"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/datariuscryptobank/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Datarius/",
+    "slack": "",
+    "telegram": "https://t.me/datarius",
+    "twitter": "https://twitter.com/Datariuscrypto",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Datarius Credit",
+      "address": "0xc20464e0C373486d2B3335576e83a218b1618A5E",
+      "erc20": {
+        "symbol": "DTRC",
+        "decimals": 18,
+        "name": "Datarius Credit"
+      }
+    }
+  ]
+}

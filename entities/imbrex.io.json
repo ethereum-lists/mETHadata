@@ -1,0 +1,47 @@
+{
+  "name": "REX",
+  "ens_address": "",
+  "website": "https://imbrex.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf05a9382a4c3f29e2784502754293d88b835109c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbiXzRKCRFRwCZdDbVjHh1CMbY1DS2MQfuw6EG2P9Pssv",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf05a9382a4c3f29e2784502754293d88b835109c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf05a9382a4c3f29e2784502754293d88b835109c.png",
+    "ipfs_origin": "QmSDuySbTWUXvdo98zuiRT8MbtH9EEB3UZGcpCyDVwZFJP"
+  },
+  "support": {
+    "email": "support@rexmls.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.rexmls.com/@REXMLS",
+    "chat": "",
+    "facebook": "https://www.facebook.com/theREXmls/?ref=br_rs",
+    "forum": "https://bitcointalk.org/index.php?topic=1923612.20",
+    "github": "https://github.com/rexmls/RexToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/11070246/",
+    "reddit": "https://www.reddit.com/r/REXMLS/",
+    "slack": "",
+    "telegram": "https://t.me/rexmls",
+    "twitter": "https://twitter.com/rexmls",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "REX",
+      "address": "0xf05a9382A4C3F29E2784502754293D88b835109C",
+      "erc20": {
+        "symbol": "REX",
+        "decimals": 18,
+        "name": "REX"
+      }
+    }
+  ]
+}

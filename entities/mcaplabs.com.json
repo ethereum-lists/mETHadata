@@ -1,0 +1,49 @@
+{
+  "name": "MCAP",
+  "ens_address": "",
+  "website": "https://www.mcaplabs.com/mcaptoken.html",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x93e682107d1e9defb0b5ee701c71707a4b2e46bc.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbnNVtn51mjPePY46AB17BZQDWWKVxS7ThaAvs2jPVv7A",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/mcap.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/877715976229343232/hl0cbUHM.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x93e682107d1e9defb0b5ee701c71707a4b2e46bc.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/mcap.svg",
+    "ipfs_origin": "QmPbmyphpv1xT1fGvKFF3F2R2K4hGtqLAniVGvJyebpnH3"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/mcap-labs",
+    "chat": "",
+    "facebook": "https://www.facebook.com/MCAPlabs/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/MCAPlabs",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MCAP",
+      "address": "0x93E682107d1E9defB0b5ee701C71707a4B2E46Bc",
+      "erc20": {
+        "symbol": "MCAP",
+        "decimals": 8,
+        "name": "MCAP"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "CREDEROOM Token",
+  "ens_address": "",
+  "website": "http://www.crederoom.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZPL336NwXqt9wmuQjgkCDNRdGAUK486CnAiDpSGNakvG",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/905395476526231552/ojvOrkzf.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/905395476526231552/ojvOrkzf.jpg",
+    "ipfs_origin": "QmWDXo4m6ymP3UvGKbpdXNk1EZfNTqP6J9dX1wsnaz5775"
+  },
+  "support": {
+    "email": "info@crederoom.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/crederoom",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Eyea-Q2PJFUmy91mrf3V-Q",
+    "twitter": "https://twitter.com/crederoom",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CREDEROOM Token",
+      "address": "0x1D9e20e581a5468644fe74ccb6a46278ef377F9e",
+      "erc20": {
+        "symbol": "CDRT",
+        "decimals": 8,
+        "name": "CREDEROOM Token"
+      }
+    }
+  ]
+}

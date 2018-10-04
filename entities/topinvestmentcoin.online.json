@@ -1,0 +1,48 @@
+{
+  "name": "Topinvestmentcoin",
+  "ens_address": "",
+  "website": "https://www.topinvestmentcoin.online/",
+  "logo": {
+    "src": "https://i.imgur.com/DnDglhQ.png",
+    "width": "130",
+    "height": "129",
+    "ipfs_hash": "QmThFaaPho9G1jnqXxaRhRHG72qggnxw34baC5CeLQDEk2",
+    "sources": {
+      "token-list": "https://i.imgur.com/DnDglhQ.png",
+      "twitter": "http://pbs.twimg.com/profile_images/937581726645276672/42aBa19j.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/937581726645276672/42aBa19j.png",
+    "ipfs_origin": "Qmd6LLntjkED1L4k4iJiioLG2kT4sqkh7VpZca28s1SQeW"
+  },
+  "support": {
+    "email": "support@topinvestmentcoin.online",
+    "url": "https://www.topinvestmentcoin.online/"
+  },
+  "social": {
+    "blog": "https://medium.com/topinvestmentcoin",
+    "chat": "",
+    "facebook": "https://web.facebook.com/Topinvestmentcoin/",
+    "forum": "https://bitcointalk.org/index.php?topic=3123082.0#new",
+    "github": "https://github.com/Topinvestmentcoin/Topinvestmentcoin-",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/topinvestmentcoin",
+    "twitter": "https://www.twitter.com/Topinvestcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Topinvestmentcoin",
+      "address": "0xa5dB1d6F7A0D5Bccc17d0bFD39D7AF32d5E5EDc6",
+      "erc20": {
+        "symbol": "TICO",
+        "decimals": 5,
+        "name": "Topinvestmentcoin"
+      }
+    }
+  ]
+}

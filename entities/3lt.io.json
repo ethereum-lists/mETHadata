@@ -1,0 +1,43 @@
+{
+  "type": "ERC20",
+  "name": "TrillionToken",
+  "ens_address": "",
+  "website": "https://3lt.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TrillionToken",
+      "address": "0x430241368c1D293fdA21DBa8Bb7aF32007c59109",
+      "erc20": {
+        "symbol": "3LT",
+        "decimals": 8,
+        "name": "TrillionToken"
+      }
+    }
+  ]
+}

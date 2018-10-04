@@ -1,0 +1,56 @@
+{
+  "name": "LookRev",
+  "ens_address": "",
+  "website": "https://lookrev.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbAwoAjTh9ARJAShcCZ2Xg1fduG63m5YJTRZLBgCN4Hb2",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/897946530086240256/1ipOWXmb.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/897946530086240256/1ipOWXmb.jpg",
+    "ipfs_origin": "QmTmBJteYFPRcgG3ugcJPnLhnKYh4ZpwWRubJh1f6ktGXU"
+  },
+  "support": {
+    "email": "contact@lookrev.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/lookrev",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://lookrev.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/lookrev",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "LOK",
+      "address": "0x21aE23B882A340A22282162086bC98D3E2B73018",
+      "erc20": {
+        "symbol": "LOK",
+        "decimals": 18,
+        "name": "LOK"
+      }
+    },
+    {
+      "name": "LookRev",
+      "address": "0x253C7dd074f4BaCb305387F922225A4f737C08bd",
+      "erc20": {
+        "symbol": "LOOK",
+        "decimals": 18,
+        "name": "LookRev"
+      }
+    }
+  ]
+}

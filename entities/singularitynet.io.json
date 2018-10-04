@@ -1,0 +1,49 @@
+{
+  "name": "SingularityNET",
+  "ens_address": "",
+  "website": "https://singularitynet.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8eb24319393716668d768dcec29356ae9cffe285.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRwdbwgfLyzQuZ7iKkkBZaitxE7rvQZLA6hbu9RMo434f",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/agi.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/928263548941283329/ZyFK-sfD.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8eb24319393716668d768dcec29356ae9cffe285.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8eb24319393716668d768dcec29356ae9cffe285.png",
+    "ipfs_origin": "QmS88T2RvCDK66fp1DTXAfg24Eu8wYjs15rxV6xptHhgAr"
+  },
+  "support": {
+    "email": "support@singularitynet.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.singularitynet.io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/singularityNET.io",
+    "forum": "https://bitcointalk.org/index.php?topic=2491147.0",
+    "github": "https://github.com/singnet/singnet",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SingularityNet",
+    "slack": "",
+    "telegram": "https://t.me/singularitynet",
+    "twitter": "https://twitter.com/singularity_net",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SingularityNET",
+      "address": "0x8eB24319393716668D768dCEC29356ae9CfFe285",
+      "erc20": {
+        "symbol": "AGI",
+        "decimals": 8,
+        "name": "SingularityNET"
+      }
+    }
+  ]
+}

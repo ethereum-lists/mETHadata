@@ -1,0 +1,49 @@
+{
+  "name": "Assistive Reality ARX",
+  "ens_address": "",
+  "website": "https://aronline.io",
+  "logo": {
+    "src": "https://aronline.io/wp-content/uploads/2018/01/favicon.png",
+    "width": "100",
+    "height": "100",
+    "ipfs_hash": "QmUwdCZTHVQnWhJZLeRf7WCKZt6HjZoZUiTLP7CBHqzYTv",
+    "sources": {
+      "token-list": "https://aronline.io/wp-content/uploads/2018/01/favicon.png",
+      "twitter": "http://pbs.twimg.com/profile_images/905451532539240450/A2dcad4l.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb0d926c1bc3d78064f3e1075d5bd9a24f35ae6c5.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/905451532539240450/A2dcad4l.jpg",
+    "ipfs_origin": "QmQgtN7XGKy3KKdEeCcXVb7ZasBtYh9nqG2x6zLMVnngCe"
+  },
+  "support": {
+    "email": "staff@aronline.io",
+    "url": "https://aronline.io/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AssistiveReality/",
+    "forum": "",
+    "github": "https://github.com/va109/Artex",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/AssistiveReality/",
+    "linkedin": "https://www.linkedin.com/in/assistive-reality/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/AssistiveReality_ARX",
+    "twitter": "https://twitter.com/aronline_io/",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Assistive Reality ARX",
+      "address": "0xb0D926c1BC3d78064F3e1075D5bD9A24F35Ae6C5",
+      "erc20": {
+        "symbol": "ARXT",
+        "decimals": 18,
+        "name": "Assistive Reality ARX"
+      }
+    }
+  ]
+}

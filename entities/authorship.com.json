@@ -1,0 +1,48 @@
+{
+  "name": "Authorship Token",
+  "ens_address": "",
+  "website": "http://authorship.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2daee1aa61d60a252dc80564499a69802853583a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdPe4Nmq6qSjmB24nvHxZo72P6mUA1ovJdCBuVbnhyNnW",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/895986888749838336/7tm8CP_W.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2daee1aa61d60a252dc80564499a69802853583a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2daee1aa61d60a252dc80564499a69802853583a.png",
+    "ipfs_origin": "QmSjrcGQpXnNQEg4fAgXhMf3bfkUqKvmfgPW5zxexTMpph"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://authorship.com/category/blog/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/authorship_com",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Authorship Token",
+      "address": "0x2dAEE1AA61D60A252DC80564499A69802853583A",
+      "erc20": {
+        "symbol": "ATS",
+        "decimals": 4,
+        "name": "Authorship Token"
+      }
+    }
+  ]
+}

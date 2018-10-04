@@ -1,0 +1,49 @@
+{
+  "name": "Decentraland MANA",
+  "ens_address": "",
+  "website": "https://decentraland.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f5d2fb29fb7d3cfee444a200298f468908cc942.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmafAFh8tF7SzQ4WehuQyPMk14qckm9qEPjSwWDt64aAdc",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/mana.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/605737974748356608/uJ8v8VJP.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f5d2fb29fb7d3cfee444a200298f468908cc942.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/605737974748356608/uJ8v8VJP.png",
+    "ipfs_origin": "QmWqmgeefNMqcfGDezXk2qi5NAsGCB7FnX89zVdXEwGnuq"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.decentraland.org",
+    "chat": "",
+    "facebook": "https://www.facebook.com/decentraland/",
+    "forum": "https://bitcointalk.org/index.php?topic=2065128.0",
+    "github": "https://github.com/decentraland",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/decentraland/",
+    "slack": "https://slack.decentraland.org",
+    "telegram": "https://t.me/dcl_market",
+    "twitter": "https://twitter.com/decentraland",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Decentraland MANA",
+      "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+      "erc20": {
+        "symbol": "MANA",
+        "decimals": 18,
+        "name": "Decentraland MANA"
+      }
+    }
+  ]
+}

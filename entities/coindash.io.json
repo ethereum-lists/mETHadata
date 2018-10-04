@@ -1,0 +1,57 @@
+{
+  "name": "Blox (formely Coindash)",
+  "ens_address": "",
+  "website": "https://www.blox.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPHdq1h6smZ7jpn7iBPTtuUKeMuivhpJvvfksgYR2qpag",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/cdt.svg"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/cdt.svg",
+    "ipfs_origin": "QmUZWah6NLX4tWnSswkBDWhCypY2EWGiC8eKbpz34wsMSf"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blox.io/blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/blox.io/",
+    "forum": "",
+    "github": "https://github.com/CoinDashio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/blox-io/",
+    "reddit": "https://www.reddit.com/r/Blox_io/",
+    "slack": "",
+    "telegram": "https://t.me/blox_product_discussion",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CoinDash",
+      "address": "0x2Fe6AB85EBbf7776feE46d191eE4cEA322CeCf51",
+      "erc20": {
+        "symbol": "CDT",
+        "decimals": 18,
+        "name": "CoinDash"
+      }
+    },
+    {
+      "name": "CoinDash",
+      "address": "0x177d39AC676ED1C67A2b268AD7F1E58826E5B0af",
+      "erc20": {
+        "symbol": "CDT",
+        "decimals": 18,
+        "name": "CoinDash"
+      }
+    }
+  ],
+  "description": "Formely coindash.io (https://blog.coindash.io/dear-blox-coindash-community-e49043f38ebb)"
+}

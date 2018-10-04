@@ -1,0 +1,47 @@
+{
+  "name": "CO2Bit",
+  "ens_address": "co2energy.eth",
+  "website": "https://co2bit.com",
+  "logo": {
+    "src": "http://co2bit.com/wp-content/uploads/2017/12/28x28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmVA7RXMSPfUWCtmzNwYHyUmM6rjjp6KyoQDL2swRPRByJ",
+    "sources": {
+      "token-list": "http://co2bit.com/wp-content/uploads/2017/12/28x28.png"
+    },
+    "sourceBest": "src",
+    "origin": "http://co2bit.com/wp-content/uploads/2017/12/28x28.png",
+    "ipfs_origin": "QmQjBJzMyumozppyvDd5kG625M1E727swvYuVJu9Dd9zXR"
+  },
+  "support": {
+    "email": "info@co2bit.com",
+    "url": "https://co2bit.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CO2Bit",
+      "address": "0x574B36BceD443338875d171CC377E691f7d4F887",
+      "erc20": {
+        "symbol": "CO2Bit",
+        "decimals": 18,
+        "name": "CO2Bit"
+      }
+    }
+  ]
+}

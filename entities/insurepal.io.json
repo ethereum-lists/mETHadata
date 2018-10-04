@@ -1,0 +1,47 @@
+{
+  "name": "InsurePal token",
+  "ens_address": "",
+  "website": "https://insurepal.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x64cdf819d3e75ac8ec217b3496d7ce167be42e80.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQ8mQe6WZtpc9qxqtqqFPbqBZi2eKCN6jLPHsneKBmLKX",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x64cdf819d3e75ac8ec217b3496d7ce167be42e80.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x64cdf819d3e75ac8ec217b3496d7ce167be42e80.png",
+    "ipfs_origin": "QmXD4X7cg5SPXiN246b4zEWLBZ5wpWozDZhpz9ozUd9KVo"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/insurepal-blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/InsurePal/",
+    "forum": "https://bitcointalk.org/index.php?topic=2495721.0",
+    "github": "https://github.com/InsurePal",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18358945/",
+    "reddit": "https://www.reddit.com/r/InsurePal/",
+    "slack": "",
+    "telegram": "https://t.me/InsurePal",
+    "twitter": "https://twitter.com/InsurePal_io",
+    "youtube": "https://www.youtube.com/channel/UCgpEjq3P54FKDmJDyOjJ9vg"
+  },
+  "eth": [
+    {
+      "name": "InsurePal token",
+      "address": "0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80",
+      "erc20": {
+        "symbol": "IPL",
+        "decimals": 18,
+        "name": "InsurePal token"
+      }
+    }
+  ]
+}

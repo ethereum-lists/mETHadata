@@ -1,0 +1,42 @@
+{
+  "name": "MaxxToken",
+  "ens_address": "",
+  "website": "https://cryptosocial.world/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "administracao@criptosocialcom.br",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/maxxtoken",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MaxxToken",
+      "address": "0xBC63aCdfafA94bd4D8C2Bb7A8552281f107242c0",
+      "erc20": {
+        "symbol": "MXX",
+        "decimals": 18,
+        "name": "MaxxToken"
+      }
+    }
+  ]
+}

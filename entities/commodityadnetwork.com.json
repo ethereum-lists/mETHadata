@@ -1,0 +1,47 @@
+{
+  "name": "CDX",
+  "ens_address": "",
+  "website": "https://commodityadnetwork.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmePiXzA74PZLikBKugJxZiUQJzgdg99hiAUsqtp3TPqaz",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b.png",
+    "ipfs_origin": "QmU2YXtCHXEzhYqwD3FS8TFptsttFbjZHwrNXER2RRgf6X"
+  },
+  "support": {
+    "email": "support@commodityadnetwork.com",
+    "url": "https://commodityadnetwork.com/contact"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/commodityadnet/",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CDX",
+      "address": "0x6fFF3806Bbac52A20e0d79BC538d527f6a22c96b",
+      "erc20": {
+        "symbol": "CDX",
+        "decimals": 18,
+        "name": "CDX"
+      }
+    }
+  ]
+}

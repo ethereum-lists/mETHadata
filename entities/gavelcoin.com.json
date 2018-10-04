@@ -1,0 +1,42 @@
+{
+  "name": "GAVEL",
+  "ens_address": "",
+  "website": "http://gavelcoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "support@gavelcoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GAVEL",
+      "address": "0x708876f486e448Ee89eB332bFbC8E593553058b9",
+      "erc20": {
+        "symbol": "GAVEL",
+        "decimals": 18,
+        "name": "GAVEL"
+      }
+    }
+  ]
+}

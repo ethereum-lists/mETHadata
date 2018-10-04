@@ -1,0 +1,47 @@
+{
+  "name": "SggCoin",
+  "ens_address": "",
+  "website": "https://stuffgogo.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUMq5bHQC1wqyaEGWUMtv7KTVpCvA6jT2aRKmscXAnC5c",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/786960150653505536/voqGWFZI.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/786960150653505536/voqGWFZI.jpg",
+    "ipfs_origin": "QmZzKxz1N641dy3NA7fGXSkcBMJ9crRQWVSWp4rjDH35rW"
+  },
+  "support": {
+    "email": "contact@stuffgogo.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/stuffgogo",
+    "forum": "",
+    "github": "https://github.com/stuffgogo",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://join.slack.com/t/stuffgogo/shared_invite/MjEzMzM3MzU0Nzg0LTE1MDAzMjgzMjctZDJkYzIwNjEwMQ",
+    "telegram": "https://t.me/stuffgogoofficial",
+    "twitter": "https://twitter.com/StuffGoGo",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SggCoin",
+      "address": "0xe2F45f1660DC99dAF3Bd06f637ab1e4DeBc15bDe",
+      "erc20": {
+        "symbol": "SGG",
+        "decimals": 6,
+        "name": "SggCoin"
+      }
+    }
+  ]
+}

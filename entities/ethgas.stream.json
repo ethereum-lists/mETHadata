@@ -1,0 +1,48 @@
+{
+  "name": "ETH GAS",
+  "ens_address": "",
+  "website": "http://www.ethgas.stream",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUnVMv5Jo6sDgrQa2foGaxUubCRym9Mxt2is6gtRnFX3t",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/924148892244963328/cMMP6rsb.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8.png",
+    "ipfs_origin": "QmVRbjjVZamDqDWAAACGh5LBW1MVEaNwBDAhycoKuvdtwj"
+  },
+  "support": {
+    "email": "egas@ethgas.stream",
+    "url": "http://www.ethgas.stream"
+  },
+  "social": {
+    "blog": "https://medium.com/@eth_gas",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ethgas/",
+    "forum": "https://bitcointalk.org/index.php?topic=2328682",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ethgas",
+    "twitter": "https://twitter.com/eth_gas",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ETH GAS",
+      "address": "0xb53A96bcBdD9CF78dfF20BAB6C2be7bAec8f00f8",
+      "erc20": {
+        "symbol": "eGAS",
+        "decimals": 8,
+        "name": "ETH GAS"
+      }
+    }
+  ]
+}

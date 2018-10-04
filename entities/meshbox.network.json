@@ -1,0 +1,47 @@
+{
+  "name": "Meshbox",
+  "ens_address": "",
+  "website": "https://meshbox.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmapEj4b1USywf77Ps6rbkhgoTjtjkUJxmhUUE9co36WRg",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/950251688660672513/DPuEPJQ6.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/950251688660672513/DPuEPJQ6.jpg",
+    "ipfs_origin": "QmQftZTyS4cBNLoM89GFsQQqq16cf99vJyy5yAAJZeLhgQ"
+  },
+  "support": {
+    "email": "mesh@meshbox.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/MeshBoxFoundation/",
+    "forum": "",
+    "github": "https://github.com/MeshBox",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/meshbox/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "t.me/MeshBoxEN",
+    "twitter": "https://twitter.com/Mesh_Box",
+    "youtube": "https://www.youtube.com/channel/UCQHwUo9rRidByL9vMlv0vSQ"
+  },
+  "eth": [
+    {
+      "name": "Meshbox",
+      "address": "0x01F2AcF2914860331C1Cb1a9AcecDa7475e06Af8",
+      "erc20": {
+        "symbol": "MESH",
+        "decimals": 18,
+        "name": "Meshbox"
+      }
+    }
+  ]
+}

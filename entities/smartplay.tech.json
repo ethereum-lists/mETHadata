@@ -1,0 +1,47 @@
+{
+  "name": "RLT",
+  "ens_address": "",
+  "website": "https://smartplay.tech",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcced5b8288086be8c38e23567e684c3740be4d48.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVKpmcKCrpf78yoECcPJn1PAukMN1qG6x2GoU3oczrVDf",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcced5b8288086be8c38e23567e684c3740be4d48.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcced5b8288086be8c38e23567e684c3740be4d48.png",
+    "ipfs_origin": "QmdB7zS8cT9cz7HpRcZsXsGCzVUp1gbLLWKYkeYFwESm5t"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Smartroulette",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "RLT",
+      "address": "0xcCeD5B8288086BE8c38E23567e684C3740be4D48",
+      "erc20": {
+        "symbol": "RLT",
+        "decimals": 10,
+        "name": "RLT"
+      }
+    }
+  ]
+}

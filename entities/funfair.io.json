@@ -1,0 +1,48 @@
+{
+  "name": "Funfair",
+  "ens_address": "",
+  "website": "https://funfair.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x419d0d8bdd9af5e606ae2232ed285aff190e711b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNaPqB1Mth6D112yHjoU1mfPLjNnjVVofCbyrYE1mheFo",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/fun.svg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x419d0d8bdd9af5e606ae2232ed285aff190e711b.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x419d0d8bdd9af5e606ae2232ed285aff190e711b.png",
+    "ipfs_origin": "QmfUsxvETUs3Hokc2AUqm6rXSrMeem9Gqu5uB8Fctw1AZp"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://funfair.io/blog/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/148397155706069/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/FunfairTech/comments/6nadvm/funfair_token_contract_update",
+    "slack": "https://funfair-slackin.herokuapp.com",
+    "telegram": "https://t.me/FunFairTech/",
+    "twitter": "https://twitter.com/FunFairTech/status/885910956701876224",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Funfair",
+      "address": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
+      "erc20": {
+        "symbol": "FUN",
+        "decimals": 8,
+        "name": "Funfair"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "MSC",
+  "ens_address": "",
+  "website": "http://www.monspacecoin.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcpmUoJgfdPkprKoDGj7yj9Y3HyaLFnWfkP81gsoha9Pa",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/924225217047748608/5aMIL2g8.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/924225217047748608/5aMIL2g8.jpg",
+    "ipfs_origin": "QmVdpzAEPiSo7PCeev9HzYC5JSuCxUxaumHuaPi6pQe9GE"
+  },
+  "support": {
+    "email": "support@monspacecoin.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/monspace.coin.5",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/MscoinCoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MSC",
+      "address": "0xd6adC5e386D499361CcC5752F791b45132E7e6e4",
+      "erc20": {
+        "symbol": "MSC",
+        "decimals": 0,
+        "name": "MSC"
+      }
+    }
+  ]
+}

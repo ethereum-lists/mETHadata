@@ -1,0 +1,47 @@
+{
+  "name": "WETH",
+  "ens_address": "",
+  "website": "https://weth.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUo5QUDu5gKkdYCokLFDjZrfrFDx8Yxga1eYzycATqwET",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "ipfs_origin": "QmQrsQLpuraHefHedmebAkdqZmxaQ5XmUnYn7QuyG8KfaT"
+  },
+  "support": {
+    "email": "support@makerdao.com",
+    "url": "https://chat.makerdao.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "WETH",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "erc20": {
+        "symbol": "WETH",
+        "decimals": 18,
+        "name": "WETH"
+      }
+    }
+  ]
+}

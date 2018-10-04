@@ -1,0 +1,48 @@
+{
+  "name": "TieToken",
+  "ens_address": "",
+  "website": "https://tiesdb.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNMPKkHqQSs8RHzcSHNPEm27Zb7iNUXVX454LbHYeknC5",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/893141673244368896/IiWbUH2i.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0.png",
+    "ipfs_origin": "QmSi79bB45mpr6SoURFiVqtgDk4TnzJ4zV477DhTaq89uK"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://blog.ties.network/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tiesdb",
+    "forum": "",
+    "github": "http://github.com/tiesnetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/tiesnetwork/",
+    "slack": "",
+    "telegram": "https://t.me/tiesnetwork",
+    "twitter": "https://twitter.com/tiesnetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TieToken",
+      "address": "0x999967E2Ec8A74B7c8E9dB19E039d920B31d39D0",
+      "erc20": {
+        "symbol": "TIE",
+        "decimals": 18,
+        "name": "TieToken"
+      }
+    }
+  ]
+}

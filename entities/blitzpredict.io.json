@@ -1,0 +1,49 @@
+{
+  "name": "BlitzPredict",
+  "ens_address": "",
+  "website": "https://www.blitzpredict.io",
+  "logo": {
+    "src": "https://s3.amazonaws.com/blitzpredict-public/MEW+Logo.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": "QmPefuDrpGd4szbm5bq3z8urj9PRkanv6Cq5Z29gn9jy8d",
+    "sources": {
+      "token-list": "https://s3.amazonaws.com/blitzpredict-public/MEW+Logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/935933856569376768/CdNjKqPa.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28dee01d53fed0edf5f6e310bf8ef9311513ae40.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://s3.amazonaws.com/blitzpredict-public/MEW+Logo.png",
+    "ipfs_origin": "QmUniqRsRnaH7LvAjCBufjSwHreiXBQtqNMtwefN43mnuQ"
+  },
+  "support": {
+    "email": "mew@blitzpredict.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@BlitzPredict1",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/blitzpredict",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BlitzPredict/",
+    "slack": "",
+    "telegram": "https://t.me/BlitzPredict",
+    "twitter": "https://twitter.com/@blitzpredict",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BlitzPredict",
+      "address": "0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40",
+      "erc20": {
+        "symbol": "XBP",
+        "decimals": 18,
+        "name": "BlitzPredict"
+      }
+    }
+  ]
+}

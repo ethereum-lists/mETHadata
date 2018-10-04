@@ -1,0 +1,48 @@
+{
+  "name": "Poker Chips",
+  "ens_address": "",
+  "website": "https://coinpoker.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf3db7560e820834658b590c96234c333cd3d5e5e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdETCz6J673NZnMDFdr6jSHnNVomtJuZ5gM9k8bcHovDL",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1004673403482238976/8d7YCQ9f.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf3db7560e820834658b590c96234c333cd3d5e5e.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf3db7560e820834658b590c96234c333cd3d5e5e.png",
+    "ipfs_origin": "QmQd4ykeSYidcYARJgCgBJFEns7f5DyFg365UqSj8zvzmo"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CoinPokerOfficial/",
+    "forum": "",
+    "github": "https://github.com/CoinPokerOfficial/ico-smartcontracts",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/coinpoker/",
+    "slack": "",
+    "telegram": "https://t.me/officialcoinpoker",
+    "twitter": "https://twitter.com/CoinPoker_OFF",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Poker Chips",
+      "address": "0xf3db7560E820834658B590C96234c333Cd3D5E5e",
+      "erc20": {
+        "symbol": "CHP",
+        "decimals": 18,
+        "name": "Poker Chips"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Simple Token 'OST'",
+  "ens_address": "",
+  "website": "https://simpletoken.org",
+  "logo": {
+    "src": "https://etherscan.io/token/images/ost_28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmPQUeT3cT4KgvGEfYQAx1vQVYh7oW2mPA38Fmhps5jWeh",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/ost_28.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ost.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1012712812244856832/sgVUwrHi.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1012712812244856832/sgVUwrHi.jpg",
+    "ipfs_origin": "QmPMJhd2Fp5YCVyjAzpEiix2NfFKKRG7Z1d5V6H4AnRCzF"
+  },
+  "support": {
+    "email": "support@ost.com",
+    "url": "https://help.ost.com"
+  },
+  "social": {
+    "blog": "https://medium.com/ostdotcom",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ost",
+    "forum": "https://bitcointalk.org/index.php?topic=2266379.0",
+    "github": "https://github.com/OpenSTFoundation",
+    "gitter": "https://gitter.im/OpenSTFoundation/SimpleToken",
+    "instagram": "https://www.instagram.com/ostdotcom/",
+    "linkedin": "https://www.linkedin.com/company/ostdotcom/",
+    "reddit": "https://www.reddit.com/r/OSTdotcom",
+    "slack": "",
+    "telegram": "https://www.t.me/ostdotcom",
+    "twitter": "https://twitter.com/OSTdotcom",
+    "youtube": "https://www.youtube.com/ostdotcom"
+  },
+  "eth": [
+    {
+      "name": "Simple Token 'OST'",
+      "address": "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
+      "erc20": {
+        "symbol": "OST",
+        "decimals": 18,
+        "name": "Simple Token 'OST'"
+      }
+    }
+  ]
+}

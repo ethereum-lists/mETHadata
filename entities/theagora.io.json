@@ -1,0 +1,47 @@
+{
+  "name": "Agora",
+  "ens_address": "",
+  "website": "https://theagora.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRcd57ECT67rtPaj9vyUsc7TQL62tv6Pg99bVTh6ymdpt",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/889100954431365120/ARq4klDC.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/889100954431365120/ARq4klDC.jpg",
+    "ipfs_origin": "QmfNtVsy1E9gopC8L6LcZ7qLVsCAATXvRwQHctjQUgzfEQ"
+  },
+  "support": {
+    "email": "contact@theagora.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TheAgoraICO/",
+    "forum": "",
+    "github": "https://github.com/AgoraMarket/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TheAgoraMarketplace/",
+    "slack": "https://join.slack.com/t/theagoramarketplace/shared_invite/MjIzNDcyOTYxODQyLTE1MDIxNjAzNzQtMjAyOThmZGZmYg",
+    "telegram": "",
+    "twitter": "https://twitter.com/TheAgoraICO",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Agora",
+      "address": "0x2F5e044ad4Adac34C8d8dF738Fac7743edA1409C",
+      "erc20": {
+        "symbol": "AGO",
+        "decimals": 18,
+        "name": "Agora"
+      }
+    }
+  ]
+}

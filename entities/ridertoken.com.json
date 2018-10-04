@@ -1,0 +1,46 @@
+{
+  "name": "RiderToken",
+  "ens_address": "",
+  "website": "http://ridertoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbCsFvVr4ARZmm2Jx8wxBYobbzKr28a2h2QY8ZZbUcq6s",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/947065336372740097/szieYHim.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/947065336372740097/szieYHim.jpg",
+    "ipfs_origin": "QmRoLQDze7P6Z1DzXYjvxyccY2nojoHoKXhQNQ2miWJ5sH"
+  },
+  "support": {
+    "email": "ridercoinofficial@gmail.com",
+    "url": "http://ridertoken.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Rider-Token-ICO-171436110107068",
+    "github": "https://github.com/Ridercoin2/RiderCoin/blob/master/README.md",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FFraxA_gh6l2-Ahev-AxHQ",
+    "twitter": "https://twitter.com/RiderTokenICO",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "RiderToken",
+      "address": "0x54b293226000ccBFC04DF902eEC567CB4C35a903",
+      "erc20": {
+        "symbol": "RTN",
+        "decimals": 18,
+        "name": "RiderToken"
+      }
+    }
+  ]
+}

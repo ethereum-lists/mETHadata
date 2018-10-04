@@ -1,0 +1,49 @@
+{
+  "name": "EagleCoin",
+  "ens_address": "",
+  "website": "https://eaglepay.io",
+  "logo": {
+    "src": "https://pasteboard.co/GYomPdv.jpg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXX9LbzFQfvYCU9jTGa865GGCq6r98hsE27oSHLgQdfhm",
+    "sources": {
+      "token-list": "https://pasteboard.co/GYomPdv.jpg",
+      "twitter": "http://pbs.twimg.com/profile_images/1019179756560965632/0aczIsP_.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9.png",
+    "ipfs_origin": "QmVuCvfisgE5DmKWRhBkskgnQu1tr2TN98rdfzpYTkDPMa"
+  },
+  "support": {
+    "email": "team@eaglepay.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/EagleCoin",
+    "forum": "https://bitcointalk.org/index.php?topic=2384214.0",
+    "github": "https://github.com/elangindonesia/EagleCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/13453528",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/eaglecoinworld",
+    "twitter": "https://twitter.com/EaglecoinID",
+    "youtube": "https://www.youtube.com/channel/UCMj7jcOXML6pqsWWajLgKKQ"
+  },
+  "eth": [
+    {
+      "name": "EagleCoin",
+      "address": "0x994f0DffdbaE0BbF09b652D6f11A493fd33F42B9",
+      "erc20": {
+        "symbol": "EAGLE",
+        "decimals": 18,
+        "name": "EagleCoin"
+      }
+    }
+  ]
+}

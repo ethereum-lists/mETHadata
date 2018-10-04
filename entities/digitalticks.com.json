@@ -1,0 +1,47 @@
+{
+  "name": "DigitalTicks",
+  "ens_address": "",
+  "website": "https://www.digitalticks.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x82fdedfb7635441aa5a92791d001fa7388da8025.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXT7L8hHrdu4S8MQyaXLyecRUQFJuCy6fnUDVPCp9JpCe",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x82fdedfb7635441aa5a92791d001fa7388da8025.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x82fdedfb7635441aa5a92791d001fa7388da8025.png",
+    "ipfs_origin": "QmdQpGDqUrVmVqNWySpgz7BP4XKruqQMRWRQ7AZksCVQCX"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DigitalTicks",
+      "address": "0x82fdedfB7635441aA5A92791D001fA7388da8025",
+      "erc20": {
+        "symbol": "DTx",
+        "decimals": 18,
+        "name": "DigitalTicks"
+      }
+    }
+  ]
+}

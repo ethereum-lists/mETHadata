@@ -1,0 +1,48 @@
+{
+  "name": "Ethbits",
+  "ens_address": "",
+  "website": "https://www.ethbits.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b9743f556d65e757c4c650b4555baf354cb8bd3.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmW2adynrEzhcywDCWKMUxSQAa3as32aM9WfC9hwfTfqUQ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/902956057277935616/nWIopmj1.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b9743f556d65e757c4c650b4555baf354cb8bd3.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b9743f556d65e757c4c650b4555baf354cb8bd3.png",
+    "ipfs_origin": "QmbNHDmvAQuss9iM6Wtx8wgi11RQeuMgybbdx4Eu6QnDeX"
+  },
+  "support": {
+    "email": "mr@ethbits.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.ethbits.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/EthBits",
+    "forum": "https://bitcointalk.org/index.php?topic=1852294.0",
+    "github": "https://github.com/EthBits",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/17999059/",
+    "reddit": "https://www.reddit.com/r/Ethbits/",
+    "slack": "",
+    "telegram": "https://t.me/EthBitsChatroom",
+    "twitter": "https://twitter.com/ethbits",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Ethbits",
+      "address": "0x1B9743f556D65e757c4c650B4555bAF354cB8bd3",
+      "erc20": {
+        "symbol": "ETBS",
+        "decimals": 12,
+        "name": "Ethbits"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Eidoo",
+  "ens_address": "",
+  "website": "https://eidoo.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xced4e93198734ddaff8492d525bd258d49eb388e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qma4dmKRztnqKzKNruV7qPShsRC3zA46egzZURA5FkgALT",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/edo.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/943844299577413632/HeU6eufq.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xced4e93198734ddaff8492d525bd258d49eb388e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xced4e93198734ddaff8492d525bd258d49eb388e.png",
+    "ipfs_origin": "QmRAa55YjFw6MiRvgQpxzNHBvRTCo97NeLkfuanNymgyWN"
+  },
+  "support": {
+    "email": "info@eidoo.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/eidoo",
+    "chat": "",
+    "facebook": "https://www.facebook.com/eidoocrypto",
+    "forum": "https://bitcointalk.org/index.php?topic=2243926.0",
+    "github": "https://github.com/eidoo",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/11232699/",
+    "reddit": "https://www.reddit.com/r/eidoo/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/AAAAAERSsZk99wFzx2v_Kw",
+    "twitter": "https://twitter.com/eidoo_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Eidoo",
+      "address": "0xCeD4E93198734dDaFf8492d525Bd258D49eb388E",
+      "erc20": {
+        "symbol": "EDO",
+        "decimals": 18,
+        "name": "Eidoo"
+      }
+    }
+  ]
+}

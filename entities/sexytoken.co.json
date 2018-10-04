@@ -1,0 +1,46 @@
+{
+  "name": "Sexy Token",
+  "ens_address": "",
+  "website": "http://sexytoken.co",
+  "logo": {
+    "src": "https://etherscan.io/token/images/sexytoken28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/sexytoken28.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://etherscan.io/token/images/sexytoken28.png"
+  },
+  "support": {
+    "email": "support@sexytoken.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Sexy Token",
+      "address": "0x98F5e9b7F0e33956C0443E81bF7deB8B5b1ed545",
+      "erc20": {
+        "symbol": "SEXY",
+        "decimals": 18,
+        "name": "Sexy Token"
+      }
+    }
+  ]
+}

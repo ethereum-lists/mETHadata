@@ -1,0 +1,48 @@
+{
+  "name": "NeuroToken",
+  "ens_address": "",
+  "website": "https://neuromation.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x69beab403438253f13b6e92db91f7fb849258263.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaqYAmud3KVMgHt3apNM8v1xVowi4Y8y1ZHV1kDEnfYjw",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1017405045925539840/UM_z5ONn.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x69beab403438253f13b6e92db91f7fb849258263.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x69beab403438253f13b6e92db91f7fb849258263.png",
+    "ipfs_origin": "QmXnr7WxNZjvTc89C6BeXoMfFgHWGYN5X6yLN7HbZrKoRp"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://neuromation.io/en/news/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/neuromation/",
+    "forum": "",
+    "github": "https://github.com/neuromation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Neuromation/",
+    "slack": "",
+    "telegram": "https://t.me/Neuromation",
+    "twitter": "https://twitter.com/neuromation_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NeuroToken",
+      "address": "0x69BEaB403438253f13b6e92Db91F7FB849258263",
+      "erc20": {
+        "symbol": "NTK",
+        "decimals": 18,
+        "name": "NeuroToken"
+      }
+    }
+  ]
+}

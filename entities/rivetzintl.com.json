@@ -1,0 +1,49 @@
+{
+  "name": "Rivetz",
+  "ens_address": "",
+  "website": "https://rivetzintl.com",
+  "logo": {
+    "src": "https://rivetz.com/img/logo/color-250px.png",
+    "width": 250,
+    "height": 250,
+    "ipfs_hash": "QmPaW7pwKfHNxkqjodosHqE9MQvJJf1ePSGcg17q8iN7Dt",
+    "sources": {
+      "token-list": "https://rivetz.com/img/logo/color-250px.png",
+      "twitter": "http://pbs.twimg.com/profile_images/923632615609028608/E7mw-sB-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244.png",
+    "ipfs_origin": "QmZtswaGVC2S7bxhRXPrWX61eLzCvTxb1BqMvfyGYHUkrJ"
+  },
+  "support": {
+    "email": "sales@rivetzintl.com",
+    "url": "https://rivetzintl.com"
+  },
+  "social": {
+    "blog": "https://blog.rivetz.com/",
+    "chat": "https://discord.gg/VNrDBUV",
+    "facebook": "https://www.facebook.com/Rivetz-1409224065995167",
+    "github": "https://github.com/rivetz",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/rivetz/",
+    "reddit": "https://www.reddit.com/r/Rivetz/",
+    "slack": "",
+    "telegram": "https://t.me/rivet_group",
+    "twitter": "https://twitter.com/rivetzcorp",
+    "youtube": "https://www.youtube.com/watch?v=GbC65mIMjnw",
+    "forum": "https://bitcointalk.org/index.php?topic=1989333.0"
+  },
+  "eth": [
+    {
+      "name": "Rivetz",
+      "address": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244",
+      "erc20": {
+        "symbol": "RVT",
+        "decimals": 18,
+        "name": "Rivetz"
+      }
+    }
+  ]
+}

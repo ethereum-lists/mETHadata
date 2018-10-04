@@ -1,0 +1,48 @@
+{
+  "name": "GazeCoin",
+  "ens_address": "",
+  "website": "https://gazecoin.io",
+  "logo": {
+    "src": "https://media.gazecoin.io/static/icons/gazecoin-28x28-on-trans.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmQ36y7qk1eAEmvyiQ4LmGjJzjjHWsZf1dg7RC9dTkoAYN",
+    "sources": {
+      "token-list": "https://media.gazecoin.io/static/icons/gazecoin-28x28-on-trans.png",
+      "twitter": "http://pbs.twimg.com/profile_images/920235057981337600/V2qOZd2b.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/920235057981337600/V2qOZd2b.jpg",
+    "ipfs_origin": "Qmf8Dwe18MHoK9ipnLkXuPMyjB3fQdCRJj2UzSZmb9K9QX"
+  },
+  "support": {
+    "email": "support@gazecoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/gazecoin",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/GazeCoinPublic",
+    "twitter": "https://twitter.com/GazeCoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GazeCoin",
+      "address": "0x8C65e992297d5f092A756dEf24F4781a280198Ff",
+      "erc20": {
+        "symbol": "GZE",
+        "decimals": 18,
+        "name": "GazeCoin"
+      }
+    }
+  ]
+}

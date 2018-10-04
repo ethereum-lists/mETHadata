@@ -1,0 +1,44 @@
+{
+  "name": "ethereum launcher",
+  "ens_address": "",
+  "website": "http://launchertoken.xyz/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/992532970983579649/9-MhqVrv.jpg"
+    }
+  },
+  "support": {
+    "email": "launcher@laposte.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/teamslauncher/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Gv5FZA-Xip_EguDCzPxAVA",
+    "twitter": "https://twitter.com/elauncherdev",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ethereum launcher",
+      "address": "0x9C1d13D5a8fd4a8ac89917d31D40Db454D1ee60b",
+      "erc20": {
+        "symbol": "elunch",
+        "decimals": 18,
+        "name": "ethereum launcher"
+      }
+    }
+  ]
+}

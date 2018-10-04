@@ -1,0 +1,48 @@
+{
+  "name": "Zeusshield",
+  "ens_address": "",
+  "website": "https://zsc.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmStRn5p6eqNYb43pcmjpK7NFFNY3tx79uLkKrKxpNMStr",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/912884649541623809/-MnOq83v.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63.png",
+    "ipfs_origin": "QmYtN1nDi1Hvs28gjJQzksHLbAUD5uzxUcH6FoytZcrUzE"
+  },
+  "support": {
+    "email": "info@zsc.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://zsc.io/news_E.html",
+    "chat": "",
+    "facebook": "https://www.facebook.com/shield.zeus",
+    "forum": "https://bitcointalk.org/index.php?topic=2190126.0",
+    "github": "https://github.com/zeus-shield/zsc",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/zeusshield/",
+    "slack": "https://zeusshield.slack.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/zeusshield",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Zeusshield",
+      "address": "0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63",
+      "erc20": {
+        "symbol": "ZCS",
+        "decimals": 18,
+        "name": "Zeusshield"
+      }
+    }
+  ]
+}

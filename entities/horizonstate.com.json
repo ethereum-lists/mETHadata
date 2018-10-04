@@ -1,0 +1,48 @@
+{
+  "name": "HST",
+  "ens_address": "",
+  "website": "https://horizonstate.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x554c20b7c486beee439277b4540a434566dc4c02.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRh9Rxpf4zetwZBxgUkTLNydajQ7U56cSTHM9Sr863JLa",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1009702013527945216/Wm7Spytg.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x554c20b7c486beee439277b4540a434566dc4c02.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x554c20b7c486beee439277b4540a434566dc4c02.png",
+    "ipfs_origin": "QmSPKijaXZ5imnR9DjMDMRu3QkDjCq8TvdQv4XPKpXrwdd"
+  },
+  "support": {
+    "email": "questions@horizonstate.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/horizonstate",
+    "chat": "",
+    "facebook": "https://www.facebook.com/HorizonState/",
+    "forum": "",
+    "github": "https://github.com/HorizonState/token-sale",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/HorizonState",
+    "slack": "",
+    "telegram": "https://t.me/horizonstate",
+    "twitter": "https://twitter.com/horizonstate",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "HST",
+      "address": "0x554C20B7c486beeE439277b4540A434566dC4C02",
+      "erc20": {
+        "symbol": "HST",
+        "decimals": 18,
+        "name": "HST"
+      }
+    }
+  ]
+}

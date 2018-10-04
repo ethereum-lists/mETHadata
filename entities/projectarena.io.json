@@ -1,0 +1,47 @@
+{
+  "name": "Arena",
+  "ens_address": "",
+  "website": "https://projectarena.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmb1NbETmygSvQqDnMx6MX58fSLFztVgLPk5d6RyP6qq6n",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/889038473411403778/YLp-lhfD.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/889038473411403778/YLp-lhfD.jpg",
+    "ipfs_origin": "QmVscgwJYpzagqPJx6CUpZC5gCtMLdRUa6Gd5pXhRehExZ"
+  },
+  "support": {
+    "email": "contact@projectarena.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://join.slack.com/t/arena-global/shared_invite/MjE1NjQxNDg5NTM2LTE1MDA3MTU3MDItYmU5YThjNzA3Mw",
+    "telegram": "",
+    "twitter": "https://twitter.com/ArenaPlatform",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Arena",
+      "address": "0xf9C9DA0C81fffd491458881410903561d1e40fD0",
+      "erc20": {
+        "symbol": "ARENA",
+        "decimals": 18,
+        "name": "Arena"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "eNeo",
+  "ens_address": "",
+  "website": "http://eneo.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eNeo",
+      "address": "0xB915ff79170D606935BceAF000d77cA4Ed92d993",
+      "erc20": {
+        "symbol": "ENEO",
+        "decimals": 18,
+        "name": "eNeo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "SpankChain",
+  "ens_address": "spankchain.eth",
+  "website": "https://spankchain.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x42d6622dece394b54999fbd73d108123806f6a18.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPp9cbvuAxEi29w4xKP8TLGPZgQzLpzrYNen3qSDbCvPh",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/spank.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/998583437471629312/oxbmFWzq.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x42d6622dece394b54999fbd73d108123806f6a18.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x42d6622dece394b54999fbd73d108123806f6a18.png",
+    "ipfs_origin": "QmYtnVUuZvu5h6h68gM5fMRcVnBdaKmfZWzEW9hpmMeWBi"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/spankchain",
+    "chat": "",
+    "facebook": "https://web.facebook.com/spankchain/",
+    "forum": "",
+    "github": "https://github.com/spankchain",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/_spankchain",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SpankChain",
+    "discord": "https://discord.gg/WEsDaWZ",
+    "telegram": "https://t.me/spankchain",
+    "twitter": "https://twitter.com/SpankChain",
+    "youtube": "https://www.youtube.com/channel/UCRonD1SJuucnq9GJCJL_crQ"
+  },
+  "eth": [
+    {
+      "name": "SpankChain",
+      "address": "0x42d6622deCe394b54999Fbd73D108123806f6a18",
+      "erc20": {
+        "symbol": "SPANK",
+        "decimals": 18,
+        "name": "SpankChain"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Air phase 1",
+  "ens_address": "",
+  "website": "http://aira.life/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQvYXdR2beV9AyMrqZ7sYa2BDir8dk8ZwVLQarDNf3JZD",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/976733737235906560/4ObwETQb.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/976733737235906560/4ObwETQb.jpg",
+    "ipfs_origin": "QmbLoRAzSCLBWP7vkAoPfZwE2UUFf4RbLSZ5W6AwCZ8G48"
+  },
+  "support": {
+    "email": "ar@aira.life",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/airalab",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/aira_robonomics/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/DE0JAAxEzDvyUWwS2jcjYA",
+    "twitter": "https://twitter.com/AIRA_Robonomics",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Air phase 1",
+      "address": "0xA2f4FCb0FDe2dD59f7a1873e121bc5623e3164Eb",
+      "erc20": {
+        "symbol": "AIR",
+        "decimals": 0,
+        "name": "Air phase 1"
+      }
+    }
+  ]
+}

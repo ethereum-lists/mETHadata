@@ -1,0 +1,49 @@
+{
+  "name": "BCPT",
+  "ens_address": "",
+  "website": "https://blockmason.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1c4481750daa5ff521a2a7490d9981ed46465dbd.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbWxeMEKJreLUyidQrAdwNLyM32nxdR9KJytkTxLM493J",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/bcpt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/966456050869182465/1aN6Luy_.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1c4481750daa5ff521a2a7490d9981ed46465dbd.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/966456050869182465/1aN6Luy_.jpg",
+    "ipfs_origin": "Qmaadk9fPRMsE7WecsjNNBDCbaKABuNUBe6JRs3sFDrDb4"
+  },
+  "support": {
+    "email": "support@blockmason.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@blockmason",
+    "chat": "",
+    "facebook": "https://www.facebook.com/blockmasonio",
+    "forum": "https://bitcointalk.org/index.php?topic=2129993.0",
+    "github": "https://github.com/blockmason",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/blockmason",
+    "slack": "",
+    "telegram": "https://t.me/blockmason",
+    "twitter": "https://twitter.com/blockmasonio",
+    "youtube": "https://www.youtube.com/channel/UCqv0UBWjgjM5JZkxdQR7DYw"
+  },
+  "eth": [
+    {
+      "name": "BCPT",
+      "address": "0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd",
+      "erc20": {
+        "symbol": "BCPT",
+        "decimals": 18,
+        "name": "BCPT"
+      }
+    }
+  ]
+}

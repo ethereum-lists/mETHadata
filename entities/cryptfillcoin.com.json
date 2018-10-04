@@ -1,0 +1,48 @@
+{
+  "name": "CryptFillCoin",
+  "ens_address": "",
+  "website": "https://cryptfillcoin.com",
+  "logo": {
+    "src": "https://cryptfillcoin.com/images/resources/logo.png",
+    "width": "60",
+    "height": "60",
+    "ipfs_hash": "QmdKyuFuBLbRCc8edPL2sDF3qAAhkDzbd7mE8sQ3hf9fNh",
+    "sources": {
+      "token-list": "https://cryptfillcoin.com/images/resources/logo.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5dff89a2caa4d76bc286f74d67bd718eb834da61.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://cryptfillcoin.com/images/resources/logo.png",
+    "ipfs_origin": "QmZEvrKajMaiPXQkuzdD4bid1EAZsvU7kUUfiuJ2nV12VF"
+  },
+  "support": {
+    "email": "info@cryptfillcoin.com",
+    "url": "https://cryptfillcoin.com/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cryptfill/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CryptFillCoin",
+      "address": "0x5Dff89a2caa4D76bc286F74D67Bd718eb834da61",
+      "erc20": {
+        "symbol": "CFC",
+        "decimals": 18,
+        "name": "CryptFillCoin"
+      }
+    }
+  ]
+}

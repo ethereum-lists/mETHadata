@@ -1,0 +1,48 @@
+{
+  "name": "AIgatha Token",
+  "ens_address": "",
+  "website": "https://aigatha.com",
+  "logo": {
+    "src": "https://aigatha.com/img/AIgatha_Logo.png",
+    "width": "300",
+    "height": "300",
+    "ipfs_hash": "QmWgxPv7jj5jT7BVz4Hv6Lo44g94K1HTVYhp9EHgwVqoB5",
+    "sources": {
+      "token-list": "https://aigatha.com/img/AIgatha_Logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/980042821729046529/XQkl4YUi.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/980042821729046529/XQkl4YUi.jpg",
+    "ipfs_origin": "QmUCEfGk8kKzLnj3JHfBT4onPgS7HiXpxqP9uii2YkQqFu"
+  },
+  "support": {
+    "email": "support@aigatha.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AIgatha-149935052349262",
+    "forum": "",
+    "github": "https://github.com/AIgatha",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/aigatha/",
+    "reddit": "https://www.reddit.com/r/AIgatha/",
+    "slack": "https://aigatha.slack.com/messages",
+    "telegram": "https://t.me/aigatha",
+    "twitter": "https://twitter.com/a_igatha",
+    "youtube": "https://www.youtube.com/channel/UCn6fx0FNK6M3og8Ew773pRw"
+  },
+  "eth": [
+    {
+      "name": "AIgatha Token",
+      "address": "0x1543d0F83489e82A1344DF6827B23d541F235A50",
+      "erc20": {
+        "symbol": "ATH (AIgatha Token)",
+        "decimals": 18,
+        "name": "AIgatha Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "STORJ",
+  "ens_address": "",
+  "website": "https://storj.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWG1VfvWBqFzu24uZnEhb5knSfP1cBhqLovcu9aeWbCdY",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/storj.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/835199495013019648/cNeEcEDW.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/835199495013019648/cNeEcEDW.jpg",
+    "ipfs_origin": "QmSn5Bgxc1riXYK4UyqxMoFoTG7de1mqx4DgNCLXr4hr6Y"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@storjproject",
+    "chat": "",
+    "facebook": "https://www.facebook.com/storjproject",
+    "forum": "https://bitcointalk.org/index.php?topic=555159.0",
+    "github": "https://github.com/Storj",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/storj/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/storjproject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "STORJ",
+      "address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
+      "erc20": {
+        "symbol": "STORJ",
+        "decimals": 8,
+        "name": "STORJ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "LGO",
+  "ens_address": "",
+  "website": "https://legolas.exchange/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x123ab195dd38b1b40510d467a6a359b201af056f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmce4xrmqwwvWXpPq4M3NSkt67qzo6Dgk4z1pqihXpA3ms",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/986885883466010626/vSmwL1rt.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x123ab195dd38b1b40510d467a6a359b201af056f.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/986885883466010626/vSmwL1rt.jpg",
+    "ipfs_origin": "QmbhuweZCYoPFkTXj9GhuNsZWBeJ2mz7ZGH5Rn9neHejyU"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/legolas-exchange",
+    "chat": "",
+    "facebook": "https://www.facebook.com/LGO.Group/",
+    "forum": "https://bitcointalk.org/index.php?topic=2383397.0",
+    "github": "https://github.com/LegolasExchange/LegolasToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/LegolasExchange/",
+    "slack": "",
+    "telegram": "https://t.me/legolasannouncements",
+    "twitter": "https://twitter.com/LGOGroup_",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "LGO",
+      "address": "0x123aB195DD38B1b40510d467a6a359b201af056f",
+      "erc20": {
+        "symbol": "LGO",
+        "decimals": 8,
+        "name": "LGO"
+      }
+    }
+  ]
+}

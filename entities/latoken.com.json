@@ -1,0 +1,49 @@
+{
+  "name": "LATOKEN",
+  "ens_address": "",
+  "website": "https://latoken.com/",
+  "logo": {
+    "src": "https://cdn.latoken.com/common/img/logo.svg",
+    "width": 512,
+    "height": 512,
+    "ipfs_hash": "QmUP5xYpeh7P3Y6j8xbkUrtT3ejjW3pptqSfonPDLcEwzf",
+    "sources": {
+      "token-list": "https://cdn.latoken.com/common/img/logo.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/959761921632362497/POer69mo.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/959761921632362497/POer69mo.jpg",
+    "ipfs_origin": "QmWciPDcBQX5ESkkoL6qgJV6LZU83oSDbNSA3QpfyM5H43"
+  },
+  "support": {
+    "email": "info@latoken.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.latoken.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/LiquidAssetToken/",
+    "forum": "https://bitcointalk.org/index.php?topic=2083486.0",
+    "github": "https://github.com/latoken",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/latokens/",
+    "linkedin": "https://www.linkedin.com/company/latoken",
+    "reddit": "https://www.reddit.com/r/LAToken/",
+    "slack": "",
+    "telegram": "https://t.me/la_token",
+    "twitter": "https://twitter.com/LATokens",
+    "youtube": "https://www.youtube.com/channel/UCvTfsRYJYD2X26VXbqDVgTQ/featured"
+  },
+  "eth": [
+    {
+      "name": "LATOKEN",
+      "address": "0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf",
+      "erc20": {
+        "symbol": "LA",
+        "decimals": 18,
+        "name": "LATOKEN"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "CryptoCarbon",
+  "ens_address": "",
+  "website": "https://ccrb.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CryptoCarbon",
+      "address": "0xE4c94d45f7Aef7018a5D66f44aF780ec6023378e",
+      "erc20": {
+        "symbol": "CryptoCarbon",
+        "decimals": 6,
+        "name": "CryptoCarbon"
+      }
+    }
+  ]
+}

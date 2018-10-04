@@ -1,0 +1,58 @@
+{
+  "type": "ERC20",
+  "name": "FANX Token",
+  "ens_address": "",
+  "website": "http://www.fanx.one/",
+  "logo": {
+    "src": "http://www.fanx.one/static/img/logo.png",
+    "width": "132",
+    "height": "132",
+    "ipfs_hash": "QmdY9LbvDSob56uHqTyJogoXHcuPrcr1D3XwyaRhdZ7uq1",
+    "sources": {
+      "token-list": "http://www.fanx.one/static/img/logo.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7dcb3b2356c822d3577d4d060d0d5d78c860488c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7dcb3b2356c822d3577d4d060d0d5d78c860488c.png",
+    "ipfs_origin": "QmWHb26sJxB6nJpAvShNnaWuw1th1Uvep8zD4wgeNpgbvJ"
+  },
+  "support": {
+    "email": "contact@fanx.one",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "FANX Token",
+      "address": "0x7dCB3B2356C822d3577D4d060D0D5D78C860488C",
+      "erc20": {
+        "symbol": "FANX",
+        "decimals": 18,
+        "name": "FANX Token"
+      }
+    },
+    {
+      "name": "FANX Token",
+      "address": "0x7f6715c3FC4740A02F70De85B9FD50ac6001fEd9",
+      "erc20": {
+        "symbol": "FANX",
+        "decimals": 18,
+        "name": "FANX Token"
+      }
+    }
+  ]
+}

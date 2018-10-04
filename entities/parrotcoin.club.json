@@ -1,0 +1,49 @@
+{
+  "name": "ParrotCoin",
+  "ens_address": "",
+  "website": "http://parrotcoin.club",
+  "logo": {
+    "src": "http://parrotcoin.club/favicon.ico",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNUVJL9YVSthaXUycyL2ArvfpcsinLbxAzXtnkZ7rJBnM",
+    "sources": {
+      "token-list": "http://parrotcoin.club/favicon.ico",
+      "twitter": "http://pbs.twimg.com/profile_images/999414865654525953/fYDpIQwf.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2a8e98e256f32259b5e5cb55dd63c8e891950666.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/999414865654525953/fYDpIQwf.jpg",
+    "ipfs_origin": "Qmbux2sT8sYKdWn4FmVbGjhmRdEXj5msd5vEcjwKW7bZCT"
+  },
+  "support": {
+    "email": "info@parrotcoin.club",
+    "url": "http://parrotcoin.club/contact.html"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/810188769172490/",
+    "forum": "",
+    "github": "https://github.com/ParrotCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/ParrotCoin",
+    "youtube": "https://www.youtube.com/channel/UC_opgFSvRVsumZdCH7p_Rrw"
+  },
+  "eth": [
+    {
+      "name": "ParrotCoin",
+      "address": "0x2a8E98e256f32259b5E5Cb55Dd63C8e891950666",
+      "erc20": {
+        "symbol": "PTC",
+        "decimals": 18,
+        "name": "ParrotCoin"
+      }
+    }
+  ]
+}

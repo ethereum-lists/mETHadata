@@ -1,0 +1,47 @@
+{
+  "name": "DAO",
+  "ens_address": "",
+  "website": "https://blog.daohub.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbb9bc244d798123fde783fcc1c72d3bb8c189413.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmdf4DEZdBJuDPw7KKSmpsXM8veZETKydS1ofjz8DHWG5m",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbb9bc244d798123fde783fcc1c72d3bb8c189413.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbb9bc244d798123fde783fcc1c72d3bb8c189413.png",
+    "ipfs_origin": "QmeVFvWSFSQhjgv2fsjSySjP6FRBktFpEnAJq4u3UrRwDS"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DAO",
+      "address": "0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413",
+      "erc20": {
+        "symbol": "DAO",
+        "decimals": 16,
+        "name": "DAO"
+      }
+    }
+  ]
+}

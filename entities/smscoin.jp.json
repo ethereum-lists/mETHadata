@@ -1,0 +1,48 @@
+{
+  "name": "Speed Mining Service",
+  "ens_address": "",
+  "website": "https://smscoin.jp/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x39013f961c378f02c2b82a6e1d31e9812786fd9d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaYu41jxYkkiFoxvGVFnkaqCGucjThaS6iFWPU62Jey8r",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/913647411817365505/dCB9ZTiK.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x39013f961c378f02c2b82a6e1d31e9812786fd9d.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/913647411817365505/dCB9ZTiK.jpg",
+    "ipfs_origin": "QmdJ4cRcULY12gp9SNwf5KCvq7cwokTChteMxQHRd3cX7C"
+  },
+  "support": {
+    "email": "support@smscoin.jp",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Speed-MiningCoLtd-802432413251366/",
+    "forum": "",
+    "github": "https://github.com/Speed-Mining/SMSCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/Speed_Mining",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Speed Mining Service",
+      "address": "0x39013F961c378f02C2b82A6E1d31E9812786FD9D",
+      "erc20": {
+        "symbol": "SMS",
+        "decimals": 3,
+        "name": "Speed Mining Service"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "BitDice",
+  "ens_address": "",
+  "website": "https://www.bitdice.me/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x29d75277ac7f0335b2165d0895e8725cbf658d73.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmbpz2X748x5TQSjjBdsx79G6BhzWW2tgZ4S5PAn3WGUDK",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/884472844217921536/LdlPnm6p.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x29d75277ac7f0335b2165d0895e8725cbf658d73.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x29d75277ac7f0335b2165d0895e8725cbf658d73.png",
+    "ipfs_origin": "QmUpyxboU8hrGQgdirZgyCW4hnFbgWuVvzkZUb4H2Xnt4G"
+  },
+  "support": {
+    "email": "contact@bitdice.me",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BitDiceCasino/",
+    "slack": "http://slack.bitdice.me/",
+    "telegram": "https://t.me/bitdice_casino",
+    "twitter": "https://twitter.com/BitDice",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BitDice",
+      "address": "0x29D75277aC7F0335b2165D0895E8725cbF658d73",
+      "erc20": {
+        "symbol": "CSNO",
+        "decimals": 8,
+        "name": "BitDice"
+      }
+    }
+  ]
+}

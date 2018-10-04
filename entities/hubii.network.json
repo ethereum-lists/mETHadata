@@ -1,0 +1,48 @@
+{
+  "name": "Hubiits",
+  "ens_address": "",
+  "website": "https://www.hubii.network/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6c68bb32462e01705011a4e2ad1a60740f217f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTX5Dujo2M3VnAsQncvRcWQFcYMwzPLT4JMquKzJRcjzc",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/983423700048347136/aoQrwvJy.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6c68bb32462e01705011a4e2ad1a60740f217f.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd6c68bb32462e01705011a4e2ad1a60740f217f.png",
+    "ipfs_origin": "QmfM5uAk7fP3aTJntwkf3MqauYcYKXBiENRFYRXhZCfXji"
+  },
+  "support": {
+    "email": "info@hubii.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/hubiinews/",
+    "forum": "https://discord.gg/Nt35Qzt",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/hubiinetwork/",
+    "slack": "",
+    "telegram": "https://t.me/hubiinetwork",
+    "twitter": "https://twitter.com/hubiinetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Hubiits",
+      "address": "0xDd6C68bb32462e01705011a4e2Ad1a60740f217F",
+      "erc20": {
+        "symbol": "HBT",
+        "decimals": 15,
+        "name": "Hubiits"
+      }
+    }
+  ]
+}

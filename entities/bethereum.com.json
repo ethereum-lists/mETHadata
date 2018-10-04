@@ -1,0 +1,57 @@
+{
+  "name": "Bethereum",
+  "ens_address": "",
+  "website": "https://www.bethereum.com/",
+  "logo": {
+    "src": "https://image.ibb.co/jPRLCx/icon_default_1.png",
+    "width": 250,
+    "height": 250,
+    "ipfs_hash": "QmNxR79VAoEqH4eisHaJz1rkz1PEXYYBfhK2hxT3cUuHrA",
+    "sources": {
+      "token-list": "https://image.ibb.co/jPRLCx/icon_default_1.png",
+      "twitter": "http://pbs.twimg.com/profile_images/948665847932911617/X6rDGp6f.jpg"
+    },
+    "sourceBest": "src",
+    "origin": "https://image.ibb.co/jPRLCx/icon_default_1.png",
+    "ipfs_origin": "QmTw5FfHBm8sXF8cU8M7EhcX2Ni9Fk73cSo8uasKHp8ssE"
+  },
+  "support": {
+    "email": "team@bethereum.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/bethereum",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bethereumproject/",
+    "forum": "https://bitcointalk.org/index.php?topic=2898723.0",
+    "github": "https://github.com/bethereumproject",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/bethereum/",
+    "linkedin": "https://www.linkedin.com/company/bethereum/",
+    "reddit": "https://www.reddit.com/r/bethereum",
+    "slack": "",
+    "telegram": "https://t.me/bethereum",
+    "twitter": "https://twitter.com/bethereumteam",
+    "youtube": "https://www.youtube.com/channel/UCECoUw0v3gsAFULCVD7YSmA"
+  },
+  "eth": [
+    {
+      "name": "Bethereum",
+      "address": "0xa02e3bB9cEbc03952601B3724B4940e0845BeBcf",
+      "erc20": {
+        "symbol": "BTHR",
+        "decimals": 18,
+        "name": "Bethereum"
+      }
+    },
+    {
+      "name": "Bethereum",
+      "address": "0x14C926F2290044B647e1Bf2072e67B495eff1905",
+      "erc20": {
+        "symbol": "BETHER",
+        "decimals": 18,
+        "name": "Bethereum"
+      }
+    }
+  ]
+}

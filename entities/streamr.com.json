@@ -1,0 +1,46 @@
+{
+  "name": "DATACoin",
+  "ens_address": "",
+  "website": "https://www.streamr.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0cf0ee63788a0849fe5297f3407f701e122cc023.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVvTjVpJXeekX2itytCR5gcMe24jHEKk8kTgLE8JRN5a1",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/978912510844731392/hlzjCgmF.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0cf0ee63788a0849fe5297f3407f701e122cc023.png"
+    },
+    "ipfs_origin": "QmX3hDiE9kjkE3m7MjfZKWwhVVm6VYSfgsQ9yCR5q36pWW"
+  },
+  "support": {
+    "email": "contact@streamr.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.streamr.com",
+    "chat": "",
+    "facebook": "https://web.facebook.com/streamrdata/?_rdc=1&_rdr",
+    "forum": "https://bitcointalk.org/index.php?topic=325735.0;all",
+    "github": "https://github.com/streamr-dev",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/streamr/",
+    "slack": "https://slack.streamr.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/streamrinc",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DATACoin",
+      "address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
+      "erc20": {
+        "symbol": "DATACoin",
+        "decimals": 18,
+        "name": "DATACoin"
+      }
+    }
+  ]
+}

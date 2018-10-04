@@ -1,0 +1,48 @@
+{
+  "name": "TrueFlip",
+  "ens_address": "",
+  "website": "https://trueflip.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa7f976c360ebbed4465c2855684d1aae5271efa9.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVrmT2SdLWNx8LWjXAQF5bLLMgcdJ1WLoPo6YmCv1JUvQ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/920254820589735936/0QhZNMch.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa7f976c360ebbed4465c2855684d1aae5271efa9.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/920254820589735936/0QhZNMch.jpg",
+    "ipfs_origin": "QmQST7rqxGK6T7njSXwCVZy9HXuJG69gTiAcNEhPDrXqwC"
+  },
+  "support": {
+    "email": "info@trueflip.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@trueflip",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TrueFlip.io/",
+    "forum": "https://bitcointalk.org/index.php?topic=1928663.60",
+    "github": "https://github.com/TrueFlip",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/trueflip-blockchain-fair-games/",
+    "reddit": "https://www.reddit.com/r/trueflip/",
+    "slack": "",
+    "telegram": "https://t.me/truefliplotto",
+    "twitter": "https://twitter.com/TrueFlipLoto",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TrueFlip",
+      "address": "0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9",
+      "erc20": {
+        "symbol": "TFL",
+        "decimals": 8,
+        "name": "TrueFlip"
+      }
+    }
+  ]
+}

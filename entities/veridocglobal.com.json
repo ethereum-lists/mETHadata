@@ -1,0 +1,49 @@
+{
+  "name": "VeriDocGlobal",
+  "ens_address": "",
+  "website": "https://www.veridocglobal.com/",
+  "logo": {
+    "src": "https://veridocglobal.com/Themes/veridoc/Content/img/logo.png",
+    "width": "350",
+    "height": "145",
+    "ipfs_hash": "QmfTb46uD338EQdBfqQHAgeAvZxf5GukjShWmi5BhAMymJ",
+    "sources": {
+      "token-list": "https://veridocglobal.com/Themes/veridoc/Content/img/logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1003887842349600768/1IFZKPBz.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x57c75eccc8557136d32619a191fbcdc88560d711.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1003887842349600768/1IFZKPBz.jpg",
+    "ipfs_origin": "QmX9ES4zwWCuRhMtMXoBUe1DkVw6NpTjKrttuHjSxDUruX"
+  },
+  "support": {
+    "email": "admin@veridocglobal.com",
+    "url": "https://www.veridocglobal.com/contactus"
+  },
+  "social": {
+    "blog": "https://veridocglobal.com/news",
+    "chat": "",
+    "facebook": "https://www.facebook.com/VeriDocGlobal",
+    "forum": "",
+    "github": "https://github.com/VeriDocGlobal",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/VeriDocGlobal/",
+    "linkedin": "https://www.linkedin.com/company/veridocglobal",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/veridocglobal",
+    "twitter": "https://twitter.com/VeriDocGlobal",
+    "youtube": "https://www.youtube.com/channel/UCbl5uvM3vd-XRm-aDj2YZJw"
+  },
+  "eth": [
+    {
+      "name": "VeriDocGlobal",
+      "address": "0x57C75ECCc8557136D32619a191fBCDc88560d711",
+      "erc20": {
+        "symbol": "VDG",
+        "decimals": 0,
+        "name": "VeriDocGlobal"
+      }
+    }
+  ]
+}

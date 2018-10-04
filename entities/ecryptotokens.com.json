@@ -1,0 +1,47 @@
+{
+  "name": "ECRYPTO COIN",
+  "ens_address": "",
+  "website": "https://ecryptotokens.com",
+  "logo": {
+    "src": "https://ecryptotokens.com/images/resources/logo.png",
+    "width": "60",
+    "height": "60",
+    "ipfs_hash": "QmQDVHqL2paQEDeq1n4K3N6EPDqG37SaNjSLnky6c54st9",
+    "sources": {
+      "token-list": "https://ecryptotokens.com/images/resources/logo.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://ecryptotokens.com/images/resources/logo.png",
+    "ipfs_origin": "Qmeeb3G8yYM6HJKymdRJjibTP9yEvABWfahUBXjtp9ccDM"
+  },
+  "support": {
+    "email": "info@ecryptotokens.com",
+    "url": "https://ecryptotokens.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/166211327455335/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ECRYPTO COIN",
+      "address": "0xAEA1C18A992984831002D0cf90E291FB52d72649",
+      "erc20": {
+        "symbol": "ECP",
+        "decimals": 18,
+        "name": "ECRYPTO COIN"
+      }
+    }
+  ]
+}

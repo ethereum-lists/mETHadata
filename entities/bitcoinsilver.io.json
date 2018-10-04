@@ -1,0 +1,47 @@
+{
+  "name": "Bitcoin Silver",
+  "ens_address": "",
+  "website": "https://www.bitcoinsilver.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcgTdbaigAdDdWwWpYPHtx5puWmQf1dQ5PXorNdMycmJk",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/919013764287959040/03nj54Dw.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/919013764287959040/03nj54Dw.jpg",
+    "ipfs_origin": "QmSQHhBBLj8XyVaf6ZE4j7StfC7C9YjrdW4VfWrV34PDPG"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/bitcoinsilverbtcs",
+    "twitter": "https://twitter.com/BitcoinSilver1",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bitcoin Silver",
+      "address": "0xd96b9fd7586d9Ea24C950d24399be4fB65372FDD",
+      "erc20": {
+        "symbol": "BTCS",
+        "decimals": 18,
+        "name": "Bitcoin Silver"
+      }
+    }
+  ]
+}

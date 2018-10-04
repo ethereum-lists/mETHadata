@@ -1,0 +1,48 @@
+{
+  "name": "ShareX",
+  "ens_address": "",
+  "website": "https://sharex.vc/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2567c677473d110d75a8360c35309e63b1d52429.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSXkxJXTRk4R7bgFQnBBgHc4yJ6XbRdq3juPgZKbi224F",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/966980676544155648/epEc7Vp6.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2567c677473d110d75a8360c35309e63b1d52429.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2567c677473d110d75a8360c35309e63b1d52429.png",
+    "ipfs_origin": "QmYp1aytYp11Mkk8NPqMjcqhDJZGEio5aXTmGNRSENgURV"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/sharexfoundation/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/sharexfoundation",
+    "slack": "",
+    "telegram": "https://t.me/sharexgroup",
+    "twitter": "https://twitter.com/sharex_vc",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ShareX",
+      "address": "0x2567c677473d110D75a8360C35309e63B1d52429",
+      "erc20": {
+        "symbol": "SEXC",
+        "decimals": 8,
+        "name": "ShareX"
+      }
+    }
+  ]
+}

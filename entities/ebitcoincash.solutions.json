@@ -1,0 +1,42 @@
+{
+  "name": "eBitcoinCash",
+  "ens_address": "",
+  "website": "https://www.ebitcoincash.solutions",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eBitcoinCash",
+      "address": "0x84C2c31C04339c9938Adfe3F8013315c8906f071",
+      "erc20": {
+        "symbol": "eBCSH",
+        "decimals": 18,
+        "name": "eBitcoinCash"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "CryptoLiveLeak",
+  "ens_address": "",
+  "website": "https://www.cryptoliveleak.com/",
+  "logo": {
+    "src": "https://github.com/CryptoLiveLeak/CLL-Token/blob/master/28%20x%2028%20CLL%20png.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmTEj8EGpKJChs5C4Z5tVezuBXjm8H27T2uWPyB4Act2tw",
+    "sources": {
+      "token-list": "https://github.com/CryptoLiveLeak/CLL-Token/blob/master/28%20x%2028%20CLL%20png.png",
+      "twitter": "http://pbs.twimg.com/profile_images/913812150858272774/QxzYPhQ3.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/913812150858272774/QxzYPhQ3.jpg",
+    "ipfs_origin": "QmP6vY4DFjrJpQiAx5WG7T6FKa6bE8uif3Q6wDYZiNcJzm"
+  },
+  "support": {
+    "email": "contactus@cryptoliveleak.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@cryptoliveleak",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CryptoLiveLeak/",
+    "forum": "",
+    "github": "https://github.com/CryptoLiveLeak/CLL-Token",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/cryptoliveleak/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CryptoLiveLeak/",
+    "slack": "",
+    "telegram": "https://t.me/CryptoLiveLeak",
+    "twitter": "https://twitter.com/CryptoLiveLeak",
+    "youtube": "https://www.youtube.com/channel/UCeoB_bpoVOcwIh-MSLxzNpA"
+  },
+  "eth": [
+    {
+      "name": "CryptoLiveLeak",
+      "address": "0x3dC9a42fa7Afe57BE03c58fD7F4411b1E466C508",
+      "erc20": {
+        "symbol": "CLL",
+        "decimals": 18,
+        "name": "CryptoLiveLeak"
+      }
+    }
+  ]
+}

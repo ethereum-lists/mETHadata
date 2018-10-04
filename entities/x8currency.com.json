@@ -1,0 +1,48 @@
+{
+  "name": "X8X",
+  "ens_address": "",
+  "website": "https://x8currency.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbyJWFu7b4AWTHsp1hxrHa1wXJQdmZzde3A7CnfgLwz3f",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/869505312604266496/k8i93CL-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c.png",
+    "ipfs_origin": "QmTHFerYeDVwMRzCuKkWUt455tctjKx9DEFgnjbSFQ298Z"
+  },
+  "support": {
+    "email": "info@x8currency.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "http://x8currency.herokuapp.com",
+    "telegram": "https://t.me/joinchat/DLdRTA4n4K-w1Fsn6v3oCQ",
+    "twitter": "https://twitter.com/x8currency",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "X8X",
+      "address": "0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c",
+      "erc20": {
+        "symbol": "X8X",
+        "decimals": 18,
+        "name": "X8X"
+      }
+    }
+  ]
+}

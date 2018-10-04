@@ -1,0 +1,42 @@
+{
+  "name": "wellieat",
+  "ens_address": "",
+  "website": "http://wellieat.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "info@wellieat.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "wellieat",
+      "address": "0x76195ffD0CFedf68625b3e5B64c7Bd904eeb9d6C",
+      "erc20": {
+        "symbol": "WET",
+        "decimals": 18,
+        "name": "wellieat"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Bulleon",
+  "ens_address": "",
+  "website": "https://bulleon.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZe26m5Y3TH6FeWqB4rcBZWXh1eD66Ciqj25jFy4bFyiz",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/983048082689609730/7mpDR_n6.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/983048082689609730/7mpDR_n6.jpg",
+    "ipfs_origin": "QmWceVF3akMsraP6PAzio2mNqbfupX2mVWiYcm3oHfPRy9"
+  },
+  "support": {
+    "email": "info@bulleon.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/pg/bulleon.net/posts/?ref=page_internal",
+    "forum": "",
+    "github": "https://github.com/Bulleon/contract",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/bulleon_official",
+    "twitter": "https://twitter.com/Bulleon_net",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bulleon",
+      "address": "0x7b1309c1522AfD4E66C31e1E6d0ec1319E1eba5E",
+      "erc20": {
+        "symbol": "BLN",
+        "decimals": 18,
+        "name": "Bulleon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "The World News",
+  "ens_address": "",
+  "website": "https://ico.theworldnews.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVgNvbDMwCA9w9PtCsyAZicWaRt5BX5drHKLEPm7TRS3A",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/950102870975827968/QTkAbx0k.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/950102870975827968/QTkAbx0k.jpg",
+    "ipfs_origin": "QmRQfAwncPuCtuNBrPThuGXgK4pBMFAkJsW6Y1eKofsXwf"
+  },
+  "support": {
+    "email": "info@theworldnews.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/theworldnewstop",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/27158220",
+    "reddit": "https://www.reddit.com/user/the-world-news",
+    "slack": "",
+    "telegram": "https://t.me/theworldnewsdev",
+    "twitter": "https://twitter.com/TheWorldNewsNet",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "The World News",
+      "address": "0x2eF1aB8a26187C58BB8aAeB11B2fC6D25C5c0716",
+      "erc20": {
+        "symbol": "TWN",
+        "decimals": 18,
+        "name": "The World News"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Datalife",
+  "ens_address": "",
+  "website": "https://www.datalife.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPYoXcPvCGR2A2pSAJJK56nFHfW8RFwpH2ZsfPYUSW3Dg",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/892384989144338433/YY1-W0x6.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/892384989144338433/YY1-W0x6.jpg",
+    "ipfs_origin": "QmemDfbHyaRYevCXf5uoSi1AijzYFvf74qAEVykNxrSyoC"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/datalifetoken/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/datalifetoken",
+    "twitter": "https://twitter.com/datalifetoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Datalife",
+      "address": "0xedCd82784027001d7aF57A34501C65A25F97fEe4",
+      "erc20": {
+        "symbol": "DATL",
+        "decimals": 18,
+        "name": "Datalife"
+      }
+    }
+  ]
+}

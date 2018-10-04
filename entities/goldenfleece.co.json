@@ -1,0 +1,47 @@
+{
+  "name": "Golden Fleece",
+  "ens_address": "",
+  "website": "https://www.goldenfleece.co/en",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUmvcxUq2YTew6BfT2VnnsK5YifmvwSEcdoQwzpQSeWUv",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/888621491021123584/hyipnhoV.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/888621491021123584/hyipnhoV.jpg",
+    "ipfs_origin": "QmSiikCEjSsHhPk1acuAkSx2LCVNa4r5D7HpFDJiYC7Ndt"
+  },
+  "support": {
+    "email": "info@goldenfleece.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/GoldenFleeceToken/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18163595/",
+    "reddit": "https://www.reddit.com/r/GoldenFleece/",
+    "slack": "",
+    "telegram": "https://t.me/GoldenFleeceComm",
+    "twitter": "https://twitter.com/GoldenFleece_co",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Golden Fleece",
+      "address": "0x26607f9bf9d62A37b0c78e1D3719FCD1fa32beF9",
+      "erc20": {
+        "symbol": "GFL",
+        "decimals": 18,
+        "name": "Golden Fleece"
+      }
+    }
+  ]
+}

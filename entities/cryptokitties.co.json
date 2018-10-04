@@ -1,0 +1,48 @@
+{
+  "name": "CK",
+  "ens_address": "",
+  "website": "https://cryptokitties.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmV3usZTXuF2KA4qnqERb1v3A6x8ghkYZkdbMy1YXXptBr",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1014951518221418496/hiPb5AO1.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1014951518221418496/hiPb5AO1.jpg",
+    "ipfs_origin": "QmTAJcDJfY55RrtNUeWbS6obcG8ra1Pq58j8odqVXvA9wn"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CryptoKitties/",
+    "forum": "https://discordapp.com/invite/3GvT66U",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CryptoKitties",
+    "slack": "",
+    "discord": "https://discord.gg/3GvT66U",
+    "telegram": "",
+    "twitter": "https://twitter.com/cryptokitties",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CK",
+      "address": "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
+      "erc20": {
+        "symbol": "CK",
+        "decimals": 0,
+        "name": "CK"
+      }
+    }
+  ]
+}

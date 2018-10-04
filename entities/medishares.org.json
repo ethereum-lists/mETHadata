@@ -1,0 +1,49 @@
+{
+  "name": "MediShares ",
+  "ens_address": "",
+  "website": "http://www.medishares.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x66186008c1050627f979d464eabb258860563dbe.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXLFsqLDJor2kidv1tFeRcejVRFnHvM4kyi399TzGp3ee",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/mds.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/902422715025391616/ipnvhHKe.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x66186008c1050627f979d464eabb258860563dbe.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/mds.svg",
+    "ipfs_origin": "QmcfiDq8BLKxGs9BQ3Dir924NFvsSXpuEZohGzMLa5pgst"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://web.facebook.com/pg/MediShares-1971171169832807/about/?ref=page_internal",
+    "forum": "",
+    "github": "https://github.com/MediShares",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/medisharesEN",
+    "twitter": "https://twitter.com/MediShares",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MediShares ",
+      "address": "0x66186008C1050627F979d464eABb258860563dbE",
+      "erc20": {
+        "symbol": "MDS",
+        "decimals": 18,
+        "name": "MediShares "
+      }
+    }
+  ]
+}

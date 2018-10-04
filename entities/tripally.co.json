@@ -1,0 +1,47 @@
+{
+  "name": "TripAlly Token",
+  "ens_address": "",
+  "website": "https://tripally.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmbk2SSE6DN5GcWDLpYCAfRTqHc1goEVtUkMiEdUz6aZQ4",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/795197076996919296/aBKYhfaK.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/795197076996919296/aBKYhfaK.jpg",
+    "ipfs_origin": "QmPvhZ7GTAoAgKHQcGJHUGXH11PRLSkZEX615fYciqY8rX"
+  },
+  "support": {
+    "email": "info@tripally.world",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://www.facebook.com/TripAllyWorld",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/TripAlly/",
+    "slack": "",
+    "telegram": "https://t.me/tripally_en",
+    "twitter": "http://www.twitter.com/TripAllyWorld",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TripAlly Token",
+      "address": "0x31B5E97294e1afD6fff6ffe4cBa89A344555F753",
+      "erc20": {
+        "symbol": "ALLY",
+        "decimals": 18,
+        "name": "TripAlly Token"
+      }
+    }
+  ]
+}

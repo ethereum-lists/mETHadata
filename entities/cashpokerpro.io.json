@@ -1,0 +1,47 @@
+{
+  "name": "Cash Poker Pro",
+  "ens_address": "",
+  "website": "https://cashpokerpro.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZGbH69DpfK6byFYoj8MwPe8gTPsk3DUDeWnjTpE6QVLQ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/893130758142926849/MW9QC85N.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/893130758142926849/MW9QC85N.jpg",
+    "ipfs_origin": "QmeYwXHDiiyx1XNj5nhD3Utge7cgF9JVZDacmBbEa6zE2H"
+  },
+  "support": {
+    "email": "cashppro@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cashppro",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/cashpokerpro",
+    "twitter": "https://twitter.com/CashPokPro",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Cash Poker Pro",
+      "address": "0xA8F93FAee440644F89059a2c88bdC9BF3Be5e2ea",
+      "erc20": {
+        "symbol": "CASH",
+        "decimals": 18,
+        "name": "Cash Poker Pro"
+      }
+    }
+  ]
+}

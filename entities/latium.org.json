@@ -1,0 +1,48 @@
+{
+  "name": "LatiumX",
+  "ens_address": "",
+  "website": "https://latium.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2f85e502a988af76f7ee6d83b7db8d6c0a823bf9.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmfZWu3j8riECnJALoMYsAzS4iKS2KYNfTedpsVyxWkdt4",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1043235616555786241/4aikKdJy.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2f85e502a988af76f7ee6d83b7db8d6c0a823bf9.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2f85e502a988af76f7ee6d83b7db8d6c0a823bf9.png",
+    "ipfs_origin": "QmXAoyxUe19aye9f3JjvLzttBmELVtAUSD2v5nbaWMeHqr"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/LatiumProject/",
+    "forum": "https://discordapp.com/invite/y52ys5H",
+    "github": "https://github.com/Latium-org",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Latium/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GPJK8w3rbib8uj58hUXMJw",
+    "twitter": "https://twitter.com/LatiumCoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "LatiumX",
+      "address": "0x2f85E502a988AF76f7ee6D83b7db8d6c0A823bf9",
+      "erc20": {
+        "symbol": "LATX",
+        "decimals": 8,
+        "name": "LatiumX"
+      }
+    }
+  ]
+}

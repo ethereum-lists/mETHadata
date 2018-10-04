@@ -1,0 +1,47 @@
+{
+  "name": "UHUB",
+  "ens_address": "",
+  "website": "https://uhub.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeZvkNL8WAY1N2iBnRhiB2QT3J9ysCGYsXmCM7QHzNjdM",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/918409949918593024/tvKsi-Ey.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/918409949918593024/tvKsi-Ey.jpg",
+    "ipfs_origin": "QmZC4LhZDwPkb7gYnyYeGYo8UrRF9KtK3bb6Jr7rUy6Zu6"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/uhub.io/",
+    "forum": "",
+    "github": "https://github.com/uhubproject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/uhub_io",
+    "twitter": "https://twitter.com/uhub_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "UHUB",
+      "address": "0x19AEA60E2FD6AC54EcF2576292C8Fc7046429C37",
+      "erc20": {
+        "symbol": "HUB",
+        "decimals": 18,
+        "name": "UHUB"
+      }
+    }
+  ]
+}

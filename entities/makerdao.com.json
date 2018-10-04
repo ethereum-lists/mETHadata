@@ -1,0 +1,79 @@
+{
+  "name": "MakerDAO",
+  "ens_address": "",
+  "website": "https://makerdao.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYpsA1t725cYx8q89bjD5SV4d2ipJDAzU7Z6CYNQUfiTR",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/mkr.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/929117604643454978/ebUqZEdk.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png",
+    "ipfs_origin": "QmeJj826ZavVgrpVfneu5zWWS5xvBxjKvEwMP8VzZLB2u3"
+  },
+  "support": {
+    "email": "support@makerdao.com",
+    "url": "https://chat.makerdao.com"
+  },
+  "social": {
+    "blog": "https://medium.com/@MakerDAO",
+    "chat": "https://chat.makerdao.com",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1153188.0",
+    "github": "https://github.com/makerdao",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/10146072/",
+    "reddit": "https://reddit.com/r/makerdao",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/MakerDAO",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MakerDAO",
+      "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+      "erc20": {
+        "symbol": "MKR",
+        "decimals": 18,
+        "name": "MakerDAO"
+      }
+    },
+    {
+      "name": "MakerDAO",
+      "address": "0xC66eA802717bFb9833400264Dd12c2bCeAa34a6d",
+      "erc20": {
+        "symbol": "MKR",
+        "decimals": 18,
+        "name": "MakerDAO"
+      },
+      "deprecation": {
+        "hello": "hello"
+      }
+    },
+    {
+      "name": "Dai Stablecoin v1.0",
+      "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
+      "erc20": {
+        "symbol": "DAI",
+        "decimals": 18,
+        "name": "Dai Stablecoin v1.0"
+      }
+    },
+    {
+      "name": "SAI",
+      "address": "0x59aDCF176ED2f6788A41B8eA4c4904518e62B6A4",
+      "erc20": {
+        "symbol": "SAI",
+        "decimals": 18,
+        "name": "SAI"
+      }
+    }
+  ]
+}

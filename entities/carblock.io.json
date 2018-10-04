@@ -1,0 +1,49 @@
+{
+  "name": "CarBlock",
+  "ens_address": "",
+  "website": "https://www.carblock.io",
+  "logo": {
+    "src": "https://www.carblock.io/logo-400x400.png",
+    "width": 400,
+    "height": 400,
+    "ipfs_hash": "QmRjYKTMJ7bvpqZDY4Xa2qcYh1R9dFTSbMfjHqP1e5AWuG",
+    "sources": {
+      "token-list": "https://www.carblock.io/logo-400x400.png",
+      "twitter": "http://pbs.twimg.com/profile_images/973362809311453186/kXDUfWCv.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4d9e23a3842fe7eb7682b9725cf6c507c424a41b.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/973362809311453186/kXDUfWCv.jpg",
+    "ipfs_origin": "QmU7c9fH51m1hEG6w2f7Jmw4HADNKRbd1AnkJXfe6vXWnD"
+  },
+  "support": {
+    "email": "support@carblock.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/carblock",
+    "chat": "",
+    "facebook": "https://www.facebook.com/carblockofficial/?ref=aymt_homepage_panel",
+    "forum": "",
+    "github": "https://github.com/carblock-io",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/carblockglobal",
+    "twitter": "https://twitter.com/carblock_io",
+    "youtube": "https://www.youtube.com/channel/UCjgN4_1Jvv1KlETeoWalBVA"
+  },
+  "eth": [
+    {
+      "name": "CarBlock",
+      "address": "0x4D9e23a3842fE7Eb7682B9725cF6c507C424A41B",
+      "erc20": {
+        "symbol": "CAR (CarBlock)",
+        "decimals": 18,
+        "name": "CarBlock"
+      }
+    }
+  ]
+}

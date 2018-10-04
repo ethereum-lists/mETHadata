@@ -1,0 +1,48 @@
+{
+  "name": "DADI",
+  "ens_address": "",
+  "website": "https://dadi.cloud",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSswSNVdZo83NDN8r4RYBJYbbMDJYZfWGcSRqhpc9p3FN",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/785412219160895488/7hacBpGB.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/785412219160895488/7hacBpGB.jpg",
+    "ipfs_origin": "QmbmjGz3BNER6RXe5WtB27v5cuMKK7YSu9o27n7HxUa818"
+  },
+  "support": {
+    "email": "support@dadi.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@daditech",
+    "chat": "",
+    "facebook": "https://www.facebook.com/daditechnology",
+    "forum": "https://forum.dadi.tech",
+    "github": "https://github.com/dadi",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/dadi",
+    "slack": "",
+    "telegram": "https://t.me/dadichat",
+    "twitter": "https://twitter.com/dadi",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DADI",
+      "address": "0xFb2f26F266Fb2805a387230f2aa0a331b4d96Fba",
+      "erc20": {
+        "symbol": "DADI",
+        "decimals": 18,
+        "name": "DADI"
+      }
+    }
+  ]
+}

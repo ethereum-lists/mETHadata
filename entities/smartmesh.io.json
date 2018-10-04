@@ -1,0 +1,47 @@
+{
+  "name": "SmartMesh",
+  "ens_address": "",
+  "website": "http://smartmesh.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55f93985431fc9304077687a35a1ba103dc1e081.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmckPeR3oD3SDmLHo1nn9PZwHZGbBkAX645oGaAyu3zUTm",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55f93985431fc9304077687a35a1ba103dc1e081.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55f93985431fc9304077687a35a1ba103dc1e081.png",
+    "ipfs_origin": "Qmc5NZiy4DCgKpPnfagU5NMhb1p8RDiybvxGx2EFMsn393"
+  },
+  "support": {
+    "email": "tomcat@smartmesh.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/smartmesh/",
+    "forum": "https://bitcointalk.org/index.php?topic=2314643.0;all",
+    "github": "https://github.com/SmartMeshFoundation",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/explore/tags/smartmesh/",
+    "linkedin": "https://www.linkedin.com/company/smartmesh-foundation/",
+    "reddit": "https://www.reddit.com/r/SmartMesh/",
+    "slack": "",
+    "telegram": "t.me@SmartMesh",
+    "twitter": "https://twitter.com/smart_mesh?lang=en",
+    "youtube": "https://m.youtube.com/channel/UCrrPpnGqu7PJeU13U0VRPBA"
+  },
+  "eth": [
+    {
+      "name": "SmartMesh",
+      "address": "0x55F93985431Fc9304077687a35A1BA103dC1e081",
+      "erc20": {
+        "symbol": "SMT",
+        "decimals": 18,
+        "name": "SmartMesh"
+      }
+    }
+  ]
+}

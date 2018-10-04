@@ -1,0 +1,48 @@
+{
+  "name": "Plutus",
+  "ens_address": "",
+  "website": "https://plutus.it",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd8912c10681d8b21fd3742244f44658dba12264e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYp2cVtdoYXHATajDZiodaUtHjS2QPpm1a5xqsnxii2Cq",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/892116334095609856/sV_UDn3_.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd8912c10681d8b21fd3742244f44658dba12264e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd8912c10681d8b21fd3742244f44658dba12264e.png",
+    "ipfs_origin": "Qmcop7dK3kS5KfzHRmhPhYK57xM2WjJJWVSJnihhJggn1c"
+  },
+  "support": {
+    "email": "support@plutus.it",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/plutus-it",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Plutusit/",
+    "forum": "https://bitcointalk.org/index.php?topic=1870606.760",
+    "github": "https://github.com/PlutusIt",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/10343487/",
+    "reddit": "https://www.reddit.com/r/plutus/",
+    "slack": "",
+    "telegram": "https://t.me/plutus_group",
+    "twitter": "https://twitter.com/PlutusIT",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Plutus",
+      "address": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+      "erc20": {
+        "symbol": "PLU",
+        "decimals": 18,
+        "name": "Plutus"
+      }
+    }
+  ]
+}

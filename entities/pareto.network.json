@@ -1,0 +1,49 @@
+{
+  "name": "PARETO",
+  "ens_address": "",
+  "website": "https://pareto.network",
+  "logo": {
+    "src": "https://pareto.network/images/square500x500.png",
+    "width": 500,
+    "height": 500,
+    "ipfs_hash": "QmfVhwcTai5FojBm9dvje25cqqdBvQyLAbMLzk6bLm1bSQ",
+    "sources": {
+      "token-list": "https://pareto.network/images/square500x500.png",
+      "twitter": "http://pbs.twimg.com/profile_images/928045808854884352/ZbDsm3r_.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc.png",
+    "ipfs_origin": "QmQ7VKojEd9d384Vg5e3zjbYV37kJfQcatn3x4DY9aak26"
+  },
+  "support": {
+    "email": "hello@pareto.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.pareto.network",
+    "chat": "https://t.me/paretonetworkdiscussion",
+    "facebook": "https://www.facebook.com/paretonetworkofficial",
+    "forum": "https://bitcointalk.org/index.php?topic=2367454.0",
+    "github": "https://github.com/ParetoNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/11252108",
+    "reddit": "https://www.reddit.com/r/ParetoNetwork",
+    "slack": "",
+    "telegram": "https://t.me/paretonetworkdiscussion",
+    "twitter": "https://twitter.com/paretonetwork",
+    "youtube": "https://www.youtube.com/channel/UCWbAwsAEmNksqhhDlgBaSQA"
+  },
+  "eth": [
+    {
+      "name": "PARETO",
+      "address": "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc",
+      "erc20": {
+        "symbol": "PARETO",
+        "decimals": 18,
+        "name": "PARETO"
+      }
+    }
+  ]
+}

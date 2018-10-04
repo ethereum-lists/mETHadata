@@ -1,0 +1,47 @@
+{
+  "name": "Digital Rupiah",
+  "ens_address": "",
+  "website": "https://digitalrupiah.id",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbcVzqJfJHy4ffPMGCMxkTFCUHfBdLdHAugdKvJtpXmiA",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/890411511520174080/FdxZcVhX.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/890411511520174080/FdxZcVhX.jpg",
+    "ipfs_origin": "QmeCgVxpQaZoqp8mQpnD5NJ1BFuLMPxBMCiv4GVJMyTQ5o"
+  },
+  "support": {
+    "email": "support@digitalrupiah.id",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Digital-Rupiah-1867588756893094",
+    "forum": "",
+    "github": "https://github.com/RupiahDigital/RupiahContract",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://digitalrupiah.slack.com/join/shared_invite/MjE5MTg5NjMyMzkwLTE1MDExMjQ4NzEtMzYxZDBmZDhlOQ",
+    "telegram": "",
+    "twitter": "https://twitter.com/rupiah_digital",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Digital Rupiah",
+      "address": "0x22c10728343E9d49Ef25080F74a223878A3d4052",
+      "erc20": {
+        "symbol": "DRP",
+        "decimals": 8,
+        "name": "Digital Rupiah"
+      }
+    }
+  ]
+}

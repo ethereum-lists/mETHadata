@@ -1,0 +1,49 @@
+{
+  "name": "YOYOW Token",
+  "ens_address": "",
+  "website": "https://yoyow.org/index_en.html",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcbeaec699431857fdb4d37addbbdc20e132d4903.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYiFugxVPZwQwKh6GQFF6a85Vquu5mFhemNC8RKcPRPwc",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/yoyow.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/777553206683414530/_6Gekb56.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcbeaec699431857fdb4d37addbbdc20e132d4903.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/yoyow.svg",
+    "ipfs_origin": "QmSZ2318VzC5DE7qvfBuNZNxiWzxyjzyFQZL3zzjgjWh37"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/yoyow-org",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/YOYOW/",
+    "slack": "",
+    "telegram": "https://t.me/HelloYOYOW",
+    "twitter": "https://twitter.com/InfoYoyow",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "YOYOW Token",
+      "address": "0xcbeAEc699431857FDB4d37aDDBBdc20E132D4903",
+      "erc20": {
+        "symbol": "YOYOW",
+        "decimals": 18,
+        "name": "YOYOW Token"
+      }
+    }
+  ]
+}

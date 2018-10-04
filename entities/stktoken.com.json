@@ -1,0 +1,48 @@
+{
+  "name": "STK Token",
+  "ens_address": "",
+  "website": "https://stktoken.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xae73b38d1c9a8b274127ec30160a4927c4d71824.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTGUgegUxyzzPK6pWii1tReBpP8wEZPrHL6ERrkVsB7Ss",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/910934340334370816/dW8Z2JJY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xae73b38d1c9a8b274127ec30160a4927c4d71824.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/910934340334370816/dW8Z2JJY.jpg",
+    "ipfs_origin": "QmVanhPAMEZiPJYgxTwZh5F5fKpv1AB4HR9fRsR592j4fb"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@STKtoken",
+    "chat": "https://discordapp.com/invite/38EXN5D",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2212245.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/STKToken",
+    "slack": "",
+    "telegram": "https://t.me/stktoken",
+    "twitter": "https://twitter.com/stktoken",
+    "youtube": "https://www.youtube.com/c/STACKFINTECH"
+  },
+  "eth": [
+    {
+      "name": "STK Token",
+      "address": "0xaE73B38d1c9A8b274127ec30160a4927C4d71824",
+      "erc20": {
+        "symbol": "STK",
+        "decimals": 18,
+        "name": "STK Token"
+      }
+    }
+  ]
+}

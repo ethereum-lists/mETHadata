@@ -1,0 +1,56 @@
+{
+  "name": "GANA",
+  "ens_address": "",
+  "website": "https://ganacoin.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qme2wKMc21uoH6s9JmYeV6B71geNSVQHb9WATsFLKXYc6i",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/997856105270136832/_XVB_WRV.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/997856105270136832/_XVB_WRV.jpg",
+    "ipfs_origin": "QmRHpRu8YRAJTS8MZu2WgbSovwRERNxvADRkpTcsheFfF1"
+  },
+  "support": {
+    "email": "info@ganacoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/ganaproject",
+    "chat": "",
+    "facebook": "https://www.facebook.com/GanaProject/",
+    "forum": "",
+    "github": "https://github.com/GanaProject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/gana_announcement",
+    "twitter": "https://twitter.com/ganaproject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GANA",
+      "address": "0x6754e21b9EAa053c62d7854dD6561ae451B0cBCf",
+      "erc20": {
+        "symbol": "GANA",
+        "decimals": 18,
+        "name": "GANA"
+      }
+    },
+    {
+      "name": "GANA",
+      "address": "0xc0EA6306F6360FE7dCAB65D16Bf1a3AF92C79Aa2",
+      "erc20": {
+        "symbol": "GANA",
+        "decimals": 18,
+        "name": "GANA"
+      }
+    }
+  ]
+}

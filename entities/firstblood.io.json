@@ -1,0 +1,48 @@
+{
+  "name": "FirstBlood",
+  "ens_address": "",
+  "website": "https://firstblood.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPTFV42Y7AKysNPBJT9zxu4uWmnLhAF3VgBwk5T57Mabd",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/885984552463847425/bqJZ2qGQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/885984552463847425/bqJZ2qGQ.jpg",
+    "ipfs_origin": "QmRR2PtCfhK1yDUJYERBHQfRwtAc9SjwXuJ6pAxUTGW89b"
+  },
+  "support": {
+    "email": "team@firstblood.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.firstblood.io/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/firstbloodio",
+    "forum": "https://bitcointalk.org/index.php?topic=1543891.0",
+    "github": "https://github.com/firstbloodio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/FirstBloodio/",
+    "slack": "https://slack.firstblood.io",
+    "telegram": "",
+    "twitter": "https://twitter.com/firstbloodio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "FirstBlood",
+      "address": "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7",
+      "erc20": {
+        "symbol": "1ST",
+        "decimals": 18,
+        "name": "FirstBlood"
+      }
+    }
+  ]
+}

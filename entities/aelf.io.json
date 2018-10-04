@@ -1,0 +1,49 @@
+{
+  "name": "ELF Token",
+  "ens_address": "",
+  "website": "https://aelf.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbf2179859fc6d5bee9bf9158632dc51678a4100e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmS9ahTMnwcUg3JJmdHAjYLnASKVq4BnM2tNuvZAzdbc9f",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/elf.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/933992260680552448/tkxR4vpn.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbf2179859fc6d5bee9bf9158632dc51678a4100e.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/933992260680552448/tkxR4vpn.jpg",
+    "ipfs_origin": "QmRUDvazdCLzfd7yuWrgz4UVAvhmxue5WnoyoHnjGPLTwN"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@aelfblockchain",
+    "chat": "",
+    "facebook": "https://www.facebook.com/aelfio/",
+    "forum": "https://bitcointalk.org/index.php?topic=2629781.0",
+    "github": "https://github.com/aelfProject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/aelfofficial/",
+    "slack": "https://slack.aelf.io/",
+    "telegram": "https://t.me/aelfblockchain",
+    "twitter": "https://twitter.com/aelfblockchain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ELF Token",
+      "address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+      "erc20": {
+        "symbol": "ELF",
+        "decimals": 18,
+        "name": "ELF Token"
+      }
+    }
+  ]
+}

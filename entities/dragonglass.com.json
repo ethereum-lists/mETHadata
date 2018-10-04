@@ -1,0 +1,49 @@
+{
+  "name": "Dragonglass",
+  "ens_address": "",
+  "website": "https://dragonglass.com/",
+  "logo": {
+    "src": "https://dragonglass.com/wp-content/uploads/2018/06/LogoX132_color_2.png",
+    "width": "132",
+    "height": "132",
+    "ipfs_hash": "QmYNk1y3pXQDghvcbwce7RFYXQaTr5V6iZwHGx1jDEeVt8",
+    "sources": {
+      "token-list": "https://dragonglass.com/wp-content/uploads/2018/06/LogoX132_color_2.png",
+      "twitter": "http://pbs.twimg.com/profile_images/949232960452034560/Gp-K4QEQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6aedbf8dff31437220df351950ba2a3362168d1b.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/949232960452034560/Gp-K4QEQ.jpg",
+    "ipfs_origin": "QmVugcTKAgEVQsmTMh5mM1eZ9zMbgHz88LXMAUHXDdkbev"
+  },
+  "support": {
+    "email": "support@dragonglass.com",
+    "url": "https://t.me/dragonglassco"
+  },
+  "social": {
+    "blog": "http://medium.com/dragonglasscom",
+    "chat": "",
+    "facebook": "https://www.facebook.com/dragonglasscom",
+    "forum": "",
+    "github": "https://github.com/dragonglasscom",
+    "gitter": "",
+    "instagram": "https://instagram.com/dragonglass_official/",
+    "linkedin": "https://www.linkedin.com/company/dragonglass/",
+    "reddit": "",
+    "slack": "https://discordapp.com/invite/eZkxuZg",
+    "telegram": "https://t.me/dragonglassco",
+    "twitter": "https://twitter.com/dragonglasscom",
+    "youtube": "https://www.youtube.com/channel/UCneuYA9RuRFCb-usyb03eWw"
+  },
+  "eth": [
+    {
+      "name": "Dragonglass",
+      "address": "0x6aEDbF8dFF31437220dF351950Ba2a3362168d1b",
+      "erc20": {
+        "symbol": "DGS",
+        "decimals": 8,
+        "name": "Dragonglass"
+      }
+    }
+  ]
+}

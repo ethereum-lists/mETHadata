@@ -1,0 +1,48 @@
+{
+  "name": "GigaWatt",
+  "ens_address": "",
+  "website": "https://www.giga-watt.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVpc3BFpbcSXDysV8bZuZ9fDTgNNAtqJRS94qRZc8MF9F",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/832668314740588544/HW1NXgfD.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda.png",
+    "ipfs_origin": "QmUicrLKbZC8Mvqk1H261Z4sgx9CoDyrZY12M34wfQeKm5"
+  },
+  "support": {
+    "email": "press@giga-watt.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/gigawattcom",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/gigawatt_mining/",
+    "linkedin": "https://www.linkedin.com/company/giga-watt-inc./",
+    "reddit": "",
+    "slack": "https://slack.giga-watt.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/gigawatt_mining",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GigaWatt",
+      "address": "0x84119cb33E8F590D75c2D6Ea4e6B0741a7494EDA",
+      "erc20": {
+        "symbol": "WTT",
+        "decimals": 0,
+        "name": "GigaWatt"
+      }
+    }
+  ]
+}

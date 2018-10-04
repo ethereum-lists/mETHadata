@@ -1,0 +1,49 @@
+{
+  "name": "UTK",
+  "ens_address": "",
+  "website": "https://utrust.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVbvwVUsWCyoraSTXjE9sRp2VwiL6MNdEcRBmEDpVwrQ2",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/utk.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1034137674259546113/gYQlfy7Q.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38.png",
+    "ipfs_origin": "QmYYThoyZ1QMwCkEiNnsTeUt7vioqdbrQC1hLaAHUaQ4ZG"
+  },
+  "support": {
+    "email": "contact@utrust.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@UTRUST",
+    "chat": "",
+    "facebook": "https://www.facebook.com/utrust.io",
+    "forum": "https://bitcointalk.org/index.php?topic=2078433.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/UTRUST_Official/",
+    "slack": "",
+    "telegram": "https://t.me/utrustofficial",
+    "twitter": "https://twitter.com/UTRUST_Official",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "UTK",
+      "address": "0x70a72833d6bF7F508C8224CE59ea1Ef3d0Ea3A38",
+      "erc20": {
+        "symbol": "UTK",
+        "decimals": 18,
+        "name": "UTK"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "T8Coin",
+  "ens_address": "",
+  "website": "http://t8coin.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x164f64ef2a44444743c5472fa68fb3784060d286.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmc3x2tYyz3jNjRYXNNbA6kKhJ4PWSH9YPk1brDxdYvV3D",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/931476313801613312/jSbwa4ak.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x164f64ef2a44444743c5472fa68fb3784060d286.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/931476313801613312/jSbwa4ak.jpg",
+    "ipfs_origin": "Qmf2rR5oMJozUTfHPs5HJofKut28SSM6ZCsvPLjkY7rY5r"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "www.twitter.com/t8coin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "T8Coin",
+      "address": "0x164F64eF2A44444743c5472FA68fb3784060D286",
+      "erc20": {
+        "symbol": "T8C",
+        "decimals": 3,
+        "name": "T8Coin"
+      }
+    }
+  ]
+}

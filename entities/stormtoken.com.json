@@ -1,0 +1,49 @@
+{
+  "name": "Storm Token",
+  "ens_address": "",
+  "website": "https://www.stormtoken.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRKotvq8LtJdPoN3eu9Msy6oeyo7a6B2HpRYTYoegDwja",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/storm.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/995415618948972545/8jnhXC1P.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433.png",
+    "ipfs_origin": "QmciA7d5nb64b2PojXwmqR5ndzkbtPXHKmdeNRRetcSoVU"
+  },
+  "support": {
+    "email": "info@stormtoken.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.stormtoken.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/stormtoken",
+    "forum": "https://bitcointalk.org/index.php?topic=2005611.0",
+    "github": "https://github.com/StormX-Inc",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/stormtoken/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GHTZGQwsy9mZk0KFEEjGtg",
+    "twitter": "https://twitter.com/storm_token",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Storm Token",
+      "address": "0xD0a4b8946Cb52f0661273bfbC6fD0E0C75Fc6433",
+      "erc20": {
+        "symbol": "STORM",
+        "decimals": 18,
+        "name": "Storm Token"
+      }
+    }
+  ]
+}

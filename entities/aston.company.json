@@ -1,0 +1,48 @@
+{
+  "name": "Aston X",
+  "ens_address": "",
+  "website": "https://www.aston.company/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1a0f2ab46ec630f9fd638029027b552afa64b94c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSgDj4LBKuGnRJzrHqu3vJtJ5nZfPsq42brnuRnywcDZ4",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/932527249835700225/v2SH7RHU.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1a0f2ab46ec630f9fd638029027b552afa64b94c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1a0f2ab46ec630f9fd638029027b552afa64b94c.png",
+    "ipfs_origin": "QmW5D9KyocDG1TpjYmUHBCeVBz6k4BYbpXxhsxNJpDYVMd"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/astonofficial/",
+    "forum": "",
+    "github": "https://github.com/astonx/astonx-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/u/Aston_company",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/aston_company",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Aston X",
+      "address": "0x1A0F2aB46EC630F9FD638029027b552aFA64b94c",
+      "erc20": {
+        "symbol": "ATX",
+        "decimals": 18,
+        "name": "Aston X"
+      }
+    }
+  ]
+}

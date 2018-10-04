@@ -1,0 +1,48 @@
+{
+  "name": "Coinlancer",
+  "ens_address": "",
+  "website": "https://www.coinlancer.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe81d72d14b1516e68ac3190a46c93302cc8ed60f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmb8DJqbdXgrsroDrGiu9V4B2jid3FKbwjmWRg9vywCm7h",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/912363329141620736/Eb-37NvX.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe81d72d14b1516e68ac3190a46c93302cc8ed60f.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe81d72d14b1516e68ac3190a46c93302cc8ed60f.png",
+    "ipfs_origin": "QmQp1t4aCSJbvhmoKD2xUmpi3KbtucEHRQMgBbecMQzaL2"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://facebook.com/coinlancer",
+    "forum": "",
+    "github": "https://github.com/coinlancer",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/Coinlancer",
+    "twitter": "https://twitter.com/Coin_Lancer",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Coinlancer",
+      "address": "0xe81D72D14B1516e68ac3190a46C93302Cc8eD60f",
+      "erc20": {
+        "symbol": "CL",
+        "decimals": 18,
+        "name": "Coinlancer"
+      }
+    }
+  ]
+}

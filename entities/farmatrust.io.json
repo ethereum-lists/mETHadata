@@ -1,0 +1,48 @@
+{
+  "name": "FarmaTrust Token",
+  "ens_address": "",
+  "website": "https://www.farmatrust.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2aec18c5500f21359ce1bea5dc1777344df4c0dc.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdDExMjypPqFS6yyBwJ8yscRyyUrPP5i5FJ4gx5xJx3hC",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1022148894568972288/OenUX5_W.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2aec18c5500f21359ce1bea5dc1777344df4c0dc.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1022148894568972288/OenUX5_W.jpg",
+    "ipfs_origin": "QmRAAATS8DyGrLQRyB7caZ3cqNvzgw3v6GpQyDXyP9WcDg"
+  },
+  "support": {
+    "email": "contact@farmatrust.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@farmatrust",
+    "chat": "",
+    "facebook": "https://www.facebook.com/farmatrustchain",
+    "forum": "https://bitcointalk.org/index.php?topic=2496382",
+    "github": "https://github.com/farmatrust",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/farmatrust",
+    "linkedin": "https://www.linkedin.com/company/24797056",
+    "reddit": "https://www.reddit.com/user/FarmaTrust",
+    "slack": "",
+    "telegram": "https://t.me/farmatrust",
+    "twitter": "https://twitter.com/farmatrust",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "FarmaTrust Token",
+      "address": "0x2AEC18c5500f21359CE1BEA5Dc1777344dF4C0Dc",
+      "erc20": {
+        "symbol": "FTT",
+        "decimals": 18,
+        "name": "FarmaTrust Token"
+      }
+    }
+  ]
+}

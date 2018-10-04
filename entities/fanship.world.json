@@ -1,0 +1,47 @@
+{
+  "name": "Fanship",
+  "ens_address": "",
+  "website": "http://fanship.world/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmba6ajbL3NYCWDzsPBExXeGJKA5sGQerucAQ3Q5xXc6qu",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1025312991254786048/fF3IEZ2z.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1025312991254786048/fF3IEZ2z.jpg",
+    "ipfs_origin": "Qmdx6ny6YvBXvbiyqgvnLPaTN339BP8Fq1auiLHdv6rkWn"
+  },
+  "support": {
+    "email": "contact@fanship.world",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://blog.fanship.world/",
+    "chat": "https://open.kakao.com/o/geCfE8K",
+    "facebook": "https://www.facebook.com/FanshipWorld/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/fanship_world/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Fanshipworld/",
+    "slack": "",
+    "telegram": "https://t.me/fanship",
+    "twitter": "http://twitter.com/fanship_world/",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Fanship",
+      "address": "0x16aF5bfb4Ae7E475b9aDC3Bf5Cb2f1E6a50d7940",
+      "erc20": {
+        "symbol": "XFS",
+        "decimals": 8,
+        "name": "Fanship"
+      }
+    }
+  ]
+}

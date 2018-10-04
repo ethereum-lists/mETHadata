@@ -1,0 +1,49 @@
+{
+  "name": "Coinvest V2 Token",
+  "ens_address": "",
+  "website": "https://coinve.st",
+  "logo": {
+    "src": "https://coinve.st/assets/images/Coinvest_Profile.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": "QmP9cKyRB9KAFSyzFume3XvQMdQEMdsg9WRBsD9ratuBkj",
+    "sources": {
+      "token-list": "https://coinve.st/assets/images/Coinvest_Profile.png",
+      "twitter": "http://pbs.twimg.com/profile_images/931641537267724288/-0eoIbc_.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e8f855966d638135a968861e80dda722291b06d.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/931641537267724288/-0eoIbc_.jpg",
+    "ipfs_origin": "QmSavAuJsGWv54UsDwSPN6pjHvctUMo56ZMHJYq3RtmKFv"
+  },
+  "support": {
+    "email": "support@coinve.st",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CoinvestHQ",
+    "forum": "https://bitcointalk.org/index.php?topic=2381017.0",
+    "github": "https://github.com/CoinvestHQ",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/coinvesthq/",
+    "reddit": "http://reddit.com/r/Coinvest",
+    "slack": "",
+    "telegram": "https://t.me/CoinvestHQ",
+    "twitter": "https://www.twitter.com/CoinvestHQ",
+    "youtube": "https://www.youtube.com/channel/UCX-pE6nXFg3uK2_cMQ5n6jA"
+  },
+  "eth": [
+    {
+      "name": "Coinvest V2 Token",
+      "address": "0x5e8F855966D638135a968861E80DdA722291B06d",
+      "erc20": {
+        "symbol": "COIN",
+        "decimals": 18,
+        "name": "Coinvest V2 Token"
+      }
+    }
+  ]
+}

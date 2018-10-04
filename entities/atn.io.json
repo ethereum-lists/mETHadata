@@ -1,0 +1,48 @@
+{
+  "name": "ATN",
+  "ens_address": "",
+  "website": "https://atn.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x461733c17b0755ca5649b6db08b3e213fcf22546.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQHY9QcFotP6kJHXtPrr8SGaEHecXEzmupJuP7Lc7wXrs",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1003901824393342977/j-pUgSS6.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x461733c17b0755ca5649b6db08b3e213fcf22546.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x461733c17b0755ca5649b6db08b3e213fcf22546.png",
+    "ipfs_origin": "QmQAkHVJtRJzj3iwgvprGWWJFk2tuyix9u4HUdzi7MucvU"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/atnio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ATN/",
+    "slack": "",
+    "telegram": "https://t.me/ATN_Blockchain_EN",
+    "twitter": "https://twitter.com/atn_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ATN",
+      "address": "0x461733c17b0755CA5649B6DB08B3E213FCf22546",
+      "erc20": {
+        "symbol": "ATN",
+        "decimals": 18,
+        "name": "ATN"
+      }
+    }
+  ]
+}

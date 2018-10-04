@@ -1,0 +1,49 @@
+{
+  "name": "Hydro",
+  "ens_address": "token.projecthydro.eth",
+  "website": "https://www.hydrogenplatform.com/hydro",
+  "logo": {
+    "src": "https://i.imgur.com/15s0da4.png",
+    "width": "120",
+    "height": "120",
+    "ipfs_hash": "QmVs5JCE5GSNMLiFrzqJHd9Vu2pLmsG4hZzCRsLGTNJvax",
+    "sources": {
+      "token-list": "https://i.imgur.com/15s0da4.png",
+      "twitter": "http://pbs.twimg.com/profile_images/939172805723037696/pRd5WXkJ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xebbdf302c940c6bfd49c6b165f457fdb324649bc.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xebbdf302c940c6bfd49c6b165f457fdb324649bc.png",
+    "ipfs_origin": "QmbaSTwhb29ZDAAHNG7DSbB65Vuq4PvXW7h2GS7S1d9V29"
+  },
+  "support": {
+    "email": "info@hydrogenplatform.com",
+    "url": "https://www.hydrogenplatform.com/contact"
+  },
+  "social": {
+    "blog": "https://medium.com/hydrogen-api",
+    "chat": "",
+    "facebook": "https://www.facebook.com/hydrogenplatform",
+    "forum": "https://bitcointalk.org/index.php?topic=2778123",
+    "github": "https://github.com/hydrogen-dev",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/hydrogenplatform/",
+    "linkedin": "https://www.linkedin.com/company/hydrogenplatform/",
+    "reddit": "https://www.reddit.com/r/ProjectHydro/",
+    "slack": "",
+    "telegram": "https://t.me/projecthydro",
+    "twitter": "https://twitter.com/HydrogenAPI",
+    "youtube": "https://www.youtube.com/channel/UChDPAVs_qKREy9zAQsc6VVw"
+  },
+  "eth": [
+    {
+      "name": "Hydro",
+      "address": "0xEBBdf302c940c6bfd49C6b165f457fdb324649bc",
+      "erc20": {
+        "symbol": "HYDRO",
+        "decimals": 18,
+        "name": "Hydro"
+      }
+    }
+  ]
+}

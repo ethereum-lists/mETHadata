@@ -1,0 +1,47 @@
+{
+  "name": "Seele",
+  "ens_address": "",
+  "website": "https://seele.pro/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWJwMciFGJMcgU4ES6bJJMQSufWFpSMUdysKpffo28rF6",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0.png",
+    "ipfs_origin": "QmSZWXaFoU5p4Q75XC4xkKDtVxaPDbNtPoy3D94VvRms6D"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/seeletech",
+    "forum": "",
+    "github": "https://github.com/seeleteam",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SeeleOfficial/",
+    "slack": "",
+    "telegram": "https://t.me/seeletech",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Seele",
+      "address": "0xB1eeF147028E9f480DbC5ccaA3277D417D1b85F0",
+      "erc20": {
+        "symbol": "Seele",
+        "decimals": 18,
+        "name": "Seele"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "SKIN",
+  "ens_address": "",
+  "website": "https://skincoin.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2bdc0d42996017fce214b21607a515da41a9e0c5.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmW2JGrRVxJcGycEC3ntwjgchSAQVrsEyxz3dA7QB5BFma",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/907982861600423941/JtpENQ6q.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2bdc0d42996017fce214b21607a515da41a9e0c5.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2bdc0d42996017fce214b21607a515da41a9e0c5.png",
+    "ipfs_origin": "QmQ3puSESsm9iJfR1LX1ENPxr7PuM6x5Ctnog2PQ6BxQ1H"
+  },
+  "support": {
+    "email": "support@skincoin.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@skincoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/skincoin/",
+    "forum": "https://bitcointalk.org/index.php?topic=1944508.0",
+    "github": "https://github.com/Steamtradenet/smart-contract",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18289242/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://telegram.me/skincoin",
+    "twitter": "https://twitter.com/skincoin_org",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SKIN",
+      "address": "0x2bDC0D42996017fCe214b21607a515DA41A9E0C5",
+      "erc20": {
+        "symbol": "SKIN",
+        "decimals": 6,
+        "name": "SKIN"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Education Credits",
+  "ens_address": "",
+  "website": "https://www.edc.network",
+  "logo": {
+    "src": "https://edc.network/images/edc-logo28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmNzxM4kWc6QquzESooA6Gu2TpH7BTh8B6XHoenX6HjAFK",
+    "sources": {
+      "token-list": "https://edc.network/images/edc-logo28.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfa1de2ee97e4c10c94c91cb2b5062b89fb140b82.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfa1de2ee97e4c10c94c91cb2b5062b89fb140b82.png",
+    "ipfs_origin": "QmcpcEZCfZnyRsf8pY7Sua9FXkGTZGsTzgVVvdX8mGp6am"
+  },
+  "support": {
+    "email": "info@edc.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Education Credits",
+      "address": "0xFA1DE2Ee97e4c10C94C91Cb2b5062b89Fb140b82",
+      "erc20": {
+        "symbol": "EDC",
+        "decimals": 6,
+        "name": "Education Credits"
+      }
+    }
+  ]
+}

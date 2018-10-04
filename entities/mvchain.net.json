@@ -1,0 +1,48 @@
+{
+  "name": "MaverickChain",
+  "ens_address": "",
+  "website": "http://www.mvchain.net",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb17df9a3b09583a9bdcf757d6367171476d4d8a3.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQswv1nbQhJRFAtrBkX4X3exbvDG9CcUF3n8WfqGVZEC7",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/901347727241469952/jUvC9zrh.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb17df9a3b09583a9bdcf757d6367171476d4d8a3.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/901347727241469952/jUvC9zrh.jpg",
+    "ipfs_origin": "QmaNi6QE9rJqNFqHYStX6ncF23DADxfBDUDZWVTwNypURG"
+  },
+  "support": {
+    "email": "mvc@mvchain.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/maverickchainproject/",
+    "forum": "",
+    "github": "https://github.com/mvchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/maverickchain/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/MaverickChain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MaverickChain",
+      "address": "0xB17DF9a3B09583a9bDCf757d6367171476D4D8a3",
+      "erc20": {
+        "symbol": "MVC",
+        "decimals": 18,
+        "name": "MaverickChain"
+      }
+    }
+  ]
+}

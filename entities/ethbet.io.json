@@ -1,0 +1,48 @@
+{
+  "name": "Ethbet",
+  "ens_address": "",
+  "website": "https://ethbet.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWv5RVRYqgXtp7Fgn7ZGrHkVe8DGCnDCiUgZ8JDGuUBDZ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/908737780154605568/alm1SQSK.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d.png",
+    "ipfs_origin": "QmULEkRvi34yAsetBKns6SVFb2fuhqtDXEYWP5qQSRbZZf"
+  },
+  "support": {
+    "email": "team@ethbet.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Ethbet/ethbet",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/ethbet",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/EthbetProject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Ethbet",
+      "address": "0x7D5Edcd23dAa3fB94317D32aE253eE1Af08Ba14d",
+      "erc20": {
+        "symbol": "EBET",
+        "decimals": 2,
+        "name": "Ethbet"
+      }
+    }
+  ]
+}

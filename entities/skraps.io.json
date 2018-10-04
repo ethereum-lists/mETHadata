@@ -1,0 +1,65 @@
+{
+  "name": "Skraps",
+  "ens_address": "",
+  "website": "https://skraps.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTZrY3c9XGSg7TAJy6VFKhNUviNyXpnmdpSTGsjY5QjSu",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1038142893813166080/60EnDfxK.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1038142893813166080/60EnDfxK.jpg",
+    "ipfs_origin": "QmNsuUEw1KgHFGa9HoG8vxxJgGj1fcJGjnjhMjTTzBuGyd"
+  },
+  "support": {
+    "email": "info@skraps.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@SKRAPS_IO",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SKRAPSAPP",
+    "forum": "https://bitcointalk.org/index.php?topic=2520387.msg25746537#msg25746537",
+    "github": "https://github.com/SkrapsIO",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SKRAPSio",
+    "slack": "",
+    "telegram": "https://t.me/SkrapsOfficial",
+    "twitter": "https://twitter.com/SKRAPS_IO",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Skraps",
+      "address": "0x6E34d8d84764D40f6D7b39cd569Fd017bF53177D",
+      "erc20": {
+        "symbol": "SKRP",
+        "decimals": 18,
+        "name": "Skraps"
+      }
+    },
+    {
+      "name": "Skraps",
+      "address": "0x324A48eBCbB46e61993931eF9D35F6697CD2901b",
+      "erc20": {
+        "symbol": "SKRP",
+        "decimals": 18,
+        "name": "Skraps"
+      }
+    },
+    {
+      "name": "Skraps",
+      "address": "0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052",
+      "erc20": {
+        "symbol": "SKRP",
+        "decimals": 18,
+        "name": "Skraps"
+      }
+    }
+  ]
+}

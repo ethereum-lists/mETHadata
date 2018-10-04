@@ -1,0 +1,42 @@
+{
+  "name": "SamsungToken",
+  "ens_address": "",
+  "website": "http://samsungtoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "support@trafficspeedster.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SamsungToken",
+      "address": "0x82D193F8Ee41D12aaA0A85cB006606D67F773E9c",
+      "erc20": {
+        "symbol": "SamsungToken",
+        "decimals": 1,
+        "name": "SamsungToken"
+      }
+    }
+  ]
+}

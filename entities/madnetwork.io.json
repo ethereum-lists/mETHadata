@@ -1,0 +1,47 @@
+{
+  "name": "MAD",
+  "ens_address": "",
+  "website": "https://madnetwork.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b09a0371c1da44a8e24d36bf5deb1141a84d875.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWXoWgU7Y1PMDDoVGq9BhjR8bxjcURJwYL7V3LWThENjd",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b09a0371c1da44a8e24d36bf5deb1141a84d875.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b09a0371c1da44a8e24d36bf5deb1141a84d875.png",
+    "ipfs_origin": "QmVDtvGpVEPPSY2tMbwyienHvtMZb9RgzkUNFYiqkCfKMJ"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MAD",
+      "address": "0x5B09A0371C1DA44A8E24D36Bf5DEb1141a84d875",
+      "erc20": {
+        "symbol": "MAD",
+        "decimals": 18,
+        "name": "MAD"
+      }
+    }
+  ]
+}

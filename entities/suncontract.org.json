@@ -1,0 +1,48 @@
+{
+  "name": "SNC",
+  "ens_address": "",
+  "website": "https://suncontract.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYHkwnWrcCRvE8E9xef8wALp8hdXs9eQAxRdicHYJzQKv",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/867473219367964673/oov3jhzK.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404.png",
+    "ipfs_origin": "QmavHzV4F34iZcA7iuwbTVmPJRyNsckwQ2cWSKe4ZfUBFn"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/suncontract",
+    "chat": "",
+    "facebook": "https://www.facebook.com/suncontractorg",
+    "forum": "https://bitcointalk.org/index.php?topic=1934763.0",
+    "github": "https://github.com/SunContract/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/22304821/",
+    "reddit": "https://www.reddit.com/r/suncontract",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GL05EULsRTS7hxxMfXCTVw",
+    "twitter": "https://twitter.com/sun_contract",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SNC",
+      "address": "0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404",
+      "erc20": {
+        "symbol": "SNC",
+        "decimals": 18,
+        "name": "SNC"
+      }
+    }
+  ]
+}

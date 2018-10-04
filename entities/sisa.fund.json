@@ -1,0 +1,47 @@
+{
+  "name": "SISA Token",
+  "ens_address": "",
+  "website": "https://sisa.fund/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSKF2gq4Qj35pvgqMUjDonUpH6RQgWWvLUVSs97xGovme",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/911797014941204481/Z5irI-Io.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/911797014941204481/Z5irI-Io.jpg",
+    "ipfs_origin": "QmR6XCVJs6hz38WMqKK3cZkLmaqHnHUNfKEtsgWWkxtoM1"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SISA.FUND/",
+    "forum": "",
+    "github": "https://github.com/SISAteam/SISA-Token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/teamSISA",
+    "twitter": "https://twitter.com/sisa_fund",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SISA Token",
+      "address": "0xA0aa85b54F8A7b09C845F13a09172B08925f3d54",
+      "erc20": {
+        "symbol": "SISA",
+        "decimals": 18,
+        "name": "SISA Token"
+      }
+    }
+  ]
+}

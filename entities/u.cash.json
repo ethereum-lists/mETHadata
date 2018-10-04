@@ -1,0 +1,48 @@
+{
+  "name": "UCASH",
+  "ens_address": "",
+  "website": "https://u.cash/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x92e52a1a235d9a103d970901066ce910aacefd37.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZBqpBSs3d35K4kx5u659udayKnFCwN8C8XX4CpV3ZLbG",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/986346054852530179/xpYWEYsL.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x92e52a1a235d9a103d970901066ce910aacefd37.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/986346054852530179/xpYWEYsL.jpg",
+    "ipfs_origin": "QmfSDsfxLpE9agE9uo6xNvQbtydbCGyXAFbh44Sb1re6N6"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/udotcash",
+    "forum": "",
+    "github": "https://github.com/udotcash",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ucash/",
+    "slack": "",
+    "telegram": "https://t.me/ucash",
+    "twitter": "https://twitter.com/udotcash",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "UCASH",
+      "address": "0x92e52a1A235d9A103D970901066CE910AAceFD37",
+      "erc20": {
+        "symbol": "UCASH",
+        "decimals": 8,
+        "name": "UCASH"
+      }
+    }
+  ]
+}

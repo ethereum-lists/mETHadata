@@ -1,0 +1,48 @@
+{
+  "name": "Bezop",
+  "ens_address": "",
+  "website": "https://bezop.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3839d8ba312751aa0248fed6a8bacb84308e20ed.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmX2eX89yxUjVmogobD1e4gxT5Sca6LDfMykwA2KTWyGFS",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1000433496723214339/X1Wl5xsd.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3839d8ba312751aa0248fed6a8bacb84308e20ed.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3839d8ba312751aa0248fed6a8bacb84308e20ed.png",
+    "ipfs_origin": "Qma2Pv9kFErsE5sadnr1ccYTXyvh8948a2roQQPTJPgkxn"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/bezop/",
+    "forum": "",
+    "github": "https://github.com/bezopteam",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/bezop/",
+    "slack": "",
+    "telegram": "https://t.me/bezop",
+    "twitter": "https://twitter.com/BezopNetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bezop",
+      "address": "0x3839d8ba312751Aa0248fEd6a8bACB84308E20Ed",
+      "erc20": {
+        "symbol": "Bez",
+        "decimals": 18,
+        "name": "Bezop"
+      }
+    }
+  ]
+}

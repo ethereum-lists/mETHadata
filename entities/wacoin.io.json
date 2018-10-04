@@ -1,0 +1,50 @@
+{
+  "name": "WaBi",
+  "ens_address": "",
+  "website": "https://www.wacoin.io",
+  "logo": {
+    "src": "https://etherscan.io/token/images/wacoin_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "Qmb9M6yRFC5YcapDyi4RyhTUmAgw9HyEVzbfzH8eJr6PMo",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/wacoin_28.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/wabi.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/915107716015804416/G_iaqlP3.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x286bda1413a2df81731d4930ce2f862a35a609fe.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x286bda1413a2df81731d4930ce2f862a35a609fe.png",
+    "ipfs_origin": "QmYwjTNGKn1PC7midB2kxchvg1x63Z4gS6LtjyaEm9XxB3"
+  },
+  "support": {
+    "email": "",
+    "url": "support@wacoin.io"
+  },
+  "social": {
+    "blog": "https://medium.com/@wabiico",
+    "chat": "",
+    "facebook": "https://www.facebook.com/wabiico",
+    "forum": "https://bitcointalk.org/index.php?topic=2038385.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/WabiToken",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GOTG3EIRK4fBEURKmiOYFg",
+    "twitter": "https://twitter.com/wabiico",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "WaBi",
+      "address": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
+      "erc20": {
+        "symbol": "WaBi",
+        "decimals": 18,
+        "name": "WaBi"
+      }
+    }
+  ]
+}

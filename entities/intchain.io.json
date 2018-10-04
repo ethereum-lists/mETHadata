@@ -1,0 +1,48 @@
+{
+  "name": "Internet Node Token",
+  "ens_address": "",
+  "website": "https://intchain.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0b76544f6c413a555f309bf76260d1e02377c02a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeqrXnYqj9vJQheqLAfT8S8MNntuGURxEUUK7Supdz2Zt",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/961176944019619840/X98Z1BbQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0b76544f6c413a555f309bf76260d1e02377c02a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0b76544f6c413a555f309bf76260d1e02377c02a.png",
+    "ipfs_origin": "QmNgyNahMe7udVU463a2kqYNjjNaQBreH8RcRwmuVzHqkh"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/INTChain",
+    "forum": "",
+    "github": "https://github.com/intfoundation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/INT_Chain/",
+    "slack": "https://join.slack.com/t/intchainworkspace/shared_invite/enQtMjc5MDQ0ODM3NDQ1LWFjOGU1ZDgyMjk3YzdmMTgyYTVjNjRiZDZjZmVlNjk1ODRiZjI5ODJhYTYwNjc1NjNjMzFjNjdlNGVhMjk4ODg",
+    "telegram": "https://t.me/INTChainChinese",
+    "twitter": "https://twitter.com/intchain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Internet Node Token",
+      "address": "0x0b76544F6C413a555F309Bf76260d1E02377c02A",
+      "erc20": {
+        "symbol": "INT",
+        "decimals": 6,
+        "name": "Internet Node Token"
+      }
+    }
+  ]
+}

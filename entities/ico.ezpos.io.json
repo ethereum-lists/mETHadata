@@ -1,0 +1,48 @@
+{
+  "name": "EZToken",
+  "ens_address": "",
+  "website": "https://ico.ezpos.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e6016ae7d7c49d347dcf834860b9f3ee282812b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmT9XCuquRLFtnV5gBDredYCQ6yntYycMc5T8qFkCPTXfq",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/999788125453873153/FLJUt8SR.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e6016ae7d7c49d347dcf834860b9f3ee282812b.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/999788125453873153/FLJUt8SR.jpg",
+    "ipfs_origin": "QmdLDE547tKLvPpns6gqx3PeseqVYcciaY2CgrKkzcoEqg"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/eztoken.io/",
+    "forum": "",
+    "github": "https://github.com/ezpos",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/EZPOS",
+    "slack": "",
+    "telegram": "https://t.me/eztokensupport",
+    "twitter": "https://twitter.com/eztoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EZToken",
+      "address": "0x5e6016Ae7d7C49d347dcF834860B9f3Ee282812b",
+      "erc20": {
+        "symbol": "EZT",
+        "decimals": 8,
+        "name": "EZToken"
+      }
+    }
+  ]
+}

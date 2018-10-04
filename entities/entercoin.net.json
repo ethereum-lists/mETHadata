@@ -1,0 +1,48 @@
+{
+  "name": "Enter-Coin",
+  "ens_address": "",
+  "website": "https://entercoin.net/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaf55f3b7dc65c8f9577cf00c8c5ca7b6e8cc4433.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZVWv4C3YvcdZ1LyfcdLCbyVs815YXDdticbqUuDw9d71",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/924466385568362497/6BPf85Em.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaf55f3b7dc65c8f9577cf00c8c5ca7b6e8cc4433.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/924466385568362497/6BPf85Em.jpg",
+    "ipfs_origin": "QmXELxT1XgdLV1BSepqTes2G4x5YLa1C9YBHKRpRoTYWe7"
+  },
+  "support": {
+    "email": "support@entercoin.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/entrcoin/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/entercoin/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/entercoinar",
+    "twitter": "https://twitter.com/enter_coin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Enter-Coin",
+      "address": "0xAf55F3B7DC65c8f9577cf00C8C5CA7b6E8Cc4433",
+      "erc20": {
+        "symbol": "ENTRC",
+        "decimals": 8,
+        "name": "Enter-Coin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Disciplina Token",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://disciplina.io",
+  "logo": {
+    "src": "https://disciplina.io/logo.png",
+    "width": "29",
+    "height": "29",
+    "ipfs_hash": "QmQ4pr6yzoxjP7z1o3kVvZH9SEGhSfr2yDbxvgGpXPnHwU",
+    "sources": {
+      "token-list": "https://disciplina.io/logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1017691101392723968/7_7cdI7f.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1017691101392723968/7_7cdI7f.jpg",
+    "ipfs_origin": "QmUbCsFxoVpe3qWWkLKVQN3Dgbot3vdCyfZ5pQA9sVLgF2"
+  },
+  "support": {
+    "email": "hello@disciplina.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.disciplina.io/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tchmpls.events/",
+    "forum": "https://bitcointalk.org/index.php?topic=2325715",
+    "github": "https://github.com/DisciplinaOU/disciplina",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/disciplina.io/",
+    "linkedin": "https://www.linkedin.com/company/disciplina-blockchain/",
+    "reddit": "https://www.reddit.com/user/tchmpls_events",
+    "slack": "",
+    "telegram": "https://t.me/tchmpls",
+    "twitter": "https://twitter.com/tchmpls_events",
+    "youtube": "https://www.youtube.com/c/TCHMPLSEVENTS"
+  },
+  "eth": [
+    {
+      "name": "Disciplina Token",
+      "address": "0x03e3f0c25965f13DbbC58246738C183E27b26a56",
+      "erc20": {
+        "symbol": "DSCP",
+        "decimals": 18,
+        "name": "Disciplina Token"
+      }
+    }
+  ]
+}

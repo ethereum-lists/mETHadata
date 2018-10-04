@@ -1,0 +1,48 @@
+{
+  "name": "ICOS",
+  "ens_address": "",
+  "website": "https://icos.icobox.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x014b50466590340d41307cc54dcee990c8d58aa8.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUijbF5D23eUbtu7zxJBrxHZ3JZtnMwXVsEvpHktqnJ4K",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/936704323005722624/ECbjQJ9O.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x014b50466590340d41307cc54dcee990c8d58aa8.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x014b50466590340d41307cc54dcee990c8d58aa8.png",
+    "ipfs_origin": "QmRoPuVyEji64aaUWDrUs18vxU9VZkExFxrUAcv5fKztBZ"
+  },
+  "support": {
+    "email": "khovratovich@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/icobox-io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/icobox.io",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://slack.icobox.io/",
+    "telegram": "tg://resolve?domain=ICOSen",
+    "twitter": "https://twitter.com/ICOBox_Japan",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ICOS",
+      "address": "0x014B50466590340D41307Cc54DCee990c8D58aa8",
+      "erc20": {
+        "symbol": "ICOS",
+        "decimals": 6,
+        "name": "ICOS"
+      }
+    }
+  ]
+}

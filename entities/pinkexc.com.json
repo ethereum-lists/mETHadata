@@ -1,0 +1,47 @@
+{
+  "name": "LIFECREDIT",
+  "ens_address": "",
+  "website": "http://www.pinkexc.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qma3LB2BQdD8ZzmZycAjM9LrUAKFL2djEozeDrykcq4y3S",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/980782831809970176/7UezG72y.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/980782831809970176/7UezG72y.jpg",
+    "ipfs_origin": "QmWigHv4yUMjG1VxXBqC8krChE41TCMwEoGjzR2KoYeDft"
+  },
+  "support": {
+    "email": "admin@pinkexc.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Choose-LIFE-505108983187521/?ref=bookmarks",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://join.slack.com/t/pinkexclife/shared_invite/MjQwMTM4MzQzNjIzLTE1MDUxMTk4NTYtNjc3NGI5Mjk0Mw",
+    "telegram": "https://t.me/pinkexclife",
+    "twitter": "https://twitter.com/pinkexc",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "LIFECREDIT",
+      "address": "0xce61f5e6D1fE5a86E246F68AFF956f7757282eF0",
+      "erc20": {
+        "symbol": "1LIFE",
+        "decimals": 18,
+        "name": "LIFECREDIT"
+      }
+    }
+  ]
+}

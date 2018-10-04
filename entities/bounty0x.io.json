@@ -1,0 +1,49 @@
+{
+  "name": "Bounty0x Token",
+  "ens_address": "",
+  "website": "https://bounty0x.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd2d6158683aee4cc838067727209a0aaf4359de3.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQxLjrnzrhrDvUfoRAkF58tbVeJuCZ6Aywsc9zhCvXyWM",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/bnty.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/939186167232077824/V2oi8IkC.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd2d6158683aee4cc838067727209a0aaf4359de3.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd2d6158683aee4cc838067727209a0aaf4359de3.png",
+    "ipfs_origin": "QmXX9ZE4TjtQquAj97Q1g6mxZWUFXod72LkUuYEuQ8jrqo"
+  },
+  "support": {
+    "email": "contact@bounty0x.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.bounty0x.io/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bounty0x",
+    "forum": "https://bitcointalk.org/index.php?topic=2285672.0",
+    "github": "https://github.com/bounty0x",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Bounty0x",
+    "slack": "",
+    "telegram": "https://t.me/bounty0x",
+    "twitter": "https://twitter.com/bounty0x",
+    "youtube": "https://www.youtube.com/channel/UCz6Sy-x4BhFR8CDT2bjGrLw"
+  },
+  "eth": [
+    {
+      "name": "Bounty0x Token",
+      "address": "0xd2d6158683aeE4Cc838067727209a0aAF4359de3",
+      "erc20": {
+        "symbol": "BNTY",
+        "decimals": 18,
+        "name": "Bounty0x Token"
+      }
+    }
+  ]
+}

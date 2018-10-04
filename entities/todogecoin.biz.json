@@ -1,0 +1,42 @@
+{
+  "name": "TDT",
+  "ens_address": "",
+  "website": "http://todogecoin.biz/tdt/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TDT",
+      "address": "0xC99Ddc30BB0cf76B07d90DcB6B267B8352697bEf",
+      "erc20": {
+        "symbol": "TDT",
+        "decimals": 18,
+        "name": "TDT"
+      }
+    }
+  ]
+}

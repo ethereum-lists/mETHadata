@@ -1,0 +1,47 @@
+{
+  "name": "EXN",
+  "ens_address": "",
+  "website": "http://www.exchangen.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0766e79a6fd74469733e8330b3b461c0320ff059.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVgFz2KNjHQBghmiV52MZvNzXfcXCmWHm4h9BjThYLYUg",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0766e79a6fd74469733e8330b3b461c0320ff059.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0766e79a6fd74469733e8330b3b461c0320ff059.png",
+    "ipfs_origin": "QmNpSEoDiZvigeRmijSmDFJjC2dpo2pAiHzJLTLiNozP4e"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EXN",
+      "address": "0x0766e79A6fD74469733e8330b3b461C0320fF059",
+      "erc20": {
+        "symbol": "EXN",
+        "decimals": 18,
+        "name": "EXN"
+      }
+    }
+  ]
+}

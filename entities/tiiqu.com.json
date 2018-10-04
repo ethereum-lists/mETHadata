@@ -1,0 +1,47 @@
+{
+  "name": "TiiQu's Q Token",
+  "ens_address": "",
+  "website": "http://tiiqu.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTjEguwcPMf8ZP972GfdTHqLYzVHxENonXqrMFasCxN7h",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1009897328113831937/t0ASOZLO.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1009897328113831937/t0ASOZLO.jpg",
+    "ipfs_origin": "QmZfFwyEcSEbmiMUJJEmzroZ4y23HfhX2AL13NyZNM6xYJ"
+  },
+  "support": {
+    "email": "samuel.hr@tiiqu.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/TiiQu-Network/TiiQu-Network",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TiiQu",
+    "slack": "https://tiiqu.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/tiiqu_network",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TiiQu's Q Token",
+      "address": "0x2C3C1F05187dBa7A5f2Dd47Dca57281C4d4F183F",
+      "erc20": {
+        "symbol": "QTQ",
+        "decimals": 18,
+        "name": "TiiQu's Q Token"
+      }
+    }
+  ]
+}

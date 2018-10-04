@@ -1,0 +1,48 @@
+{
+  "name": "CryptoCrashCourse",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "http://cryptocrashcourse.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28577a6d31559bd265ce3adb62d0458550f7b8a7.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbzUqXwif73uaWHq5mFbnBrcZGBLfJg99KqEourC7E3ob",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28577a6d31559bd265ce3adb62d0458550f7b8a7.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28577a6d31559bd265ce3adb62d0458550f7b8a7.png",
+    "ipfs_origin": "QmR2rjaRYLC5xLBjXQBjgC8vQCScAUhVHhhh6X3tusCaBQ"
+  },
+  "support": {
+    "email": "support@blockchainlead.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/blockchainlead",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CryptoCrashCourse",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CryptoCrashCourse",
+      "address": "0x28577A6d31559bd265Ce3ADB62d0458550F7b8a7",
+      "erc20": {
+        "symbol": "CCC (CryptoCrashCourse)",
+        "decimals": 18,
+        "name": "CryptoCrashCourse"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "IPSX",
+  "ens_address": "",
+  "website": "https://ip.sx",
+  "logo": {
+    "src": "https://ip.sx/images/IPSX-Logo-28x28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "Qmb4uEMHBPkhXi7ugh566tMLkf9Xt9qwShcbQZk8z3Vpy3",
+    "sources": {
+      "token-list": "https://ip.sx/images/IPSX-Logo-28x28.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x001f0aa5da15585e5b2305dbab2bac425ea71007.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x001f0aa5da15585e5b2305dbab2bac425ea71007.png",
+    "ipfs_origin": "QmWyxuzS9HRfL5uGecumnrFjwL3EQNNXwTHEFM56LoamzY"
+  },
+  "support": {
+    "email": "contact@ip.sx",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.ip.sx/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "IPSX",
+      "address": "0x001F0aA5dA15585e5b2305DbaB2bac425ea71007",
+      "erc20": {
+        "symbol": "IPSX",
+        "decimals": 18,
+        "name": "IPSX"
+      }
+    }
+  ]
+}

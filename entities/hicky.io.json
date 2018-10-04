@@ -1,0 +1,48 @@
+{
+  "name": "Hicky",
+  "ens_address": "",
+  "website": "https://hicky.io",
+  "logo": {
+    "src": "http://hicky.io/assets/img/hicky-icon.svg",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmcqpzcVSnRrSoiCYXoRUxsChDReaFwCgtSasYZ1hdXmQP",
+    "sources": {
+      "token-list": "http://hicky.io/assets/img/hicky-icon.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/931104712354598912/D41Sy1qr.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/931104712354598912/D41Sy1qr.jpg",
+    "ipfs_origin": "Qmb7v8P1zhnDwpEBqGwpBg2hQfGcor7rWG6ZPSyUuz6onU"
+  },
+  "support": {
+    "email": "support@hicky.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/hickynews",
+    "chat": "https://t.me/getpicky",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/HickyToken/hickycontracts",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/getpicky",
+    "twitter": "https://twitter.com/HickyDapp",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Hicky",
+      "address": "0x88aC94D5d175130347Fc95E109d77AC09dbF5ab7",
+      "erc20": {
+        "symbol": "HKY",
+        "decimals": 18,
+        "name": "Hicky"
+      }
+    }
+  ]
+}

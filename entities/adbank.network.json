@@ -1,0 +1,48 @@
+{
+  "name": "AdBank",
+  "ens_address": "",
+  "website": "https://adbank.network/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2baac9330cf9ac479d819195794d79ad0c7616e3.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSDxRmNJim1zbYaKz5HiCwVeWg1xNUXaTtFo5ZaYmBGrC",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/929130977909075968/PBl8f9Th.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2baac9330cf9ac479d819195794d79ad0c7616e3.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/929130977909075968/PBl8f9Th.jpg",
+    "ipfs_origin": "QmcKyqnkkMRcHff7Saa8sKV8TruSFjcGeGPdHnjaBThA7a"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/adbanknetwork",
+    "forum": "",
+    "github": "https://github.com/Adbank",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/adbank/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GPdeT0mPAe7bz36x-FSQ1w",
+    "twitter": "https://twitter.com/adbanknetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AdBank",
+      "address": "0x2baac9330Cf9aC479D819195794d79AD0c7616e3",
+      "erc20": {
+        "symbol": "ADB",
+        "decimals": 18,
+        "name": "AdBank"
+      }
+    }
+  ]
+}

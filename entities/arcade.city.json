@@ -1,0 +1,48 @@
+{
+  "name": "Arcade Token",
+  "ens_address": "",
+  "website": "https://arcade.city",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xac709fcb44a43c35f0da4e3163b117a17f3770f5.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSp5vbo9BhWbjyuYY3BLgYvoo5goj2yTDffdWPGUXtioJ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/930517003944824834/xLgEoQaY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xac709fcb44a43c35f0da4e3163b117a17f3770f5.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xac709fcb44a43c35f0da4e3163b117a17f3770f5.png",
+    "ipfs_origin": "QmQ6KMLNEgttxFei2fSeTFu5SCoUb3E1YYja7w6Xj6PmoE"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.arcade.city/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ArcadeCityHall",
+    "forum": "https://bitcointalk.org/index.php?topic=1671071.0",
+    "github": "https://github.com/swarmcity/ac-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ArcadeCityApp/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/ArcadeCityHall",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Arcade Token",
+      "address": "0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5",
+      "erc20": {
+        "symbol": "ARC",
+        "decimals": 18,
+        "name": "Arcade Token"
+      }
+    }
+  ]
+}

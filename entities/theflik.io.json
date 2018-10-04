@@ -1,0 +1,48 @@
+{
+  "name": "FLiK",
+  "ens_address": "",
+  "website": "http://www.theflik.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17fd666fa0784885fa1afec8ac624d9b7e72b752.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWX8qxrVgm2qH8meYPYB3hhg8Vm13XoaSyHkDziaGoVm3",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/894587678640881665/ReGyg5QF.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17fd666fa0784885fa1afec8ac624d9b7e72b752.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17fd666fa0784885fa1afec8ac624d9b7e72b752.png",
+    "ipfs_origin": "QmZe3yD1dJHXYx5eUzx9g3bdDqCpAUqW9uASRUC5iHLH7a"
+  },
+  "support": {
+    "email": "flikcoin@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://www.theflik.io/blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/theflik.io/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/theflikio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "FLiK",
+      "address": "0x17fD666fa0784885fa1AFEc8AC624d9b7e72B752",
+      "erc20": {
+        "symbol": "FLIK",
+        "decimals": 14,
+        "name": "FLiK"
+      }
+    }
+  ]
+}

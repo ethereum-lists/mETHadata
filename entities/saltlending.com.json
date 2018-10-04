@@ -1,0 +1,49 @@
+{
+  "name": "Salt Lending Token",
+  "ens_address": "",
+  "website": "https://saltlending.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4156d3342d5c385a87d264f90653733592000581.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVh8ntNnwnEystBdttKDgzRG3av3q8PxLa6NoLZPdDTdL",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/salt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/871410900040769536/zWH519tZ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4156d3342d5c385a87d264f90653733592000581.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/871410900040769536/zWH519tZ.jpg",
+    "ipfs_origin": "QmYE4jYS2pU16P4eHbwAdPiyDLSx1eVWYQHD6stib6pxCi"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SALTLENDING/",
+    "forum": "https://bitcointalk.org/index.php?topic=2051305.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SaltTrader/",
+    "slack": "saltcommunity.slack.com",
+    "telegram": "https://t.me/joinchat/EpqzL0Kgf4cHYDv1JVSeRw",
+    "twitter": "https://twitter.com/SaltLending",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Salt Lending Token",
+      "address": "0x4156D3342D5c385a87D264F90653733592000581",
+      "erc20": {
+        "symbol": "SALT",
+        "decimals": 8,
+        "name": "Salt Lending Token"
+      }
+    }
+  ]
+}

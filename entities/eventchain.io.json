@@ -1,0 +1,48 @@
+{
+  "name": "EventChain",
+  "ens_address": "",
+  "website": "https://eventchain.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmT1Wgmp3HuurFpJpt5LC89SQkJqAx9Rw9kp8g7FaawP9S",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/994987867699953665/u85I6Q7z.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/994987867699953665/u85I6Q7z.jpg",
+    "ipfs_origin": "Qma9beMBdR7UoW5tACM6wyq76b4ErutzUQ6fDSv1qXg5YV"
+  },
+  "support": {
+    "email": "team@eventchain.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/EventChain",
+    "forum": "",
+    "github": "https://github.com/eventchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/EventChain",
+    "reddit": "https://www.reddit.com/r/eventchain",
+    "slack": "https://join.slack.com/t/eventchain/shared_invite/enQtMjQzMDM1MDQ3MzE0LTMxY2IzNGUxN2RkNTkyOGY2YTQzYjYzODM3YmNmMDQ4YzVkMjE1ZWYyNzYwYzc4NzllZDVkZDhmYzlmZjc1YjE",
+    "telegram": "https://www.t.me/EventChain",
+    "twitter": "https://twitter.com/eventchain_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EventChain",
+      "address": "0xb62d18DeA74045E822352CE4B3EE77319DC5ff2F",
+      "erc20": {
+        "symbol": "EVC",
+        "decimals": 18,
+        "name": "EventChain"
+      }
+    }
+  ]
+}

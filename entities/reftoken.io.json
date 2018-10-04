@@ -1,0 +1,48 @@
+{
+  "name": "RefToken",
+  "ens_address": "",
+  "website": "https://reftoken.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x89303500a7abfb178b274fd89f2469c264951e1f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbW1SGFvX1tAshZtREPFhBisBVJKQdnN7hY7zunHaCsTE",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/881699579300900864/6Mt9KEhx.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x89303500a7abfb178b274fd89f2469c264951e1f.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/881699579300900864/6Mt9KEhx.jpg",
+    "ipfs_origin": "QmbfnGSAticsnV5Yd2a8Lzh4HuaxAbY9e2FZs8JEMV51V3"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://reftoken.io/blog/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/RefToken/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/RefToken/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FNA3DhL4z7T6Ov5zBnMXJw",
+    "twitter": "https://twitter.com/reftoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "RefToken",
+      "address": "0x89303500a7Abfb178B274FD89F2469C264951e1f",
+      "erc20": {
+        "symbol": "REF",
+        "decimals": 8,
+        "name": "RefToken"
+      }
+    }
+  ]
+}

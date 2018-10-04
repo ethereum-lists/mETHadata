@@ -1,0 +1,48 @@
+{
+  "name": "SNIP",
+  "ens_address": "",
+  "website": "https://www.snip.network",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x44f588aeeb8c44471439d1270b3603c66a9262f1.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmU7yXMacsd8ijbdMYoF8bK2zN4osD1XVBMuERRozQP5jq",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1021553696717434880/B0eYf-Kh.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x44f588aeeb8c44471439d1270b3603c66a9262f1.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1021553696717434880/B0eYf-Kh.jpg",
+    "ipfs_origin": "QmWPUogtNq6Xw7TMbVDQnZ6uq1nGoQanvv96i6aWyzSXjz"
+  },
+  "support": {
+    "email": "info@snip.today",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/snip-news",
+    "chat": "",
+    "facebook": "https://www.facebook.com/sniptoday",
+    "forum": "",
+    "github": "https://github.com/sniptoday",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/17955347/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/sniptoday",
+    "twitter": "https://www.twitter.com/sniptoday",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SNIP",
+      "address": "0x44F588aEeB8C44471439D1270B3603c66a9262F1",
+      "erc20": {
+        "symbol": "SNIP",
+        "decimals": 18,
+        "name": "SNIP"
+      }
+    }
+  ]
+}

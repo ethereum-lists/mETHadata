@@ -1,0 +1,48 @@
+{
+  "name": "MAN",
+  "ens_address": "",
+  "website": "https://www.matrix.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcTqc1jLBzxZ23gV1n6vsbLHVFuewTKHRwPzmvRRNDLxL",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/946644436305326080/5BvKCUBV.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d.png",
+    "ipfs_origin": "QmcSkRaF6NzCXvCF26FvZnn8sJPaiL4X61AZox3V57wMSY"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/MATRIXAINetworks/",
+    "forum": "https://bitcointalk.org/index.php?topic=2669586",
+    "github": "https://github.com/MatrixAINetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/MatrixAINetwork/",
+    "slack": "",
+    "telegram": "https://t.me/matrixainetwork",
+    "twitter": "https://twitter.com/MatrixAINetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MAN",
+      "address": "0xe25bCec5D3801cE3a794079BF94adF1B8cCD802D",
+      "erc20": {
+        "symbol": "MAN",
+        "decimals": 18,
+        "name": "MAN"
+      }
+    }
+  ]
+}

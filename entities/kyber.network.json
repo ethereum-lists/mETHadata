@@ -1,0 +1,49 @@
+{
+  "name": "Kyber Network",
+  "ens_address": "",
+  "website": "https://kyber.network",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd974d5c2e2928dea5f71b9825b8b646686bd200.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmS7PtUNqTjc6vzcTrouHXdpxLssRjKC2kbsY47nUVVgGc",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/knc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1010072045848166400/JG-bbFsG.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd974d5c2e2928dea5f71b9825b8b646686bd200.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1010072045848166400/JG-bbFsG.jpg",
+    "ipfs_origin": "QmPZ5M1QGq1yroZ78R3a3mN4uJLZeDRVdQeg4pHz67srpD"
+  },
+  "support": {
+    "email": "hello@kyber.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.kyber.network/",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2249949.0",
+    "github": "https://github.com/KyberNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/kybernetwork",
+    "slack": "https://kybernetwork.slack.com",
+    "telegram": "https://t.me/kybernetwork",
+    "twitter": "https://twitter.com/KyberNetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Kyber Network",
+      "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+      "erc20": {
+        "symbol": "KNC",
+        "decimals": 18,
+        "name": "Kyber Network"
+      }
+    }
+  ]
+}

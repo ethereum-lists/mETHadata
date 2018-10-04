@@ -1,0 +1,48 @@
+{
+  "name": "Sportify",
+  "ens_address": "",
+  "website": "https://sportyfi.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYMj3XNX5THn5LkaBgKQCQ1B3Ur4vqQeB2yhCjDd4zuuA",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/959355779756253184/j1ZzfNkj.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/959355779756253184/j1ZzfNkj.jpg",
+    "ipfs_origin": "QmQ9gVeg9DbEAdUYCaje37La9p8y2tQNLeEEvszvKKL9ae"
+  },
+  "support": {
+    "email": "support@sportyfi.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/sportyfi",
+    "chat": "",
+    "facebook": "https://fb.me/SportyCo.io",
+    "forum": "",
+    "github": "https://github.com/sportyfi",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SportyCo",
+    "slack": "",
+    "telegram": "https://t.me/sportyfi_official",
+    "twitter": "https://twitter.com/sportyfi_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Sportify",
+      "address": "0x85089389C14Bd9c77FC2b8F0c3d1dC3363Bf06Ef",
+      "erc20": {
+        "symbol": "SPF",
+        "decimals": 18,
+        "name": "Sportify"
+      }
+    }
+  ]
+}

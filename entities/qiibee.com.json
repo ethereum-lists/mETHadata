@@ -1,0 +1,48 @@
+{
+  "name": "qiibeeToken",
+  "ens_address": "",
+  "website": "https://www.qiibee.com",
+  "logo": {
+    "src": "https://avatars0.githubusercontent.com/u/31820267?s=400&u=f671cf8b24876d0dddf9b16930d31cc2114103eb&v=4",
+    "width": "378",
+    "height": "378",
+    "ipfs_hash": "QmX7TL7RGzRBCjtEs7zi16hhCSgCfns1RGZABtnw7dUSrN",
+    "sources": {
+      "token-list": "https://avatars0.githubusercontent.com/u/31820267?s=400&u=f671cf8b24876d0dddf9b16930d31cc2114103eb&v=4",
+      "twitter": "http://pbs.twimg.com/profile_images/875617691100299265/hOrnp_b_.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/875617691100299265/hOrnp_b_.jpg",
+    "ipfs_origin": "QmRzJocHhc1R8NUBL41txuVrTMZZr2nnfsfX2L35Sv8LCy"
+  },
+  "support": {
+    "email": "support@qiibee.com",
+    "url": "https://qiibee.com"
+  },
+  "social": {
+    "blog": "https://blog.qiibee.com",
+    "chat": "",
+    "facebook": "https://www.facebook.com/qiibee",
+    "forum": "",
+    "github": "https://github.com/qiibee",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/qiibee",
+    "linkedin": "https://www.linkedin.com/company/qiibee-ag",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/qiibee",
+    "twitter": "https://twitter.com/qiibee",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "qiibeeToken",
+      "address": "0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC",
+      "erc20": {
+        "symbol": "QBX",
+        "decimals": 18,
+        "name": "qiibeeToken"
+      }
+    }
+  ]
+}

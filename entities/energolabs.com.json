@@ -1,0 +1,47 @@
+{
+  "name": "Energo",
+  "ens_address": "",
+  "website": "http://www.energolabs.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x03806ce5ef69bd9780edfb04c29da1f23db96294.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcDzj4r2USVsnxb5zoqTUKjc1VC4fLMyocqzeDzLZt6i4",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x03806ce5ef69bd9780edfb04c29da1f23db96294.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x03806ce5ef69bd9780edfb04c29da1f23db96294.png",
+    "ipfs_origin": "QmYwxY3Qpp564ZeGNmLxYuquztLKBZqRqEWzvYX56YWHdr"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/EnergoLabs",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/EnergoEnglishCommunity",
+    "twitter": "https://twitter.com/energo2017",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Energo",
+      "address": "0x03806Ce5ef69Bd9780EDFb04c29da1F23Db96294",
+      "erc20": {
+        "symbol": "TSL",
+        "decimals": 18,
+        "name": "Energo"
+      }
+    }
+  ]
+}

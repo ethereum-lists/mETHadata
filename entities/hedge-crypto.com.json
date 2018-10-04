@@ -1,0 +1,48 @@
+{
+  "name": "Hedge Crypto",
+  "ens_address": "",
+  "website": "https://www.hedge-crypto.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffe8196bc259e8dedc544d935786aa4709ec3e64.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTQYvSUAQJU3iWKanfK5WUUMso8nBkytxaPeaGxM54HCK",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/993392425489125376/a-DRgJ5Z.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffe8196bc259e8dedc544d935786aa4709ec3e64.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xffe8196bc259e8dedc544d935786aa4709ec3e64.png",
+    "ipfs_origin": "QmbvUUu1EUfozBTFcutmxu1DDHH91763pLsqrjFgK2BKfy"
+  },
+  "support": {
+    "email": "info@hedge-crypto.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/hedge-token",
+    "chat": "",
+    "facebook": "https://www.facebook.com/hedgetoken/",
+    "forum": "https://bitcointalk.org/index.php?topic=2142867",
+    "github": "https://github.com/HedgeToken/Hedge-Token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/HedgeToken/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/F5fglQ7DVPV2wi4JK8Mw9A",
+    "twitter": "https://twitter.com/hedgetoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Hedge Crypto",
+      "address": "0xfFe8196bc259E8dEDc544d935786Aa4709eC3E64",
+      "erc20": {
+        "symbol": "HDG",
+        "decimals": 18,
+        "name": "Hedge Crypto"
+      }
+    }
+  ]
+}

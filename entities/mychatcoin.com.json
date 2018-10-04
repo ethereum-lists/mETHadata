@@ -1,0 +1,47 @@
+{
+  "name": "Mychatcoin",
+  "ens_address": "",
+  "website": "https://mychatcoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmU96fnNBt5uhNdiMUpgXKPvXZ2sFQdjVBQ7kG8gXTcSEi",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/982719594799517696/IenNZvRH.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/982719594799517696/IenNZvRH.jpg",
+    "ipfs_origin": "QmY1xJC3FbCaoAYyGuHYMvK4Tc42zAnSSbmeojFUkKMpeR"
+  },
+  "support": {
+    "email": "support@mychatcoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "t.me/mychatcoin",
+    "twitter": "https://twitter.com/mychatcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Mychatcoin",
+      "address": "0xAd8DD4c725dE1D31b9E8F8D146089e9DC6882093",
+      "erc20": {
+        "symbol": "MIT (Mychatcoin)",
+        "decimals": 6,
+        "name": "Mychatcoin"
+      }
+    }
+  ]
+}

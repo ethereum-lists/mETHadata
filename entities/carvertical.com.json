@@ -1,0 +1,48 @@
+{
+  "name": "carVertical",
+  "ens_address": "",
+  "website": "https://www.carvertical.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xda6cb58a0d0c01610a29c5a65c303e13e885887c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTRjGMBHqNuReNfp1qUCVwWurcJYh9Xxy3JqeVVLNzKsT",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1005655153205055488/iP2fE1Gs.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xda6cb58a0d0c01610a29c5a65c303e13e885887c.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1005655153205055488/iP2fE1Gs.jpg",
+    "ipfs_origin": "QmNteeYieeQqaGrixnk6yXUDQbGgKHuyuGx7SJAFHpHSi4"
+  },
+  "support": {
+    "email": "info@carvertical.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.carvertical.com/#blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cartaxi.io",
+    "forum": "https://bitcointalk.org/index.php?topic=2113124",
+    "github": "https://github.com/carVertical",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/carvertical.io",
+    "linkedin": "https://www.linkedin.com/company/18321878",
+    "reddit": "https://www.reddit.com/r/carVertical",
+    "slack": "",
+    "telegram": "https://t.me/carVerticalio",
+    "twitter": "https://twitter.com/verticalcar",
+    "youtube": "https://www.youtube.com/channel/UCRqoBXtP2v0H8C844YN8mdA"
+  },
+  "eth": [
+    {
+      "name": "carVertical",
+      "address": "0xdA6cb58A0D0C01610a29c5A65c303e13e885887C",
+      "erc20": {
+        "symbol": "cV",
+        "decimals": 18,
+        "name": "carVertical"
+      }
+    }
+  ]
+}

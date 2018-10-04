@@ -1,0 +1,48 @@
+{
+  "name": "Primas",
+  "ens_address": "",
+  "website": "https://primas.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3fedaecd47aa8eab6b23227b0ee56f092c967a9.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmfHuJQMe4reeKZUgFHr6fpfpV8PTnjgee4FnahJhVaF7x",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1021286894544359425/0O7i3AiR.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3fedaecd47aa8eab6b23227b0ee56f092c967a9.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1021286894544359425/0O7i3AiR.jpg",
+    "ipfs_origin": "Qmf9Mcd6iwHJeLu8TNXMSRanCKsEuTn2LuLJv52FCZErHB"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/summer.primas",
+    "forum": "",
+    "github": "https://github.com/primasio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Primas/",
+    "slack": "https://slack.primas.io/",
+    "telegram": "https://t.me/primasofficial",
+    "twitter": "https://twitter.com/PrimasOfficial",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Primas",
+      "address": "0xE3feDAeCD47aa8EAb6b23227b0eE56F092C967a9",
+      "erc20": {
+        "symbol": "PST",
+        "decimals": 18,
+        "name": "Primas"
+      }
+    }
+  ]
+}

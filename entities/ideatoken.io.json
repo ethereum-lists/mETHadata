@@ -1,0 +1,47 @@
+{
+  "name": "IDEA Token",
+  "ens_address": "",
+  "website": "http://www.ideatoken.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRm5HWohTijCaFEnpt9kZARZsWfHTbrn8goCFMeusgtrp",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/898824557628239872/K-isqqOu.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/898824557628239872/K-isqqOu.jpg",
+    "ipfs_origin": "QmasE16ScskcnsENALVpHaLzyKxkM66DYQWVDYWGdww5Eg"
+  },
+  "support": {
+    "email": "james@embermine.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/IDEA-Token-195695784302309/",
+    "forum": "https://bitcointalk.org/index.php?topic=2172438.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/IdeaToken",
+    "twitter": "https://twitter.com/IdeaToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "IDEA Token",
+      "address": "0x814CAfd4782d2e728170FDA68257983F03321c58",
+      "erc20": {
+        "symbol": "IDEA",
+        "decimals": 0,
+        "name": "IDEA Token"
+      }
+    }
+  ]
+}

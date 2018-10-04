@@ -1,0 +1,48 @@
+{
+  "name": "ContentBox",
+  "ens_address": "",
+  "website": "https://contentbox.one/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeYapuaT6jdQAGZ9k8X3GLow3HtwtEidL5LrL5akqdCTz",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1001875773874061312/Gwq-V1zh.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1001875773874061312/Gwq-V1zh.jpg",
+    "ipfs_origin": "QmZ3V2R7WCc4Be4xQuakFmhPHVipU3spYGvVtbGST5vqiW"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/contentboxone/",
+    "forum": "",
+    "github": "https://github.com/BOXFoundation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ContentBoxOfficial/",
+    "slack": "",
+    "telegram": "https://t.me/BoxCommunity",
+    "twitter": "https://twitter.com/Contentbox_one",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ContentBox",
+      "address": "0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f",
+      "erc20": {
+        "symbol": "BOX",
+        "decimals": 18,
+        "name": "ContentBox"
+      }
+    }
+  ]
+}

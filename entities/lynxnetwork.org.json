@@ -1,0 +1,42 @@
+{
+  "name": "Lynx",
+  "ens_address": "",
+  "website": "https://www.lynxnetwork.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "contact@lynxnetwork.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://telegram.me/lynx_network",
+    "twitter": "https://twitter.com/Lynx_Network?lang=en",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Lynx",
+      "address": "0xa51D948Ff15fBAbac476aF160CBa6901cE47f4B0",
+      "erc20": {
+        "symbol": "LNT",
+        "decimals": 18,
+        "name": "Lynx"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "CrowdHolding",
+  "ens_address": "",
+  "website": "https://www.crowdholding.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd9a12cde03a86e800496469858de8581d3a5353d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcD8N4efAbsmbQoiR9i7zbgEnXs4zbGP4PPiZ8ZJMnbxx",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1006212812623040514/vSQmZ74Z.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd9a12cde03a86e800496469858de8581d3a5353d.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd9a12cde03a86e800496469858de8581d3a5353d.png",
+    "ipfs_origin": "QmcAwKw2H9SgvUb3pTJc1MproRAnTgwL2APjC2buG6eafo"
+  },
+  "support": {
+    "email": "hello@crowdholding.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@crowdholding",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Crowdholding/",
+    "forum": "",
+    "github": "https://github.com/crowdholding/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Crowdholding/",
+    "slack": "",
+    "telegram": "https://t.me/Crowdholding",
+    "twitter": "https://twitter.com/crowdholding",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "YUP",
+      "address": "0xD9A12Cde03a86E800496469858De8581D3A5353d",
+      "erc20": {
+        "symbol": "YUP",
+        "decimals": 18,
+        "name": "YUP"
+      }
+    },
+    {
+      "name": "YUPIE",
+      "address": "0x0F33bb20a282A7649C7B3AFf644F084a9348e933",
+      "erc20": {
+        "symbol": "YUPIE",
+        "decimals": 18,
+        "name": "YUPIE"
+      },
+      "url": "https://github.com/crowdholdingico/YupieSmartContract"
+    }
+  ]
+}

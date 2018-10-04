@@ -1,0 +1,57 @@
+{
+  "name": "VibeHub",
+  "ens_address": "",
+  "website": "http://vibehub.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUeGYRkuVwJW5feNq8ZBfNzWRSjLX9pLVivJbLg3YPBok",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/957803523038625794/M4xuMWzW.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/957803523038625794/M4xuMWzW.jpg",
+    "ipfs_origin": "QmVRu5VdthtChpSi8nNKURgVookZJ7GRtnWvhAgfGhANcv"
+  },
+  "support": {
+    "email": "",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeFYeXPb9NtYTNskdGXoxGSm8TQo5qBw8PsW8Q68fsVGRgsQg/viewform"
+  },
+  "social": {
+    "blog": "https://medium.com/@VIBEHUBNEWS",
+    "chat": "",
+    "facebook": "https://www.facebook.com/vibehubvr/",
+    "forum": "https://bitcointalk.org/index.php?topic=2044729",
+    "github": "https://github.com/amack2u/VibeHub",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/vibehub.io/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/VibeHub",
+    "slack": "https://goo.gl/uf6Tvh",
+    "telegram": "http://t.me/VIBEHub2",
+    "twitter": "https://twitter.com/VibeHubVR",
+    "youtube": "https://www.youtube.com/channel/UCbZuYQJpz2G2x2Y2eIbw_UA"
+  },
+  "eth": [
+    {
+      "name": "VIBEX Exchange Token",
+      "address": "0x882448f83d90B2bf477Af2eA79327fDEA1335D93",
+      "erc20": {
+        "symbol": "VIBEX",
+        "decimals": 18,
+        "name": "VIBEX Exchange Token"
+      },
+      "url": "http://vibehub.io/ico"
+    },
+    {
+      "name": "VIBEX",
+      "address": "0xe8Ff5C9c75dEb346acAc493C463C8950Be03Dfba",
+      "erc20": {
+        "symbol": "VIBEX",
+        "decimals": 18,
+        "name": "VIBEX"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "sennitoken",
+  "ens_address": "",
+  "website": "http://sennitoken.tk/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "sennitoken",
+      "address": "0xd04963dE435BD4d25B1Cc8f05870F49eDbfc8C18",
+      "erc20": {
+        "symbol": "SNI",
+        "decimals": 18,
+        "name": "sennitoken"
+      }
+    }
+  ]
+}

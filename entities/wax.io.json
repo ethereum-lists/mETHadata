@@ -1,0 +1,49 @@
+{
+  "name": "WAX",
+  "ens_address": "",
+  "website": "https://wax.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x39bb259f66e1c59d5abef88375979b4d20d98022.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQs25zCNJapNTJpzLZa1U8ZDqqSDKyHnjUZNfTWVFNhqB",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/wax.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/974678085579694080/w72iJq03.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x39bb259f66e1c59d5abef88375979b4d20d98022.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/wax.svg",
+    "ipfs_origin": "QmSCxtByq7VQdZwMt4P7i3Zk9gVLQjdA6WbAfbddJzRAD1"
+  },
+  "support": {
+    "email": "support@wax.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/wax-io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/WAX.io.Community",
+    "forum": "https://bitcointalk.org/index.php?topic=2237916.0",
+    "github": "https://github.com/waxio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/WAX_io",
+    "slack": "",
+    "telegram": "https://t.me/waxtokenannoucements",
+    "twitter": "https://twitter.com/wax_io",
+    "youtube": "https://www.youtube.com/channel/UCQPwMpYKMDiudnw41QwliHQ"
+  },
+  "eth": [
+    {
+      "name": "WAX",
+      "address": "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022",
+      "erc20": {
+        "symbol": "WAX",
+        "decimals": 8,
+        "name": "WAX"
+      }
+    }
+  ]
+}

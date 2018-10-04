@@ -1,0 +1,48 @@
+{
+  "name": "GSENetwork",
+  "ens_address": "",
+  "website": "https://www.gse.network",
+  "logo": {
+    "src": "https://www.gse.network/static/media/gse-logo.png",
+    "width": "120",
+    "height": "120",
+    "ipfs_hash": "QmZBn6q9kXsEr14pLrR4N1YSVCvjfznDkU6c3VAoDH8DdY",
+    "sources": {
+      "token-list": "https://www.gse.network/static/media/gse-logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1033933814957928448/2r0eNWcS.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe530441f4f73bdb6dc2fa5af7c3fc5fd551ec838.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1033933814957928448/2r0eNWcS.jpg",
+    "ipfs_origin": "QmbhwtPns29cSHH3Smon15YS28duE42iJLGp8uEG8sN3Hv"
+  },
+  "support": {
+    "email": "info@gselab.org"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/gselabofficial",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/GSENetworkOfficial",
+    "twitter": "https://twitter.com/gselabofficial",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GSENetwork",
+      "address": "0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838",
+      "erc20": {
+        "symbol": "GSE",
+        "decimals": 4,
+        "name": "GSENetwork"
+      }
+    }
+  ]
+}

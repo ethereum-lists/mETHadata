@@ -1,0 +1,48 @@
+{
+  "name": "LINK Chainlink",
+  "ens_address": "",
+  "website": "https://link.smartcontract.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x514910771af9ca656af840dff83e8264ecf986ca.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcuwueneHxCR9zzkpMQjPaXhJsgAed1V7sTRcQCJfbqGj",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1030475757892579334/qvSHhRyC.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x514910771af9ca656af840dff83e8264ecf986ca.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1030475757892579334/qvSHhRyC.jpg",
+    "ipfs_origin": "QmfV8KpQDL2zbXVysJsFRCG13XDk388vQzmzeBsMRmSZvh"
+  },
+  "support": {
+    "email": "support@smartcontract.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2196514.0",
+    "github": "https://github.com/smartcontractkit/chainlink-ruby",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Chainlink/",
+    "slack": "https://chainlinknetwork.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/chainlink",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "LINK Chainlink",
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "erc20": {
+        "symbol": "LINK (Chainlink)",
+        "decimals": 18,
+        "name": "LINK Chainlink"
+      }
+    }
+  ]
+}

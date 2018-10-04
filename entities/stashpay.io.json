@@ -1,0 +1,49 @@
+{
+  "name": "StashPay",
+  "ens_address": "",
+  "website": "https://stashpay.io",
+  "logo": {
+    "src": "https://etherscan.io/token/images/stash_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmaNRfYgJcNHB1HxGCJq8g74k9xS96UAEFTjEZmmzBDVrc",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/stash_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/894817259167768577/FX9hv34i.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xecd570bbf74761b960fa04cc10fe2c4e86ffda36.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xecd570bbf74761b960fa04cc10fe2c4e86ffda36.png",
+    "ipfs_origin": "QmSQE1FJdGd3yLTYb6GDxxav64oYuEVNwpXMUNCuevQbnU"
+  },
+  "support": {
+    "email": "support@stashpay.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/stashpay.io",
+    "forum": "",
+    "github": "https://github.com/stashpayio",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/stashpay.io",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/stashpay",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "StashPay",
+      "address": "0xecd570bBf74761b960Fa04Cc10fe2c4e86FfDA36",
+      "erc20": {
+        "symbol": "STP",
+        "decimals": 8,
+        "name": "StashPay"
+      }
+    }
+  ]
+}

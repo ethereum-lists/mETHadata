@@ -1,0 +1,42 @@
+{
+  "name": "eRipple",
+  "ens_address": "",
+  "website": "http://eripple.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eRipple",
+      "address": "0x2F1B8C9d0A21b747D8ca370f93cb09D3DaF222EF",
+      "erc20": {
+        "symbol": "eRipple",
+        "decimals": 18,
+        "name": "eRipple"
+      }
+    }
+  ]
+}

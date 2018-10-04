@@ -1,0 +1,47 @@
+{
+  "name": "MIND Token",
+  "ens_address": "",
+  "website": "https://www.mindsports.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdfiRkRRMx4eSjFLVsLQJDBBEysYoHBSA41g72vm6EatM",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/956748311800659968/77mZHRkP.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/956748311800659968/77mZHRkP.jpg",
+    "ipfs_origin": "Qmc3Jgu49Fhtu9C6srMTeRb3L9baBkWbPc7WAsq82cchNR"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/mindsportsio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MIND Token",
+      "address": "0x222728C202e7164DFbd127181D46409338c4328e",
+      "erc20": {
+        "symbol": "MIND",
+        "decimals": 18,
+        "name": "MIND Token"
+      }
+    }
+  ]
+}

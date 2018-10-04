@@ -1,0 +1,48 @@
+{
+  "name": "BTE",
+  "ens_address": "",
+  "website": "http://bitcoineum.com/miner",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x73dd069c299a5d691e9836243bcaec9c8c1d8734.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQAHgBYxsFZg6SEJnsSiDaT6F8ojmFK9X4fyuEsV3N1ai",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/909057254183272449/XgxW7rQS.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x73dd069c299a5d691e9836243bcaec9c8c1d8734.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x73dd069c299a5d691e9836243bcaec9c8c1d8734.png",
+    "ipfs_origin": "QmYenEchxZvfV3DETX1UJuDTwksVEnJ1XvKKibFeasYTHm"
+  },
+  "support": {
+    "email": "",
+    "url": "http://bitcoineum.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2098740.0;prev_next=prev",
+    "github": "https://github.com/bitcoineum/Sharkpool",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/ethereum/comments/6oo54i/bitcoineum_virtual_mining_on_ethereum",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/bitcoineum",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BTE",
+      "address": "0x73dD069c299A5d691E9836243BcaeC9c8C1D8734",
+      "erc20": {
+        "symbol": "BTE",
+        "decimals": 8,
+        "name": "BTE"
+      }
+    }
+  ]
+}

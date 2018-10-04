@@ -1,0 +1,47 @@
+{
+  "name": "Sapien",
+  "ens_address": "",
+  "website": "https://www.sapien.network/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmd2hJcKUy4ZM3jyB5N27iLi8JwNKjCF5HxLmi6owrfdks",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a.png",
+    "ipfs_origin": "QmT9VD7by6R7Mupk1yB1agRbQRg9x11Gx7x9TMqwPhQzrA"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/SapienNetwork",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Sapien",
+      "address": "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A",
+      "erc20": {
+        "symbol": "SPN",
+        "decimals": 6,
+        "name": "Sapien"
+      }
+    }
+  ]
+}

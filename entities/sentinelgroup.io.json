@@ -1,0 +1,48 @@
+{
+  "name": "SENTinel",
+  "ens_address": "",
+  "website": "https://sentinelgroup.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcRTEonUHPZrMezcULxk3tPrDcWsAH4d1SSj7xZRDajtE",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1021875695239057410/yefzZ1S1.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037.png",
+    "ipfs_origin": "QmUBJkNxTHCa5e47RWJ5qCuDntZJm8Bt8UBTLXpr6WnXUY"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/sentinel-official",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/sentinelsecuritygroup",
+    "twitter": "https://twitter.com/SentinelGroupio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SENTinel",
+      "address": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
+      "erc20": {
+        "symbol": "SENT",
+        "decimals": 8,
+        "name": "SENTinel"
+      }
+    }
+  ]
+}

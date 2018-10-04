@@ -1,0 +1,48 @@
+{
+  "name": "Proxeus",
+  "ens_address": "",
+  "website": "https://proxeus.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa017ac5fac5941f95010b12570b812c974469c2c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbEwypKFErN27UgPtNhWSrSTvh5rMYYgZwZEnXxEyr2Tn",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/944330523371102208/FenGCRy6.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa017ac5fac5941f95010b12570b812c974469c2c.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/944330523371102208/FenGCRy6.jpg",
+    "ipfs_origin": "QmQxXgwkwavh5faQCHPQZf3cK37XW8x62xzDShN7YL1HyY"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/proxeusapp/",
+    "forum": "",
+    "github": "https://github.com/ProxeusApp",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/proxeus/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Gj6qYUpY1XHgHGnQa9msvA",
+    "twitter": "https://twitter.com/proxeusapp",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Proxeus",
+      "address": "0xA017ac5faC5941f95010b12570B812C974469c2C",
+      "erc20": {
+        "symbol": "XES",
+        "decimals": 18,
+        "name": "Proxeus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Confido Token",
+  "ens_address": "",
+  "website": "http://confido.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x14839bf22810f09fb163af69bd21bd5476f445cd.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmW1VeyhLh4j7w1FzpFG72GYvmFjsmbpbRHgSddu1UvKK8",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x14839bf22810f09fb163af69bd21bd5476f445cd.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x14839bf22810f09fb163af69bd21bd5476f445cd.png",
+    "ipfs_origin": "QmNx3pYv8aDPVQ2BJcNdk8MGi8twgXN63tHpm8HxsGZNny"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Confido Token",
+      "address": "0x14839bf22810F09fb163AF69BD21Bd5476F445Cd",
+      "erc20": {
+        "symbol": "CFD",
+        "decimals": 18,
+        "name": "Confido Token"
+      }
+    }
+  ]
+}

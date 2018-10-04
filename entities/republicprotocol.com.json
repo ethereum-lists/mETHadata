@@ -1,0 +1,49 @@
+{
+  "name": "Republic Token",
+  "ens_address": "republicprotocol.eth",
+  "website": "https://republicprotocol.com",
+  "logo": {
+    "src": "https://republicprotocol.github.io/files/logo/128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": "QmSjqnCiV2j3n6NGn1W8fz6NN2yx6G6akLDqXppbzwcFbW",
+    "sources": {
+      "token-list": "https://republicprotocol.github.io/files/logo/128x128.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1034689424905269248/CRYvXTVv.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x408e41876cccdc0f92210600ef50372656052a38.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x408e41876cccdc0f92210600ef50372656052a38.png",
+    "ipfs_origin": "QmbRkTdR5AE5cbb1BmLUtqAGaW5fz3MuUHphpVbYid2qxu"
+  },
+  "support": {
+    "email": "support@republicprotocol.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/republicprotocol",
+    "chat": "",
+    "facebook": "https://www.facebook.com/RepublicProtocol",
+    "forum": "",
+    "github": "https://github.com/republicprotocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/republic-protocol",
+    "reddit": "https://www.reddit.com/r/republicprotocol",
+    "slack": "",
+    "telegram": "https://t.me/republicprotocol",
+    "twitter": "https://twitter.com/republicorg",
+    "youtube": "https://www.youtube.com/channel/UCd2SRjq53m4zQI54SXPgfRA"
+  },
+  "eth": [
+    {
+      "name": "Republic Token",
+      "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
+      "erc20": {
+        "symbol": "REN",
+        "decimals": 18,
+        "name": "Republic Token"
+      }
+    }
+  ]
+}

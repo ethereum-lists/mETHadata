@@ -1,0 +1,49 @@
+{
+  "name": "High Performance Blockchain",
+  "ens_address": "",
+  "website": "http://www.gxn.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x38c6a68304cdefb9bec48bbfaaba5c5b47818bb2.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcgDBdEorJgiDuEfXdxFVreGcz7ZtGnNq9GbWhCKiRUoz",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/hpb.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/984703810021937152/kulilRsJ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x38c6a68304cdefb9bec48bbfaaba5c5b47818bb2.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/984703810021937152/kulilRsJ.jpg",
+    "ipfs_origin": "QmV9gKzCDpaP4NQpvxFJYT4rnuMjjAXzK2DYBdNDufn6Uo"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/HPBGlobal/",
+    "forum": "",
+    "github": "https://github.com/hpb-project",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/hpbglobal",
+    "twitter": "https://twitter.com/HPB_Global",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "High Performance Blockchain",
+      "address": "0x38c6A68304cdEfb9BEc48BbFaABA5C5B47818bb2",
+      "erc20": {
+        "symbol": "HPB",
+        "decimals": 18,
+        "name": "High Performance Blockchain"
+      }
+    }
+  ]
+}

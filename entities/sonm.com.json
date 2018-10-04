@@ -1,0 +1,49 @@
+{
+  "name": "SNM",
+  "ens_address": "",
+  "website": "https://sonm.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUqiWHfZJEob6FfTdRcR3cJ4c6nbufArw76rKDzLKyXFc",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/snm.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/895457520332009474/CYzfcSDS.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/895457520332009474/CYzfcSDS.jpg",
+    "ipfs_origin": "QmVX8C7LXZJgLgJKjKcmSFRb4Cyog7BQsKUmW1W2A46uSD"
+  },
+  "support": {
+    "email": "pr@sonm.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.sonm.io/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SONMproject/",
+    "forum": "https://bitcointalk.org/index.php?topic=1845114.0",
+    "github": "https://github.com/sonm-io",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/sonm/",
+    "reddit": "https://www.reddit.com/r/SONM/",
+    "slack": "https://sonmio.slack.com/join/shared_invite/enQtMjc2MTk2NjQ5ODc4LWNlMzdkZjU5YTJiMWVkODBlZjU1NjQyMzY5M2MxM2U1ODRhOWQ5ZDUyZjg1YTgyNzVlYTY2OTAzNTdkZjFmN2E",
+    "telegram": "https://t.me/sonm_eng",
+    "twitter": "https://twitter.com/sonmdevelopment",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SNM",
+      "address": "0x983F6d60db79ea8cA4eB9968C6aFf8cfA04B3c63",
+      "erc20": {
+        "symbol": "SNM",
+        "decimals": 18,
+        "name": "SNM"
+      }
+    }
+  ]
+}

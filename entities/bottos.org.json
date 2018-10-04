@@ -1,0 +1,48 @@
+{
+  "name": "BTOCoin",
+  "ens_address": "",
+  "website": "https://www.bottos.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x36905fc93280f52362a1cbab151f25dc46742fb5.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXMEDPZ93Dx8YPyzLFLRg9xfmntpGyGK6iFsNynpE8eoU",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1001657884013248512/Nl96YdYQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x36905fc93280f52362a1cbab151f25dc46742fb5.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1001657884013248512/Nl96YdYQ.jpg",
+    "ipfs_origin": "QmTGyarNQFrakb7Q2Zr4DQiUinVxRtGWALM4RmLqntBeze"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bottos.org",
+    "forum": "",
+    "github": "https://github.com/Bottos-project",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Bottos/",
+    "slack": "",
+    "telegram": "https://telegram.me/bottosglobal",
+    "twitter": "https://twitter.com/bottos_ai",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BTOCoin",
+      "address": "0x36905Fc93280f52362A1CBAB151F25DC46742Fb5",
+      "erc20": {
+        "symbol": "BTO",
+        "decimals": 18,
+        "name": "BTOCoin"
+      }
+    }
+  ]
+}

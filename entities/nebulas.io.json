@@ -1,0 +1,49 @@
+{
+  "name": "Nebulas",
+  "ens_address": "",
+  "website": "https://nebulas.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5d65d971895edc438f465c17db6992698a52318d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXUXiFeD7iuEZJ3zAQ1YTeGTbhQfKhsfEgCDoik8LMSPD",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/nas.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/937565681117151232/U4dHKjIO.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5d65d971895edc438f465c17db6992698a52318d.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/nas.svg",
+    "ipfs_origin": "QmYb7WY5LQzUyW9TG9XAZ1J2Bgysq9o86Ew7B8WJP5iGuJ"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Nebulas-298944707256927/",
+    "forum": "",
+    "github": "https://github.com/nebulasio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/nebulas/",
+    "slack": "",
+    "telegram": "https://t.me/nebulasio",
+    "twitter": "https://twitter.com/nebulasio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Nebulas",
+      "address": "0x5d65D971895Edc438f465c17DB6992698a52318D",
+      "erc20": {
+        "symbol": "NAS",
+        "decimals": 18,
+        "name": "Nebulas"
+      }
+    }
+  ]
+}

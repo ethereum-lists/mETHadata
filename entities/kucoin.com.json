@@ -1,0 +1,49 @@
+{
+  "name": "Kucoin Shares",
+  "ens_address": "",
+  "website": "https://www.kucoin.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x039b5649a59967e3e936d7471f9c3700100ee1ab.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmb3E9pLz4KJPxuamTUi4iYTukanGPns8zJv7yT4So3WNt",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/kcs.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/910388414180081665/rBe58a2L.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x039b5649a59967e3e936d7471f9c3700100ee1ab.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/910388414180081665/rBe58a2L.jpg",
+    "ipfs_origin": "QmSTLSZ3A814BWqVyqrpnF1tq8wCkkKbZ2gcJ4J687MujT"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/kucoinexchangepage",
+    "forum": "",
+    "github": "http://github.com/Kucoin/Docs",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/kucoin",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FMqUpg1_vED9MSDJPPcFkg",
+    "twitter": "https://twitter.com/kucoincom",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Kucoin Shares",
+      "address": "0x039B5649A59967e3e936D7471f9c3700100Ee1ab",
+      "erc20": {
+        "symbol": "KCS",
+        "decimals": 6,
+        "name": "Kucoin Shares"
+      }
+    }
+  ]
+}

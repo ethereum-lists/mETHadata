@@ -1,0 +1,48 @@
+{
+  "name": "GET",
+  "ens_address": "",
+  "website": "http://www.get-protocol.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a854288a5976036a725879164ca3e91d30c6a1b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmX3769ao3pibTi2pqo77iBAiUDgGxFZA4vGi4QTNsPqRT",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1036953212782342145/ak1AjJrb.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a854288a5976036a725879164ca3e91d30c6a1b.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1036953212782342145/ak1AjJrb.jpg",
+    "ipfs_origin": "Qma1nWEt8gyZUcRDtN4McaoRmiY2AJG4aiD7N2zVCi8wrF"
+  },
+  "support": {
+    "email": "contact@get-protocol.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.get-protocol.io/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/getprotocol",
+    "forum": "https://bitcointalk.org/index.php?topic=2111306.0",
+    "github": "https://github.com/Getprotocol",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/getprotocol/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/GETprotocol/",
+    "slack": "",
+    "telegram": "https://t.me/getprotocol",
+    "twitter": "https://twitter.com/getprotocol",
+    "youtube": "https://www.youtube.com/getprotocol"
+  },
+  "eth": [
+    {
+      "name": "GET",
+      "address": "0x8a854288a5976036A725879164Ca3e91d30c6A1B",
+      "erc20": {
+        "symbol": "GET",
+        "decimals": 18,
+        "name": "GET"
+      }
+    }
+  ]
+}

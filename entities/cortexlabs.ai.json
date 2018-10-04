@@ -1,0 +1,48 @@
+{
+  "name": "Cortex Coin",
+  "ens_address": "",
+  "website": "http://www.cortexlabs.ai/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea11755ae41d889ceec39a63e6ff75a02bc1c00d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmR4FBEUM3pBaRuZovvEvrBH3eTpxHjrD1GptCL4Kx7rC6",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/957208228412059648/bMF2Cqve.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea11755ae41d889ceec39a63e6ff75a02bc1c00d.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/957208228412059648/bMF2Cqve.jpg",
+    "ipfs_origin": "QmR2cRptJwXzf5ykmnFfXLh75scRTyQjScepGVXaVSJypu"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CTXCBlockchain",
+    "forum": "",
+    "github": "https://github.com/CortexFoundation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Cortex_Official/",
+    "slack": "",
+    "telegram": "https://t.me/CortexBlockchain",
+    "twitter": "https://twitter.com/CTXCBlockchain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Cortex Coin",
+      "address": "0xEa11755Ae41D889CeEc39A63E6FF75a02Bc1C00d",
+      "erc20": {
+        "symbol": "CTXC",
+        "decimals": 18,
+        "name": "Cortex Coin"
+      }
+    }
+  ]
+}

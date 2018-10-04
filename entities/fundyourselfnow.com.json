@@ -1,0 +1,47 @@
+{
+  "name": "Fund Yourself Now",
+  "ens_address": "",
+  "website": "http://www.fundyourselfnow.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x88fcfbc22c6d3dbaa25af478c578978339bde77a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVKxW9p4kovou4DMh6phwwJkyZdJCkQYFUENGeCxrCrqZ",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x88fcfbc22c6d3dbaa25af478c578978339bde77a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x88fcfbc22c6d3dbaa25af478c578978339bde77a.png",
+    "ipfs_origin": "QmdAyfDFHKrqAJtoEYGRjSXDMYisWrqKrqejm3jMip1ZHq"
+  },
+  "support": {
+    "email": "contact@fundyourselfnow.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/fundyourselfnow",
+    "forum": "https://bitcointalk.org/index.php?topic=1901678.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "http://fundyourselfnowslack.herokuapp.com",
+    "telegram": "https://t.me/fundyourselfnow",
+    "twitter": "https://twitter.com/fundyourselfnow",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Fund Yourself Now",
+      "address": "0x88FCFBc22C6d3dBaa25aF478C578978339BDe77a",
+      "erc20": {
+        "symbol": "FYN",
+        "decimals": 18,
+        "name": "Fund Yourself Now"
+      }
+    }
+  ]
+}

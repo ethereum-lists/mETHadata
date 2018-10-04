@@ -1,0 +1,42 @@
+{
+  "name": "UmbrellaCoin",
+  "ens_address": "",
+  "website": "https://www.umbrellacoin.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/UmbrellaCoin/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "UmbrellaCoin",
+      "address": "0x190fB342aa6a15eB82903323ae78066fF8616746",
+      "erc20": {
+        "symbol": "UMC",
+        "decimals": 6,
+        "name": "UmbrellaCoin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "IST34 Token",
+  "ens_address": "",
+  "website": "https://hiperteknoloji.org",
+  "logo": {
+    "src": "https://hiperteknoloji.org/ht/ist34-token-28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmW5xbc3YpN7qBEJGsd3ggGzPA5mTw8k4E1dwKDjhCebtq",
+    "sources": {
+      "token-list": "https://hiperteknoloji.org/ht/ist34-token-28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/986563410035953665/Sk-Pa5iE.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0cf713b11c9b986ec40d65bd4f7fbd50f6ff2d64.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0cf713b11c9b986ec40d65bd4f7fbd50f6ff2d64.png",
+    "ipfs_origin": "QmU83XBRTuxzULHAA6PVLPvPv2juWtLX5P3wDRMpoTcjBM"
+  },
+  "support": {
+    "email": "ist34@hiperteknoloji.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://hiperteknoloji.org/2018/05/10/ist34token/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ist34token",
+    "forum": "https://bitcoingarden.org/forum/index.php?topic=33783",
+    "github": "https://github.com/IST34Token",
+    "gitter": "https://gitter.im/IST34-Token",
+    "instagram": "https://www.instagram.com/ist34_token/",
+    "linkedin": "https://www.linkedin.com/in/ist34-token",
+    "reddit": "https://www.reddit.com/user/IST34_Token",
+    "slack": "https://ist34token.slack.com",
+    "telegram": "https://t.me/IST34Token",
+    "twitter": "https://twitter.com/IST34_Token",
+    "youtube": "https://www.youtube.com/channel/UCwEbCIn8VkPMBXuyyg8Ia8w"
+  },
+  "eth": [
+    {
+      "name": "IST34 Token",
+      "address": "0x0cF713b11C9b986EC40D65bD4F7fbd50F6ff2d64",
+      "erc20": {
+        "symbol": "IST34",
+        "decimals": 18,
+        "name": "IST34 Token"
+      }
+    }
+  ]
+}

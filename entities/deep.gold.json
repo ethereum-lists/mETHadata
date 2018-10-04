@@ -1,0 +1,47 @@
+{
+  "name": "Deep Gold",
+  "ens_address": "",
+  "website": "https://deep.gold",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcvSzKA2Vv7J8SKji8dfmty2qfyDQ2dSmesQJZizLku2K",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/892406775667937280/E4v4tbrl.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/892406775667937280/E4v4tbrl.jpg",
+    "ipfs_origin": "QmXTmWLp6oKQN8jjfV3QovBaiiqpaTira6B26KmE4nhnEt"
+  },
+  "support": {
+    "email": "support@deep.gold",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://steemit.com/@deepgold/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/deepgold",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/deepgold",
+    "twitter": "https://twitter.com/deepgoldnews",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Deep Gold",
+      "address": "0x983877018633c0940B183Cd38d1b58bEE34F7301",
+      "erc20": {
+        "symbol": "DEEP",
+        "decimals": 8,
+        "name": "Deep Gold"
+      }
+    }
+  ]
+}

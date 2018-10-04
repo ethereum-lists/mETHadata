@@ -1,0 +1,48 @@
+{
+  "name": "Funnel",
+  "ens_address": "",
+  "website": "http://www.adfunnel.tech/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4c5601164e2048a4154de91fa5e0b07e626cab7f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaYFsR4KexRuo2KJdebebdV2oYwSp5K1gkQPQKpP7h28P",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/937085894992871424/eSv3c8ZX.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4c5601164e2048a4154de91fa5e0b07e626cab7f.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4c5601164e2048a4154de91fa5e0b07e626cab7f.png",
+    "ipfs_origin": "Qmdyz3zd4v5Y9DQ3es72SrupezXfwzULdfUmCcmoRz8xQq"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AdFunnelTech/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/adfunnelproject",
+    "twitter": "https://twitter.com/AdFunnelTech",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Funnel",
+      "address": "0x4c5601164e2048a4154DE91Fa5e0B07E626CaB7F",
+      "erc20": {
+        "symbol": "FNL",
+        "decimals": 3,
+        "name": "Funnel"
+      }
+    }
+  ]
+}

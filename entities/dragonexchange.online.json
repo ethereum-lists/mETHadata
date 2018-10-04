@@ -1,0 +1,42 @@
+{
+  "name": "Dragon Exchange",
+  "ens_address": "",
+  "website": "http://www.dragonexchange.online",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "dragondev@dragonexchange.online",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://www.facebook.com/%22",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "http://www.twitter.com/%22",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Dragon Exchange",
+      "address": "0x7d49EAAc4c70aBC1A659122f08c0806aE44703Ef",
+      "erc20": {
+        "symbol": "DET",
+        "decimals": 18,
+        "name": "Dragon Exchange"
+      }
+    }
+  ]
+}

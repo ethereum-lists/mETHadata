@@ -1,0 +1,47 @@
+{
+  "name": "PBL",
+  "ens_address": "",
+  "website": "https://publica.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55648de19836338549130b1af587f16bea46f66b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYrL2tPJrxGs4XLECvRvZZe5tgzBThbAam7RcHFLcLMrP",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55648de19836338549130b1af587f16bea46f66b.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x55648de19836338549130b1af587f16bea46f66b.png",
+    "ipfs_origin": "QmNaQgQvc947WkfJwX5USk382QwBHkqvtofJC9yCYjGbNK"
+  },
+  "support": {
+    "email": "info@publica.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/publicaio",
+    "chat": "",
+    "facebook": "https://www.facebook.com/OfficialPublica/",
+    "forum": "https://bitcointalk.org/index.php?topic=2079885",
+    "github": "https://www.reddit.com/r/publicaio/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/publicaio",
+    "slack": "",
+    "telegram": "https://t.me/publicaofficial",
+    "twitter": "https://twitter.com/PublicaIO",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "PBL",
+      "address": "0x55648De19836338549130B1af587F16beA46F66B",
+      "erc20": {
+        "symbol": "PBL",
+        "decimals": 18,
+        "name": "PBL"
+      }
+    }
+  ]
+}

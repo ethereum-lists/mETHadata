@@ -1,0 +1,47 @@
+{
+  "name": "Lalena",
+  "ens_address": "",
+  "website": "https://www.lalena.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQzf4wkTLH4xcLvKYv4qWA1ko6kppbtE6wbD8UPAa8AT9",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/906200827135528961/7rX73mem.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/906200827135528961/7rX73mem.jpg",
+    "ipfs_origin": "QmSKFo24Rep5VxUD1pNXrCdv4o65ATGZRTeSHbuCsJNKwD"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/lalena-co",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/11272066/",
+    "reddit": "",
+    "slack": "http://slack-invite.lalena.club/",
+    "telegram": "https://t.me/LalenaClubhouse",
+    "twitter": "https://twitter.com/lalena_co",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Lalena",
+      "address": "0x1db186898bcCDe66Fa64A50E4D81078951A30dbE",
+      "erc20": {
+        "symbol": "LLA",
+        "decimals": 18,
+        "name": "Lalena"
+      }
+    }
+  ]
+}

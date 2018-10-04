@@ -1,0 +1,48 @@
+{
+  "name": "WorkCoin",
+  "ens_address": "",
+  "website": "https://workcoin.net/",
+  "logo": {
+    "src": "https://workcoin.net/images/workcoin_logo.svg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYF1Z5PpPwATvEuP3FqqaWYN36HrpMz1aLfSh3gbYiTLb",
+    "sources": {
+      "token-list": "https://workcoin.net/images/workcoin_logo.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/963130660960460800/6YdYtytZ.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/963130660960460800/6YdYtytZ.jpg",
+    "ipfs_origin": "QmZh9VKE5YK589LWLR5nrT8BZYzTkMd17wa2TurorNXC6V"
+  },
+  "support": {
+    "email": "support@workcoin.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/workcoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/workcoingroup/",
+    "forum": "",
+    "github": "https://github.com/TMWorkCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://t.me/workcoin",
+    "twitter": "https://twitter.com/realWorkCoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "WorkCoin",
+      "address": "0x71e8d74fF1C923E369D0e70DFb09866629C4DD35",
+      "erc20": {
+        "symbol": "WRK",
+        "decimals": 18,
+        "name": "WorkCoin"
+      }
+    }
+  ]
+}

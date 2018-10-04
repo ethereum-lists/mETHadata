@@ -1,0 +1,48 @@
+{
+  "name": "BAX",
+  "ens_address": "",
+  "website": "https://getbabb.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNaHBozzAomtyoHfHrPWt8ZYQhc4okHS7hPMGVeFLv1MR",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1022509912528748545/g5DMyy5O.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb.png",
+    "ipfs_origin": "QmREjjJ7ugizhSrXtV636kCZdAAsPToqrxJurjSZZzpWEc"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/BABB-1939415502939310",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/getBABB/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/E7lsBw5BqFHVEz1etGm9ww",
+    "twitter": "https://twitter.com/getbabb",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BAX",
+      "address": "0x9a0242b7a33DAcbe40eDb927834F96eB39f8fBCB",
+      "erc20": {
+        "symbol": "BAX",
+        "decimals": 18,
+        "name": "BAX"
+      }
+    }
+  ]
+}

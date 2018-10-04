@@ -1,0 +1,48 @@
+{
+  "name": "BitCAD",
+  "ens_address": "",
+  "website": "http://bitcad.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmY46Fh8U642GQbjAohm4MbinCxTauGdeCpP1VEnZcFyiW",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/bcd.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/991801338676858880/TAmRb1Ez.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/991801338676858880/TAmRb1Ez.jpg",
+    "ipfs_origin": "QmY2orzLCDzpzBcoG83ou9UNUtv2YjBbbKRUi1GxDk1d2T"
+  },
+  "support": {
+    "email": "media@bitcad.me",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bitcadplatform",
+    "forum": "",
+    "github": "https://github.com/BitCADplatform",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/bitcadplatform/",
+    "linkedin": "https://www.linkedin.com/company/bitcad/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/bitcad",
+    "twitter": "https://twitter.com/bitcadplatform",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BitCAD",
+      "address": "0x660B612ec57754d949AC1A09D0c2937A010dEe05",
+      "erc20": {
+        "symbol": "BCD",
+        "decimals": 6,
+        "name": "BitCAD"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "NATCOIN",
+  "ens_address": "",
+  "website": "http://natcoin.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQYUaXSvzcUcakkAfCN9RjyRbH4t9hqyWHEYSHz2U2Rfn",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/946240451442483201/Vu8d3hIz.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/946240451442483201/Vu8d3hIz.jpg",
+    "ipfs_origin": "QmVZpQcCQpGi1qAFG94i1mdkc58YwkLCtK3FxSbkhqDjsX"
+  },
+  "support": {
+    "email": "support@natcoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/wearenatcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NATCOIN",
+      "address": "0x8d5A69dc82a47594881256F2eef81770274fA30f",
+      "erc20": {
+        "symbol": "NTC",
+        "decimals": 18,
+        "name": "NATCOIN"
+      }
+    }
+  ]
+}

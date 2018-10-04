@@ -1,0 +1,49 @@
+{
+  "name": "Bloom",
+  "ens_address": "",
+  "website": "https://hellobloom.io",
+  "logo": {
+    "src": "https://etherscan.io/token/images/hellobloom_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmcDNgccZBRk25FkJ1iFvYQ5USkmA4m22FEyqKtRCcGusR",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/hellobloom_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/964657140311867392/c72WaeVs.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e.png",
+    "ipfs_origin": "QmZtDUvjUj5PAGiVpHX3fcY3PAHELg3phAifgiLSt8mweh"
+  },
+  "support": {
+    "email": "team@hellobloom.io",
+    "url": "https://hellobloom.io/faq"
+  },
+  "social": {
+    "blog": "https://blog.hellobloom.io",
+    "chat": "",
+    "facebook": "https://facebook.com/bloomtoken",
+    "forum": "",
+    "github": "https://github.com/hellobloom",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BloomToken",
+    "slack": "https://slack.hellobloom.io",
+    "telegram": "https://t.me/joinchat/FFWDdQ1hxqIg3jLe7zBVFQ",
+    "twitter": "https://twitter.com/bloomtoken",
+    "youtube": "https://www.youtube.com/channel/UCaMfVoHQzwX47XKUawWVCzg"
+  },
+  "eth": [
+    {
+      "name": "Bloom",
+      "address": "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e",
+      "erc20": {
+        "symbol": "BLT",
+        "decimals": 18,
+        "name": "Bloom"
+      }
+    }
+  ]
+}

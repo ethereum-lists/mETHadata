@@ -1,0 +1,49 @@
+{
+  "name": "Zilliqa",
+  "ens_address": "",
+  "website": "https://www.zilliqa.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmedL21FXsQx7ohj9CPtYQkWobexaDffSVJuegMFc2iojF",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/zil.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/895663410653704194/VDD7GERE.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/895663410653704194/VDD7GERE.jpg",
+    "ipfs_origin": "QmPTPDvwdzR5Vdzyc4wxzEuSbYU2tyzGd1ZyWkYqQLUcvy"
+  },
+  "support": {
+    "email": "enquiry@zilliqa.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.zilliqa.com/",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2367256.0",
+    "github": "https://github.com/zilliqa",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/zilliqa/",
+    "slack": "",
+    "telegram": "https://t.me/zilliqa",
+    "twitter": "https://twitter.com/zilliqa",
+    "youtube": "https://www.youtube.com/channel/UCvinnFbf0u71cajoxKcfZIQ"
+  },
+  "eth": [
+    {
+      "name": "Zilliqa",
+      "address": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27",
+      "erc20": {
+        "symbol": "ZIL",
+        "decimals": 12,
+        "name": "Zilliqa"
+      }
+    }
+  ]
+}

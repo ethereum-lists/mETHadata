@@ -1,0 +1,44 @@
+{
+  "name": "CryptoTask",
+  "ens_address": "",
+  "website": "http://www.cryptotask.org",
+  "logo": {
+    "src": "https://www.cryptotask.org/wp-content/uploads/2017/10/Logo_H-01.svg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://www.cryptotask.org/wp-content/uploads/2017/10/Logo_H-01.svg"
+    }
+  },
+  "support": {
+    "email": "info@cryptotask.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/vkajic/cryptotask",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CryptoTask",
+      "address": "0x4545750F39aF6Be4F237B6869D4EccA928Fd5A85",
+      "erc20": {
+        "symbol": "CTF",
+        "decimals": 18,
+        "name": "CryptoTask"
+      }
+    }
+  ]
+}

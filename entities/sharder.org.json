@@ -1,0 +1,58 @@
+{
+  "name": "Sharder",
+  "ens_address": "",
+  "website": "https://sharder.org",
+  "logo": {
+    "src": "https://oss.sharder.org/sharder/Token/Token-logo-132x132.png",
+    "width": "132",
+    "height": "132",
+    "ipfs_hash": "QmaqwWPwz5nBjqVmdXfwo8ypCC7unqAn3cjkFmkTgRfCX2",
+    "sources": {
+      "token-list": "https://oss.sharder.org/sharder/Token/Token-logo-132x132.png",
+      "twitter": "http://pbs.twimg.com/profile_images/987241104893296640/1BLjsdnx.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb15fe5a123e647ba594cea7a1e648646f95eb4aa.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb15fe5a123e647ba594cea7a1e648646f95eb4aa.png",
+    "ipfs_origin": "QmTKVSgjwV8jmxjBk6DdW6PJ165aj3VeL7VPwEm5PL4d5z"
+  },
+  "support": {
+    "email": "service@sharder.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@SharderChain",
+    "chat": "",
+    "facebook": "https://www.facebook.com/PolySwarm/",
+    "forum": "https://community.sharder.org",
+    "github": "https://github.com/Sharders",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/sharder_talk",
+    "twitter": "https://twitter.com/SharderChain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Sharder",
+      "address": "0xB15fE5a123e647ba594CEa7A1E648646f95EB4AA",
+      "erc20": {
+        "symbol": "SS",
+        "decimals": 18,
+        "name": "Sharder"
+      }
+    },
+    {
+      "name": "Sharder",
+      "address": "0xbbFF862d906E348E9946Bfb2132ecB157Da3D4b4",
+      "erc20": {
+        "symbol": "SS",
+        "decimals": 18,
+        "name": "Sharder"
+      }
+    }
+  ]
+}

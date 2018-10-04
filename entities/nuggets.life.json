@@ -1,0 +1,49 @@
+{
+  "name": "Nuggets Token",
+  "ens_address": "",
+  "website": "https://nuggets.life/",
+  "logo": {
+    "src": "https://etherscan.io/token/images/nuggettoken_28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmQhL3PcXgGBhDK3wRTNLthstTEyD1SvMhUQi1wTfusjEm",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/nuggettoken_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/823507936890720256/ewUJOSFm.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1.png",
+    "ipfs_origin": "QmTWKTJ3LJk2bHDxC7H5suGY8m4MNY2W6V39DykZehwQSL"
+  },
+  "support": {
+    "email": "nuggets-token@nuggets.life",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.nuggets.life/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/nuggetsPAYandID",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/nuggets/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/nuggetsblockchain",
+    "twitter": "https://twitter.com/nuggetsPAYandID",
+    "youtube": "https://www.youtube.com/channel/UCYiRuMEN5V2vjCKsvru0qaw"
+  },
+  "eth": [
+    {
+      "name": "Nuggets Token",
+      "address": "0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1",
+      "erc20": {
+        "symbol": "NUG",
+        "decimals": 18,
+        "name": "Nuggets Token"
+      }
+    }
+  ]
+}

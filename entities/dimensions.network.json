@@ -1,0 +1,47 @@
+{
+  "name": "StrikeCoin Token",
+  "ens_address": "",
+  "website": "https://dimensions.network",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x629aee55ed49581c33ab27f9403f7992a289ffd5.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmS2sU9mQGWHabpE7V8iBSq6yCM3mAxesp1yuv5uvVLB3Z",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x629aee55ed49581c33ab27f9403f7992a289ffd5.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x629aee55ed49581c33ab27f9403f7992a289ffd5.png",
+    "ipfs_origin": "QmYMvQ2ArFYw2z4rowhJRCrzLpcxskntqjEqUEUPwwDTgR"
+  },
+  "support": {
+    "email": "support@dimensions.network",
+    "url": "https://dimensions.network/en/contact_us"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://fb.me/dimensionsnetwork",
+    "forum": "",
+    "github": "https://github.com/DimensionsNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/dimensions-network",
+    "reddit": "https://www.reddit.com/r/DimensionsNetwork",
+    "slack": "",
+    "telegram": "https://t.me/DimensionsTalk",
+    "twitter": "https://twitter.com/DN_STC",
+    "youtube": "https://www.youtube.com/channel/UCticN7-IvIaEpbXVdbsBlcQ/videos"
+  },
+  "eth": [
+    {
+      "name": "StrikeCoin Token",
+      "address": "0x629aEe55ed49581C33ab27f9403F7992A289ffd5",
+      "erc20": {
+        "symbol": "STC",
+        "decimals": 18,
+        "name": "StrikeCoin Token"
+      }
+    }
+  ]
+}

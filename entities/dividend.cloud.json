@@ -1,0 +1,42 @@
+{
+  "name": "Dividend",
+  "ens_address": "",
+  "website": "https://www.dividend.cloud/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "support@dividend.cloud",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://www.facebook.com/dividend-192980371269039",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://www.t.me/dvdtoken",
+    "twitter": "https://twitter.com/dividendtoken?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fwww.dividend.cloud%2F",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Dividend",
+      "address": "0x7c53F13699e1F6ef5c699e893A20948BdD2E4de9",
+      "erc20": {
+        "symbol": "DVD",
+        "decimals": 18,
+        "name": "Dividend"
+      }
+    }
+  ]
+}

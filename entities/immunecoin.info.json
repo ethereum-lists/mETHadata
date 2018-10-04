@@ -1,0 +1,49 @@
+{
+  "name": "Immune Coin",
+  "ens_address": "",
+  "website": "http://immunecoin.info",
+  "logo": {
+    "src": "http://immunecoin.info/logo_32_32.png",
+    "width": 32,
+    "height": 32,
+    "ipfs_hash": "QmPkeoSixX2HjindpRidqStpiCSosSjtToqR7rpekQwt1Z",
+    "sources": {
+      "token-list": "http://immunecoin.info/logo_32_32.png",
+      "twitter": "http://pbs.twimg.com/profile_images/917750770493153281/404S0_5w.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe3831c5a982b279a198456d577cfb90424cb6340.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/917750770493153281/404S0_5w.jpg",
+    "ipfs_origin": "QmaR15ztpfc2ccNHmkcn9KbgTrsiuMkiNgSDU5P62MqYTD"
+  },
+  "support": {
+    "email": "imctoken2017@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/IMmune-Coin-1932949320301974",
+    "forum": "https://bitcointalk.org/index.php?topic=2336357.msg23877644#msg23877644",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/IMCtoken",
+    "twitter": "https://twitter.com/IMmuneCoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Immune Coin",
+      "address": "0xe3831c5A982B279A198456D577cfb90424cb6340",
+      "erc20": {
+        "symbol": "IMC",
+        "decimals": 6,
+        "name": "Immune Coin"
+      }
+    }
+  ]
+}

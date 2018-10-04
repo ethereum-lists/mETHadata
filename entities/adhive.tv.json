@@ -1,0 +1,48 @@
+{
+  "name": "AdHive Token",
+  "ens_address": "",
+  "website": "https://adhive.tv",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPhZywj5CFRkAbDaRuQfNbTedmpQ4AcMZXZ95idEe1nR8",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/961537607804080128/nUYU9m1C.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31.png",
+    "ipfs_origin": "QmamGqYSj7wEdyq6QK9RQ4xTruFZWepz1daQeMzGyRm44E"
+  },
+  "support": {
+    "email": "info@adhive.tv",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/adhivetv",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/adhivetv",
+    "twitter": "https://twitter.com/AdhiveTv",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AdHive Token",
+      "address": "0xE69a353b3152Dd7b706ff7dD40fe1d18b7802d31",
+      "erc20": {
+        "symbol": "ADH",
+        "decimals": 18,
+        "name": "AdHive Token"
+      }
+    }
+  ]
+}

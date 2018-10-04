@@ -1,0 +1,47 @@
+{
+  "name": "Arexium",
+  "ens_address": "",
+  "website": "https://arexium.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSoDynkZRqx87Gzp6XhtHVk7h5TgiwgCkwMhuy8MJf3S3",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/899236254335868928/2puntkJq.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/899236254335868928/2puntkJq.jpg",
+    "ipfs_origin": "QmVGFvtWbRf97oidqpJ4eXfzLme1D58UBUxm8FoJjE318V"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/arexium_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Arexium",
+      "address": "0xE256BB0b2a3457E54Db3A41cF5A8B826ACa222A8",
+      "erc20": {
+        "symbol": "ARX",
+        "decimals": 18,
+        "name": "Arexium"
+      }
+    }
+  ]
+}

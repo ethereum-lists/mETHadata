@@ -1,0 +1,48 @@
+{
+  "name": "Scry.info",
+  "ens_address": "",
+  "website": "https://home.scry.info/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9f5f3cfd7a32700c93f971637407ff17b91c7342.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWcY6v4TAGGW3Vp4WHQ6jKAUGq9zWVm1FKvFaQtsovBvd",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/888280597998612484/oUGqS3Yx.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9f5f3cfd7a32700c93f971637407ff17b91c7342.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9f5f3cfd7a32700c93f971637407ff17b91c7342.png",
+    "ipfs_origin": "Qmf44XRLo1YFpiXiNJJLpsxhuU2gkrkEJYQaGc5xC14dLD"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/scry.info",
+    "forum": "",
+    "github": "https://github.com/scryInfo",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/scryinfo1",
+    "twitter": "https://twitter.com/scryscry8",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Scry.info",
+      "address": "0x9F5F3CFD7a32700C93F971637407ff17b91c7342",
+      "erc20": {
+        "symbol": "DDD",
+        "decimals": 18,
+        "name": "Scry.info"
+      }
+    }
+  ]
+}

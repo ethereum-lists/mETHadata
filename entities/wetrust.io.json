@@ -1,0 +1,48 @@
+{
+  "name": "TRST",
+  "ens_address": "",
+  "website": "https://www.wetrust.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQvwdZirNe4wy4Vx8EVZPducZbWc7pcWMhEGyN9YXtnup",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/786798915274219522/lFhx54VC.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b.png",
+    "ipfs_origin": "Qmak5PKJ5mmMBVUqMusNJUwkCRFibH9WcRy1FnAdXexcg9"
+  },
+  "support": {
+    "email": "support@wetrust.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/wetrust-blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/wetrustplatform",
+    "forum": "https://bitcointalk.org/index.php?topic=1773367",
+    "github": "https://github.com/WeTrustPlatform",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/wetrust-official/",
+    "reddit": "https://www.reddit.com/r/WeTrustPlatform",
+    "slack": "https://www.wetrust.io/slack-invite",
+    "telegram": "https://t.me/WeTrustPlatform",
+    "twitter": "https://twitter.com/wetrustplatform",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TRST",
+      "address": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B",
+      "erc20": {
+        "symbol": "TRST",
+        "decimals": 6,
+        "name": "TRST"
+      }
+    }
+  ]
+}

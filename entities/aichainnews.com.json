@@ -1,0 +1,47 @@
+{
+  "name": "AIT",
+  "ens_address": "",
+  "website": "http://www.aichainnews.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x79650799e7899a802cb96c0bc33a6a8d4ce4936c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmS8oiTFpBgBmgqi3kXKTkzpDyFDGdcLnbFaQFid7ToWLT",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x79650799e7899a802cb96c0bc33a6a8d4ce4936c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x79650799e7899a802cb96c0bc33a6a8d4ce4936c.png",
+    "ipfs_origin": "QmTn7kKKRDR1KcgmQw9NX3bxn4eE6RGYqBv78GBXUcWpie"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AIchain-162716227790252/?modal=admin_todo_tour",
+    "forum": "",
+    "github": "https://github.com/AICHAIN-CORE",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ait_cn",
+    "twitter": "https://twitter.com/AICHAIN1",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AIT",
+      "address": "0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C",
+      "erc20": {
+        "symbol": "AIT",
+        "decimals": 18,
+        "name": "AIT"
+      }
+    }
+  ]
+}

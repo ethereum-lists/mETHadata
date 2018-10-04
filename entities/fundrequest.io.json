@@ -1,0 +1,49 @@
+{
+  "name": "FundRequest",
+  "ens_address": "",
+  "website": "https://fundrequest.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/FundRequest/logo/master/Logo%20icon%20500x500.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": "QmaxtKUTDoFJgHXm29uhmAAKUoRSv964PPzXvctaafw5AZ",
+    "sources": {
+      "token-list": "https://raw.githubusercontent.com/FundRequest/logo/master/Logo%20icon%20500x500.png",
+      "twitter": "http://pbs.twimg.com/profile_images/879306675139825664/xp7ObP85.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4df47b4969b2911c966506e3592c41389493953b.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4df47b4969b2911c966506e3592c41389493953b.png",
+    "ipfs_origin": "QmbwdY9nbEq8HRLfTXkwpM54oEx8vqfVZbdiCxofuJHXxh"
+  },
+  "support": {
+    "email": "info@fundrequest.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.fundrequest.io",
+    "chat": "https://fundrequest.chat",
+    "facebook": "https://www.facebook.com/FundRequestplatform",
+    "forum": "",
+    "github": "https://github.com/FundRequest",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/fundrequest",
+    "reddit": "https://www.reddit.com/r/fundrequest",
+    "slack": "",
+    "telegram": "https://t.me/fundrequestofficial",
+    "twitter": "https://twitter.com/fundrequest_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "FundRequest",
+      "address": "0x4DF47B4969B2911C966506E3592c41389493953b",
+      "erc20": {
+        "symbol": "FND",
+        "decimals": 18,
+        "name": "FundRequest"
+      }
+    }
+  ]
+}

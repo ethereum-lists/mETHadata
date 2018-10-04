@@ -1,0 +1,47 @@
+{
+  "name": "Sharpe Platform Token",
+  "ens_address": "",
+  "website": "https://sharpe.capital/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xef2463099360a085f1f10b076ed72ef625497a06.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmT9RRifVRXZXv1jWDsZBWSFb3djXmBvcvsbJFvJnKASV3",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xef2463099360a085f1f10b076ed72ef625497a06.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xef2463099360a085f1f10b076ed72ef625497a06.png",
+    "ipfs_origin": "QmZ5aB8Khgx7WrXX3iNKEd4aeM6JgXRTdQw9h725zuncza"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/sharpecapital",
+    "forum": "",
+    "github": "https://github.com/sharpe-capital",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SharpeCapital/",
+    "slack": "",
+    "telegram": "https://t.me/sharpecapital",
+    "twitter": "https://twitter.com/sharpecapital",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Sharpe Platform Token",
+      "address": "0xEF2463099360a085f1f10b076Ed72Ef625497a06",
+      "erc20": {
+        "symbol": "SHP",
+        "decimals": 18,
+        "name": "Sharpe Platform Token"
+      }
+    }
+  ]
+}

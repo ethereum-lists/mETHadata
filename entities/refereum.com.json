@@ -1,0 +1,49 @@
+{
+  "name": "Refereum",
+  "ens_address": "refereum.eth",
+  "website": "https://refereum.com",
+  "logo": {
+    "src": "28",
+    "width": "28",
+    "height": "https://etherscan.io/token/images/refereum.png",
+    "ipfs_hash": "QmR1vRGQNRTjK9iiRc9E5T7z4hWXYCEzdbn6cfEgueWczd",
+    "sources": {
+      "token-list": "28",
+      "twitter": "http://pbs.twimg.com/profile_images/1012026986439405568/qj7As7p8.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0929d411954c47438dc1d871dd6081f5c5e149c.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1012026986439405568/qj7As7p8.jpg",
+    "ipfs_origin": "QmVSs5TJ1PD3Gv3SqS4p6xE1c43P3f7dsWedvGTJrRfZaR"
+  },
+  "support": {
+    "email": "team@refereum.com",
+    "url": "https://help.refereum.com/"
+  },
+  "social": {
+    "blog": "https://medium.com/refereum",
+    "chat": "https://discordapp.com/invite/RASrHyD",
+    "facebook": "https://www.facebook.com/Refereum/",
+    "forum": "https://bitcointalk.org/index.php?topic=2205251.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/refereum/",
+    "linkedin": "https://www.linkedin.com/company/refereum",
+    "reddit": "https://www.reddit.com/r/Refereum/",
+    "slack": "",
+    "telegram": "https://t.me/refereumtalk",
+    "twitter": "https://twitter.com/Refereum",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Refereum",
+      "address": "0xd0929d411954c47438dc1d871dd6081F5C5e149c",
+      "erc20": {
+        "symbol": "RFR",
+        "decimals": 4,
+        "name": "Refereum"
+      }
+    }
+  ]
+}

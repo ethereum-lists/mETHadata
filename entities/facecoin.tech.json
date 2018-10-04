@@ -1,0 +1,47 @@
+{
+  "name": "FaceCoin",
+  "ens_address": "",
+  "website": "http://facecoin.tech/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYaAtYP6GGb9PZohCz28BTqx7oWgWF4Lpdtt4M1drBKyG",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/898450826586341376/d0woEFh3.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/898450826586341376/d0woEFh3.jpg",
+    "ipfs_origin": "Qmbp7VBygUK9HUAC3LDJWcCoQz6mPh5aE7nJxVsMWX9LLH"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://facecoin.slack.com/join/shared_invite/MjI5NzUzNDU0Nzg2LTE1MDMzNjY5MzktZjAwNGQ0YTEzZQ",
+    "telegram": "",
+    "twitter": "https://twitter.com/facecointech",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "FaceCoin",
+      "address": "0xe6923E9b56Db1EeD1c9f430Ea761DA7565e260Fe",
+      "erc20": {
+        "symbol": "FC",
+        "decimals": 2,
+        "name": "FaceCoin"
+      }
+    }
+  ]
+}

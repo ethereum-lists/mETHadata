@@ -1,0 +1,42 @@
+{
+  "name": "Needs Cash",
+  "ens_address": "",
+  "website": "https://www.needscash.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Needs Cash",
+      "address": "0xeDF2d3e5FB70eAD2e6D8FE96845a5E59d52d2044",
+      "erc20": {
+        "symbol": "NCH",
+        "decimals": 12,
+        "name": "Needs Cash"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Decent Token",
+  "ens_address": "",
+  "website": "http://www.decentweb.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Decent Token",
+      "address": "0x6678E467FA5cCfBDC264d12f4B8b28fE4661606B",
+      "erc20": {
+        "symbol": "DCNT",
+        "decimals": 1,
+        "name": "Decent Token"
+      }
+    }
+  ]
+}

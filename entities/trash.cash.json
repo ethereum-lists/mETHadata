@@ -1,0 +1,47 @@
+{
+  "name": "TRASH CASH",
+  "ens_address": "",
+  "website": "https://www.trash.cash/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVMnoxTq1ZVhGpiFEywzcBADrTmZojc5wrrFsz8dhQRVV",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/930894595214282752/E03L7ZS9.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/930894595214282752/E03L7ZS9.jpg",
+    "ipfs_origin": "QmTqXKCWvEhy3R1E2RLs2huY3D8db5ctVKyTJzNTp74sfg"
+  },
+  "support": {
+    "email": "mail@trash.cash",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Trash-Cash-125463424816911/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/TrashCash_ERC20",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TRASH CASH",
+      "address": "0xb203b5495109c6C85615EbB2056F98301D470507",
+      "erc20": {
+        "symbol": "TRASH",
+        "decimals": 3,
+        "name": "TRASH CASH"
+      }
+    }
+  ]
+}

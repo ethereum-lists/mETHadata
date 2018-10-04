@@ -1,0 +1,48 @@
+{
+  "name": "ArbitrageCT",
+  "ens_address": "",
+  "website": "https://www.arbitragect.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1245ef80f4d9e02ed9425375e8f649b9221b31d8.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVfcq5R2VURE24KwDwLy4aST8kosYg8x8cGzGsvCzpvYd",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/912265240724873216/NeeZHT8S.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1245ef80f4d9e02ed9425375e8f649b9221b31d8.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1245ef80f4d9e02ed9425375e8f649b9221b31d8.png",
+    "ipfs_origin": "QmU1ZAXKBCuqnoBAaeddKNkwEwpVEgQEgHsdRN4kKrmmTK"
+  },
+  "support": {
+    "email": "support@arbitragect.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/arbitragect",
+    "forum": "https://bitcointalk.org/index.php?topic=2242346",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/arbitrageCT",
+    "slack": "",
+    "telegram": "https://t.me/ArbitrageCT",
+    "twitter": "https://twitter.com/arbitrage_ct",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ArbitrageCT",
+      "address": "0x1245ef80F4d9e02ED9425375e8F649B9221b31D8",
+      "erc20": {
+        "symbol": "ARCT",
+        "decimals": 8,
+        "name": "ArbitrageCT"
+      }
+    }
+  ]
+}

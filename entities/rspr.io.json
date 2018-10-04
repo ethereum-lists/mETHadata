@@ -1,0 +1,42 @@
+{
+  "name": "Rasper",
+  "ens_address": "",
+  "website": "https://www.rspr.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "info@rspr.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/1900078600319387/",
+    "forum": "",
+    "github": "https://www.rspr.io/#",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://www.rspr.io/#",
+    "telegram": "",
+    "twitter": "https://www.rspr.io/#",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Rasper",
+      "address": "0x46eeC301D2D00087145d1588282c182bd1890E5C",
+      "erc20": {
+        "symbol": "RSPR",
+        "decimals": 16,
+        "name": "Rasper"
+      }
+    }
+  ]
+}

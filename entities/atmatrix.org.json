@@ -1,0 +1,47 @@
+{
+  "name": "Atmatrix Token",
+  "ens_address": "",
+  "website": "https://atmatrix.org/?locale=en",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x887834d3b8d450b6bab109c252df3da286d73ce4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdrnSYbYL6xSLG516So9cGi6wwwjZWHpHTGaGXQSoWKBL",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x887834d3b8d450b6bab109c252df3da286d73ce4.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x887834d3b8d450b6bab109c252df3da286d73ce4.png",
+    "ipfs_origin": "QmTXoqvwy1ZyPnzwRtXXQ15krHgCoyvxkachnWMmaMx2TR"
+  },
+  "support": {
+    "email": "contact@atmatrix.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2351135.0",
+    "github": "https://github.com/ATMatrix",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Atmatrix Token",
+      "address": "0x887834D3b8D450B6bAB109c252Df3DA286d73CE4",
+      "erc20": {
+        "symbol": "ATT",
+        "decimals": 18,
+        "name": "Atmatrix Token"
+      }
+    }
+  ]
+}

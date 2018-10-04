@@ -1,0 +1,42 @@
+{
+  "name": "Anonymous Mobile Organization",
+  "ens_address": "",
+  "website": "https://anonymousmobileorganization.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "anonymousmobileorganization@protonmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Anonymous Mobile Organization",
+      "address": "0xa6E2F7f33F01fB399e72F3E044196eAb7d348012",
+      "erc20": {
+        "symbol": "AMO",
+        "decimals": 4,
+        "name": "Anonymous Mobile Organization"
+      }
+    }
+  ]
+}

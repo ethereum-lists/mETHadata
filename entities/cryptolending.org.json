@@ -1,0 +1,42 @@
+{
+  "name": "CryptoLending",
+  "ens_address": "",
+  "website": "https://cryptolending.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "henry@cryptolending.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CLPcoin-125929678066347",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CryptoLending",
+      "address": "0x7FCE2856899a6806eeEf70807985fc7554C66340",
+      "erc20": {
+        "symbol": "CLP",
+        "decimals": 9,
+        "name": "CryptoLending"
+      }
+    }
+  ]
+}

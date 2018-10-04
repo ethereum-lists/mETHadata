@@ -1,0 +1,48 @@
+{
+  "name": "WickNote",
+  "ens_address": "",
+  "website": "https://wicknote.com",
+  "logo": {
+    "src": "http://wicknote.com/wicklogo-small.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmXpoWJWMbaPj1ndHVBYEKz6qZ3eQpfEW6amZir2PuK68G",
+    "sources": {
+      "token-list": "http://wicknote.com/wicklogo-small.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x62cd07d414ec50b68c7ecaa863a23d344f2d062f.png"
+    },
+    "sourceBest": "src",
+    "origin": "http://wicknote.com/wicklogo-small.png",
+    "ipfs_origin": "Qmc4ZbXbgpSDXt4F3U5EexfJHiPq3RvXTa4T5aV35yuGbm"
+  },
+  "support": {
+    "email": "support@wicknote.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/wicknote/wicknote",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "WickNote",
+      "address": "0x62CD07D414Ec50B68C7EcAa863a23d344f2d062f",
+      "erc20": {
+        "symbol": "WIC",
+        "decimals": 0,
+        "name": "WickNote"
+      }
+    }
+  ]
+}

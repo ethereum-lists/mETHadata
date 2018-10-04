@@ -1,0 +1,48 @@
+{
+  "name": "MRV",
+  "ens_address": "",
+  "website": "https://macroverse.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xab6cf87a50f17d7f5e1feaf81b6fe9ffbe8ebf84.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdSatoqWbxXHBkTeKMotaDovRgMY9TojnMRWC6PPRJh85",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/878084875483361280/J5Pd35Sy.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xab6cf87a50f17d7f5e1feaf81b6fe9ffbe8ebf84.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xab6cf87a50f17d7f5e1feaf81b6fe9ffbe8ebf84.png",
+    "ipfs_origin": "Qmdgsz6vWCiQuusHmNyfoGWwRLDAnAvpw9cqZH4hB7Ya6B"
+  },
+  "support": {
+    "email": "crowdsale@macroverse.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://matrix.to/#/#macroverse:matrix.org",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1989737.0",
+    "github": "https://github.com/NovakDistributed/macroverse",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/MacroverseMRV",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MRV",
+      "address": "0xAB6CF87a50F17d7F5E1FEaf81B6fE9FfBe8EBF84",
+      "erc20": {
+        "symbol": "MRV",
+        "decimals": 18,
+        "name": "MRV"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "VORMACOIN",
+  "ens_address": "",
+  "website": "https://vormacoin.io/",
+  "logo": {
+    "src": "https://vormacoin.io/assets/images/logo/icon.png",
+    "width": "200",
+    "height": "150",
+    "ipfs_hash": "QmSRdSppabEeu55Bk9ppaKYfJrza9m7NuVnGQwrWoYZPhb",
+    "sources": {
+      "token-list": "https://vormacoin.io/assets/images/logo/icon.png",
+      "twitter": "http://pbs.twimg.com/profile_images/973116615343587328/klOHOtj-.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/973116615343587328/klOHOtj-.jpg",
+    "ipfs_origin": "QmTZCsFWQSCfkHjEERrmjaYtrrJeF16suVvSZWoT7Czp7j"
+  },
+  "support": {
+    "email": "info@vormacoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.vormacoin.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/VormaCoin-421138531662966/?ref=br_rs",
+    "forum": "",
+    "github": "https://github.com/vormacoin",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/vormacoin.io/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/vormacoin",
+    "slack": "",
+    "telegram": "http://t.me/vormacoinVOC",
+    "twitter": "https://twitter.com/vormacoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "VORMACOIN",
+      "address": "0xc3bC9Eb71f75Ec439A6b6C8E8b746fCF5b62F703",
+      "erc20": {
+        "symbol": "VOC",
+        "decimals": 18,
+        "name": "VORMACOIN"
+      }
+    }
+  ]
+}

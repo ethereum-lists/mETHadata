@@ -1,0 +1,48 @@
+{
+  "name": "AdToken",
+  "ens_address": "",
+  "website": "https://adtoken.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRBnTmh8nSGxvU3ABUirvDMMC2H6WhSfaRNgEe7Eq4c9c",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/988835520414236672/Dhd-NghQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd.png",
+    "ipfs_origin": "QmU5siarc9Wfk9MegDR6b7dM5ZBgCJyTbGzFzChZXsciAq"
+  },
+  "support": {
+    "email": "hello@metax.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@AdChain",
+    "chat": "https://chat.adchain.com/",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2006950.0",
+    "github": "https://github.com/adchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/adchain/",
+    "reddit": "https://www.reddit.com/r/adChain",
+    "slack": "https://adchain.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/ad_chain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AdToken",
+      "address": "0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
+      "erc20": {
+        "symbol": "ADT",
+        "decimals": 9,
+        "name": "AdToken"
+      }
+    }
+  ]
+}

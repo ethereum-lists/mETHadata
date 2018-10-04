@@ -1,0 +1,42 @@
+{
+  "name": "deertoken",
+  "ens_address": "",
+  "website": "http://deertoken.ga/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "deertoken",
+      "address": "0xD024645809F74043cd2133C6afEb46f0DE4aD88F",
+      "erc20": {
+        "symbol": "DEER",
+        "decimals": 18,
+        "name": "deertoken"
+      }
+    }
+  ]
+}

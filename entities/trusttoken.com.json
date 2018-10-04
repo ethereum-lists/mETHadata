@@ -1,0 +1,48 @@
+{
+  "name": "TrueUSD",
+  "ens_address": "",
+  "website": "https://www.trusttoken.com/trueusd/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbUwcHoc8RrcAFry5x8qMQec7uiF64XfqvCByETdZfoaz",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/925148496679780353/d_Sm3Tqw.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/925148496679780353/d_Sm3Tqw.jpg",
+    "ipfs_origin": "QmYnrgsuJ6Y2wUCbb4Jqw8NoC6SGmSBcwvAu4Tmsnr4Lih"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TrustToken/?fref=ts",
+    "forum": "",
+    "github": "https://github.com/trusttoken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TrustToken/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg",
+    "twitter": "https://twitter.com/TrustToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TrueUSD",
+      "address": "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E",
+      "erc20": {
+        "symbol": "TUSD",
+        "decimals": 18,
+        "name": "TrueUSD"
+      }
+    }
+  ]
+}

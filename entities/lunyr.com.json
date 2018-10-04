@@ -1,0 +1,49 @@
+{
+  "name": "LUN",
+  "ens_address": "",
+  "website": "https://lunyr.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfa05a73ffe78ef8f1a739473e462c54bae6567d9.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmc8CV2RtTGEMyci38rj1vp78BQMCPdThtjuqwp1Q7Yipi",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/lun.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/875842652834377728/L71T2F79.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfa05a73ffe78ef8f1a739473e462c54bae6567d9.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfa05a73ffe78ef8f1a739473e462c54bae6567d9.png",
+    "ipfs_origin": "QmSiCrPaB31fgGUusfAPVwCoFfJPzS2peaFQFVBUJ5NzjR"
+  },
+  "support": {
+    "email": "support@lunyr.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/lunyr",
+    "chat": "",
+    "facebook": "https://www.facebook.com/lunyrinc/",
+    "forum": "https://discordapp.com/invite/Vaw5MWD",
+    "github": "https://github.com/lunyr",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/lunyr/",
+    "reddit": "https://www.reddit.com/r/Lunyr/",
+    "slack": "",
+    "telegram": "https://t.me/lunyrcommunity",
+    "twitter": "https://twitter.com/LunyrInc",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "LUN",
+      "address": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
+      "erc20": {
+        "symbol": "LUN",
+        "decimals": 18,
+        "name": "LUN"
+      }
+    }
+  ]
+}

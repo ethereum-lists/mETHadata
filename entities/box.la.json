@@ -1,0 +1,49 @@
+{
+  "type": "ERC20",
+  "name": "BOX Token",
+  "ens_address": "",
+  "website": "https://box.la/",
+  "logo": {
+    "src": "https://box.la/box_logo200px.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://box.la/box_logo200px.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1032538662171422720/RcUqJ_LY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe1a178b681bd05964d3e3ed33ae731577d9d96dd.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://box.la/box_logo200px.png"
+  },
+  "support": {
+    "email": "contact@box.la",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/boxla888",
+    "forum": "",
+    "github": "https://github.com/boxproject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/boxla888/",
+    "slack": "https://box-la.slack.com/",
+    "telegram": "https://t.me/safeboxla",
+    "twitter": "https://twitter.com/boxla888",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BOX Token",
+      "address": "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
+      "erc20": {
+        "symbol": "BOX",
+        "decimals": 18,
+        "name": "BOX Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Bitquence",
+  "ens_address": "",
+  "website": "https://www.bitquence.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5af2be193a6abca9c8817001f45744777db30756.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmab2ZH4smXD5YymMhvMtFqN1MBBPUjAJZoMdgxYQ498qo",
+    "sources": {
+      "twitter": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5af2be193a6abca9c8817001f45744777db30756.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5af2be193a6abca9c8817001f45744777db30756.png",
+    "ipfs_origin": "QmPY2x4rsi3wqB2J5p9miFZfyLBe9rBV7EryJEBFu7vrnv"
+  },
+  "support": {
+    "email": "info@bitquence.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.ethos.io/blog/",
+    "chat": "",
+    "facebook": "https://web.facebook.com/bitquence",
+    "forum": "https://bitcointalk.org/index.php?topic=1964187.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Bitquence",
+    "slack": "https://join.slack.com/bitquence/shared_invite/MTk1NzYxMDkzMjAyLTE0OTcwNzI4ODUtNjhlYzRlY2Q2MQ",
+    "telegram": "https://t.me/joinchat/AAAAAEN05nZ0Fzxm_lmYiw",
+    "twitter": "https://twitter.com/bitquence",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bitquence",
+      "address": "0x5Af2Be193a6ABCa9c8817001F45744777Db30756",
+      "erc20": {
+        "symbol": "BQX",
+        "decimals": 8,
+        "name": "Bitquence"
+      }
+    }
+  ]
+}

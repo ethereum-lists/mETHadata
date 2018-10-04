@@ -1,0 +1,48 @@
+{
+  "name": "Target Coin",
+  "ens_address": "",
+  "website": "https://www.tgtcoins.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xac3da587eac229c9896d919abc235ca4fd7f72c1.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qme8NzYKHvnsV5R63C1jJhBLiYjMCdji3MdtCn4ZJMBG5k",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/874606716146524160/wWhsR-FG.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xac3da587eac229c9896d919abc235ca4fd7f72c1.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xac3da587eac229c9896d919abc235ca4fd7f72c1.png",
+    "ipfs_origin": "QmTsqw74KycmdskD5Hfwiet2bHSjpZXDKuYjxRF5y259GR"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/targetcoinfund/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/Target_Coin",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FJeVV0HwLpRAZB9MyJI0lQ",
+    "twitter": "https://twitter.com/TargetCoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Target Coin",
+      "address": "0xAc3Da587eac229C9896D919aBC235CA4Fd7f72c1",
+      "erc20": {
+        "symbol": "TGT",
+        "decimals": 1,
+        "name": "Target Coin"
+      }
+    }
+  ]
+}

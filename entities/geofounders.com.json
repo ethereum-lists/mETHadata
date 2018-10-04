@@ -1,0 +1,47 @@
+{
+  "name": "GeoUnits",
+  "ens_address": "",
+  "website": "http://www.geofounders.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmarbpPyKF7g71ttYaU3M83tMUZsbdyGd5kTRXhGanXZqu",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/872981899559317504/8mjDdHlg.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/872981899559317504/8mjDdHlg.jpg",
+    "ipfs_origin": "QmTSuwH4Rmbj2QHaKfgVojfKHZyhBpM5HuuLszRQbhk12Z"
+  },
+  "support": {
+    "email": "staff@geofounders.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/geofounders",
+    "forum": "",
+    "github": "https://github.com/GeoFounders",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/geofounders",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GeoUnits",
+      "address": "0x2CA72c9699b92b47272c9716c664cAD6167c80B0",
+      "erc20": {
+        "symbol": "GUNS",
+        "decimals": 18,
+        "name": "GeoUnits"
+      }
+    }
+  ]
+}

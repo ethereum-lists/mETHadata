@@ -1,0 +1,47 @@
+{
+  "name": "XSC",
+  "ens_address": "",
+  "website": "http://crowdstart.capital",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f513ffb4926ff82d7f60a05069047aca295c413.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTEA4F78oz9Wze6mUkBmjbNEv5YJa4Y5xVoVNfy6ihP2u",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f513ffb4926ff82d7f60a05069047aca295c413.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f513ffb4926ff82d7f60a05069047aca295c413.png",
+    "ipfs_origin": "QmeiRyFSzQR1jhjH81PaosFdiqoDwvNsTKgXVYKdv5dkFD"
+  },
+  "support": {
+    "email": "info@crowdstart.capital",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://crowdstart.capital/blog/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "http://bit.ly/2zMX0hm",
+    "telegram": "",
+    "twitter": "https://twitter.com/CrowdstartCap",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "XSC",
+      "address": "0x0F513fFb4926ff82D7F60A05069047AcA295C413",
+      "erc20": {
+        "symbol": "XSC",
+        "decimals": 18,
+        "name": "XSC"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "UnikoinGold",
+  "ens_address": "",
+  "website": "https://unikoingold.com",
+  "logo": {
+    "src": "https://f.unkrn.com/2017-11-04/a/1509813079_unikoin-icon-gold.svg",
+    "width": 264,
+    "height": 264,
+    "ipfs_hash": "QmcnT9V4fXYoWzmhXKNjfZRgsvJNKBAkPLhKhoQT7BQGQ9",
+    "sources": {
+      "token-list": "https://f.unkrn.com/2017-11-04/a/1509813079_unikoin-icon-gold.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/950437857763577856/SQsAsyyO.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b.png",
+    "ipfs_origin": "QmV7WLxL9C2cW7r2sTw58wVNfTR3cpRzzDT48S9Cc8g4Wy"
+  },
+  "support": {
+    "email": "support@unikoingold.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://news.unikrn.com/topic/UnikoinGold",
+    "chat": "https://community.unikrn.com",
+    "facebook": "https://www.facebook.com/unikoingold",
+    "forum": "https://bitcointalk.org/index.php?topic=2206150.40",
+    "github": "https://github.com/unikoingold/UnikoinGold-UKG-Contract",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/unikoingold",
+    "slack": "https://community.unikrn.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/unikoingold",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "UnikoinGold",
+      "address": "0x24692791Bc444c5Cd0b81e3CBCaba4b04Acd1F3B",
+      "erc20": {
+        "symbol": "UKG",
+        "decimals": 18,
+        "name": "UnikoinGold"
+      }
+    }
+  ]
+}

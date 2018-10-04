@@ -1,0 +1,48 @@
+{
+  "name": "ALIS Token",
+  "ens_address": "",
+  "website": "https://alismedia.jp",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea610b1153477720748dc13ed378003941d84fab.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXn5mfU9kftx5auDMMUxK22hicMqBd3RoHZq52ygDKvuK",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/891561684216586240/Ts3JxI1U.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea610b1153477720748dc13ed378003941d84fab.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea610b1153477720748dc13ed378003941d84fab.png",
+    "ipfs_origin": "QmP85LedPJtGJWCPeiuveVrtS4WTser5scYr2xLQyY1Lib"
+  },
+  "support": {
+    "email": "info@alismedia.jp",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@alismedia",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2102935",
+    "github": "https://github.com/AlisProject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/alisio/",
+    "slack": "https://alis-slack.herokuapp.com",
+    "telegram": "https://t.me/joinchat/EpPqEw2aZl7q3oI7PeAEYA",
+    "twitter": "https://twitter.com/ALIS_media",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ALIS Token",
+      "address": "0xEA610B1153477720748DC13ED378003941d84fAB",
+      "erc20": {
+        "symbol": "ALIS",
+        "decimals": 18,
+        "name": "ALIS Token"
+      }
+    }
+  ]
+}

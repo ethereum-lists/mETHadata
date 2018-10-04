@@ -1,0 +1,47 @@
+{
+  "name": "Bonpay",
+  "ens_address": "",
+  "website": "https://bonpay.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc34366e3842ca1bd36c1f324d15257960fcc801.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmfS4RGR4etdFkLXCZLD2LP4rybnsJZLE5NcM7UWcgyvDj",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc34366e3842ca1bd36c1f324d15257960fcc801.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc34366e3842ca1bd36c1f324d15257960fcc801.png",
+    "ipfs_origin": "QmYhyYMEziMvqdBgZPVkmUK8r68Zw55LZmeh2kkybcy4MV"
+  },
+  "support": {
+    "email": "support@bonpay.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@bonpay",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bonpaycom",
+    "forum": "https://bitcointalk.org/index.php?topic=2375768",
+    "github": "https://github.com/bonpay",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Bonpay/",
+    "slack": "",
+    "telegram": "https://t.me/bonpay_eng",
+    "twitter": "https://twitter.com/Bonpay_com",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bonpay",
+      "address": "0xCc34366E3842cA1BD36c1f324d15257960fCC801",
+      "erc20": {
+        "symbol": "BON",
+        "decimals": 18,
+        "name": "Bonpay"
+      }
+    }
+  ]
+}

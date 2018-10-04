@@ -1,0 +1,49 @@
+{
+  "name": "MTRCToken",
+  "ens_address": "",
+  "website": "https://modultrade.io",
+  "logo": {
+    "src": "https://en.modultrade.io/img/new_set/modultrade_logo.svg",
+    "width": "60",
+    "height": "20",
+    "ipfs_hash": "QmYjKx2PJwcv8RsvdAixuSVHKeWSp3PPYfbUUhLQTh31ne",
+    "sources": {
+      "token-list": "https://en.modultrade.io/img/new_set/modultrade_logo.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/988781307009359872/pmHKiTXg.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1e49ff77c355a3e38d6651ce8404af0e48c5395f.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/988781307009359872/pmHKiTXg.jpg",
+    "ipfs_origin": "QmcwMV84bin8nAxCKzK1PvToFmoR9TVWa3yrRmFbMrGDiL"
+  },
+  "support": {
+    "email": "tokensale@modultrade.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/modultrade/",
+    "forum": "https://bitcointalk.org/index.php?topic=2240518",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/16259600/",
+    "reddit": "https://www.reddit.com/r/SandCoin",
+    "slack": "",
+    "telegram": "https://t.me/ModulTradeIO",
+    "twitter": "https://twitter.com/ModulTrade",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MTRCToken",
+      "address": "0x1e49fF77c355A3e38D6651ce8404AF0E48c5395f",
+      "erc20": {
+        "symbol": "MTRc",
+        "decimals": 18,
+        "name": "MTRCToken"
+      }
+    }
+  ]
+}

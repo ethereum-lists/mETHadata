@@ -1,0 +1,47 @@
+{
+  "name": "MealCoinDinnerful",
+  "ens_address": "",
+  "website": "https://www.dinnerfulnetwork.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeWozRerjiFvpANyD8ngh2QswJHUUK2VLYfDeppfZfPRE",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/854740509050490880/UUDtyb6Q.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/854740509050490880/UUDtyb6Q.jpg",
+    "ipfs_origin": "QmPmMuEdXTYFPEhHycpf7DTAcz1k5RRT8Wd7wTNe1Wm5YM"
+  },
+  "support": {
+    "email": "support@dinnerful.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/dinnerful",
+    "forum": "",
+    "github": "https://github.com/dinnerful",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/dinnerful/",
+    "slack": "https://dinnerful.slack.com/",
+    "telegram": "https://t.me/dinnerful",
+    "twitter": "https://twitter.com/DinnerfulDay",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MealCoinDinnerful",
+      "address": "0x5aFDa18cABA69Fe3AF5E6D56E42e1C9F92C40D77",
+      "erc20": {
+        "symbol": "MCD",
+        "decimals": 18,
+        "name": "MealCoinDinnerful"
+      }
+    }
+  ]
+}

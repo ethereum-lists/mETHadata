@@ -1,0 +1,47 @@
+{
+  "name": "Ethereum X",
+  "ens_address": "",
+  "website": "http://ethereumx.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQa8ZvkdK846Jjk7RbY4QJDnUxGJ2d66q9uNRqJxgym4J",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/924930718882508800/HiV_-6pc.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/924930718882508800/HiV_-6pc.jpg",
+    "ipfs_origin": "QmWVNdkvg3NEoBX2SQM9VkMsxCo1nprzd8GfD3np45Y7bP"
+  },
+  "support": {
+    "email": "hitashi@ethereumx.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ethereumx/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/Ethereum_X",
+    "twitter": "https://twitter.com/Ethereum_X_io/",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Ethereum X",
+      "address": "0x494BBAf0124285E6eCB4Dfd9eAc76E18A9bf470F",
+      "erc20": {
+        "symbol": "ETHX",
+        "decimals": 18,
+        "name": "Ethereum X"
+      }
+    }
+  ]
+}

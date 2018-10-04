@@ -1,0 +1,47 @@
+{
+  "name": "eBCG",
+  "ens_address": "",
+  "website": "http://ebcg.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYVJWbYuYpNzMzaCjwWkuBbcDffLWNLsx8TR8HVhaG1wE",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/919257852891496448/57gcCj1N.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/919257852891496448/57gcCj1N.jpg",
+    "ipfs_origin": "Qmc2XzeDEW5EceV9vVngUdXvsXUueETbXbQ3bFiQeJYunZ"
+  },
+  "support": {
+    "email": "contact@ebcg.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "http://ebcg.io/#",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/ebcgcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eBCG",
+      "address": "0xDEe667186e7b81Ecf7Efc8713382d8D99A8b92B4",
+      "erc20": {
+        "symbol": "EBCG",
+        "decimals": 18,
+        "name": "eBCG"
+      }
+    }
+  ]
+}

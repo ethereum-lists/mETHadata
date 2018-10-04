@@ -1,0 +1,51 @@
+{
+  "name": "Cryptoabs",
+  "ens_address": "",
+  "website": "http://adtli.net/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/CryptoABS",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/CryptoABS",
+    "slack": "https://cryptoabs.slack.com/",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "cryptoabs",
+      "address": "0x7731EE8B0b0ab88977BE7922849eB767bBE8DA15",
+      "erc20": {
+        "symbol": "ABS",
+        "decimals": 18,
+        "name": "cryptoabs"
+      }
+    },
+    {
+      "name": "CryptoABS",
+      "address": "0x8ce9411Df545d6b51A9bc52a89E0F6d1B54a06dd",
+      "erc20": {
+        "symbol": "ABS",
+        "decimals": 0,
+        "name": "CryptoABS"
+      }
+    }
+  ]
+}

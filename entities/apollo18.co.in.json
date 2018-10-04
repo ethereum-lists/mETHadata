@@ -1,0 +1,51 @@
+{
+  "name": "Apollo18",
+  "ens_address": "",
+  "website": "https://apollo18.co.in",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "contact@apollo18.co.in",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@apollo18",
+    "chat": "https://discordapp.com/invite/VkbUkQz",
+    "facebook": "https://facebook.com/apollo18crypto",
+    "forum": "",
+    "github": "https://github.com/apollo18crypto",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://telegram.apollo18.co.in",
+    "twitter": "https://twitter.com/apollo18crypto",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Apollo18",
+      "address": "0xBDe8f7820b5544a49D34F9dDeaCAbEDC7C0B5adc",
+      "erc20": {
+        "symbol": "A18",
+        "decimals": 0,
+        "name": "Apollo18"
+      }
+    },
+    {
+      "name": "Apollo18",
+      "address": "0xBa7DCBa2Ade319Bc772DB4df75A76BA00dFb31b0",
+      "erc20": {
+        "symbol": "A18",
+        "decimals": 0,
+        "name": "Apollo18"
+      }
+    }
+  ]
+}

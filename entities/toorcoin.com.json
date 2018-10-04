@@ -1,0 +1,47 @@
+{
+  "name": "ToorCoin",
+  "ens_address": "",
+  "website": "https://www.toorcoin.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTkipMXQJi8bBqWu19BrcdgSfCuG2fVTN184XYJ3HVA9K",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/962099770989756416/WKVWnb-h.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/962099770989756416/WKVWnb-h.jpg",
+    "ipfs_origin": "QmR9HvAJ8RVapbRWZRBKYM7F4vWKFvFdiadtrXRnzKc9SY"
+  },
+  "support": {
+    "email": "support@toorcoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/toorcoin",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=3478302.0",
+    "github": "https://github.com/toorister/toorcoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Toorcoin",
+    "slack": "",
+    "telegram": "https://t.me/Toorcoin",
+    "twitter": "https://twitter.com/toorcoin",
+    "youtube": "https://www.youtube.com/channel/UCYjYlMqYT9UnHgrkqdGhsjQ"
+  },
+  "eth": [
+    {
+      "name": "ToorCoin",
+      "address": "0x8eb965ee9cCFBCE76c0a06264492c0afEfc2826d",
+      "erc20": {
+        "symbol": "TOOR",
+        "decimals": 18,
+        "name": "ToorCoin"
+      }
+    }
+  ]
+}

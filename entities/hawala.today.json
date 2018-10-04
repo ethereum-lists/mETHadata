@@ -1,0 +1,47 @@
+{
+  "name": "Hawala Today",
+  "ens_address": "",
+  "website": "https://www.hawala.today/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9002d4485b7594e3e850f0a206713b305113f69e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmavmPqhPsVWiRNFj5Wo2STKMaSkC1byNNL7wUBC6V5uTU",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9002d4485b7594e3e850f0a206713b305113f69e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9002d4485b7594e3e850f0a206713b305113f69e.png",
+    "ipfs_origin": "QmXaPbMAVixKu7SWKpBQmdf5yLCWH2Mfj4KQSTqm38LB4C"
+  },
+  "support": {
+    "email": "info@hawala.today",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.hawala.today/blog/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/hawalatoday",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/HawalaToday/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/hawalatoday",
+    "youtube": "https://t.me/hawala_chat"
+  },
+  "eth": [
+    {
+      "name": "Hawala Today",
+      "address": "0x9002D4485b7594e3E850F0a206713B305113f69e",
+      "erc20": {
+        "symbol": "HAT",
+        "decimals": 18,
+        "name": "Hawala Today"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "MGO",
+  "ens_address": "",
+  "website": "https://gamecredits.com/mobilego",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x40395044ac3c0c57051906da938b54bd6557f212.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbD2bUTQkrX77jGiA3HJJPVCyWuE7PzqocR3UgfSRYygV",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1006447385906688001/ta3bsSBj.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x40395044ac3c0c57051906da938b54bd6557f212.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x40395044ac3c0c57051906da938b54bd6557f212.png",
+    "ipfs_origin": "QmaXZR5tPL3MTsBcPuTKh3QefmxfES92MfdujYtZmowpqY"
+  },
+  "support": {
+    "email": "contact@gamecredits.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://gamecredits.com/blog/1",
+    "chat": "",
+    "facebook": "https://www.facebook.com/gamecredits/",
+    "forum": "https://bitcointalk.org/index.php?topic=1266597",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18067971/",
+    "reddit": "https://www.reddit.com/r/GameCreditsCrypto/",
+    "slack": "",
+    "telegram": "https://t.me/gamecreditsglobal",
+    "twitter": "https://twitter.com/gamecredits",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MGO",
+      "address": "0x40395044Ac3c0C57051906dA938B54BD6557F212",
+      "erc20": {
+        "symbol": "MGO",
+        "decimals": 8,
+        "name": "MGO"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Red Community Token",
+  "ens_address": "",
+  "website": "https://ico.red-lang.org",
+  "logo": {
+    "src": "https://static.red-lang.org/pr/logo/red-token-logo_sq_128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": "QmZemKHDtEpAUrkVZtoca8wvg2kRquXBMn2Sq3sxsw2tXF",
+    "sources": {
+      "token-list": "https://static.red-lang.org/pr/logo/red-token-logo_sq_128x128.png",
+      "twitter": "http://pbs.twimg.com/profile_images/501701094032941056/R-a4YJ5K_normal.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://static.red-lang.org/pr/logo/red-token-logo_sq_128x128.png",
+    "ipfs_origin": "QmY6eSkQkkZ1fF8vUrQfKNqbiGP3wGWhjF98zX2gwSJPVy"
+  },
+  "support": {
+    "email": "token@red-lang.org",
+    "url": "https://t.me/redofficial"
+  },
+  "social": {
+    "blog": "https://www.red-lang.org",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/redlanguage/about",
+    "forum": "",
+    "github": "https://github.com/red",
+    "gitter": "https://gitter.im/red/red/welcome",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/redlang",
+    "slack": "",
+    "telegram": "https://t.me/redofficial",
+    "twitter": "https://twitter.com/red_lang",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Red Community Token",
+      "address": "0x76960Dccd5a1fe799F7c29bE9F19ceB4627aEb2f",
+      "erc20": {
+        "symbol": "RED",
+        "decimals": 18,
+        "name": "Red Community Token"
+      }
+    }
+  ]
+}

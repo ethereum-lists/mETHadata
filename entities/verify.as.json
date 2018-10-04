@@ -1,0 +1,49 @@
+{
+  "name": "CRED",
+  "ens_address": "",
+  "website": "https://verify.as",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYXyNR5uJAn4fFnKsAz7EmejXGidYEQaLbPkqoP8hLLgK",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/cred.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/927127767438823424/VLZ4geTz.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd.png",
+    "ipfs_origin": "QmNQ6rJTwr7B1JEYH9U58xQvbA7AcEpZ8NstwucCCzchLF"
+  },
+  "support": {
+    "email": "team@verify.as",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@verify.as",
+    "chat": "",
+    "facebook": "https://www.facebook.com/verifyas/",
+    "forum": "https://bitcointalk.org/index.php?topic=2374729.0",
+    "github": "https://github.com/verifyas",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/verifyas/",
+    "slack": "",
+    "telegram": "https://t.me/verifyas",
+    "twitter": "https://twitter.com/verif_yas/",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CRED",
+      "address": "0x672a1AD4f667FB18A333Af13667aa0Af1F5b5bDD",
+      "erc20": {
+        "symbol": "CRED",
+        "decimals": 18,
+        "name": "CRED"
+      }
+    }
+  ]
+}

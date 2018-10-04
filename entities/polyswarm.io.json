@@ -1,0 +1,49 @@
+{
+  "name": "Nectar",
+  "ens_address": "",
+  "website": "https://polyswarm.io",
+  "logo": {
+    "src": "https://polyswarm.io/img/coin/nectar_300x300.png",
+    "width": "301",
+    "height": "301",
+    "ipfs_hash": "QmSPniesWB1R52S79uphaZH1za3ShCGfC2Pmax1pyuBT2w",
+    "sources": {
+      "token-list": "https://polyswarm.io/img/coin/nectar_300x300.png",
+      "twitter": "http://pbs.twimg.com/profile_images/927419298158485504/ImcYCVfX.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e46a38f5daabe8683e10793b06749eef7d733d1.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e46a38f5daabe8683e10793b06749eef7d733d1.png",
+    "ipfs_origin": "QmbgDEbcybQhyb3A6Y7NbBLhQUgtgauwfUK3eWLnxjj5xz"
+  },
+  "support": {
+    "email": "info@polyswarm.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/swarmdotmarket",
+    "chat": "",
+    "facebook": "https://www.facebook.com/PolySwarm/",
+    "forum": "",
+    "github": "https://github.com/polyswarm",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/swarm-industries",
+    "reddit": "https://www.reddit.com/r/polyswarm",
+    "slack": "",
+    "telegram": "https://t.me/polyswarm",
+    "twitter": "https://twitter.com/polyswarm",
+    "youtube": "https://www.youtube.com/channel/UClkA8JVQ--oMsPomOKM85fA"
+  },
+  "eth": [
+    {
+      "name": "Nectar",
+      "address": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
+      "erc20": {
+        "symbol": "NCT",
+        "decimals": 18,
+        "name": "Nectar"
+      }
+    }
+  ]
+}

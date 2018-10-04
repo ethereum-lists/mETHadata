@@ -1,0 +1,49 @@
+{
+  "name": "Signal",
+  "ens_address": "",
+  "website": "https://spectivvr.com",
+  "logo": {
+    "src": "https://uploads-ssl.webflow.com/58fd371467a8320d4f29aed3/5906667d95a2d43d31378ce7_60x60logo.png",
+    "width": "251",
+    "height": "251",
+    "ipfs_hash": "QmTtWsuUQMDWt2Jh7Any9vHSidaYHyS79b8ddKLU6FSKpC",
+    "sources": {
+      "token-list": "https://uploads-ssl.webflow.com/58fd371467a8320d4f29aed3/5906667d95a2d43d31378ce7_60x60logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/858511830934630400/o4zzmyjc.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6888a16ea9792c15a4dcf2f6c623d055c8ede792.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6888a16ea9792c15a4dcf2f6c623d055c8ede792.png",
+    "ipfs_origin": "QmadxkvsU2Kv2q3L1wyuZ9EpyTCwViwVFkWoC7rU5XwoJx"
+  },
+  "support": {
+    "email": "info@spectivvr.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/spectiv-vr",
+    "chat": "http://t.me/spectivtelegram",
+    "facebook": "https://www.facebook.com/spectivvr/",
+    "forum": "",
+    "github": "https://github.com/SpectivOfficial",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Spectiv",
+    "slack": "https://communityinviter.com/apps/spectivvr/welcome",
+    "telegram": "http://t.me/spectivtelegram",
+    "twitter": "https://twitter.com/spectivvr",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Signal",
+      "address": "0x6888a16eA9792c15A4DCF2f6C623D055c8eDe792",
+      "erc20": {
+        "symbol": "SIG",
+        "decimals": 18,
+        "name": "Signal"
+      }
+    }
+  ]
+}

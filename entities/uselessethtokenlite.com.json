@@ -1,0 +1,47 @@
+{
+  "name": "UselessEthTokenLite",
+  "ens_address": "",
+  "website": "http://uselessethtokenlite.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmciUXpiRG2tfdRoB5pBUU7tFxgRZpDuN67DbKPxWk2s6s",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/927302731278123008/21eZ6XkB.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/927302731278123008/21eZ6XkB.jpg",
+    "ipfs_origin": "QmNYfpJoCxTwMXZPxzenCPB45rqgmjd7TZ5VbTfyr4bhxp"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://discordapp.com/invite/44gXkKF",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/UselessToken",
+    "slack": "",
+    "telegram": "https://t.me/UselessEthTokenLite",
+    "twitter": "https://twitter.com/Useless_Token",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "UselessEthTokenLite",
+      "address": "0xa5a283557653f36cf9aA0d5cC74B1e30422349f2",
+      "erc20": {
+        "symbol": "UETL",
+        "decimals": 8,
+        "name": "UselessEthTokenLite"
+      }
+    }
+  ]
+}

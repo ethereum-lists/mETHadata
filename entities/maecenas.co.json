@@ -1,0 +1,48 @@
+{
+  "name": "ART",
+  "ens_address": "",
+  "website": "https://maecenas.co",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfec0cf7fe078a500abf15f1284958f22049c2c7e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPgpmtN1ScTffopykEw3FVrapcGtKpjDmBSKEWgMvn6kc",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/756306369746198528/p9znJPRJ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfec0cf7fe078a500abf15f1284958f22049c2c7e.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/756306369746198528/p9znJPRJ.jpg",
+    "ipfs_origin": "QmZNFbyZdug4i7MpqwQYqp1NcJUgveK9Xe9McVzhe8X6Gv"
+  },
+  "support": {
+    "email": "support@cofound.it",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://support.cofound.it/hc/en-us/articles/115001315351-Crowdsale-token-list-information",
+    "chat": "",
+    "facebook": "https://www.facebook.com/maecenasart",
+    "forum": "https://bitcointalk.org/index.php?topic=2229062.0",
+    "github": "https://github.com/maecenasart",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/maecenas/",
+    "reddit": "https://www.reddit.com/r/Maecenas/",
+    "slack": "",
+    "telegram": "https://t.me/maecenasart",
+    "twitter": "https://twitter.com/maecenasart",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ART",
+      "address": "0xfec0cF7fE078a500abf15F1284958F22049c2C7e",
+      "erc20": {
+        "symbol": "ART",
+        "decimals": 18,
+        "name": "ART"
+      }
+    }
+  ]
+}

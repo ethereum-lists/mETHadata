@@ -1,0 +1,49 @@
+{
+  "name": "SelfieYo Gold Token",
+  "ens_address": "",
+  "website": "https://sgt.selfieyo.com",
+  "logo": {
+    "src": "https://sgt.selfieyo.com/wp-content/uploads/2018/01/token-new.png",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": "QmVF46p2nod4rBVkuzBjwwAWY2kxGMURVNzRPYqqqyvJQq",
+    "sources": {
+      "token-list": "https://sgt.selfieyo.com/wp-content/uploads/2018/01/token-new.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1020788315665072128/qPkNXuUY.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1020788315665072128/qPkNXuUY.jpg",
+    "ipfs_origin": "QmRQ1kikYzCGDzCgBuDnutwPDhcu8P7p7iKncmS9ZopWxv"
+  },
+  "support": {
+    "email": "sgt@selfieyo.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "https://discord.gg/QY6EVuY",
+    "facebook": "https://www.facebook.com/SelfieYoApp/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/SGTcoin",
+    "twitter": "https://twitter.com/SelfieYo",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SelfieYo Gold Token",
+      "address": "0x37427576324fE1f3625c9102674772d7CF71377d",
+      "erc20": {
+        "symbol": "SGT",
+        "decimals": 18,
+        "name": "SelfieYo Gold Token"
+      }
+    }
+  ]
+}

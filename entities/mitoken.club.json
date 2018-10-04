@@ -1,0 +1,42 @@
+{
+  "name": "MINT",
+  "ens_address": "",
+  "website": "https://mitoken.club/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MINT",
+      "address": "0xEA642206310400cDA4c1c5b8E7945314Aa96b8a7",
+      "erc20": {
+        "symbol": "MINT",
+        "decimals": 18,
+        "name": "MINT"
+      }
+    }
+  ]
+}

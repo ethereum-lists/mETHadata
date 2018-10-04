@@ -1,0 +1,49 @@
+{
+  "name": "Globcoin Crypto Platform",
+  "ens_address": "",
+  "website": "https://globcoin.io/",
+  "logo": {
+    "src": "https://globcoin.io/assets/img/favicon-128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": "QmZvCELCxGuMZg4SfQLSfEJhT3nc6J7VxUMGasZbf5LgnF",
+    "sources": {
+      "token-list": "https://globcoin.io/assets/img/favicon-128x128.png",
+      "twitter": "http://pbs.twimg.com/profile_images/908629242065440768/EoxrWkOQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdb0f69306ff8f949f258e83f6b87ee5d052d0b23.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdb0f69306ff8f949f258e83f6b87ee5d052d0b23.png",
+    "ipfs_origin": "QmSBVpHdws7QEnCwC43Z3zRS4aP4t3tXnfZJJjL7tSBZuP"
+  },
+  "support": {
+    "email": "community@globcoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@globcoin_io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/globcoin.io",
+    "forum": "",
+    "github": "https://github.com/Globcoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/globcoin-io/",
+    "reddit": "https://www.reddit.com/r/globcoin/",
+    "slack": "",
+    "telegram": "https://t.me/globcoin",
+    "twitter": "https://twitter.com/Globcoin_io",
+    "youtube": "https://www.youtube.com/channel/UCd5vYU38p0YrQTUZ6UEKGdA/videos"
+  },
+  "eth": [
+    {
+      "name": "Globcoin Crypto Platform",
+      "address": "0xdb0F69306FF8F949f258E83f6b87ee5D052d0b23",
+      "erc20": {
+        "symbol": "GCP",
+        "decimals": 18,
+        "name": "Globcoin Crypto Platform"
+      }
+    }
+  ]
+}

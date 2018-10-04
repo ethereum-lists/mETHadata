@@ -1,0 +1,49 @@
+{
+  "name": "DENT",
+  "ens_address": "",
+  "website": "https://www.dentwireless.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3597bfd533a99c9aa083587b074434e61eb0a258.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmP21RNA9S7ayzkUdYMKnFSxSkaYHB1SMbaCz7GxZeGMiw",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/dent.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1037252789574008832/xXaE1pRX.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3597bfd533a99c9aa083587b074434e61eb0a258.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1037252789574008832/xXaE1pRX.jpg",
+    "ipfs_origin": "QmawQ5tYrqkb7dDjmVz3mouSTi6WQFGf3ghP2bQYVMsfC2"
+  },
+  "support": {
+    "email": "info@dentwireless.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.dentwireless.com/blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/dentcoin",
+    "forum": "https://bitcointalk.org/index.php?topic=1974825.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/dentcoin/",
+    "slack": "",
+    "telegram": "https://t.me/dentcoin",
+    "twitter": "https://twitter.com/dentcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DENT",
+      "address": "0x3597bfD533a99c9aa083587B074434E61Eb0A258",
+      "erc20": {
+        "symbol": "DENT",
+        "decimals": 8,
+        "name": "DENT"
+      }
+    }
+  ]
+}

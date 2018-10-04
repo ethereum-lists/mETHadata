@@ -1,0 +1,43 @@
+{
+  "type": "ERC20",
+  "name": "Cremit",
+  "ens_address": "",
+  "website": "https://www.cremit.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "support@cremit.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Cremit",
+      "address": "0x9238bfB781A55eACC3Cf05F7DF94038c198CD9B9",
+      "erc20": {
+        "symbol": "CRMT",
+        "decimals": 8,
+        "name": "Cremit"
+      }
+    }
+  ]
+}

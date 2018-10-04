@@ -1,0 +1,48 @@
+{
+  "name": "Cashaa",
+  "website": "https://cashaa.com",
+  "logo": {
+    "src": "https://cashaa.com/img/tkn-icon1.png",
+    "width": 20,
+    "height": 20,
+    "ipfs_hash": "QmarD7atF9epfX8Me9ac9Hkqibf4fbKgQ2t4xFZ9yZJSxy",
+    "sources": {
+      "token-list": "https://cashaa.com/img/tkn-icon1.png",
+      "twitter": "http://pbs.twimg.com/profile_images/992364235190501376/Sd6cXaPs.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe8780b48bdb05f928697a5e8155f672ed91462f7.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe8780b48bdb05f928697a5e8155f672ed91462f7.png",
+    "ipfs_origin": "QmY5ztjHSqCTkjNwU6UjrseE14YRKBJ4ZQC7rJfTWHBskU"
+  },
+  "support": {
+    "email": "hello@cashaa.com",
+    "url": "https://cashaa.com"
+  },
+  "social": {
+    "blog": "https://medium.com/cashaa",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cashaaLtd",
+    "github": "https://github.com/cashaadev",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Cashaa/",
+    "slack": "",
+    "telegram": "https://t.me/CashaaLtd",
+    "twitter": "https://twitter.com/CashaaLTD",
+    "youtube": "https://www.youtube.com/channel/UCwRJjX6dNz49j3Pc0ROZJbg",
+    "forum": "https://bitcointalk.org/index.php?topic=2272412.0"
+  },
+  "eth": [
+    {
+      "name": "Cashaa",
+      "address": "0xe8780B48bdb05F928697A5e8155f672ED91462F7",
+      "erc20": {
+        "symbol": "CAS",
+        "decimals": 18,
+        "name": "Cashaa"
+      }
+    }
+  ]
+}

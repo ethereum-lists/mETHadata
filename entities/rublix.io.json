@@ -1,0 +1,48 @@
+{
+  "name": "Rublix",
+  "ens_address": "",
+  "website": "https://rublix.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfc2c4d8f95002c14ed0a7aa65102cac9e5953b5e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVLQJz9t3m4P2Ar3jytfrPKMZBDPcWpdPBpc3JPka9Tas",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/927611718942973952/7cBmyV2N.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfc2c4d8f95002c14ed0a7aa65102cac9e5953b5e.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/927611718942973952/7cBmyV2N.jpg",
+    "ipfs_origin": "QmezxjBSruMwsFv9crhjTf1brDkfPDAqXujwgQwuvtL28n"
+  },
+  "support": {
+    "email": "info@rublix.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.rublix.io/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Rublixdev/",
+    "forum": "",
+    "github": "https://github.com/rublixdev",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/rublixdev/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Rublix/",
+    "slack": "",
+    "telegram": "https://t.me/rublixdev",
+    "twitter": "https://twitter.com/RublixDev",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Rublix",
+      "address": "0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
+      "erc20": {
+        "symbol": "RBLX",
+        "decimals": 18,
+        "name": "Rublix"
+      }
+    }
+  ]
+}

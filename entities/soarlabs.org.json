@@ -1,0 +1,48 @@
+{
+  "name": "Soarcoin",
+  "ens_address": "",
+  "website": "https://www.soarlabs.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQQ1qQ9XsMpWLiEtVwLyJR13aWadbixYar5nMhyfaJBUY",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/884716783902625792/UvPyGqux.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e.png",
+    "ipfs_origin": "QmNNZjQzhds91wrkBgpUoDxvuvZdhLfRQMRq1tTdiWpzoj"
+  },
+  "support": {
+    "email": "support@soarlabs.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/neowenyuan27/SoarCoin/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Soarcoin/",
+    "slack": "https://join.slack.com/soarcoin/",
+    "telegram": "https://t.co/r1aB5M0Fev",
+    "twitter": "https://twitter.com/soarcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Soarcoin",
+      "address": "0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E",
+      "erc20": {
+        "symbol": "Soar",
+        "decimals": 6,
+        "name": "Soarcoin"
+      }
+    }
+  ]
+}

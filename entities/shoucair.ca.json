@@ -1,0 +1,42 @@
+{
+  "name": "SHOUCAIR",
+  "ens_address": "",
+  "website": "http://shoucair.ca/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SHOUCAIR",
+      "address": "0xBC7De10AFe530843e71DfB2e3872405191e8d14A",
+      "erc20": {
+        "symbol": "SHOUC",
+        "decimals": 18,
+        "name": "SHOUCAIR"
+      }
+    }
+  ]
+}

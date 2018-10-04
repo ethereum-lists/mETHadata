@@ -1,0 +1,48 @@
+{
+  "name": "OneRoot Network Token",
+  "ens_address": "",
+  "website": "https://www.oneroot.io/en",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xff603f43946a3a28df5e6a73172555d8c8b02386.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSWXfkvsnbJLL9hjSavoATDZM3DvajJeQ1rWt89DnrLfT",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/932612420287086594/G7KMAQEw.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xff603f43946a3a28df5e6a73172555d8c8b02386.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xff603f43946a3a28df5e6a73172555d8c8b02386.png",
+    "ipfs_origin": "Qmf9ttpwCGPCKYMY6KtBbVfXMnaJaACKtmSGzoNECEjj39"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/OneRootNetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "OneRoot Network Token",
+      "address": "0xFF603F43946A3A28DF5E6A73172555D8C8b02386",
+      "erc20": {
+        "symbol": "RNT",
+        "decimals": 18,
+        "name": "OneRoot Network Token"
+      }
+    }
+  ]
+}

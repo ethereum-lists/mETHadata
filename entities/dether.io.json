@@ -1,0 +1,49 @@
+{
+  "name": "dether",
+  "ens_address": "",
+  "website": "https://dether.io",
+  "logo": {
+    "src": "https://ipfs.io/ipfs/QmTbnd1okDoU188cLCFvZorxWgfVHdoLwwnLKxkJJFcncv",
+    "width": "349",
+    "height": "349",
+    "ipfs_hash": "QmT2GhFtjUrz5yH5APxcWpk4XZjhhmWCxzTw61SEYBiRm1",
+    "sources": {
+      "token-list": "https://ipfs.io/ipfs/QmTbnd1okDoU188cLCFvZorxWgfVHdoLwwnLKxkJJFcncv",
+      "twitter": "http://pbs.twimg.com/profile_images/1042889572991033344/gTTjxYTR.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1042889572991033344/gTTjxYTR.jpg",
+    "ipfs_origin": "QmaB3BvjNopazkj5TptS5SKZpkYPMBsfwMEWWCXXbyKU59"
+  },
+  "support": {
+    "email": "support@dether.io",
+    "url": "https://dether.io"
+  },
+  "social": {
+    "blog": "https://medium.com/@DETHER",
+    "chat": "https://t.me/joinchat/GkdUjUQ4jx_Apxmz2km4ww",
+    "facebook": "https://www.facebook.com/dether.io/",
+    "forum": "https://medium.com/@DETHER",
+    "github": "https://github.com/dethertech",
+    "gitter": "https://gitter.im/dether-js",
+    "instagram": "https://www.instagram.com/dether.io/",
+    "linkedin": "https://www.linkedin.com/company/dether-io/",
+    "reddit": "https://www.reddit.com/r/Dether/",
+    "slack": "https://dether.slack.com/messages/C4HEL2KLK/details/",
+    "telegram": "https://t.me/joinchat/GkdUjUQ4jx_Apxmz2km4ww",
+    "twitter": "https://twitter.com/dether_io",
+    "youtube": "https://www.youtube.com/channel/UCXkA5w4KdpnBMeIsu62ZS8w"
+  },
+  "eth": [
+    {
+      "name": "dether",
+      "address": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
+      "erc20": {
+        "symbol": "DTH",
+        "decimals": 18,
+        "name": "dether"
+      }
+    }
+  ]
+}

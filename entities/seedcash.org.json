@@ -1,0 +1,47 @@
+{
+  "name": "SeedCash",
+  "ens_address": "",
+  "website": "http://seedcash.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTdUSSMqx38MK5x4qp2hvx5zDLdLNeuVYcZuprDkZkihX",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/925839377984614400/9UU0Bhut.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/925839377984614400/9UU0Bhut.jpg",
+    "ipfs_origin": "QmT8vbHEx7Jbz4G8QHDxH2MMjQigcPtm8bvkpfT2McSnLG"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/SeedCashOrg",
+    "twitter": "https://twitter.com/SeedCashOrg",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SeedCash",
+      "address": "0x14FffB1e001615b7Fb7c7857BDf440a610022E5B",
+      "erc20": {
+        "symbol": "SCX",
+        "decimals": 0,
+        "name": "SeedCash"
+      }
+    }
+  ]
+}

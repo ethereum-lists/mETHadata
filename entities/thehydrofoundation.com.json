@@ -1,0 +1,49 @@
+{
+  "name": "Hydro Protocol",
+  "ens_address": "",
+  "website": "https://thehydrofoundation.com/",
+  "logo": {
+    "src": "https://s2.coinmarketcap.com/static/img/coins/32x32/2430.png",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": "QmWKjhdQzmrQ3knP5GvGZCxYfbUNr3mzfHnu1FxiKAVbWZ",
+    "sources": {
+      "token-list": "https://s2.coinmarketcap.com/static/img/coins/32x32/2430.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1039988713969856517/Etmbrgyv.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9af839687f6c94542ac5ece2e317daae355493a1.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9af839687f6c94542ac5ece2e317daae355493a1.png",
+    "ipfs_origin": "QmayLTUvoDdscBNk92PgfyJBBMfegNRJ2jkqdEuha1yn7v"
+  },
+  "support": {
+    "email": "libukang@ddex.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/hydro-protocol",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/hydroprotocol",
+    "twitter": "https://twitter.com/protocol_hydro",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Hydro Protocol",
+      "address": "0x9AF839687F6C94542ac5ece2e317dAAE355493A1",
+      "erc20": {
+        "symbol": "HOT",
+        "decimals": 18,
+        "name": "Hydro Protocol"
+      }
+    }
+  ]
+}

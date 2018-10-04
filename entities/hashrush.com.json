@@ -1,0 +1,42 @@
+{
+  "name": "HashRush",
+  "ens_address": "",
+  "website": "https://www.hashrush.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/HashRushGame/",
+    "forum": "https://discord.gg/ecTsYsc",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/hashrushgame/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/hashrush/",
+    "slack": "",
+    "telegram": "https://t.me/hashrush",
+    "twitter": "https://twitter.com/HashRushGame",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "HashRush",
+      "address": "0x2DBE0f03f1dddbdbc87557e86dF3878AE25af855",
+      "erc20": {
+        "symbol": "RC",
+        "decimals": 8,
+        "name": "HashRush"
+      }
+    }
+  ]
+}

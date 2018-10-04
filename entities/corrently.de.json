@@ -1,0 +1,29 @@
+{
+  "name": "Corrently Invest Token",
+  "ens_address": "",
+  "website": "https://corrently.de/token/",
+  "logo": {
+    "src": "https://corrently.de/token/img/logo_square.png",
+    "width": "128",
+    "height": "128",
+    "sources": {
+      "token-list": "https://corrently.de/token/img/logo_square.png"
+    }
+  },
+  "support": {
+    "email": "kontakt@stromdao.com",
+    "url": "https://corrently.de/token/"
+  },
+  "social": {},
+  "eth": [
+    {
+      "name": "Corrently Invest Token",
+      "address": "0x725B190Bc077FFde17Cf549AA8ba25e298550B18",
+      "erc20": {
+        "symbol": "CORI",
+        "decimals": 2,
+        "name": "Corrently Invest Token"
+      }
+    }
+  ]
+}

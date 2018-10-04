@@ -1,0 +1,48 @@
+{
+  "name": "QAU",
+  "ens_address": "",
+  "website": "http://www.quantumproject.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x671abbe5ce652491985342e85428eb1b07bc6c64.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNmnRfnVyrmagM7w69BQT8U4z5t7T2iwM4YmPD75o5GQq",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/905062625616285698/g5Pr8dh9.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x671abbe5ce652491985342e85428eb1b07bc6c64.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x671abbe5ce652491985342e85428eb1b07bc6c64.png",
+    "ipfs_origin": "QmR1uNwgWmD41naUYXjjwBWzg4MrLL7Y5NV69f2CYBZRnw"
+  },
+  "support": {
+    "email": "support@quantumproject.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/QAUProject",
+    "forum": "https://bitcointalk.org/index.php?topic=1870606.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/25037800/",
+    "reddit": "https://www.reddit.com/r/quantumproject/",
+    "slack": "",
+    "telegram": "https://t.me/QuantumProject",
+    "twitter": "https://twitter.com/qauProject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "QAU",
+      "address": "0x671AbBe5CE652491985342e85428EB1b07bC6c64",
+      "erc20": {
+        "symbol": "QAU",
+        "decimals": 8,
+        "name": "QAU"
+      }
+    }
+  ]
+}

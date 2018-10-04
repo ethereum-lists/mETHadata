@@ -1,0 +1,42 @@
+{
+  "name": "StabitCoin",
+  "ens_address": "",
+  "website": "https://stabitcoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "support@stabitcoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/stabit_coin",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "StabitCoin",
+      "address": "0x4A89cD486fA996ad50c0a63C35c78702f5422a50",
+      "erc20": {
+        "symbol": "STABIT",
+        "decimals": 3,
+        "name": "StabitCoin"
+      }
+    }
+  ]
+}

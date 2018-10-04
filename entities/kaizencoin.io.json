@@ -1,0 +1,42 @@
+{
+  "name": "KaizenCoin",
+  "ens_address": "",
+  "website": "http://kaizencoin.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "kaizencoin@kaizencoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "KaizenCoin",
+      "address": "0x9541FD8B9b5FA97381783783CeBF2F5fA793C262",
+      "erc20": {
+        "symbol": "KZN",
+        "decimals": 8,
+        "name": "KaizenCoin"
+      }
+    }
+  ]
+}

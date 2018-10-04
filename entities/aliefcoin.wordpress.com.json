@@ -1,0 +1,42 @@
+{
+  "name": "alief",
+  "ens_address": "",
+  "website": "https://aliefcoin.wordpress.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "alief",
+      "address": "0xbA71B32e71a41339Aa4CEAa79528535AEFE488D8",
+      "erc20": {
+        "symbol": "alief",
+        "decimals": 0,
+        "name": "alief"
+      }
+    }
+  ]
+}

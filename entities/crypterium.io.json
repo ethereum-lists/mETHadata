@@ -1,0 +1,49 @@
+{
+  "name": "CrypteriumToken",
+  "ens_address": "",
+  "website": "https://crypterium.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x80a7e048f37a50500351c204cb407766fa3bae7f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSLWkdpQCxmqeyFDeEWUtLz2RyJHALHSfi2TJrsPLNVXg",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/crpt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1003600965302476800/zGfE-F-S.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x80a7e048f37a50500351c204cb407766fa3bae7f.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1003600965302476800/zGfE-F-S.jpg",
+    "ipfs_origin": "QmQdgNb5ESbkgEM4pdGDkFgt4y3HKEBkp2cqHkggQqofEP"
+  },
+  "support": {
+    "email": "support@crypterium.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@crypterium_io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/crypterium.io",
+    "forum": "https://bitcointalk.org/index.php?topic=2214098.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/crypterium",
+    "reddit": "https://www.reddit.com/search?q=Crypterium",
+    "slack": "",
+    "telegram": "https://t.me/crypterium",
+    "twitter": "https://twitter.com/@crypterium",
+    "youtube": "https://www.youtube.com/channel/UCulhwOW251X2fpRJ7bTCCvg"
+  },
+  "eth": [
+    {
+      "name": "CrypteriumToken",
+      "address": "0x80A7E048F37A50500351C204Cb407766fA3baE7f",
+      "erc20": {
+        "symbol": "CRPT",
+        "decimals": 18,
+        "name": "CrypteriumToken"
+      }
+    }
+  ]
+}

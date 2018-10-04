@@ -1,0 +1,49 @@
+{
+  "name": "ICON",
+  "ens_address": "",
+  "website": "https://www.icon.foundation",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb5a5f22694352c15b00323844ad545abb2b11028.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSUMyxUh6dsnA1DSC88UcPgEa7bXNrsJtrtoE4iocQyMR",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/icx.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/999877530818498560/rEkXxUEU.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb5a5f22694352c15b00323844ad545abb2b11028.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/icx.svg",
+    "ipfs_origin": "QmPX8z2fu5DuSSMRiTuH3CtKHQftUTT3bqk1xQoEtd1xud"
+  },
+  "support": {
+    "email": "hello@icon.foundation",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/helloiconworld",
+    "chat": "",
+    "facebook": "https://www.facebook.com/helloicon",
+    "forum": "https://bitcointalk.org/index.php?topic=2115503",
+    "github": "https://github.com/theloopkr/loopchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/icon",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Fqw4igkkVmYtj--ZVi-QcA",
+    "twitter": "https://twitter.com/helloiconworld",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ICON",
+      "address": "0xb5A5F22694352C15B00323844aD545ABb2B11028",
+      "erc20": {
+        "symbol": "ICX",
+        "decimals": 18,
+        "name": "ICON"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Zeus Exchange",
+  "ens_address": "",
+  "website": "http://zeus.exchange",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPjYDaxHUMydAkMAFs2ZucCj7q2nUGcNTu7P6SMuRuL6a",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/973225991106715648/qAeWFIko.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/973225991106715648/qAeWFIko.jpg",
+    "ipfs_origin": "QmRnrrbz4PV6a7ea2a7gKDSADWvEV5JKHeGzZL8Xe99n5s"
+  },
+  "support": {
+    "email": "info@zeus.exchange",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/Zeus-Exchange-158864051329242",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/B8kRS0IMUdyEVi9CxH7Djw",
+    "twitter": "https://twitter.com/ExchangeZeus",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Zeus Exchange",
+      "address": "0xe386B139Ed3715Ca4B18Fd52671bDcea1cdFE4b1",
+      "erc20": {
+        "symbol": "ZST",
+        "decimals": 8,
+        "name": "Zeus Exchange"
+      }
+    }
+  ]
+}

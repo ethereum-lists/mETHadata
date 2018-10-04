@@ -1,0 +1,49 @@
+{
+  "name": "Walton",
+  "ens_address": "",
+  "website": "http://www.waltonchain.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbwLMAASTQAokMikazPZozYvHsjcf1vEzEbY67JoCSJMV",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/wtc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/958914544474062848/djxi4nPk.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/wtc.svg",
+    "ipfs_origin": "QmXYzmE1MxoPP7Px1VTuXadUzzKAGf7rC8aUFDQ5ic4PrG"
+  },
+  "support": {
+    "email": "services@waltonchain.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/waltonchain/",
+    "forum": "https://bitcointalk.org/index.php?topic=2127069.80",
+    "github": "https://github.com/WaltonChain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/waltonchain/",
+    "slack": "https://waltonchain.slack.com/join/shared_invite/enQtMjgxMDcxNzU5MDEwLWI1ZTc3MDZlNmI4ZjA1YjhiMDEzN2VlZmY2M2EzNmM4Yjg1NjFjYjlmNTcxOGVlMGRiNWE2M2NlYTg2MWNmNWQ",
+    "telegram": "https://t.me/waltonchain_en",
+    "twitter": "https://twitter.com/Waltonchain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Walton",
+      "address": "0xb7cB1C96dB6B22b0D3d9536E0108d062BD488F74",
+      "erc20": {
+        "symbol": "WTC",
+        "decimals": 18,
+        "name": "Walton"
+      }
+    }
+  ]
+}

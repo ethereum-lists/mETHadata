@@ -1,0 +1,42 @@
+{
+  "name": "EC-Token",
+  "ens_address": "",
+  "website": "https://ect.money/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EC-Token",
+      "address": "0xBCC394D45C3613530A83Cae62C716dC23B7f2152",
+      "erc20": {
+        "symbol": "ECT",
+        "decimals": 2,
+        "name": "EC-Token"
+      }
+    }
+  ]
+}

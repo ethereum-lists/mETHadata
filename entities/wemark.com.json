@@ -1,0 +1,49 @@
+{
+  "type": "ERC20",
+  "name": "WemarkToken",
+  "ens_address": "",
+  "website": "https://www.wemark.com",
+  "logo": {
+    "src": "https://cdn.wemark.com/wmk-logo-250.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": "Qmdovp4ctbwNqQruVDRp9LRFQk4jhhSEXhD8pMx8qLeWuV",
+    "sources": {
+      "token-list": "https://cdn.wemark.com/wmk-logo-250.png",
+      "twitter": "http://pbs.twimg.com/profile_images/991695141202251776/9_2TfH-A.jpg"
+    },
+    "sourceBest": "src",
+    "origin": "https://cdn.wemark.com/wmk-logo-250.png",
+    "ipfs_origin": "QmdCrKKw1rgpKPR6iP5JkC9zntZJhM8KHYhZbsetk6Ekv4"
+  },
+  "support": {
+    "email": "support@wemark.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/wemark-stories",
+    "chat": "",
+    "facebook": "https://www.facebook.com/WemarkOfficial/",
+    "forum": "",
+    "github": "https://github.com/WemarkSource",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Wemark/",
+    "slack": "",
+    "telegram": "https://t.me/wemark",
+    "twitter": "https://twitter.com/@_wemark",
+    "youtube": "https://www.youtube.com/channel/UCKIxNl0HhoTWshUnrBL70Og"
+  },
+  "eth": [
+    {
+      "name": "WemarkToken",
+      "address": "0xBFbe5332f172d77811bC6c272844f3e54A7B23bB",
+      "erc20": {
+        "symbol": "WMK",
+        "decimals": 18,
+        "name": "WemarkToken"
+      }
+    }
+  ]
+}

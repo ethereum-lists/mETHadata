@@ -1,0 +1,48 @@
+{
+  "name": "IoTeX Network",
+  "ens_address": "",
+  "website": "http://iotex.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPpa25xq1r2iVM3PCVE46AbN2vinXDy1PBqzTm4mSzDuN",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/958835708185100288/Njsdvvpv.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/958835708185100288/Njsdvvpv.jpg",
+    "ipfs_origin": "QmRHTJ9exsKxA8tBx1TmdrGBrJsKAyg8HrgcjxQsew8VcX"
+  },
+  "support": {
+    "email": "hello@iotex.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@iotex",
+    "chat": "",
+    "facebook": "https://facebook.com/iotex.io",
+    "forum": "",
+    "github": "https://github.com/iotexproject/iotex-core",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/iotex/",
+    "reddit": "https://www.reddit.com/r/IoTeX/",
+    "slack": "",
+    "telegram": "https://t.me/IoTeXGroup",
+    "twitter": "https://twitter.com/iotex_io",
+    "youtube": "https://www.youtube.com/channel/UCdj3xY3LCktuamvuFusWOZw"
+  },
+  "eth": [
+    {
+      "name": "IoTeX Network",
+      "address": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
+      "erc20": {
+        "symbol": "IOTX",
+        "decimals": 18,
+        "name": "IoTeX Network"
+      }
+    }
+  ]
+}

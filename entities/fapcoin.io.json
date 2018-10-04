@@ -1,0 +1,48 @@
+{
+  "name": "FAPcoin",
+  "ens_address": "",
+  "website": "https://fapcoin.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6467882316dc6e206feef05fba6deaa69277f155.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPc9BfZGdHW5qhgFLWmxF5sg6UeeykLjNZt51D2AgFMEG",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/908307891462926336/npevii_A.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6467882316dc6e206feef05fba6deaa69277f155.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/908307891462926336/npevii_A.jpg",
+    "ipfs_origin": "QmSN7Nj1wPRHytjGfTNZGAH4DSKSvKewv5WmZJRZoFvdJa"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/fapcoin_crypto",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "FAPcoin",
+      "address": "0x6467882316dc6e206FEef05fBa6deaA69277f155",
+      "erc20": {
+        "symbol": "FAPcoin",
+        "decimals": 18,
+        "name": "FAPcoin"
+      }
+    }
+  ]
+}

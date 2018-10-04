@@ -1,0 +1,48 @@
+{
+  "name": "Presearch",
+  "ens_address": "",
+  "website": "https://presearch.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRRmAcBZppBNy7x526sBkKYDjfBBfwEcmppvamjxG6rY4",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/936496964618858496/hxvFkuJg.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/936496964618858496/hxvFkuJg.jpg",
+    "ipfs_origin": "QmY1tzDAR3d7nuhvWzuqwEcwrbNBXDJPoSHLcXs882GmyY"
+  },
+  "support": {
+    "email": "support@presearch.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@presearch",
+    "chat": "",
+    "facebook": "https://www.facebook.com/presearch.io/",
+    "forum": "https://bitcointalk.org/index.php?topic=2004713.0",
+    "github": "https://github.com/presearchofficial",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Presearch/",
+    "slack": "",
+    "telegram": "https://t.me/presearch",
+    "twitter": "https://twitter.com/presearchnews",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Presearch",
+      "address": "0x88A3E4F35D64aAD41A6d4030ac9AFE4356cB84fA",
+      "erc20": {
+        "symbol": "PRE",
+        "decimals": 18,
+        "name": "Presearch"
+      }
+    }
+  ]
+}

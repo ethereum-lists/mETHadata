@@ -1,0 +1,49 @@
+{
+  "name": "Uquid Coin",
+  "ens_address": "",
+  "website": "https://uquidcoin.com",
+  "logo": {
+    "src": "https://etherscan.io/token/images/uquid_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmNw6KnEKpa6yxUWnfh8VhgXEGCshkabHvJh2ASrexwPGc",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/uquid_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/915150242068226049/lyH2l4Ix.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd01db73e047855efb414e6202098c4be4cd2423b.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/915150242068226049/lyH2l4Ix.jpg",
+    "ipfs_origin": "QmZKauxLmTbXwsVqoMMyteyEYHpwTbUUzSaMFkiUx7SVba"
+  },
+  "support": {
+    "email": "admin@uquidcoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@uquidcoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/uquidcoin",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/uquidcoin",
+    "slack": "https://uquid.herokuapp.com",
+    "telegram": "https://t.me/uquidcoin",
+    "twitter": "https://twitter.com/UquidC",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Uquid Coin",
+      "address": "0xD01DB73E047855Efb414e6202098C4Be4Cd2423B",
+      "erc20": {
+        "symbol": "UQC",
+        "decimals": 18,
+        "name": "Uquid Coin"
+      }
+    }
+  ]
+}

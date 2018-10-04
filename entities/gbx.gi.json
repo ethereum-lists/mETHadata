@@ -1,0 +1,48 @@
+{
+  "name": "Rock Token",
+  "ens_address": "",
+  "website": "https://gbx.gi/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x106aa49295b525fcf959aa75ec3f7dcbf5352f1c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNTeCGNLz9dngBjWNpcKtBMK9NXdySCqfJfwEg5aL2Bpx",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/920965656870359042/YAjjeeSo.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x106aa49295b525fcf959aa75ec3f7dcbf5352f1c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x106aa49295b525fcf959aa75ec3f7dcbf5352f1c.png",
+    "ipfs_origin": "QmYszNeDNA9DEPcAs8PkLdW4fQih2JfEVmit63aVkAfAEo"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@Gibraltar.Blockchain.Exchange",
+    "chat": "",
+    "facebook": "https://www.facebook.com/GibBlockEx/",
+    "forum": "",
+    "github": "https://github.com/Gibraltar-Blockchain-Exchange/rock-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/GBXCommunity/",
+    "slack": "",
+    "telegram": "https://t.me/GBXCommunity",
+    "twitter": "https://twitter.com/GibBlockEx",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Rock Token",
+      "address": "0x106Aa49295B525fcf959aA75eC3f7dCbF5352f1C",
+      "erc20": {
+        "symbol": "RKT",
+        "decimals": 18,
+        "name": "Rock Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "CRB",
+  "ens_address": "",
+  "website": "https://www.creditbit.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaef38fbfbf932d1aef3b808bc8fbd8cd8e1f8bc5.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWoJ5foiXcu1QovybYXZeo6zYqhAuDNMiSJgCSiGmuh1P",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/829685517914611712/A2VGqqKD.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaef38fbfbf932d1aef3b808bc8fbd8cd8e1f8bc5.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaef38fbfbf932d1aef3b808bc8fbd8cd8e1f8bc5.png",
+    "ipfs_origin": "QmNiqEbBfYXCUMDAvqenje47Td1Qkfx82aDzzvbHHVNMcK"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/credit2.0/",
+    "forum": "https://bitcointalk.org/index.php?topic=1237511.1020",
+    "github": "https://github.com/creditbit/creditbit",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/creditbit/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/credit_2",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CRB",
+      "address": "0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5",
+      "erc20": {
+        "symbol": "CRB",
+        "decimals": 8,
+        "name": "CRB"
+      }
+    }
+  ]
+}

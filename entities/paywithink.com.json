@@ -1,0 +1,49 @@
+{
+  "name": "Ink Protocol",
+  "ens_address": "",
+  "website": "https://paywithink.com",
+  "logo": {
+    "src": "https://etherscan.io/token/images/paywithink_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmbdmaHeeYiS7ZKVmkr9nGdCZYnGXXZSmQ8WR93dxDFQwV",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/paywithink_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/910367756326981632/nf3B8dmX.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbc86727e770de68b1060c91f6bb6945c73e10388.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbc86727e770de68b1060c91f6bb6945c73e10388.png",
+    "ipfs_origin": "QmaQ82TzbGTiMMW8ogdD9JjWS9MZtu638kSr4tNhSUtibE"
+  },
+  "support": {
+    "email": "admin@paywithink.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://medium.com/@paywithink",
+    "chat": "",
+    "facebook": "https://web.facebook.com/ListiaOfficial/",
+    "forum": "https://bitcointalk.org/index.php?topic=2410199.0",
+    "github": "https://github.com/InkProtocol/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/PayWithInk/",
+    "slack": "",
+    "telegram": "https://t.me/paywithink",
+    "twitter": "https://twitter.com/PayWithInk",
+    "youtube": "https://www.youtube.com/channel/UC7bcqPWiNGxdXI3Wh3V68vw"
+  },
+  "eth": [
+    {
+      "name": "Ink Protocol",
+      "address": "0xBC86727E770de68B1060C91f6BB6945c73e10388",
+      "erc20": {
+        "symbol": "XNK",
+        "decimals": 18,
+        "name": "Ink Protocol"
+      }
+    }
+  ]
+}

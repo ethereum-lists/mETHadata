@@ -1,0 +1,48 @@
+{
+  "name": "OriginTrail",
+  "ens_address": "",
+  "website": "https://origintrail.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZt8h1Nat51TbDBTsY2n9gDjwFGY4XbF3s4MNu7qNea72",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/910900381370208256/O0DkEy27.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/910900381370208256/O0DkEy27.jpg",
+    "ipfs_origin": "QmeUt3JUWU1b4ANyqXpN18TeiKUyHZwXd6pgLTk4x91h3j"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/origintrail/",
+    "forum": "",
+    "github": "https://github.com/origintrail",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/origintrail",
+    "slack": "",
+    "telegram": "https://t.me/origintrail",
+    "twitter": "https://twitter.com/origin_trail",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "OriginTrail",
+      "address": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
+      "erc20": {
+        "symbol": "TRAC",
+        "decimals": 18,
+        "name": "OriginTrail"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Indicoin",
+  "ens_address": "",
+  "website": "https://www.indicoin.org.in/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTgcxuBcGk2gA5tDaT9p6XEvaBZcmjqKV9xUVYMiMWQ8V",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/901557146021642240/49kWCM-z.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1.png",
+    "ipfs_origin": "QmRTqMnRnm9MZHt1PmC8umrYGnrmQQf3YoBqqXDR8iXdnb"
+  },
+  "support": {
+    "email": "contact@indicoin.org.in",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.indicoin.org.in/blog.php",
+    "chat": "",
+    "facebook": "https://facebook.com/indicoin.crypto",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/indicoin.org.in",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/Indicoin/",
+    "slack": "",
+    "telegram": "https://www.telegram.me/indicoin",
+    "twitter": "https://twitter.com/indi_coin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Indicoin",
+      "address": "0xE8c09672cfb9cFcE6E2edBB01057d9fa569F97c1",
+      "erc20": {
+        "symbol": "INDI",
+        "decimals": 18,
+        "name": "Indicoin"
+      }
+    },
+    {
+      "name": "Indicoin",
+      "address": "0x0ffAB58EA5A71CC3cA40217706C3C401407fA4a8",
+      "erc20": {
+        "symbol": "INDI",
+        "decimals": 18,
+        "name": "Indicoin"
+      }
+    }
+  ]
+}

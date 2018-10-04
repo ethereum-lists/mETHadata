@@ -1,0 +1,47 @@
+{
+  "name": "DTC",
+  "ens_address": "",
+  "website": "https://dmtcoin.info/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmaxp4WNLxk4ixxvHb9nC92fSWDV2qqLdLfM2p1C3Tu4JB",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/912740673656201216/2TBlZ6Cp.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/912740673656201216/2TBlZ6Cp.jpg",
+    "ipfs_origin": "Qme6VNRovJwigZceyqbAo2Ec69Y2SRJCT8TH4dW2zDay9E"
+  },
+  "support": {
+    "email": "contact@dmtcoin.info",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Digital-Media-Token-2010970575801455/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Crypto_Currency_News/comments/72mpig/digital_media_token/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/dmtcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DTC",
+      "address": "0xeB9c0138d8ac10DD659640a4CC3D135C58B17B1B",
+      "erc20": {
+        "symbol": "DTC",
+        "decimals": 2,
+        "name": "DTC"
+      }
+    }
+  ]
+}

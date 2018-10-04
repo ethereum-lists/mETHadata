@@ -1,0 +1,48 @@
+{
+  "name": "OCoin",
+  "ens_address": "",
+  "website": "http://www.ocoins.cc/home/index.php",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4092678e4e78230f46a1534c0fbc8fa39780892b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmURAiiWvfPhW6cwDwExwaC2eE5gwHP9Mr3KiHsw7FNQ6i",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/976091027235856389/Lsk_75lT.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4092678e4e78230f46a1534c0fbc8fa39780892b.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4092678e4e78230f46a1534c0fbc8fa39780892b.png",
+    "ipfs_origin": "QmeW8H9BdCTpGgGYSNcAG3XfDP4hL78xQrBvUtUvK8zbdG"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.valuewalk.com/2018/01/odyssey-ocoin-qtum-blockchain/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/OdysseyProtocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/OdysseyOCN/",
+    "slack": "",
+    "telegram": "https://t.me/OdysseyOfficial",
+    "twitter": "https://twitter.com/ODYSSEYPROTOCOL",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "OCoin",
+      "address": "0x4092678e4E78230F46A1534C0fbc8fA39780892B",
+      "erc20": {
+        "symbol": "OCN",
+        "decimals": 18,
+        "name": "OCoin"
+      }
+    }
+  ]
+}

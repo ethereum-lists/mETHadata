@@ -1,0 +1,47 @@
+{
+  "name": "BCDC Token",
+  "ens_address": "",
+  "website": "https://www.bcdc.online/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZZytWx7UVCHQ5QHuJjEzryrwRetpKzojpGvSCcQk4Kfy",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/925359863454105600/cDgJqfr3.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/925359863454105600/cDgJqfr3.jpg",
+    "ipfs_origin": "QmZwsVnRzZkbixvdfQAP4uZEwTncoQ4hftg9p7giBTTraf"
+  },
+  "support": {
+    "email": "info@bcdc.online",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.bcdc.online/blog/en_GB/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/blockchaindevelopmentcompany",
+    "forum": "",
+    "github": "https://github.com/bcdconline/ITS",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/organization/18115801",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Dz9AE0MIY5Yl-1EaCYI2vA",
+    "twitter": "https://twitter.com/BlockDevCo",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BCDC Token",
+      "address": "0xb4c55b5a1FaF5323e59842171c2492773a3783Dd",
+      "erc20": {
+        "symbol": "BCDC",
+        "decimals": 18,
+        "name": "BCDC Token"
+      }
+    }
+  ]
+}

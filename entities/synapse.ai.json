@@ -1,0 +1,47 @@
+{
+  "name": "Synapse",
+  "ens_address": "",
+  "website": "https://synapse.ai",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSyjau7Jnn8hUDu1BpCpBwgJ9Bjn7eHpoACFJn2w5HxLT",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/902659401772707840/e_fZt-du.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/902659401772707840/e_fZt-du.jpg",
+    "ipfs_origin": "QmSWz2YAtpm6dkXSLwuvHSpeGpJQivRM5QeVwfZLoLYo3p"
+  },
+  "support": {
+    "email": "hello@synapse.ai",
+    "url": "support@synapse.ai"
+  },
+  "social": {
+    "blog": "https://blog.synapse.ai/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/868857153271521/",
+    "forum": "https://bitcointalk.org/index.php?topic=2198553",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/synapseai/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FhJX1w6otwOjmbVof1dyvw",
+    "twitter": "https://twitter.com/aisynapse",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Synapse",
+      "address": "0x10B123FdDde003243199aaD03522065dC05827A0",
+      "erc20": {
+        "symbol": "SYN",
+        "decimals": 18,
+        "name": "Synapse"
+      }
+    }
+  ]
+}

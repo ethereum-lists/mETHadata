@@ -1,0 +1,47 @@
+{
+  "name": "eGold",
+  "ens_address": "",
+  "website": "http://egoldtoken.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPR2RNitHykbpaS9oirv7NiowXMAk7Q7onGy6rNobTFRC",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/920764056553664512/DEh8GA53.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/920764056553664512/DEh8GA53.jpg",
+    "ipfs_origin": "QmaJVpubMKoHGe3CPb52g6wqftUiCYb3FMoYidA2mbYfny"
+  },
+  "support": {
+    "email": "hello@egoldtoken.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://egoldtoken.slack.com/join/shared_invite/enQtMjUyNTY2MzIwNjg5LWE3MTM2MWM5YmQ2NzliNWFlYjkzYjM5OTAzZTlkODI4ZTc5ZjU3MDQ1MDRiMGMyZmZkM2I4YjUxZTk0ZWMzZjA",
+    "telegram": "tg://resolve?domain=eGoldToken",
+    "twitter": "https://twitter.com/eGoldToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eGold",
+      "address": "0x6025F65f6b2f93d8eD1efeDc752acfd4bdbCec3E",
+      "erc20": {
+        "symbol": "EGOLD",
+        "decimals": 18,
+        "name": "eGold"
+      }
+    }
+  ]
+}

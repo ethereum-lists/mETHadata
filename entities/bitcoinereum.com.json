@@ -1,0 +1,47 @@
+{
+  "name": "Bitcoinereum",
+  "ens_address": "",
+  "website": "http://www.bitcoinereum.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbyJCoUNiiRRmm8jAexbZtaDbzcLdoSAFu6UMFa7MN6gy",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/917381306929090561/Hpdb78oW.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/917381306929090561/Hpdb78oW.jpg",
+    "ipfs_origin": "QmWg7nQyAfgzzVUTDX2BHjfeEbmWZ9rKgoTyq637eKcrou"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/btcmtoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bitcoinereum",
+      "address": "0x03DF4C372a29376D2c8DF33A1B5F001CD8d68b0E",
+      "erc20": {
+        "symbol": "BTCM",
+        "decimals": 8,
+        "name": "Bitcoinereum"
+      }
+    }
+  ]
+}

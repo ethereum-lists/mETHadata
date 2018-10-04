@@ -1,0 +1,47 @@
+{
+  "name": "ROC",
+  "ens_address": "",
+  "website": "https://ico.rasputinonline.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQE8X4ZiWYCgLHrfWGxthyrCfuQHDkkYZGi1zSsHh6v2k",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/872861895455330304/llKybJZt.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/872861895455330304/llKybJZt.jpg",
+    "ipfs_origin": "QmQvewz93QYcQn5hc83JJXgsPSrW5NoWHBP2ce6sckXCAj"
+  },
+  "support": {
+    "email": "hello@rasputinonline.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/rasputinonline/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/RasputinOnline",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ROC",
+      "address": "0x1BcBc54166F6bA149934870b60506199b6C9dB6D",
+      "erc20": {
+        "symbol": "ROC",
+        "decimals": 10,
+        "name": "ROC"
+      }
+    }
+  ]
+}

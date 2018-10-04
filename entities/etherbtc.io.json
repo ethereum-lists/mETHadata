@@ -1,0 +1,48 @@
+{
+  "name": "EtherBTC",
+  "ens_address": "",
+  "website": "https://etherbtc.io/faq",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPNLrrn8TiF5EwYVWvM5MTTHL4wkPr9SxVhAJqFNvXBdS",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/890095767637159936/XnBo1PcT.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e.png",
+    "ipfs_origin": "QmWvncu9PLfZmcAAe4SQn59XjCvBdBLDpogyu5Cpi9bFDS"
+  },
+  "support": {
+    "email": "payments@etherbtc.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Etherbtc/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/EtherBTC/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/EtherBTC_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EtherBTC",
+      "address": "0x3a26746Ddb79B1B8e4450e3F4FFE3285A307387E",
+      "erc20": {
+        "symbol": "ETHB",
+        "decimals": 8,
+        "name": "EtherBTC"
+      }
+    }
+  ]
+}

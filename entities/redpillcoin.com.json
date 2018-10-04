@@ -1,0 +1,47 @@
+{
+  "name": "RedPill",
+  "ens_address": "",
+  "website": "https://redpillcoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmf4nxpRFa7SGazN97zh4tPACvvvEWYBMrGS72xsRM2Y9y",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/928337275112497152/F0zwMvR3.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/928337275112497152/F0zwMvR3.jpg",
+    "ipfs_origin": "QmTXoR3XET4De1y7ruKQK9ckVwCRtz42efXwAuQERYpwuc"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://redpillcoin.com/Blog",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/redpillcoin",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/redpillcoin",
+    "twitter": "https://twitter.com/redpillcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "RedPill",
+      "address": "0x9e386DA8CDfcf8b9E7490e3f2A4589c570CB2b2F",
+      "erc20": {
+        "symbol": "RPIL",
+        "decimals": 8,
+        "name": "RedPill"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "XNT",
+  "ens_address": "",
+  "website": "https://exante.eu",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "nt@exante.eu",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "XNT",
+      "address": "0x572E6f318056ba0C5d47A422653113843D250691",
+      "erc20": {
+        "symbol": "XNT",
+        "decimals": 0,
+        "name": "XNT"
+      }
+    }
+  ]
+}

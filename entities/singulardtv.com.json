@@ -1,0 +1,49 @@
+{
+  "name": "SingularDTV",
+  "ens_address": "",
+  "website": "https://singulardtv.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRpFG9Snqf1Vb6A7vFsY82GvAqp4A6E8SrgrgLDdST8Bk",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/sngls.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/846428597762084865/ELIcUi6n.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/846428597762084865/ELIcUi6n.jpg",
+    "ipfs_origin": "QmasMDrH9iapDXdRMeRXJKUN8QuCpKfEuzx4pbkPt8yX43"
+  },
+  "support": {
+    "email": "contact@singulardtv.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@SingularDTV",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SingularDTV/",
+    "forum": "https://bitcointalk.org/index.php?topic=1943123.0",
+    "github": "https://github.com/SingularDTV",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/singulardtv/",
+    "reddit": "https://www.reddit.com/r/SingularDTV/",
+    "slack": "https://slack.singulardtv.com",
+    "telegram": "http://www.telegram.me/SingularDTV",
+    "twitter": "https://twitter.com/SingularDTV",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SingularDTV",
+      "address": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009",
+      "erc20": {
+        "symbol": "SNGLS",
+        "decimals": 0,
+        "name": "SingularDTV"
+      }
+    }
+  ]
+}

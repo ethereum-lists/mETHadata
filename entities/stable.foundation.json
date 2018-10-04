@@ -1,0 +1,48 @@
+{
+  "name": "STABLE Token",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://stable.foundation",
+  "logo": {
+    "src": "",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmZXfegkZ7ZyV4sP7pddYzsjq8okmoB7wqoZUi6TxHGenJ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/888735020332011520/L-ENldEG.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/888735020332011520/L-ENldEG.jpg",
+    "ipfs_origin": "QmRh8r8bhEc84tCoLK22NkXBBTpeqBgaK8NtWWWdXo68tr"
+  },
+  "support": {
+    "email": "info@stable.foundation",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Stable-1532564000127095/",
+    "forum": "",
+    "github": "https://github.com/stableproject/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://mobile.twitter.com/STABLE_token",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "STABLE Token",
+      "address": "0x09BcA6eBAb05Ee2ae945BE4edA51393d94Bf7b99",
+      "erc20": {
+        "symbol": "STB",
+        "decimals": 4,
+        "name": "STABLE Token"
+      }
+    }
+  ]
+}

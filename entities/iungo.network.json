@@ -1,0 +1,48 @@
+{
+  "name": "IUNGO token",
+  "ens_address": "",
+  "website": "https://iungo.network/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24ddff6d8b8a42d835af3b440de91f3386554aa4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXtA8sx9GLG8CqXCTTkpZsCKv72yKPeagWQp9uioNBc54",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1030363272422350849/iTNsLrRW.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24ddff6d8b8a42d835af3b440de91f3386554aa4.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x24ddff6d8b8a42d835af3b440de91f3386554aa4.png",
+    "ipfs_origin": "QmZzKo9wWKMzedSi8AWwF1h9G3R3By4wQj82Nj9grHqK1x"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/IUNGOnetwork/",
+    "forum": "",
+    "github": "https://github.com/iungonetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/iungo/",
+    "slack": "",
+    "telegram": "https://t.me/IUNGO",
+    "twitter": "https://twitter.com/IUNGOnetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "IUNGO token",
+      "address": "0x24dDFf6D8B8a42d835af3b440De91f3386554Aa4",
+      "erc20": {
+        "symbol": "ING",
+        "decimals": 18,
+        "name": "IUNGO token"
+      }
+    }
+  ]
+}

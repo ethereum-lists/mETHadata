@@ -1,0 +1,49 @@
+{
+  "name": "SyncFab Smart Manufacturing Blockchain",
+  "ens_address": "",
+  "website": "https://syncfab.com/",
+  "logo": {
+    "src": "https://blockchain.syncfab.com/assets/img/mfg-logo.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": "QmPHaXrUjBmS2CByCjWuCAVdcGeMJGsTrVJSTNN19HkrVA",
+    "sources": {
+      "token-list": "https://blockchain.syncfab.com/assets/img/mfg-logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1004625198912434176/a_fXjLSf.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6710c63432a2de02954fc0f851db07146a6c0312.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1004625198912434176/a_fXjLSf.jpg",
+    "ipfs_origin": "QmaEJmcyHQUQETmSCyBcfdgj32DyZoRGAqW2PiG6EC8UBa"
+  },
+  "support": {
+    "email": "support@syncfab.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/syncfabmfg",
+    "chat": "",
+    "facebook": "https://facebook.com/syncfab",
+    "forum": "https://bitcointalk.org/index.php?topic=2286102.0",
+    "github": "https://github.com/syncfab",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/syncfab/",
+    "linkedin": "https://www.linkedin.com/company/syncfab",
+    "reddit": "https://www.reddit.com/r/syncfab/",
+    "slack": "",
+    "telegram": "https://t.me/syncfab",
+    "twitter": "https://twitter.com/syncfab",
+    "youtube": "https://youtube.com/channel/syncfab"
+  },
+  "eth": [
+    {
+      "name": "SyncFab Smart Manufacturing Blockchain",
+      "address": "0x6710c63432A2De02954fc0f851db07146a6c0312",
+      "erc20": {
+        "symbol": "MFG",
+        "decimals": 18,
+        "name": "SyncFab Smart Manufacturing Blockchain"
+      }
+    }
+  ]
+}

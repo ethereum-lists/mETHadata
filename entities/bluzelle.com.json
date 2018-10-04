@@ -1,0 +1,49 @@
+{
+  "name": "Bluezelle",
+  "ens_address": "",
+  "website": "https://bluzelle.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5732046a883704404f284ce41ffadd5b007fd668.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaJt66TPNAaMsviV5TAip7hSMUz194PGzcRehF5MqnsKZ",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/blz.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/959345022804963328/8wNDzbC5.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5732046a883704404f284ce41ffadd5b007fd668.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5732046a883704404f284ce41ffadd5b007fd668.png",
+    "ipfs_origin": "QmUdmcediqFVg6eZFgLyfSNamDXo79fzBQscswiucExuab"
+  },
+  "support": {
+    "email": "",
+    "url": "w"
+  },
+  "social": {
+    "blog": "https://blog.bluzelle.com/",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2345293.0",
+    "github": "https://github.com/njmurarka/bluzelle",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Bluzelle/",
+    "slack": "",
+    "telegram": "https://t.me/bluzelle",
+    "twitter": "https://twitter.com/bluzellehq",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bluezelle",
+      "address": "0x5732046A883704404F284Ce41FfADd5b007FD668",
+      "erc20": {
+        "symbol": "BLZ",
+        "decimals": 18,
+        "name": "Bluezelle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Ormeus Coin",
+  "ens_address": "",
+  "website": "http://ormeuscoin.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x516e5436bafdc11083654de7bb9b95382d08d5de.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNLrsh576Hp756LwUHLME784J4PoQ8FFSBYQgJ5d9ncqM",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/915441977100922880/Etl1QhC8.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x516e5436bafdc11083654de7bb9b95382d08d5de.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x516e5436bafdc11083654de7bb9b95382d08d5de.png",
+    "ipfs_origin": "QmW8UcW2nw3pt4rjJsArsZTzotSWFEwPmt59haisvLCtfD"
+  },
+  "support": {
+    "email": "info@ormeuscoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://ormeuscoin.com/orme-blog/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Ormeus-Coin-1520015201352809/",
+    "forum": "",
+    "github": "https://github.com/ConsenSys/smart-contract-best-practices",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/OrmeusCoin/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/ormeuscoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Ormeus Coin",
+      "address": "0x516E5436bAfdc11083654DE7Bb9b95382d08d5DE",
+      "erc20": {
+        "symbol": "ORME",
+        "decimals": 8,
+        "name": "Ormeus Coin"
+      }
+    }
+  ]
+}

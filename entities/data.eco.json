@@ -1,0 +1,49 @@
+{
+  "name": "DATA",
+  "ens_address": "",
+  "website": "http://data.eco/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x69b148395ce0015c13e36bffbad63f49ef874e03.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmee2s4vvpYDx6bPTxztYuXUzpdRBRmJyi1gbkEFRnmvW8",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/dta.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/949201166675554304/RdVYzZH6.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x69b148395ce0015c13e36bffbad63f49ef874e03.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x69b148395ce0015c13e36bffbad63f49ef874e03.png",
+    "ipfs_origin": "QmPyLyhTicjv3o5m5J2rwBHbrW7GakTCFc12f4oA7uKMQv"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/Blockchain-Data-Foundation-1949486855317034/",
+    "forum": "",
+    "github": "https://github.com/Blockchain-DATA",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/DATAblockchain/",
+    "slack": "",
+    "telegram": "http://t.me/blockchainDATA",
+    "twitter": "https://twitter.com/@Blockchain_Data",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DATA",
+      "address": "0x69b148395Ce0015C13e36BFfBAd63f49EF874E03",
+      "erc20": {
+        "symbol": "DTA",
+        "decimals": 18,
+        "name": "DATA"
+      }
+    }
+  ]
+}

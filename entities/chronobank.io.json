@@ -1,0 +1,48 @@
+{
+  "name": "Chronobank",
+  "ens_address": "",
+  "website": "https://chronobank.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRDFEcV1biqgZyHDiRb3m5jZBJjVXnYZ1xVVhvWhvZVtW",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1029989464330907648/KF3DOqzy.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53.png",
+    "ipfs_origin": "QmY3FZRuedb9rPA971i9V1Y5emv7yEcKS3y7q3Frix9CGR"
+  },
+  "support": {
+    "email": "info@chronobank.io",
+    "url": "https://chronobank.io/faq"
+  },
+  "social": {
+    "blog": "https://medium.com/@Chronobank",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ChronoBank.io",
+    "forum": "",
+    "github": "https://github.com/ChronoBank",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/chronobank.io/",
+    "linkedin": "https://www.linkedin.com/company/15204618/",
+    "reddit": "https://www.reddit.com/r/ChronoBank/",
+    "slack": "https://chronobank.herokuapp.com",
+    "telegram": "https://telegram.me/chronobank",
+    "twitter": "https://twitter.com/ChronobankNews",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Chronobank",
+      "address": "0x6531f133e6DeeBe7F2dcE5A0441aA7ef330B4e53",
+      "erc20": {
+        "symbol": "TIME",
+        "decimals": 8,
+        "name": "Chronobank"
+      }
+    }
+  ]
+}

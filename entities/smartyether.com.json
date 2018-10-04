@@ -1,0 +1,42 @@
+{
+  "name": "STH",
+  "ens_address": "",
+  "website": "http://smartyether.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/SmartyEther/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/SmartyEther/",
+    "slack": "https://smartyether.slack.com/",
+    "telegram": "https://t.me/smartyether/",
+    "twitter": "https://twitter.com/smartyether",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "STH",
+      "address": "0x1040613788e99C1606Bd133dB0eD7f7dbdf0Cc80",
+      "erc20": {
+        "symbol": "STH",
+        "decimals": 0,
+        "name": "STH"
+      }
+    }
+  ]
+}

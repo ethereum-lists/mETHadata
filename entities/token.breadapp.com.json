@@ -1,0 +1,49 @@
+{
+  "name": "Bread",
+  "ens_address": "",
+  "website": "https://token.breadapp.com/en",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmb25dUXgZ5SEu4rk4J3kwZ7KUWSA6vDzmirw5YX8TRJ9d",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/brd.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1039567420749500419/ibrMTAvt.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1039567420749500419/ibrMTAvt.jpg",
+    "ipfs_origin": "QmTSV1V9CBDLLiwfcvogVFFcxFwME927WN1KhNyxRDBvJF"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/breadapp/",
+    "forum": "https://bitcointalk.org/index.php?topic=2639694.0",
+    "github": "https://github.com/breadwallet",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/breadwallet",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/HB6JsUq7-w-y6l5DrfRV-A",
+    "twitter": "https://twitter.com/breadtoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bread",
+      "address": "0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6",
+      "erc20": {
+        "symbol": "BRD",
+        "decimals": 18,
+        "name": "Bread"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "XGT",
+  "ens_address": "",
+  "website": "https://cryptogene.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQuw5QqdSt1w1WRwCVZbHKzGkJzmBnRiiR5tftxxEE6dt",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/963415364200738816/vtoQKa3Q.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/963415364200738816/vtoQKa3Q.jpg",
+    "ipfs_origin": "QmUaK111J7wyqJysDUG5kRqBAMFYfLgmN2ZFt9cVjU6e9W"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@cryptogene",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cryptogenec",
+    "forum": "",
+    "github": "https://github.com/CryptogeneProject/CryptogeneToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/Cryptogene",
+    "twitter": "https://twitter.com/cryptogenegroup",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "XGT",
+      "address": "0x30f4A3e0aB7a76733D8b60b89DD93c3D0b4c9E2f",
+      "erc20": {
+        "symbol": "XGT",
+        "decimals": 18,
+        "name": "XGT"
+      }
+    }
+  ]
+}

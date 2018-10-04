@@ -1,0 +1,47 @@
+{
+  "name": "TravelCoin",
+  "ens_address": "",
+  "website": "https://travelcoins.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeGx8jJE9FrBD5qHYABNf6emoArkrqWh9CvdSWZui78jA",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/880195770082762752/bS1mG8go.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/880195770082762752/bS1mG8go.jpg",
+    "ipfs_origin": "QmfEPZprZUt7Z3m6vdsykz4f6u2NhGNgPNHmzmFuJ8D3Jf"
+  },
+  "support": {
+    "email": "info@travelcoins.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TravelCoin/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company-beta/24770884/",
+    "reddit": "",
+    "slack": "https://join.slack.com/travelcoin/shared_invite/MjA2MDUxMDQ2NzkwLTE0OTg2ODY2NjUtNjliYzUxMDIzMw",
+    "telegram": "",
+    "twitter": "https://twitter.com/TravelCoins_",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TravelCoin",
+      "address": "0x23CB17d7D079518dBfF4FeBb6efCc0dE58d8c984",
+      "erc20": {
+        "symbol": "TRV",
+        "decimals": 16,
+        "name": "TravelCoin"
+      }
+    }
+  ]
+}

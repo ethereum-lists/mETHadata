@@ -1,0 +1,47 @@
+{
+  "name": "IoT Chain",
+  "ens_address": "",
+  "website": "https://iotchain.io/",
+  "logo": {
+    "src": "http://etherscan.io/token/images/iotchain28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "http://etherscan.io/token/images/iotchain28.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/itc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/940153959771095045/8gkBNIgT.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e6b6d9abad9093fdc861ea1600eba1b355cd940.png"
+    }
+  },
+  "support": {
+    "email": "support@iotchain.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@IoT_Chain",
+    "chat": "http://qm.qq.com/cgi-bin/qm/qr?k=CjS_9da0Uj5SfXX8Wm1PIDuL_Nbjzmc3",
+    "facebook": "https://www.facebook.com/IoTChain/",
+    "forum": "https://bitcointalk.org/index.php?topic=2612309.0",
+    "github": "https://github.com/IoTChainCode",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/itcofficial/",
+    "slack": "https://iotchaingroup.slack.com/",
+    "telegram": "https://t.me/IoTChain",
+    "twitter": "https://twitter.com/IoT_Chain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "IoT Chain",
+      "address": "0x5E6b6d9aBAd9093fdc861Ea1600eBa1b355Cd940",
+      "erc20": {
+        "symbol": "ITC",
+        "decimals": 18,
+        "name": "IoT Chain"
+      }
+    }
+  ]
+}

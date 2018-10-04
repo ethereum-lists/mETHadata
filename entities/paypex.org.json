@@ -1,0 +1,48 @@
+{
+  "name": "Paypex",
+  "ens_address": "",
+  "website": "https://paypex.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x62a56a4a2ef4d355d34d10fbf837e747504d38d4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUshxDfcz7WPW8gFRmuRzNgrvzWwZDJH3v9DGAV27vcKD",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/922467268893728769/79wyp_ie.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x62a56a4a2ef4d355d34d10fbf837e747504d38d4.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x62a56a4a2ef4d355d34d10fbf837e747504d38d4.png",
+    "ipfs_origin": "QmPXECCyUNgEKkcPganr5BAXueQD2VSX2TigkuJfdTDntA"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Paypex-128510347902748/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/paypex",
+    "slack": "",
+    "telegram": "https://t.me/paypex",
+    "twitter": "https://twitter.com/paypex",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Paypex",
+      "address": "0x62a56a4A2Ef4D355D34D10fBF837e747504d38d4",
+      "erc20": {
+        "symbol": "PAYX",
+        "decimals": 2,
+        "name": "Paypex"
+      }
+    }
+  ]
+}

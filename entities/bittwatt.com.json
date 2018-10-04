@@ -1,0 +1,48 @@
+{
+  "name": "Bittwatt",
+  "ens_address": "",
+  "website": "https://bittwatt.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xca3ea3061d638e02113aa960340c98343b5acd62.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeA9ZXuipek6Wsw5wKfWL8AHhLefooDFMMAkWc3RdiLP2",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/964076167270629376/5sSyo4M8.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xca3ea3061d638e02113aa960340c98343b5acd62.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/964076167270629376/5sSyo4M8.jpg",
+    "ipfs_origin": "QmTXhM7fjmueJJpmf4yMMht2VfrTL67co763mhjBX4eaCz"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/energyforthe21century/",
+    "forum": "",
+    "github": "https://github.com/bittwatt/BittWattToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Bittwatt/",
+    "slack": "",
+    "telegram": "https://t.me/bittwatt",
+    "twitter": "https://twitter.com/BittwattPteLtd",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bittwatt",
+      "address": "0xcA3Ea3061d638E02113aA960340c98343b5aCd62",
+      "erc20": {
+        "symbol": "BWT",
+        "decimals": 18,
+        "name": "Bittwatt"
+      }
+    }
+  ]
+}

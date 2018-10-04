@@ -1,0 +1,42 @@
+{
+  "name": "Monero Gold",
+  "ens_address": "",
+  "website": "https://monero-gold.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Monero Gold",
+      "address": "0x0f598112679B78e17A4A9feBC83703710d33489c",
+      "erc20": {
+        "symbol": "XMRG",
+        "decimals": 8,
+        "name": "Monero Gold"
+      }
+    }
+  ]
+}

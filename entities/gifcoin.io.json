@@ -1,0 +1,49 @@
+{
+  "name": "GIFcoin Token",
+  "ens_address": "",
+  "website": "https://gifcoin.io/",
+  "logo": {
+    "src": "https://www.gifcoin.io/assets/images/default/frontend/gifsingle400.png",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": "Qmey94nNNztDbw4JiUgktbDqJ4FZVQ5Y1PQUxvkYgKHmMd",
+    "sources": {
+      "token-list": "https://www.gifcoin.io/assets/images/default/frontend/gifsingle400.png",
+      "twitter": "http://pbs.twimg.com/profile_images/943113020863074304/4BgNyP0a.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfcd862985628b254061f7a918035b80340d045d3.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfcd862985628b254061f7a918035b80340d045d3.png",
+    "ipfs_origin": "QmVFiGAJqcKkx8Mu1tNM8VtbTLzHfqTwaWPbDoGn3gnUrF"
+  },
+  "support": {
+    "email": "support@gifcoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/gifcoin.io",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/gifcoin",
+    "twitter": "https://twitter.com/gifcoin_io",
+    "youtube": "https://youtube.com/channel/UCLq13wzOH1STqW8I-Z-ctAQ"
+  },
+  "eth": [
+    {
+      "name": "GIFcoin Token",
+      "address": "0xFcD862985628b254061F7A918035B80340D045d3",
+      "erc20": {
+        "symbol": "GIF",
+        "decimals": 18,
+        "name": "GIFcoin Token"
+      }
+    }
+  ]
+}

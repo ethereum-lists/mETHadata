@@ -1,0 +1,49 @@
+{
+  "name": "Polymath Network",
+  "ens_address": "",
+  "website": "https://polymath.network",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVMAbRKrcfRcv8hE7HG3qRw1RPZnLpCiMY2F8HEn98nbN",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/poly.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/890366062126145538/c7tzFpB3.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/poly.svg",
+    "ipfs_origin": "QmSfyToJhhr1qbBkzrBVwpkP2zfTQ98G5LSzsYXsaTDwHb"
+  },
+  "support": {
+    "email": "support@polymath.zendesk.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.polymath.network",
+    "chat": "",
+    "facebook": "https://facebook.com/polymathnetwork",
+    "forum": "https://bitcointalk.org/index.php?topic=2645420.0",
+    "github": "https://github.com/PolymathNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "http://reddit.com/r/PolymathNetwork",
+    "slack": "",
+    "telegram": "http://t.me/polymathnetwork",
+    "twitter": "https://twitter.com/polymathnetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Polymath Network",
+      "address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
+      "erc20": {
+        "symbol": "POLY",
+        "decimals": 18,
+        "name": "Polymath Network"
+      }
+    }
+  ]
+}

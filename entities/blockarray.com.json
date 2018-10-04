@@ -1,0 +1,49 @@
+{
+  "name": "Block Array",
+  "ens_address": "",
+  "website": "https://blockarray.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa5f8fc0921880cb7342368bd128eb8050442b1a1.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZHKraBMp2FjSWQK3UA1iVewrF6EGNooG5djhZk5yNZUT",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ary.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/986358819545530368/fXSIMTpV.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa5f8fc0921880cb7342368bd128eb8050442b1a1.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa5f8fc0921880cb7342368bd128eb8050442b1a1.png",
+    "ipfs_origin": "QmZHKraBMp2FjSWQK3UA1iVewrF6EGNooG5djhZk5yNZUT"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/blockarraygroup/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/blockarray/",
+    "slack": "",
+    "telegram": "https://t.me/Block_Array",
+    "twitter": "https://twitter.com/blockarraygroup",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Block Array",
+      "address": "0xa5F8fC0921880Cb7342368BD128eb8050442B1a1",
+      "erc20": {
+        "symbol": "ARY",
+        "decimals": 18,
+        "name": "Block Array"
+      }
+    }
+  ]
+}

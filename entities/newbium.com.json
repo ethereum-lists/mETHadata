@@ -1,0 +1,48 @@
+{
+  "name": "Newbium",
+  "ens_address": "",
+  "website": "http://newbium.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x814964b1bceaf24e26296d031eadf134a2ca4105.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmb2QAY7b5Mhi6Pxf4rpxZtiGrdLR5P3LCJyiz3puXLTK8",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/999038867964547072/y7SItfc7.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x814964b1bceaf24e26296d031eadf134a2ca4105.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x814964b1bceaf24e26296d031eadf134a2ca4105.png",
+    "ipfs_origin": "QmV6adU5oP8HtV97VYJD7zG19cCRQNTcac7AGrEBBynHBB"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/newbium/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Newbium/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/newbiumcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Newbium",
+      "address": "0x814964b1bceAf24e26296D031EaDf134a2Ca4105",
+      "erc20": {
+        "symbol": "NEWB",
+        "decimals": 0,
+        "name": "Newbium"
+      }
+    }
+  ]
+}

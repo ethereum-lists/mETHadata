@@ -1,0 +1,47 @@
+{
+  "name": "IoT\u30b3\u30a4\u30f3",
+  "ens_address": "",
+  "website": "http://www.bitcoin-biz.net",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc34b21f6f8e51cc965c2393b3ccfa3b82beb2403.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRbzh7Qrr4KGAi88oCYtbQSwXJJtm6cTgeVwTKvGHCr65",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc34b21f6f8e51cc965c2393b3ccfa3b82beb2403.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc34b21f6f8e51cc965c2393b3ccfa3b82beb2403.png",
+    "ipfs_origin": "QmduJE9BXS26edsC76HpqtkgHaia5UM8JVxEffnqEd5j5v"
+  },
+  "support": {
+    "email": "talk01ta52@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "IoT\u30b3\u30a4\u30f3",
+      "address": "0xC34B21f6F8e51cC965c2393B3ccFa3b82BEb2403",
+      "erc20": {
+        "symbol": "IoT",
+        "decimals": 6,
+        "name": "IoT\u30b3\u30a4\u30f3"
+      }
+    }
+  ]
+}

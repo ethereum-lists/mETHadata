@@ -1,0 +1,47 @@
+{
+  "name": "20-footEqvUnit",
+  "ens_address": "",
+  "website": "https://300cubits.tech/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYWpQ1JJnTPWMBJ9vw3rUfgx6ekvCFjE5V3BqYp5SCH2q",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/886391871043387392/nzf-QsvT.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/886391871043387392/nzf-QsvT.jpg",
+    "ipfs_origin": "QmXCdd3LeGUKSPzWqdmFKVV85am5HTvQoqWJ5h7Te4JTn2"
+  },
+  "support": {
+    "email": "info@300cubits.tech",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/300cubits.tech",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/F_3VmEOalqkahP3H-DbKBw",
+    "twitter": "https://twitter.com/300cubits_tech",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "20-footEqvUnit",
+      "address": "0xeEAc3F8da16bb0485a4A11c5128b0518DaC81448",
+      "erc20": {
+        "symbol": "TEU",
+        "decimals": 18,
+        "name": "20-footEqvUnit"
+      }
+    }
+  ]
+}

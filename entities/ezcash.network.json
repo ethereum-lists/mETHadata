@@ -1,0 +1,42 @@
+{
+  "name": "eZCash",
+  "ens_address": "",
+  "website": "http://ezcash.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eZCash",
+      "address": "0x0C6C9bEEeB5DE377210930F09a7Ac9A99ff5E981",
+      "erc20": {
+        "symbol": "EZEC",
+        "decimals": 18,
+        "name": "eZCash"
+      }
+    }
+  ]
+}

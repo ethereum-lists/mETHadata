@@ -1,0 +1,48 @@
+{
+  "name": "BitMartToken",
+  "ens_address": "",
+  "website": "https://bitmart.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x986ee2b944c42d017f52af21c4c69b84dbea35d8.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQ7RqUqJ3FTk3VEk2FQ8z5RH5t3sesMGmqaULkjPpkho6",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/941618917570625536/Aymw64gz.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x986ee2b944c42d017f52af21c4c69b84dbea35d8.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/941618917570625536/Aymw64gz.jpg",
+    "ipfs_origin": "QmPx6qBfAacxfRZTzhuWLEzwKZincpfUBfLwbZmcW65Lof"
+  },
+  "support": {
+    "email": "support@bitmart.com",
+    "url": "https://support.bitmart.com/hc/en-us"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bitmartexchange",
+    "forum": "https://bitcointalk.org/index.php?topic=2628772.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/bitmart",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BitMartExchange",
+    "twitter": "https://twitter.com/BitMartExchange",
+    "youtube": "https://www.youtube.com/channel/UCvwZmIRJa0WCJRrRDMmbpsA"
+  },
+  "eth": [
+    {
+      "name": "BitMartToken",
+      "address": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
+      "erc20": {
+        "symbol": "BMX",
+        "decimals": 18,
+        "name": "BitMartToken"
+      }
+    }
+  ]
+}

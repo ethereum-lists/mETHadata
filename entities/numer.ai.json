@@ -1,0 +1,48 @@
+{
+  "name": "NMR",
+  "ens_address": "",
+  "website": "https://numer.ai/homepage",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZ3rAez6XR3tihtTENc9xfqxCChf43RqaxHvT5visakK1",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/679024726526713856/4juER30U.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671.png",
+    "ipfs_origin": "QmNv2CPtKZvNBCPxakwzHwU8zhec7p1cfEHqgHmeMs6kU2"
+  },
+  "support": {
+    "email": "contact@numer.ai",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/numerai",
+    "chat": "",
+    "facebook": "https://www.facebook.com/numer.ai.hedgefund/",
+    "forum": "",
+    "github": "https://github.com/numerai",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/numerai/",
+    "reddit": "https://www.reddit.com/r/numerai/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/numerai",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NMR",
+      "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+      "erc20": {
+        "symbol": "NMR",
+        "decimals": 18,
+        "name": "NMR"
+      }
+    }
+  ]
+}

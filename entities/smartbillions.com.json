@@ -1,0 +1,49 @@
+{
+  "name": "Smart Billions",
+  "ens_address": "",
+  "website": "http://smartbillions.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6f6deb5db0c4994a8283a01d6cfeeb27fc3bbe9c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRMGTL3oGQ8tCmbEHXisqYm98rKZtUn3xbMmzqLKdQJpU",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/smart.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/900734052520660992/nKiq75-X.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6f6deb5db0c4994a8283a01d6cfeeb27fc3bbe9c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6f6deb5db0c4994a8283a01d6cfeeb27fc3bbe9c.png",
+    "ipfs_origin": "QmcBkk8X7KfusZfrEMoRBzBp3gWawTcMC5jqU2vJHPDZGS"
+  },
+  "support": {
+    "email": "contact@smartbillions.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@SmartBillions",
+    "chat": "",
+    "facebook": "https://www.facebook.com/smartbns",
+    "forum": "https://bitcointalk.org/index.php?topic=2175951.0",
+    "github": "https://github.com/SmartBillions/SmartBillions",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SmartBillions",
+    "slack": "https://smartbillions.slack.com",
+    "telegram": "https://t.me/SmartBillionsGroup",
+    "twitter": "https://twitter.com/smartbns",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Smart Billions",
+      "address": "0x6F6DEb5db0C4994A8283A01D6CFeEB27Fc3bBe9C",
+      "erc20": {
+        "symbol": "SMART",
+        "decimals": 0,
+        "name": "Smart Billions"
+      }
+    }
+  ]
+}

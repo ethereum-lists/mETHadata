@@ -1,0 +1,48 @@
+{
+  "name": "ETERNAL TOKEN",
+  "ens_address": "",
+  "website": "https://www.atom-solutions.jp/en/xetchange.php",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x054c64741dbafdc19784505494029823d89c3b13.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZ8gKpMFjzdnjRxLceSULCRHRe7BFVpAU3hdW7esRwYqx",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1011446403640410112/LkgcBroT.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x054c64741dbafdc19784505494029823d89c3b13.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1011446403640410112/LkgcBroT.jpg",
+    "ipfs_origin": "QmdAw7fZi44WvkBhfHdxEj4QtAW5P3edn3P2A49UoBNfK4"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/atom-solutions",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/xetofficial",
+    "twitter": "https://twitter.com/AdminXet",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ETERNAL TOKEN",
+      "address": "0x054C64741dBafDC19784505494029823D89c3b13",
+      "erc20": {
+        "symbol": "XET",
+        "decimals": 8,
+        "name": "ETERNAL TOKEN"
+      }
+    }
+  ]
+}

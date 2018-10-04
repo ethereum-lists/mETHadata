@@ -1,0 +1,48 @@
+{
+  "name": "ShipChain SHIP",
+  "ens_address": "",
+  "website": "https://www.shipchain.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe25b0bba01dc5630312b6a21927e578061a13f55.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUG5S2bboeCY7VhBUgYdAxVFSifNsY9wtvrinpLPng47x",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/916113980250296320/weHfNN3J.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe25b0bba01dc5630312b6a21927e578061a13f55.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/916113980250296320/weHfNN3J.jpg",
+    "ipfs_origin": "QmNubfWeUcysjtWiv7N2bREjRnzVGsradTJR3LrTcZQipc"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/shipchain",
+    "forum": "",
+    "github": "https://github.com/shipchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/shipchain/",
+    "slack": "",
+    "telegram": "https://t.me/shipchain",
+    "twitter": "https://twitter.com/ShipChain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ShipChain SHIP",
+      "address": "0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
+      "erc20": {
+        "symbol": "SHIP",
+        "decimals": 18,
+        "name": "ShipChain SHIP"
+      }
+    }
+  ]
+}

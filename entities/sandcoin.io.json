@@ -1,0 +1,48 @@
+{
+  "name": "Sandcoin",
+  "ens_address": "",
+  "website": "https://www.sandcoin.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf333b2ace992ac2bbd8798bf57bc65a06184afba.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXuVA9tKEQDn51ZxsNBBqSHuR88EEv2cojcMSu8zx6yxt",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/889259045651181569/u-9aAVfw.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf333b2ace992ac2bbd8798bf57bc65a06184afba.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/889259045651181569/u-9aAVfw.jpg",
+    "ipfs_origin": "QmNxMy6HfBgqrFRXhKGTtbLHLp4h3diWBjpXfnqQ9RQ3c7"
+  },
+  "support": {
+    "email": "support@sandcoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SandCoinICO",
+    "forum": "https://bitcointalk.org/index.php?topic=2049619.0",
+    "github": "https://github.com/sndtoken/ico",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SandCoin",
+    "slack": "",
+    "telegram": "https://t.me/sandcoin",
+    "twitter": "https://twitter.com/ruslanyocto",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Sandcoin",
+      "address": "0xf333b2Ace992ac2bBD8798bF57Bc65a06184afBa",
+      "erc20": {
+        "symbol": "SND",
+        "decimals": 0,
+        "name": "Sandcoin"
+      }
+    }
+  ]
+}

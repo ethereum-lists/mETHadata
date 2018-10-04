@@ -1,0 +1,47 @@
+{
+  "name": "Cappasity",
+  "ens_address": "",
+  "website": "https://ico.cappasity.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x04f2e7221fdb1b52a68169b25793e51478ff0329.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVSMrGWagWFLhhBGvUayLA8b4WT4YTR8kKQ8zE8i5XeHw",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x04f2e7221fdb1b52a68169b25793e51478ff0329.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x04f2e7221fdb1b52a68169b25793e51478ff0329.png",
+    "ipfs_origin": "QmR9BRdj1TZ6wWkR5q9nMzjehfcv4mHLmiDhBb3ymn9tHB"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cappasity",
+    "forum": "",
+    "github": "https://github.com/CappasityTech",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/cappasity/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/cappasity/",
+    "slack": "",
+    "telegram": "https://t.me/artoken",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Cappasity",
+      "address": "0x04F2E7221fdb1B52A68169B25793E51478fF0329",
+      "erc20": {
+        "symbol": "CAPP",
+        "decimals": 2,
+        "name": "Cappasity"
+      }
+    }
+  ]
+}

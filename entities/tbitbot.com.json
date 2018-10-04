@@ -1,0 +1,48 @@
+{
+  "name": "TBitBot",
+  "ens_address": "",
+  "website": "https://tbitbot.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xafe60511341a37488de25bef351952562e31fcc1.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTnBiTW3U5gAaFMSZ9MgKRHfboqAb4sbp1EvpYRcnip2W",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/910418332377014272/AN-jD-WD.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xafe60511341a37488de25bef351952562e31fcc1.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xafe60511341a37488de25bef351952562e31fcc1.png",
+    "ipfs_origin": "QmTxZ142DcKS7dzU87DFgCgC97kE52P2uaUnaz7XDhoczp"
+  },
+  "support": {
+    "email": "info@tbitbot.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tbit.bot.5",
+    "forum": "",
+    "github": "https://github.com/tbitbot",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/tbit-bot-421199149/",
+    "reddit": "https://www.reddit.com/user/tbitbot",
+    "slack": "https://tbotworkspace.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/tbit_bot",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TBitBot",
+      "address": "0xAFe60511341a37488de25Bef351952562E31fCc1",
+      "erc20": {
+        "symbol": "TBT",
+        "decimals": 8,
+        "name": "TBitBot"
+      }
+    }
+  ]
+}

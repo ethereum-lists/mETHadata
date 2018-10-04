@@ -1,0 +1,49 @@
+{
+  "name": "GUP",
+  "ens_address": "",
+  "website": "https://www.matchpool.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf7b098298f7c69fc14610bf71d5e02c60792894c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZjcHUjgtkPqMDcoXZTZGfXuCgdyeT4x2guHAwWKopUkM",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/gup.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/829695668721680384/rSiTJDCh.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf7b098298f7c69fc14610bf71d5e02c60792894c.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/829695668721680384/rSiTJDCh.jpg",
+    "ipfs_origin": "QmStgqjUNxLQuupYbzjErgPpdP5aa1TiQQyguKphpW3gYm"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@matchpool",
+    "chat": "https://chat.matchpool.com/home",
+    "facebook": "https://www.facebook.com/matchpoolhq/",
+    "forum": "",
+    "github": "https://github.com/Matchpool/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/11044252/",
+    "reddit": "https://www.reddit.com/r/Matchpool/",
+    "slack": "",
+    "telegram": "https://t.me/matchpool",
+    "twitter": "https://twitter.com/matchpool",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GUP",
+      "address": "0xf7B098298f7C69Fc14610bf71d5e02c60792894C",
+      "erc20": {
+        "symbol": "GUP",
+        "decimals": 3,
+        "name": "GUP"
+      }
+    }
+  ]
+}

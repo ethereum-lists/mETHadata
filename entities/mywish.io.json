@@ -1,0 +1,48 @@
+{
+  "name": "MyWish Token",
+  "ens_address": "",
+  "website": "https://mywish.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b22c32cd936cb97c28c5690a0695a82abf688e6.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUF5zQ34EeLbQqFe85TZjTzRa4HwGYwraXwRtxmWvWhUp",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/920324565141729283/sfZy9JCd.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b22c32cd936cb97c28c5690a0695a82abf688e6.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/920324565141729283/sfZy9JCd.jpg",
+    "ipfs_origin": "QmU1ibQGARywZZY2DDfq7CoSdx4GBt1acpep9ppsu5XMev"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/MyWish.io/",
+    "forum": "",
+    "github": "https://github.com/mywishplatform",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/mywish/",
+    "slack": "",
+    "telegram": "https://t.me/MyWish_platform",
+    "twitter": "https://twitter.com/mywishplatform",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MyWish Token",
+      "address": "0x1b22C32cD936cB97C28C5690a0695a82Abf688e6",
+      "erc20": {
+        "symbol": "WISH",
+        "decimals": 18,
+        "name": "MyWish Token"
+      }
+    }
+  ]
+}

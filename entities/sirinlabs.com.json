@@ -1,0 +1,49 @@
+{
+  "name": "Sirin Labs",
+  "ens_address": "",
+  "website": "https://sirinlabs.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbSGgAJNpSJ3DRafpEhoEo8xjgQyYAhZgJ3BbHjtbVwn5",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/srn.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/922789187413307392/9VM0k8RL.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/922789187413307392/9VM0k8RL.jpg",
+    "ipfs_origin": "QmUpZ6xBRoR3jhJnWwrEkJCqbRqvvRvWKBd8CMH9Q5zVpS"
+  },
+  "support": {
+    "email": "crowdsale@sirinlabs.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@sirinlabs",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SirinLabs/?fref=ts",
+    "forum": "https://bitcointalk.org/index.php?topic=2285838",
+    "github": "https://github.com/sirin-labs/crowdsale-smart-contract",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/sirinlabs",
+    "linkedin": "https://www.linkedin.com/company-beta/10487115",
+    "reddit": "https://www.reddit.com/r/SirinLabs",
+    "slack": "",
+    "telegram": "https://t.me/sirinlabs",
+    "twitter": "https://twitter.com/SIRINLABS",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Sirin Labs",
+      "address": "0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25",
+      "erc20": {
+        "symbol": "SRN",
+        "decimals": 18,
+        "name": "Sirin Labs"
+      }
+    }
+  ]
+}

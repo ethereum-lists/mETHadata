@@ -1,0 +1,48 @@
+{
+  "name": "Filmscoin",
+  "ens_address": "",
+  "website": "https://filmscoin.com",
+  "logo": {
+    "src": "https://filmscoin.com/images/icon-flmc28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmXcbgirhJxgkWyfS5RWVEBC6mRjvanxdSnWCZB2GWyHiZ",
+    "sources": {
+      "token-list": "https://filmscoin.com/images/icon-flmc28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/973831480848928774/DEpRLGwY.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/973831480848928774/DEpRLGwY.jpg",
+    "ipfs_origin": "QmUbzEZyD1kkkotEF97UDXU1m8gRhfKesZmG1Y8CgraZHh"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cryptofilms",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/filmscoin",
+    "twitter": "https://twitter.com/filmscoin1",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Filmscoin",
+      "address": "0x04cC783b450b8D11F3C7d00DD03fDF7FB51fE9F2",
+      "erc20": {
+        "symbol": "FLMC",
+        "decimals": 18,
+        "name": "Filmscoin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Ultimat",
+  "ens_address": "",
+  "website": "http://www.ultimat.tk/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmcx9yfgpDHGJ7nJgL51AnCagKGDZQDN3vbNFtbR3V6BfN",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/934751655005949952/KeWf2AVX.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/934751655005949952/KeWf2AVX.jpg",
+    "ipfs_origin": "QmPXyWW1d4GRyaW7DTAaoxSAHNZYJvvDEPeku4uTK8H6qF"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/ultimattoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Ultimat",
+      "address": "0x4632091b0DD0E0902d1fe0534e16eb7b20328D70",
+      "erc20": {
+        "symbol": "ULT",
+        "decimals": 18,
+        "name": "Ultimat"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "DIVX",
+  "ens_address": "",
+  "website": "https://www.diviproject.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13f11c9905a08ca76e3e853be63d4f0944326c72.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQpMjmEph6ge1AyohrE16EQvoiUPiT4UiDTusNhyhr3Yr",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/902989409976442880/AOLxty97.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13f11c9905a08ca76e3e853be63d4f0944326c72.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x13f11c9905a08ca76e3e853be63d4f0944326c72.png",
+    "ipfs_origin": "QmX3TjHqPL4HCE7jgrYdey7reiQDp7pXEbp44NHRdZ7bNp"
+  },
+  "support": {
+    "email": "support@diviproject.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/diviproject",
+    "chat": "https://discord.gg/KQdVYsF",
+    "facebook": "https://facebook.com/diviproject",
+    "forum": "",
+    "github": "https://github.com/divicoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18253848/",
+    "reddit": "https://www.reddit.com/r/DiviProject",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/EAdiTQ3yZk_GkqU0IdG-Gg",
+    "twitter": "https://twitter.com/diviproject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DIVX",
+      "address": "0x13f11C9905A08ca76e3e853bE63D4f0944326C72",
+      "erc20": {
+        "symbol": "DIVX",
+        "decimals": 18,
+        "name": "DIVX"
+      }
+    }
+  ]
+}

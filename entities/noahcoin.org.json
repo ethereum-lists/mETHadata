@@ -1,0 +1,48 @@
+{
+  "name": "NOAHCOIN",
+  "ens_address": "",
+  "website": "https://noahcoin.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x58a4884182d9e835597f405e5f258290e46ae7c2.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXxvWi91fG1kaGwVJiXLRHM8ECCVfRpizpfpHvbrLCqKc",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/961484381759053826/7nJhM_Kv.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x58a4884182d9e835597f405e5f258290e46ae7c2.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/961484381759053826/7nJhM_Kv.jpg",
+    "ipfs_origin": "QmPihKVtzs41ZJyyWxXBduzbANSDchncvfWs2kWDPt9PZq"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://fb.me/NOAHCOINOfficial",
+    "forum": "",
+    "github": "https://github.com/NoahFoundation/NoahCoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/NOAHCOINOfficial/",
+    "slack": "",
+    "telegram": "https://t.me/noahproject",
+    "twitter": "https://twitter.com/NOAHCOIN_Proj",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NOAHCOIN",
+      "address": "0x58a4884182d9E835597f405e5F258290E46ae7C2",
+      "erc20": {
+        "symbol": "NOAH",
+        "decimals": 18,
+        "name": "NOAHCOIN"
+      }
+    }
+  ]
+}

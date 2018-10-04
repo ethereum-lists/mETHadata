@@ -1,0 +1,48 @@
+{
+  "name": "SKR Token",
+  "ens_address": "",
+  "website": "https://tokensale.skrilla.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4c382f8e09615ac86e08ce58266cc227e7d4d913.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmduzoCBYjeaYRnvWbe59kVBpmcTkw8xYGSYB8fmGfe3Ca",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1032075709215395840/y4j2-XQt.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4c382f8e09615ac86e08ce58266cc227e7d4d913.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4c382f8e09615ac86e08ce58266cc227e7d4d913.png",
+    "ipfs_origin": "QmfXp1D7BKai5TRtXRiga4vLacyh8Z9GDk76uKmbpeVyPs"
+  },
+  "support": {
+    "email": "support@skrilla.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@Skrilla",
+    "chat": "https://discordapp.com/invite/F77VmjV",
+    "facebook": "https://www.facebook.com/SkrillaEsports",
+    "forum": "https://discordapp.com/invite/F77VmjV / https://www.instagram.com/playskrilla/",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18212909/",
+    "reddit": "https://www.reddit.com/r/Skrilla/",
+    "slack": "",
+    "telegram": "https://t.me/skrillatokensale",
+    "twitter": "https://twitter.com/playskrilla",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SKR Token",
+      "address": "0x4c382F8E09615AC86E08CE58266CC227e7d4D913",
+      "erc20": {
+        "symbol": "SKR",
+        "decimals": 6,
+        "name": "SKR Token"
+      }
+    }
+  ]
+}

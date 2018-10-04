@@ -1,0 +1,47 @@
+{
+  "name": "DCL",
+  "ens_address": "",
+  "website": "https://www.DisLedger.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmToUKbjeXKh2KShjJt6r2jcUa9mjXPmxTzphQfw79nDig",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/903301126916734976/Sc_XIAMr.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/903301126916734976/Sc_XIAMr.jpg",
+    "ipfs_origin": "QmSSNJ93cii4MHzgWiyvgmyvyyyrF4zaBFxCoqLi1rAw8F"
+  },
+  "support": {
+    "email": "info@disledger.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2039103",
+    "github": "https://github.com/disledger/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/DisLedger/",
+    "slack": "",
+    "telegram": "https://t.me/DisLedger_Launch",
+    "twitter": "https://twitter.com/DisledgerInfo",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DCL",
+      "address": "0x399A0e6FbEb3d74c85357439f4c8AeD9678a5cbF",
+      "erc20": {
+        "symbol": "DCL",
+        "decimals": 3,
+        "name": "DCL"
+      }
+    }
+  ]
+}

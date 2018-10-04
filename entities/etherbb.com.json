@@ -1,0 +1,48 @@
+{
+  "name": "EtherBB",
+  "ens_address": "",
+  "website": "http://etherbb.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc78593c17482ea5de44fdd84896ffd903972878e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVCbxVwKzLhzFbr5cermu7NkuDqVGVK5wA91xrYo2Jene",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/943028408430161920/k3Fp8IFe.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc78593c17482ea5de44fdd84896ffd903972878e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc78593c17482ea5de44fdd84896ffd903972878e.png",
+    "ipfs_origin": "QmdKNFAumfbERg12wmZcuwbWmHhmXf3yFsPWFtqajwWxLA"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Etherbb-1985969358354079/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/EtherBB1",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EtherBB",
+      "address": "0xC78593C17482EA5de44Fdd84896fFd903972878E",
+      "erc20": {
+        "symbol": "BB",
+        "decimals": 9,
+        "name": "EtherBB"
+      }
+    }
+  ]
+}

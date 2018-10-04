@@ -1,0 +1,48 @@
+{
+  "name": "TKRToken",
+  "ens_address": "",
+  "website": "https://www.trackr.im/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb45a50545beeab73f38f31e5973768c421805e5e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmX2o7nkRAc4vWHZhFj4j6nXF6QHqVKq4JATHyzhipJFM9",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/916823846325547009/PBVLeUVk.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb45a50545beeab73f38f31e5973768c421805e5e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb45a50545beeab73f38f31e5973768c421805e5e.png",
+    "ipfs_origin": "QmVZuvxkg7kkSKRsVynwMhUxzyEGpNqVfDJK2Zqx1V3DSN"
+  },
+  "support": {
+    "email": "team@cryptoinsight.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://fb.me/cryptoinsight.io",
+    "forum": "",
+    "github": "https://github.com/trackr-im",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/cryptoinsightio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TKRToken",
+      "address": "0xB45a50545bEEAB73F38F31E5973768C421805E5E",
+      "erc20": {
+        "symbol": "TKR",
+        "decimals": 18,
+        "name": "TKRToken"
+      }
+    }
+  ]
+}

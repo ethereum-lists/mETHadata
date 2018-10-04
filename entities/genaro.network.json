@@ -1,0 +1,48 @@
+{
+  "name": "Genaro X",
+  "ens_address": "",
+  "website": "https://genaro.network/en",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6ec8a24cabdc339a06a172f8223ea557055adaa5.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmT6YRAR9yuMBvbqUheAdHS2k29GSEhsj5fVccbsb4remu",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1017239858404704256/ur1knuiB.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6ec8a24cabdc339a06a172f8223ea557055adaa5.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6ec8a24cabdc339a06a172f8223ea557055adaa5.png",
+    "ipfs_origin": "QmcotMKfvbjMXdqRa7P5qLTo7oarP95xvyqTsjRR3NNVat"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/GenaroNetwork/",
+    "forum": "",
+    "github": "https://github.com/GenaroNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/GenaroNetwork/",
+    "slack": "",
+    "telegram": "https://t.me/GenaroNetworkOfficial",
+    "twitter": "https://twitter.com/GenaroNetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Genaro X",
+      "address": "0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5",
+      "erc20": {
+        "symbol": "GNX",
+        "decimals": 9,
+        "name": "Genaro X"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "DaleCoin",
+  "ens_address": "",
+  "website": "http://www.dalecoin.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x07d9e49ea402194bf48a8276dafb16e4ed633317.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZVFdjc62ENaHLCPr6t3SWaBTZZCMrZ7DT7eABAPsCnWH",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/892113262086684672/bYQmnHuz.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x07d9e49ea402194bf48a8276dafb16e4ed633317.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x07d9e49ea402194bf48a8276dafb16e4ed633317.png",
+    "ipfs_origin": "QmNPc7m4zHChAYTQeDyHhe22Vay2qamjTDS1qSxkdohxGq"
+  },
+  "support": {
+    "email": "support@dalecoin.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://web.facebook.com/dalecoin",
+    "forum": "https://bitcointalk.org/index.php?topic=2057829.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/dalecoin",
+    "twitter": "http://twitter.com/DalecoinN",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DaleCoin",
+      "address": "0x07D9e49Ea402194bf48A8276dAfB16E4eD633317",
+      "erc20": {
+        "symbol": "DALC",
+        "decimals": 8,
+        "name": "DaleCoin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Ethereum Dark",
+  "ens_address": "",
+  "website": "https://www.ethereumdark.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTS5iWod69qs14RushfgJexz3XM9yygMEi8m9w1wBwYmv",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/910343086701551616/urjF4xNC.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/910343086701551616/urjF4xNC.jpg",
+    "ipfs_origin": "QmTrpKCFV1GtGPuKY85VWbvaPzJWoGis2XQhuzTCqcfLqS"
+  },
+  "support": {
+    "email": "support@ethereumdark.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/abi2018/wz37da",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/EthDark/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "http://www.twitter.com/ethereum_dark",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Ethereum Dark",
+      "address": "0xdbFb423E9bBF16294388e07696A5120E4CeBA0C5",
+      "erc20": {
+        "symbol": "ETHD",
+        "decimals": 18,
+        "name": "Ethereum Dark"
+      }
+    }
+  ]
+}

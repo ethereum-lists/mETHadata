@@ -1,0 +1,48 @@
+{
+  "name": "Lightyears",
+  "ens_address": "",
+  "website": "https://lightyearstoken.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd41fbd1ae95c5d9b198174a28e04be6b3d1aa27.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVDiHT7PbWpYYt9kZCLAdiJyzgWvDUR1fvMH186Tt1fHQ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1035062697270755329/AuLL6jVe.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd41fbd1ae95c5d9b198174a28e04be6b3d1aa27.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd41fbd1ae95c5d9b198174a28e04be6b3d1aa27.png",
+    "ipfs_origin": "QmUBEdxHx69rPEBHSHoYkscMtYSzVL7FbTD34WY4GqjeyF"
+  },
+  "support": {
+    "email": "team@lightyearstoken.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/lightyears",
+    "chat": "",
+    "facebook": "https://www.facebook.com/LIGHTYEARS.TokenLYS/",
+    "forum": "https://bitcointalk.org/index.php?topic=2599216",
+    "github": "https://github.com/LIGHTYEARS-LYS/LIGHTYEARS-Token",
+    "gitter": "https://gitter.im/LIGHTYEARS-Token/Lobby",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/LIGHTYEARSx/",
+    "slack": "https://goo.gl/EJZTX6",
+    "telegram": "https://t.me/LIGHTYEARSToken",
+    "twitter": "https://twitter.com/LIGHTYEARStoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Lightyears",
+      "address": "0xdD41fBd1Ae95C5D9B198174A28e04Be6b3d1aa27",
+      "erc20": {
+        "symbol": "LYS",
+        "decimals": 8,
+        "name": "Lightyears"
+      }
+    }
+  ]
+}

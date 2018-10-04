@@ -1,0 +1,47 @@
+{
+  "name": "Selfllery",
+  "ens_address": "",
+  "website": "https://selfllery.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaMC8HFNiWocHCc6EHuA4iwqjRMe3PnH7PiRHbpgcWN27",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/956468148110331904/K-cZcb2D.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/956468148110331904/K-cZcb2D.jpg",
+    "ipfs_origin": "QmaxtP6HeNtDcapxa5ZRe9xvFE5GtrnwH2x51D9u9DuL54"
+  },
+  "support": {
+    "email": "support@selfllery.com",
+    "url": "https://selfllery.com/contact-us"
+  },
+  "social": {
+    "blog": "https://medium.com/@SELFLLERY",
+    "chat": "",
+    "facebook": "https://www.facebook.com/SELFLLERY/",
+    "forum": "",
+    "github": "https://github.com/SELFLLERY",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/selfllery/?hl=ru",
+    "linkedin": "https://ru.linkedin.com/company/selfllery",
+    "reddit": "https://www.reddit.com/user/SELFLLERY/",
+    "slack": "",
+    "telegram": "https://t.me/SELFLLERY_EN",
+    "twitter": "https://twitter.com/SELFLLERY",
+    "youtube": "https://www.youtube.com/channel/UCoBbN_3YZt7T0qIE5n-KGQg"
+  },
+  "eth": [
+    {
+      "name": "Selfllery",
+      "address": "0x7928c8aBF1F74eF9F96D4D0a44e3b4209d360785",
+      "erc20": {
+        "symbol": "SLY",
+        "decimals": 18,
+        "name": "Selfllery"
+      }
+    }
+  ]
+}

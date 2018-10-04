@@ -1,0 +1,58 @@
+{
+  "name": "OPEN",
+  "ens_address": "",
+  "website": "https://openfuture.io",
+  "logo": {
+    "src": "https://www.openfuture.io/assets/fancyLogo/Open_Fancy-Logo_120x120.png",
+    "width": "120px",
+    "height": "120px",
+    "ipfs_hash": "QmQApxYQC5Z7WSmM2kD3FKsYQ3Lk6wHnM1MxRjRvRNJ1tz",
+    "sources": {
+      "token-list": "https://www.openfuture.io/assets/fancyLogo/Open_Fancy-Logo_120x120.png",
+      "twitter": "http://pbs.twimg.com/profile_images/982955666729037824/Ec78PLGB.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x69c4bb240cf05d51eeab6985bab35527d04a8c64.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x69c4bb240cf05d51eeab6985bab35527d04a8c64.png",
+    "ipfs_origin": "QmQFrxLjqC191CrmTyThBVJL1SB1G7nMS4vXYB3Z1rufDJ"
+  },
+  "support": {
+    "email": "support@openfuture.io",
+    "url": "https://open.crisp.help/en-us/"
+  },
+  "social": {
+    "blog": "https://medium.com/@theOPENPlatform",
+    "chat": "https://open.crisp.help/en-us/",
+    "facebook": "https://www.facebook.com/OpenPlatformICO",
+    "forum": "",
+    "github": "https://github.com/OpenMoneyDigital",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/theopenplatform/",
+    "reddit": "https://www.reddit.com/r/OPENPlatform/",
+    "slack": "https://openmoneyico.slack.com",
+    "telegram": "https://t.me/joinchat/FDNbh0M079p5fnfOHFEJaw",
+    "twitter": "https://twitter.com/OpenPlatformICO",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "OPEN",
+      "address": "0x69c4BB240cF05D51eeab6985Bab35527d04a8C64",
+      "erc20": {
+        "symbol": "OPEN",
+        "decimals": 8,
+        "name": "OPEN"
+      }
+    },
+    {
+      "name": "OPEN",
+      "address": "0xe9dE1C630753A15d7021Cc563429c21d4887506F",
+      "erc20": {
+        "symbol": "OPEN",
+        "decimals": 8,
+        "name": "OPEN"
+      }
+    }
+  ]
+}

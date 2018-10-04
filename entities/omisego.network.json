@@ -1,0 +1,49 @@
+{
+  "name": "OMG",
+  "ens_address": "",
+  "website": "https://omisego.network",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXxh1kLX5hKpDDWUadkYS3YW8d6pHrZ4Y3z2HieNS6rNf",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/omg.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/863984492112785408/6RriS9A5.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/omg.svg",
+    "ipfs_origin": "QmfJ2KVbgwgQnpD4GQQrBKC5eE6yc22UwGQYNXqbrs8nQJ"
+  },
+  "support": {
+    "email": "omg@omise.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.omisego.network/",
+    "chat": "https://chat.omisego.network/",
+    "facebook": "https://www.facebook.com/OmiseGO/",
+    "forum": "https://bitcointalk.org/index.php?topic=2042193.0",
+    "github": "https://github.com/omisego",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/omise_go/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/omise_go",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "OMG",
+      "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+      "erc20": {
+        "symbol": "OMG",
+        "decimals": 18,
+        "name": "OMG"
+      }
+    }
+  ]
+}

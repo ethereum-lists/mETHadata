@@ -1,0 +1,42 @@
+{
+  "name": "1K Token",
+  "ens_address": "",
+  "website": "https://1ktoken.tech/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "10000token@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/1K-Token-1911193629200111/?notify_field=blurb&modal=profile_completion",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "1K Token",
+      "address": "0x1d10997e92011398a20612f9eE87E33449bC1Fe4",
+      "erc20": {
+        "symbol": "1KT",
+        "decimals": 18,
+        "name": "1K Token"
+      }
+    }
+  ]
+}

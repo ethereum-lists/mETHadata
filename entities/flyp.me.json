@@ -1,0 +1,48 @@
+{
+  "name": "Flyp.me Token",
+  "ens_address": "",
+  "website": "https://flyp.me/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8f0921f30555624143d427b340b1156914882c10.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPa73PLpUZ2yuNwMEmzxh8M78szjW4P9uiPZMyBtTVQ1X",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/959475136004009984/9bYPzEHy.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8f0921f30555624143d427b340b1156914882c10.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/959475136004009984/9bYPzEHy.jpg",
+    "ipfs_origin": "QmVbeRMmk3kx5t8k2eGq3wAvPYWsYZJ4JAbhiWss7A8n8m"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://steemit.com/@flypme",
+    "chat": "",
+    "facebook": "https://facebook.com/flypme",
+    "forum": "",
+    "github": "https://github.com/flypme",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/flypme/",
+    "slack": "",
+    "telegram": "https://t.me/flypme",
+    "twitter": "https://twitter.com/flyp_me",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Flyp.me Token",
+      "address": "0x8F0921f30555624143d427b340b1156914882C10",
+      "erc20": {
+        "symbol": "FYP",
+        "decimals": 18,
+        "name": "Flyp.me Token"
+      }
+    }
+  ]
+}

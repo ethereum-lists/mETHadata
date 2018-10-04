@@ -1,0 +1,48 @@
+{
+  "name": "DataWallet Token",
+  "ens_address": "",
+  "website": "https://datawallet.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8db54ca569d3019a2ba126d03c37c44b5ef81ef6.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmY2zF71TrWwHKE1f1uTDUG8SaCTu5MPj6inKw1hLT99eG",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1031278066906083330/4zbX2B8Y.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8db54ca569d3019a2ba126d03c37c44b5ef81ef6.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8db54ca569d3019a2ba126d03c37c44b5ef81ef6.png",
+    "ipfs_origin": "QmNN9jdfe7xKVSvoJ7T6Yk2EqiKk8yrbPWUfLPExrMFk1y"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/datawallethq/",
+    "slack": "",
+    "telegram": "https://t.me/datawallet",
+    "twitter": "https://twitter.com/DataWalletHQ",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DataWallet Token",
+      "address": "0x8dB54ca569D3019A2ba126D03C37c44b5eF81EF6",
+      "erc20": {
+        "symbol": "DXT",
+        "decimals": 8,
+        "name": "DataWallet Token"
+      }
+    }
+  ]
+}

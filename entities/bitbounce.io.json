@@ -1,0 +1,48 @@
+{
+  "name": "Credo / Bitbounce",
+  "ens_address": "",
+  "website": "https://bitbounce.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPdcQkcmeCXRzf4LbT9JfCGv65kE9K9axs4bjkXN2xKB3",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/886478852725198852/jN7kgfSb.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be.png",
+    "ipfs_origin": "QmSdYHaxamh9Cz9pWM4qv6Vo6agBtNqUScw9m7RoR9uxge"
+  },
+  "support": {
+    "email": "stewart@team.bitbounce.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@stewart_dennis",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/231924857297898",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CredoToken/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GBD8NQ3iv9c9uUwl4xvPSg",
+    "twitter": "https://twitter.com/bitbounceio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Credo / Bitbounce",
+      "address": "0x4E0603e2A27A30480E5e3a4Fe548e29EF12F64bE",
+      "erc20": {
+        "symbol": "CREDO",
+        "decimals": 18,
+        "name": "Credo / Bitbounce"
+      }
+    }
+  ]
+}

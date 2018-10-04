@@ -1,0 +1,48 @@
+{
+  "name": "Internxt",
+  "ens_address": "",
+  "website": "https://internxt.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa8006c4ca56f24d6836727d106349320db7fef82.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmc3Er7pYaoK8ZdTM4sG5VynNZyDEEGmfJqNz3iaFGzAMR",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1013723806614028290/IhHnCH9X.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa8006c4ca56f24d6836727d106349320db7fef82.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa8006c4ca56f24d6836727d106349320db7fef82.png",
+    "ipfs_origin": "QmXH8MkXsGeWsZWdZszgHKS867CMy4AXNz5QQpDFKyb5at"
+  },
+  "support": {
+    "email": "hello@internxt.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/internxt",
+    "chat": "",
+    "facebook": "https://web.facebook.com/internxt/",
+    "forum": "https://bitcointalk.org/index.php?topic=2073473",
+    "github": "https://github.com/internxt",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/internxt/",
+    "slack": "",
+    "telegram": "https://t.me/internxt_io",
+    "twitter": "https://twitter.com/internxt_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Internxt",
+      "address": "0xa8006C4ca56F24d6836727D106349320dB7fEF82",
+      "erc20": {
+        "symbol": "INXT",
+        "decimals": 8,
+        "name": "Internxt"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "EDU",
+  "ens_address": "",
+  "website": "https://tokensale.liveedu.tv",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNSGNLNpwmKoWCy6ph8QsR9vCXRWKmgSHwRbYzRrhMWY2",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/921815781897318400/P01GTguv.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.png",
+    "ipfs_origin": "Qmf2qd2eBE5kLJH4GiHAWu1eAYH6yHJHHh3vDKbavTDV3t"
+  },
+  "support": {
+    "email": "support@liveedu.tv",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/liveedu-ico",
+    "chat": "",
+    "facebook": "https://www.facebook.com/liveedutvlive",
+    "forum": "https://bitcointalk.org/index.php?topic=2310239.0",
+    "github": "https://github.com/livecodingtvofficial",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/EDU_Ecosystem/",
+    "slack": "",
+    "telegram": "https://t.me/liveeduico",
+    "twitter": "https://twitter.com/liveedutv",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EDU",
+      "address": "0x5b26C5D0772E5bbaC8b3182AE9a13f9BB2D03765",
+      "erc20": {
+        "symbol": "EDU",
+        "decimals": 8,
+        "name": "EDU"
+      }
+    }
+  ]
+}

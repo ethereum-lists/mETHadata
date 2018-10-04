@@ -1,0 +1,48 @@
+{
+  "name": "DaneelToken",
+  "ens_address": "",
+  "website": "https://daneel.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b70740e708a083c6ff38df52297020f5dfaa5ee.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVNXA8WodXc9y9jGbGMtLH2ryGbXsbLy2e7X8SjBdw86T",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1037046620817444864/-F971H0X.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b70740e708a083c6ff38df52297020f5dfaa5ee.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9b70740e708a083c6ff38df52297020f5dfaa5ee.png",
+    "ipfs_origin": "QmYcQ7qDWLbQaCTZXS3Sx8m4fnMDX1Y7TK13CNKXVAcaiu"
+  },
+  "support": {
+    "email": "information@daneel.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@daneel_project",
+    "chat": "",
+    "facebook": "https://fb.me/daneelproject",
+    "forum": "https://bitcointalk.org/index.php?topic=2376203",
+    "github": "https://github.com/project-daneel",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/DaneelCommunity",
+    "twitter": "https://twitter.com/daneelproject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DaneelToken",
+      "address": "0x9B70740e708a083C6fF38Df52297020f5DfAa5EE",
+      "erc20": {
+        "symbol": "DAN",
+        "decimals": 10,
+        "name": "DaneelToken"
+      }
+    }
+  ]
+}

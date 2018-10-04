@@ -1,0 +1,49 @@
+{
+  "name": "Hive Project",
+  "ens_address": "",
+  "website": "https://hive-project.net",
+  "logo": {
+    "src": "https://hive-project.net/images/hive-logo.png",
+    "width": 151,
+    "height": 64,
+    "ipfs_hash": "QmYAyGFMeZsNkDcdNNHr3XP3WVSunngbdo8Sai7uxMKVYm",
+    "sources": {
+      "token-list": "https://hive-project.net/images/hive-logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/921406236217827328/rXUM4ugQ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc0eb85285d83217cd7c891702bcbc0fc401e2d9d.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/921406236217827328/rXUM4ugQ.jpg",
+    "ipfs_origin": "QmcJuwdHiqEJmcXTwFD2Xd2PpcCs6yEjAKEGk4eYCQ1Zp3"
+  },
+  "support": {
+    "email": "support@hive-project.net",
+    "url": "https://hive-project.zendesk.com"
+  },
+  "social": {
+    "blog": "https://blog.hive-project.net",
+    "chat": "",
+    "facebook": "https://www.facebook.com/HiveProject.net",
+    "forum": "https://bitcointalk.org/index.php?topic=1959159.0",
+    "github": "https://github.com/HiveProjectLTD",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/hiveproject_net",
+    "reddit": "https://www.reddit.com/r/HiveProject_net",
+    "slack": "",
+    "telegram": "https://t.me/hiveprojectnet",
+    "twitter": "https://twitter.com/hiveproject_net",
+    "youtube": "https://www.youtube.com/channel/UCpV4Wwhy5sZbjH9hqAdHlKw"
+  },
+  "eth": [
+    {
+      "name": "Hive Project",
+      "address": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
+      "erc20": {
+        "symbol": "HVN",
+        "decimals": 8,
+        "name": "Hive Project"
+      }
+    }
+  ]
+}

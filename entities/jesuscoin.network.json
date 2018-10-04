@@ -1,0 +1,48 @@
+{
+  "name": "Jesus Coin",
+  "ens_address": "",
+  "website": "https://jesuscoin.network/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe2d82dc7da0e6f882e96846451f4fabcc8f90528.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWXZZwTQz2yHg5AHewLozUEHqQNKn4tUePTLV8ecDaqeZ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/905799276349018114/0EgtfMqv.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe2d82dc7da0e6f882e96846451f4fabcc8f90528.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe2d82dc7da0e6f882e96846451f4fabcc8f90528.png",
+    "ipfs_origin": "QmXPUUKGGXm9pX5MyiG5XNZaqTyHgdCriA3tLUm8vwK7Ms"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@davidr_785",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Jesus-Coin-Cryptocurrency-1588746427844196/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Jesus_Coin/",
+    "slack": "",
+    "telegram": "https://t.me/realjesuscoinico",
+    "twitter": "https://twitter.com/Jesuscoinico",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Jesus Coin",
+      "address": "0xE2D82Dc7dA0E6f882E96846451F4faBcc8f90528",
+      "erc20": {
+        "symbol": "JC",
+        "decimals": 18,
+        "name": "Jesus Coin"
+      }
+    }
+  ]
+}

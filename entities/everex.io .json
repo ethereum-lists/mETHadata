@@ -1,0 +1,49 @@
+{
+  "name": "EVX Token",
+  "ens_address": "",
+  "website": "https://everex.io ",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSCjPNF8Jc3DiywsuUzPrMo2pPGnNWZQrx4j43T5kpC2D",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/evx.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/762668774457741312/E78z5y-N.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/762668774457741312/E78z5y-N.jpg",
+    "ipfs_origin": "QmdsSHJ2wsGXHjWcyeazWq9mps8KuknCXbdvPENrJy2yWK"
+  },
+  "support": {
+    "email": "contact@everex.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.everex.io/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/everex.io",
+    "forum": "https://bitcointalk.org/index.php?topic=1975013.0",
+    "github": "https://github.com/everexio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/everexio",
+    "slack": "https://everex.slack.com",
+    "telegram": "https://t.me/everexio",
+    "twitter": "https://twitter.com/everexio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EVX Token",
+      "address": "0xf3Db5Fa2C66B7aF3Eb0C0b782510816cbe4813b8",
+      "erc20": {
+        "symbol": "EVX",
+        "decimals": 4,
+        "name": "EVX Token"
+      }
+    }
+  ]
+}

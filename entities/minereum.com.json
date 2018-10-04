@@ -1,0 +1,47 @@
+{
+  "name": "MNE",
+  "ens_address": "",
+  "website": "https://minereum.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1a95b271b0535d15fa49932daba31ba612b52946.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmawnKdj7dBg2SdzFgiB5SHu757663WDwYbgGzjTRrowTg",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1a95b271b0535d15fa49932daba31ba612b52946.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1a95b271b0535d15fa49932daba31ba612b52946.png",
+    "ipfs_origin": "QmduiqCKPvJd8Ud1PrDNYYE7ajzUCoy5B7A6xL2Nsx1FhY"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MNE",
+      "address": "0x1a95B271B0535D15fa49932Daba31BA612b52946",
+      "erc20": {
+        "symbol": "MNE",
+        "decimals": 8,
+        "name": "MNE"
+      }
+    }
+  ]
+}

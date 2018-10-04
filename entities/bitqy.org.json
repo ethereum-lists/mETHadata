@@ -1,0 +1,49 @@
+{
+  "name": "bitqy",
+  "ens_address": "",
+  "website": "https://bitqy.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf0f8b0b8dbb1124261fc8d778e2287e3fd2cf4f5.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWQ4wbRwtWkZqkEz17duhqRbqCMFrsk8dKzBrPoTLsQn1",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/bq.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1015204342280937472/NwncKOxq.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf0f8b0b8dbb1124261fc8d778e2287e3fd2cf4f5.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf0f8b0b8dbb1124261fc8d778e2287e3fd2cf4f5.png",
+    "ipfs_origin": "QmaWMzmAPCCkfDWUX7dx3YPN6FxRD6W9J5qfuTMsNNuUyp"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bitqyofficial",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://bitqy.slack.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/bitqy",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "bitqy",
+      "address": "0xF0f8B0B8DBB1124261FC8d778E2287e3Fd2Cf4f5",
+      "erc20": {
+        "symbol": "BQ",
+        "decimals": 3,
+        "name": "bitqy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Leverj",
+  "ens_address": "",
+  "website": "https://www.leverj.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f4ca92660efad97a9a70cb0fe969c755439772c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcZT7Ev6uNpwN6zpd5EjM5DLPH83hwBjZEDdQVjgiiXqN",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/902662491611832321/lR_6jERu.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0f4ca92660efad97a9a70cb0fe969c755439772c.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/902662491611832321/lR_6jERu.jpg",
+    "ipfs_origin": "QmPu9LbX1dXN2FD11iB12DMjswis6i29dU9ednahFAyaA3"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.leverj.io/latest",
+    "chat": "",
+    "facebook": "https://www.facebook.com/leverj.io/",
+    "forum": "",
+    "github": "https://github.com/leverj",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Leverj/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/C-gLzkMqKr1zmoeS-ZQePg",
+    "twitter": "https://twitter.com/Leverj_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Leverj",
+      "address": "0x0F4CA92660Efad97a9a70CB0fe969c755439772C",
+      "erc20": {
+        "symbol": "LEV",
+        "decimals": 9,
+        "name": "Leverj"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Start mining",
+  "ens_address": "",
+  "website": "http://startmining.com/en",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Start mining",
+      "address": "0xdF1cE35938F9ca2EAb682284F82A81a9D25665ce",
+      "erc20": {
+        "symbol": "STM",
+        "decimals": 2,
+        "name": "Start mining"
+      }
+    }
+  ]
+}

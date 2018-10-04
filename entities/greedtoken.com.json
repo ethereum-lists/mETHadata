@@ -1,0 +1,47 @@
+{
+  "name": "GREED TOKEN",
+  "ens_address": "",
+  "website": "https://greedtoken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRqFVZ4jdpSVqC92pTUUGEzPUve7qBwCisdT9urXUmjZw",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/926534500246437888/Hs2i5QyH.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/926534500246437888/Hs2i5QyH.jpg",
+    "ipfs_origin": "QmQ1Rn9gUKWL4h4Pe1F8nSqqzZTNGH7cC9ruxvv57eKNGu"
+  },
+  "support": {
+    "email": "ceo@greedtoken.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/greedtoken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://join.slack.com/t/greedtoken/shared_invite/enQtMjcxNzg2NzgwMjMwLTViMTFiZjAyMTNmMGZhOGE2YTBlY2VkYWE1OWQ2MGE2ZmU1Njg2NjNlZmI4ZjdlZDYwNzEwYTkzOWUwYTA4OWE",
+    "telegram": "",
+    "twitter": "https://twitter.com/greedtoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GREED TOKEN",
+      "address": "0xBC9395973BD35a3b4bD924F050d2778c07506EcB",
+      "erc20": {
+        "symbol": "GREED",
+        "decimals": 18,
+        "name": "GREED TOKEN"
+      }
+    }
+  ]
+}

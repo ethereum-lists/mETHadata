@@ -1,0 +1,57 @@
+{
+  "name": "ProChain",
+  "ens_address": "",
+  "website": "https://chain.pro/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9041fe5b3fdea0f5e4afdc17e75180738d877a01.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmfLZCFojodpTXBmxrnxCKKDxScpQuKS5ndzK8BzxVKeSC",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/897698076227514370/5olpFeoB.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9041fe5b3fdea0f5e4afdc17e75180738d877a01.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/897698076227514370/5olpFeoB.jpg",
+    "ipfs_origin": "QmXzHNTJYESK8cZgwVdQ9WTiwcsceg8GUCsUoZoHxehgeV"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/prochain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ProChainTech",
+    "twitter": "https://twitter.com/prochaintech",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ProToken",
+      "address": "0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01",
+      "erc20": {
+        "symbol": "PRO",
+        "decimals": 18,
+        "name": "ProToken"
+      }
+    },
+    {
+      "name": "ProChain",
+      "address": "0x8377ee6d3545Bc6ff1425ee3015DC648B149C7B2",
+      "erc20": {
+        "symbol": "PRO",
+        "decimals": 2,
+        "name": "ProChain"
+      }
+    }
+  ]
+}

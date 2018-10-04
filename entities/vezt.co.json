@@ -1,0 +1,48 @@
+{
+  "name": "Vezt",
+  "ens_address": "",
+  "website": "https://vezt.co/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9720b467a710382a232a32f540bdced7d662a10b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbY7o1NLai4QXT2paRexXMuRmoR3MCKHAmmPVYbLp2Wdk",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1027630764052033536/FYFauBQh.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9720b467a710382a232a32f540bdced7d662a10b.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1027630764052033536/FYFauBQh.jpg",
+    "ipfs_origin": "QmNumTyCx2peMQNSLY6PHGyDHdou1Wo4LMRq5gys7jxmNq"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/veztinc",
+    "forum": "",
+    "github": "https://github.com/Vezt/Vezt",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.co/LaTyi1yS9X",
+    "twitter": "https://twitter.com/VeztInc",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Vezt",
+      "address": "0x9720b467a710382A232a32F540bDCed7d662a10B",
+      "erc20": {
+        "symbol": "VZT",
+        "decimals": 18,
+        "name": "Vezt"
+      }
+    }
+  ]
+}

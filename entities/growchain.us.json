@@ -1,0 +1,48 @@
+{
+  "name": "Growchain",
+  "ens_address": "",
+  "website": "http://www.growchain.us",
+  "logo": {
+    "src": "http://www.growchain.us/data/logo.png",
+    "width": "300",
+    "height": "286",
+    "ipfs_hash": "Qmf3ybXJv2LA9Xxfjfx9qv92fnWnEt14HP9Mi1wRsTmhVL",
+    "sources": {
+      "token-list": "http://www.growchain.us/data/logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/978527555027259392/uBMchImo.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0a9a9ce600d08bf9b76f49fa4e7b38a67ebeb1e6.png"
+    },
+    "sourceBest": "src",
+    "origin": "http://www.growchain.us/data/logo.png",
+    "ipfs_origin": "QmabPatoacxerKWrJBzXCUPTR4moYs9QFT1uhRmXLgbGoa"
+  },
+  "support": {
+    "email": "admin@growchain.net"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Growchain-347032509142186",
+    "forum": "",
+    "github": "https://github.com/growchainnet",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/I4QeehEqER7kSqHh3VJAXQ",
+    "twitter": "https://twitter.com/Growchain_net",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Growchain",
+      "address": "0x0a9A9ce600D08BF9b76F49FA4e7b38A67EBEB1E6",
+      "erc20": {
+        "symbol": "GROW",
+        "decimals": 8,
+        "name": "Growchain"
+      }
+    }
+  ]
+}

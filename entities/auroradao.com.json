@@ -1,0 +1,58 @@
+{
+  "name": "Aurora DAO",
+  "ens_address": "",
+  "website": "https://auroradao.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdvF8FdYuEwdZLqp7BNhttfwFStvuz6zuwfFxTjZhQx8q",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/951995236674359301/HeWiCiMZ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814.png",
+    "ipfs_origin": "QmdTCaBE6nzcshc6ZD4qFyS4LxX3MnbGH5Zu8VwmzoqLh8"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/auroradao/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FT1IVA8AWHiyUkU3adehxA",
+    "twitter": "https://twitter.com/aurora_dao",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "IDEX Membership",
+      "address": "0xCc13Fc627EFfd6E35D2D2706Ea3C4D7396c610ea",
+      "erc20": {
+        "symbol": "IDXM",
+        "decimals": 8,
+        "name": "IDEX Membership"
+      },
+      "url": "https://auroradao.com/tokensale/"
+    },
+    {
+      "name": "Aurora DAO",
+      "address": "0xCdCFc0f66c522Fd086A1b725ea3c0Eeb9F9e8814",
+      "erc20": {
+        "symbol": "AURA",
+        "decimals": 18,
+        "name": "Aurora DAO"
+      }
+    }
+  ]
+}

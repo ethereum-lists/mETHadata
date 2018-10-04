@@ -1,0 +1,48 @@
+{
+  "name": "KICK",
+  "ens_address": "",
+  "website": "https://www.kickico.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27695e09149adc738a978e9a678f99e4c39e9eb9.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQ5j1FdVLhqvMKDAaDVqn7rBvk8T4DDwJzoHXE6Qu3eCF",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/901899861368467458/VH47S68x.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27695e09149adc738a978e9a678f99e4c39e9eb9.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/901899861368467458/VH47S68x.jpg",
+    "ipfs_origin": "QmSQVdjGX1YC328Cn4aFy2drgJ4LvPNp8FjjxwCEpsibbL"
+  },
+  "support": {
+    "email": "support@kickico.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@kickico",
+    "chat": "",
+    "facebook": "https://www.facebook.com/kickicoplatform",
+    "forum": "https://bitcointalk.org/index.php?topic=2046684.0",
+    "github": "https://github.com/kickico",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company-beta/11199886",
+    "reddit": "https://www.reddit.com/r/KICKICO_Platform",
+    "slack": "",
+    "telegram": "https://t.me/kickico",
+    "twitter": "https://twitter.com/KICKICOplatform",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "KICK",
+      "address": "0x27695E09149AdC738A978e9A678F99E4c39e9eb9",
+      "erc20": {
+        "symbol": "KICK",
+        "decimals": 8,
+        "name": "KICK"
+      }
+    }
+  ]
+}

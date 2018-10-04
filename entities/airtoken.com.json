@@ -1,0 +1,48 @@
+{
+  "name": "AirToken",
+  "ens_address": "",
+  "website": "https://airtoken.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27dce1ec4d3f72c3e457cc50354f1f975ddef488.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmfUTwKnf54v4gWAvyr22qcp3osyTaRPcf8kKrCpfVwVfo",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/965614621896851457/H_n-p2m1.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x27dce1ec4d3f72c3e457cc50354f1f975ddef488.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/965614621896851457/H_n-p2m1.jpg",
+    "ipfs_origin": "QmbsY661ftHA6ftiSw98HPYcehgj5DPccmKaAQCSgYBcB7"
+  },
+  "support": {
+    "email": "corporate@airfox.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@airfox",
+    "chat": "https://open.kakao.com/o/gl69MFz",
+    "facebook": "https://www.facebook.com/AirToken/",
+    "forum": "https://bitcointalk.org/index.php?topic=2078932",
+    "github": "https://github.com/AirFoxOfficial",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/AirToken",
+    "slack": "https://shielded-mesa-79992.herokuapp.com",
+    "telegram": "https://t.me/airfoxico",
+    "twitter": "https://twitter.com/airtoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AirToken",
+      "address": "0x27Dce1eC4d3f72C3E457Cc50354f1F975dDEf488",
+      "erc20": {
+        "symbol": "AIR",
+        "decimals": 8,
+        "name": "AirToken"
+      }
+    }
+  ]
+}

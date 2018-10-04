@@ -1,0 +1,48 @@
+{
+  "name": "Tcash",
+  "ens_address": "",
+  "website": "http://tcash.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb8742486c723793cf5162bb5d3425ed9cd73d049.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZPBXKPfz9vobJmfm9CpvreK2aqEef6NTm2Uo2Cv6vYmJ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/923518298968354817/jiPkVuI7.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb8742486c723793cf5162bb5d3425ed9cd73d049.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/923518298968354817/jiPkVuI7.jpg",
+    "ipfs_origin": "QmQrN8qWPhY8eB1kSRajSLqCCN15FsWxczhEHExnfmstX7"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/etherflyeroffical/",
+    "forum": "",
+    "github": "https://github.com/etherflyer/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TCASH/",
+    "slack": "",
+    "telegram": "https://t.me/etherFlyer",
+    "twitter": "https://twitter.com/etherflyercom",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Tcash",
+      "address": "0xB8742486C723793Cf5162bb5D3425ED9cD73D049",
+      "erc20": {
+        "symbol": "TCASH",
+        "decimals": 8,
+        "name": "Tcash"
+      }
+    }
+  ]
+}

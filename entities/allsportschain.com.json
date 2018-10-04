@@ -1,0 +1,48 @@
+{
+  "name": "All Sports Coin",
+  "ens_address": "",
+  "website": "https://www.allsportschain.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUB5LhNMged5Bt32ttcDcbspStZbtecx5GTpEdWLd17pB",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/952496231640571905/ZWWyk_Pe.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/952496231640571905/ZWWyk_Pe.jpg",
+    "ipfs_origin": "QmfHBfyhhiwWvKGE6Wg1K3V28hd4FDBRtFQmMLMc4yCXEP"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/allsportscoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/IKxIbxAzKRn5vnz8vYuCBQ",
+    "twitter": "https://twitter.com/allsportschain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "All Sports Coin",
+      "address": "0x2d0E95bd4795D7aCe0da3C0Ff7b706a5970eb9D3",
+      "erc20": {
+        "symbol": "SOC",
+        "decimals": 18,
+        "name": "All Sports Coin"
+      }
+    }
+  ]
+}

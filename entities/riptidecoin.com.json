@@ -1,0 +1,49 @@
+{
+  "name": "RiptideCoin",
+  "ens_address": "",
+  "website": "https://riptidecoin.com",
+  "logo": {
+    "src": "https://etherscan.io/token/images/riptide_28.png",
+    "width": 24,
+    "height": 24,
+    "ipfs_hash": "QmdKzpcLH8qfboWCdqy8MexvXASrMWuHTNRewy43bH1Cnr",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/riptide_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/906670938808238080/vRMKrag0.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd007278b667f6bef52fd0a4c23604aa1f96039a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd007278b667f6bef52fd0a4c23604aa1f96039a.png",
+    "ipfs_origin": "QmUYLE1BseQtYEeZvYkWZXkdkCpL1vxHuMAoGFnw7paMtJ"
+  },
+  "support": {
+    "email": "support@riptidecoin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/RiptideCoin",
+    "forum": "",
+    "github": "https://github.com/riptidecoin/riptide-coin",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/riptide_coin",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://mmjfintech.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/RiptideCoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "RiptideCoin",
+      "address": "0xdd007278B667F6bef52fD0a4c23604aA1f96039a",
+      "erc20": {
+        "symbol": "RIPT",
+        "decimals": 8,
+        "name": "RiptideCoin"
+      }
+    }
+  ]
+}

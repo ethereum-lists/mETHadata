@@ -1,0 +1,48 @@
+{
+  "name": "TE-FOOD",
+  "ens_address": "",
+  "website": "https://ico.tefoodint.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe5f166c0d8872b68790061317bb6cca04582c912.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdoCSzt2YWAu7BSURSFdqT2f1DPGTphwi7HF1dYZ4WQaj",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/981160776575717377/_1ud0hCT.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe5f166c0d8872b68790061317bb6cca04582c912.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe5f166c0d8872b68790061317bb6cca04582c912.png",
+    "ipfs_origin": "QmT7uixrqf6uzkYX6fQs8SnWCf2RKZQyPAeyWob3ZJ82hi"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tefoodintl/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TE_FOOD/",
+    "slack": "",
+    "telegram": "https://t.me/tefood",
+    "twitter": "https://twitter.com/TE_FOOD",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TE-FOOD",
+      "address": "0xE5F166c0D8872B68790061317BB6CcA04582C912",
+      "erc20": {
+        "symbol": "TFD",
+        "decimals": 18,
+        "name": "TE-FOOD"
+      }
+    }
+  ]
+}

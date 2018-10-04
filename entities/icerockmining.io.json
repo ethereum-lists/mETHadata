@@ -1,0 +1,59 @@
+{
+  "type": "ERC20",
+  "name": "Ice Rock Mining",
+  "ens_address": "",
+  "website": "https://icerockmining.io",
+  "logo": {
+    "src": "https://rockmining.blob.core.windows.net/logo/fullLogo.png",
+    "width": 132,
+    "height": 132,
+    "ipfs_hash": "QmSj3NfuwAqVdXSwWqWU4odJJxqDazpxNEVcU7dmDaUJ9q",
+    "sources": {
+      "token-list": "https://rockmining.blob.core.windows.net/logo/fullLogo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/910824061361643520/ecId3nXu.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc16b542ff490e01fcc0dc58a60e1efdc3e357ca6.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc16b542ff490e01fcc0dc58a60e1efdc3e357ca6.png",
+    "ipfs_origin": "QmRGmk2wWwFBS3dbbufphhP2QY3u5gZzMqgoSU35p2AFGj"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/IceRockMiningICO",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/IceRockMining/",
+    "slack": "",
+    "telegram": "https://t.me/icerockmining",
+    "twitter": "https://twitter.com/icerockmining",
+    "youtube": "https://www.youtube.com/channel/UCxQCi2z51-LU9vgiBeuuGLg"
+  },
+  "eth": [
+    {
+      "name": "ICE ROCK MINING",
+      "address": "0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6",
+      "erc20": {
+        "symbol": "ROCK2",
+        "decimals": 0,
+        "name": "ICE ROCK MINING"
+      }
+    },
+    {
+      "name": "ICE Rock Mining",
+      "address": "0xdfBd6A960a55bCfCf59d5925351E05a51498BCeF",
+      "erc20": {
+        "symbol": "IRM",
+        "decimals": 0,
+        "name": "ICE Rock Mining"
+      }
+    }
+  ]
+}

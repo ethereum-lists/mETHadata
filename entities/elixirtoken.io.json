@@ -1,0 +1,49 @@
+{
+  "name": "Elixir Token",
+  "ens_address": "",
+  "website": "https://elixirtoken.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc8c6a31a4a806d3710a7b38b7b296d2fabccdba8.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNP1TTYm4ShNv1SdxdawPkUrXntwCb2VYWyCuGaXHur9K",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/elix.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1012362225212768256/b64mUj-e.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc8c6a31a4a806d3710a7b38b7b296d2fabccdba8.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1012362225212768256/b64mUj-e.jpg",
+    "ipfs_origin": "QmdnjMuWVbAPqdbN94WF8ZsdSHtpzSKFTHqk9o8v1koocZ"
+  },
+  "support": {
+    "email": "info@elixirtoken.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@elixirtoken",
+    "chat": "https://discordapp.com/invite/Q479hnP",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2144082.80",
+    "github": "https://github.com/elixirToken/P2P-Payments-Demo",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/elixirtoken",
+    "slack": "",
+    "telegram": "https://t.me/ElixirToken",
+    "twitter": "https://twitter.com/ELIXToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Elixir Token",
+      "address": "0xc8C6A31A4A806d3710A7B38b7B296D2fABCCDBA8",
+      "erc20": {
+        "symbol": "ELIX",
+        "decimals": 18,
+        "name": "Elixir Token"
+      }
+    }
+  ]
+}

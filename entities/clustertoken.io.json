@@ -1,0 +1,47 @@
+{
+  "name": "ClusterToken",
+  "ens_address": "",
+  "website": "https://www.clustertoken.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdoE3HNu3vUknXkLrHhNypXJCpaC84jCD7BZWcLEg5rF3",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/893134352900538368/txoFGOzp.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/893134352900538368/txoFGOzp.jpg",
+    "ipfs_origin": "QmPfhg7fXzXBMBUCY7bUDLqgyYFupgSxpNas8F5Kw79cf2"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/ClusterToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ClusterToken",
+      "address": "0x08fd34559F2ed8585d3810B4D96Ab8A05c9f97c5",
+      "erc20": {
+        "symbol": "CLRT",
+        "decimals": 18,
+        "name": "ClusterToken"
+      }
+    }
+  ]
+}

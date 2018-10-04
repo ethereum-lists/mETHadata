@@ -1,0 +1,47 @@
+{
+  "name": "PEX-Token",
+  "ens_address": "",
+  "website": "https://prime-ex.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNM9Twz2iT8UFwcQ4nfth9utHz6n9YJcbUUp3jHwvtT1P",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/946791792753741824/EFvJkEzU.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/946791792753741824/EFvJkEzU.jpg",
+    "ipfs_origin": "QmR8QzU3uaDgWvqGdj9qvb9GhQjLg3zRv5QaqZs6s4UFUM"
+  },
+  "support": {
+    "email": "erc20@prime-ex.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://prime-ex.com/pex-blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/PEXTokens",
+    "forum": "https://bitcointalk.org/index.php?topic=2150472.msg21513985#msg21513985",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/25037545",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/PEXTokens",
+    "twitter": "https://twitter.com/PEXTokens",
+    "youtube": "https://www.youtube.com/channel/UCQ_4BHl1qE1dz_vijSt_tqw?view_as=subscriber"
+  },
+  "eth": [
+    {
+      "name": "PEX-Token",
+      "address": "0x55c2A0C171D920843560594dE3d6EEcC09eFc098",
+      "erc20": {
+        "symbol": "PEXT",
+        "decimals": 4,
+        "name": "PEX-Token"
+      }
+    }
+  ]
+}

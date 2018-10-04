@@ -1,0 +1,48 @@
+{
+  "name": "JET",
+  "ens_address": "",
+  "website": "https://jetcoin.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8727c112c712c4a03371ac87a74dd6ab104af768.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUBnB4s347Cg6GaktEVvDEVAhBgnxpiVZMuVie4ZXtwR8",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/892723631968485376/c-hlrik-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8727c112c712c4a03371ac87a74dd6ab104af768.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8727c112c712c4a03371ac87a74dd6ab104af768.png",
+    "ipfs_origin": "QmZKeRzYdVMCfcxq1hELoA4Nt6GksixfPADn87ZvUCicd5"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@jetcoins",
+    "chat": "",
+    "facebook": "https://www.facebook.com/jetcoins/?ref=bookmarks",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Jetcoin/",
+    "slack": "",
+    "telegram": "tg://join?invite=ERrH8w3gjAsfmdCrgjGCOQ",
+    "twitter": "https://twitter.com/jetcoins",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "JET",
+      "address": "0x8727c112C712c4a03371AC87a74dD6aB104Af768",
+      "erc20": {
+        "symbol": "JET",
+        "decimals": 18,
+        "name": "JET"
+      }
+    }
+  ]
+}

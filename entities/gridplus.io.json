@@ -1,0 +1,47 @@
+{
+  "name": "GRID",
+  "ens_address": "",
+  "website": "https://gridplus.io/token-sale",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXFhTpoXG3sTyQp2sMyBGuew63RkSNacrGxyjSBtReQom",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd.png",
+    "ipfs_origin": "QmcBuCSXuNpevTQRn5ALqabfA5iKopfXPdyHUkCHKB1P24"
+  },
+  "support": {
+    "email": "gridplus@consensys.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.gridplus.io/",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2015773.0",
+    "github": "https://github.com/gridplus",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/GridPlus/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GEb54Asz9AYq2cLZk6syHA",
+    "twitter": "https://twitter.com/gridplus_energy?lang=en",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GRID",
+      "address": "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD",
+      "erc20": {
+        "symbol": "GRID",
+        "decimals": 12,
+        "name": "GRID"
+      }
+    }
+  ]
+}

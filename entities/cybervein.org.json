@@ -1,0 +1,48 @@
+{
+  "name": "CyberVeinToken",
+  "ens_address": "",
+  "website": "http://www.cybervein.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbe428c3867f05dea2a89fc76a102b544eac7f772.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWYyyK4agbZG3Vmu4VDKzSZWNcybos5ATPk2KG7mdwu5K",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/990266594130460672/dKdkJYIw.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbe428c3867f05dea2a89fc76a102b544eac7f772.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/990266594130460672/dKdkJYIw.jpg",
+    "ipfs_origin": "QmXELwGocPv1qo6P385yCCSKCyQYkzitL8Vrucb7guqxYk"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Cybervein-280314169173689/",
+    "forum": "",
+    "github": "https://github.com/Cyberveinofficial",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "http://reddit.com/r/cyberveinofficial",
+    "slack": "",
+    "telegram": "https://t.me/Cyberveinofficial",
+    "twitter": "https://twitter.com/CyberVeinGroup",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CyberVeinToken",
+      "address": "0xBe428c3867F05deA2A89Fc76a102b544eaC7f772",
+      "erc20": {
+        "symbol": "CVT",
+        "decimals": 18,
+        "name": "CyberVeinToken"
+      }
+    }
+  ]
+}

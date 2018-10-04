@@ -1,0 +1,49 @@
+{
+  "name": "MCO",
+  "ens_address": "",
+  "website": "https://mona.co",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQKZmQSR2nzYMxXm1YVQ2UoN8puBwZwZejN3pg6oLz8uT",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/mco.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1040432486633750528/lGsS4w2Q.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/mco.svg",
+    "ipfs_origin": "QmXNC8ZELbNqGWUENq2X6WEPBS6ZAQTTJkYozm37uvGP1X"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@MCOCrypto",
+    "chat": "",
+    "facebook": "https://www.facebook.com/MCOCryptoOfficial",
+    "forum": "https://bitcointalk.org/index.php?topic=1926269.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/MCOCryptoOfficial",
+    "linkedin": "https://hk.linkedin.com/company/cryptocom",
+    "reddit": "https://reddit.com/r/MCOCrypto",
+    "slack": "",
+    "telegram": "https://t.me/MCOCryptoOfficial",
+    "twitter": "https://twitter.com/MCO_Crypto",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MCO",
+      "address": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d",
+      "erc20": {
+        "symbol": "MCO",
+        "decimals": 8,
+        "name": "MCO"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Driveholic Token",
+  "ens_address": "",
+  "website": "https://driveholic.com/",
+  "logo": {
+    "src": "https://airdrop.driveholic.com/icon/apple-icon-180x180.png",
+    "width": "180",
+    "height": "180",
+    "ipfs_hash": "QmUjtL2WK4725cqVPoEzr5PzmAhEzAvvJ87kHkJXmj5saX",
+    "sources": {
+      "token-list": "https://airdrop.driveholic.com/icon/apple-icon-180x180.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1028639838445162496/oBeIbiEX.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1028639838445162496/oBeIbiEX.jpg",
+    "ipfs_origin": "QmNetUVyn3cSH4N6BreEV4RoCjwVsarhvdVr6fawVuTHNW"
+  },
+  "support": {
+    "email": "airdrop@driveholic.com",
+    "url": "https://airdrop.driveholic.com/"
+  },
+  "social": {
+    "blog": "https://medium.com/@driveholicsite",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=4613024",
+    "github": "https://github.com/TeamDriveholic",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/driveholicsite/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/driveholic/",
+    "slack": "",
+    "telegram": "https://t.me/driveholicairdrop",
+    "twitter": "https://twitter.com/driveholic",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Driveholic Token",
+      "address": "0x62D4c04644314F35868Ba4c65cc27a77681dE7a9",
+      "erc20": {
+        "symbol": "DRVH",
+        "decimals": 18,
+        "name": "Driveholic Token"
+      }
+    }
+  ]
+}

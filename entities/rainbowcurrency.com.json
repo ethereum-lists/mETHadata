@@ -1,0 +1,48 @@
+{
+  "name": "Twinkle",
+  "ens_address": "",
+  "website": "https://www.rainbowcurrency.com/",
+  "logo": {
+    "src": "https://www.rainbowcurrency.com/new/assets/img/logo_full2.jpg",
+    "width": "748",
+    "height": "748",
+    "ipfs_hash": "Qmav33NpNWnhbRp6PoUFifxtnToF1va8Mr7SCXZikJEwRf",
+    "sources": {
+      "token-list": "https://www.rainbowcurrency.com/new/assets/img/logo_full2.jpg",
+      "twitter": "http://pbs.twimg.com/profile_images/970636346581594112/JWD_lfEl.jpg"
+    },
+    "sourceBest": "src",
+    "origin": "https://www.rainbowcurrency.com/new/assets/img/logo_full2.jpg",
+    "ipfs_origin": "QmesDpzWh8BrcPvi39setfNsBnSbGQv5VVeD814MhZfGTL"
+  },
+  "support": {
+    "email": "support@rainbowcurrency.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/RainbowCurrency",
+    "forum": "https://bitcointalk.org/index.php?topic=2735483",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/RainbowCurrency",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/C4OIwEUEDO69rS7rsPRpsg",
+    "twitter": "https://twitter.com/RainbowCurrency",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Twinkle",
+      "address": "0xfbd0d1c77B501796A35D86cF91d65D9778EeE695",
+      "erc20": {
+        "symbol": "TWNKL",
+        "decimals": 3,
+        "name": "Twinkle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "EUROBITS",
+  "ens_address": "",
+  "website": "http://www.eurbits.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "EUROBITS",
+      "address": "0xfcb48fdCc479B38068C06eE94249B1516adF09cB",
+      "erc20": {
+        "symbol": "EURB",
+        "decimals": 5,
+        "name": "EUROBITS"
+      }
+    }
+  ]
+}

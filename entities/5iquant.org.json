@@ -1,0 +1,48 @@
+{
+  "name": "IQT Token",
+  "ens_address": "",
+  "website": "http://www.5iquant.org/en",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x51ee82641ac238bde34b9859f98f5f311d6e4954.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVR314nn5ze4hMAnstWBxEvUXv6g8TU2fYLzUo7raLs4P",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1016577721495777280/lbhV9WJ_.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x51ee82641ac238bde34b9859f98f5f311d6e4954.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x51ee82641ac238bde34b9859f98f5f311d6e4954.png",
+    "ipfs_origin": "QmNwzQadP4CgiWwVwQZdXUQumPqsjMdJsh9CzUQysEyoJJ"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/iQuantChain",
+    "forum": "",
+    "github": "https://github.com/IquantChain/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://iqt-group.slack.com/",
+    "telegram": "https://t.me/joinchat/Gb_-VkNbQxOWML3GfT9yGA",
+    "twitter": "https://twitter.com/iQuantChain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "IQT Token",
+      "address": "0x51ee82641Ac238BDe34B9859f98F5F311d6E4954",
+      "erc20": {
+        "symbol": "IQT",
+        "decimals": 8,
+        "name": "IQT Token"
+      }
+    }
+  ]
+}

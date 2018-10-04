@@ -1,0 +1,47 @@
+{
+  "name": "SPARTA",
+  "ens_address": "",
+  "website": "https://www.spartaico.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNwuaw2DDVU5e5p58Q7iFRT8G9KVmHpY4N9cukRzLT5c5",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/905391238337220608/c28s7lQy.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/905391238337220608/c28s7lQy.jpg",
+    "ipfs_origin": "QmSFMrrJuZtYMQZKvvrjMBoLpHiQTASRPwmULP7TBrA4xq"
+  },
+  "support": {
+    "email": "reachout@spartaico.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@SpartaICO",
+    "chat": "",
+    "facebook": "https://www.facebook.com/spartastartups/",
+    "forum": "http://www.altcoinstalks.com/index.php?topic=6.0",
+    "github": "https://github.com/SpartaStartups",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/sparta-startups",
+    "reddit": "https://www.reddit.com/r/SpartaStartups",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FiHDZw5qhOTmSArzrs42rQ",
+    "twitter": "https://twitter.com/spartaico",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SPARTA",
+      "address": "0x24AEF3BF1A47561500f9430D74Ed4097C47F51F2",
+      "erc20": {
+        "symbol": "SPARTA",
+        "decimals": 4,
+        "name": "SPARTA"
+      }
+    }
+  ]
+}

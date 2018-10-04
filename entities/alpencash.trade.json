@@ -1,0 +1,42 @@
+{
+  "name": "AlpenCash",
+  "ens_address": "",
+  "website": "http://alpencash.trade/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AlpenCash",
+      "address": "0xBfD4a3C26996DFC9e85A951eB615aAC3b84C758B",
+      "erc20": {
+        "symbol": "ALPC",
+        "decimals": 0,
+        "name": "AlpenCash"
+      }
+    }
+  ]
+}

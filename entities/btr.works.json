@@ -1,0 +1,48 @@
+{
+  "type": "ERC20",
+  "name": "Happiness",
+  "ens_address": "",
+  "website": "https://btr.works",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmS4cwihUUH6QXNDrywhtd7DVujWFWJ6UhEfV6cWQtzZ5k",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1017539329449553920/eSGD3NiL.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1017539329449553920/eSGD3NiL.jpg",
+    "ipfs_origin": "QmQazVqZytvX6u7opCG13HiNKrjSZzT3TiVAC9bwYYcpBQ"
+  },
+  "support": {
+    "email": "help@btr.works",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@btrworks",
+    "chat": "",
+    "facebook": "https://www.facebook.com/btrworkscom",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/btrworks",
+    "twitter": "https://twitter.com/btrworks",
+    "youtube": "https://www.youtube.com/channel/UCjdXiMBGTm0dVtEP_fim9Zw"
+  },
+  "eth": [
+    {
+      "name": "Happiness",
+      "address": "0x5A567e28dbFa2bBD3ef13C0a01be114745349657",
+      "erc20": {
+        "symbol": "HAPPY",
+        "decimals": 2,
+        "name": "Happiness"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Spectre.ai",
+  "ens_address": "",
+  "website": "https://spectre.ai/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWjkb9pmPDtqjwNaFwE8xFSuX2drLMYyAbaNdP6GworWD",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/890959027135500289/c9LzzYFZ.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/890959027135500289/c9LzzYFZ.jpg",
+    "ipfs_origin": "QmddQMsRnXq1U3U7EefwomYujznonbMiUvcVvhfPpM1H7q"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/teamspectreai",
+    "chat": "",
+    "facebook": "https://www.facebook.com/spectrepage/",
+    "forum": "https://bitcointalk.org/index.php?topic=2169122.0",
+    "github": "https://github.com/spectre-ai/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Spectre_ai/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GjkGkw7IfwUVuPiWxctD4g",
+    "twitter": "https://twitter.com/SpectreAI",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SPECTRE SUBSCRIBER TOKEN",
+      "address": "0x6ceE948C9d593c58Cba5Dfa70482444899D1341c",
+      "erc20": {
+        "symbol": "SXS",
+        "decimals": 18,
+        "name": "SPECTRE SUBSCRIBER TOKEN"
+      }
+    },
+    {
+      "name": "Spectre.ai D-Token",
+      "address": "0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf",
+      "erc20": {
+        "symbol": "SXDT",
+        "decimals": 18,
+        "name": "Spectre.ai D-Token"
+      }
+    },
+    {
+      "name": "Spectre.ai U-Token",
+      "address": "0x2C82c73d5B34AA015989462b2948cd616a37641F",
+      "erc20": {
+        "symbol": "SXUT",
+        "decimals": 18,
+        "name": "Spectre.ai U-Token"
+      }
+    }
+  ]
+}

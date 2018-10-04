@@ -1,0 +1,42 @@
+{
+  "name": "M-ETH",
+  "ens_address": "",
+  "website": "http://www.mostexclusive.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "info@mostexclusive.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "M-ETH",
+      "address": "0x3f4B726668da46f5e0E75aA5D478ACEc9f38210F",
+      "erc20": {
+        "symbol": "M-ETH",
+        "decimals": 18,
+        "name": "M-ETH"
+      }
+    }
+  ]
+}

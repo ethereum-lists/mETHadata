@@ -1,0 +1,48 @@
+{
+  "name": "Ethfinex Nectar Token",
+  "ens_address": "",
+  "website": "https://nectar.community",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc80c051057b774cd75067dc48f8987c4eb97a5e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRdW9mcWCSaZvRVvBidWKGVCTEUm4zFAUz5XSiiTfZq2J",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1041738720347648001/u_An45uR.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcc80c051057b774cd75067dc48f8987c4eb97a5e.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1041738720347648001/u_An45uR.jpg",
+    "ipfs_origin": "QmYGKSwAUqNs3w5FEbMGGQSLUHojj2ekMoUcZYSszJka1v"
+  },
+  "support": {
+    "email": "support@ethfinex.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.ethfinex.com/",
+    "chat": "",
+    "facebook": "https://facebook.com/ethfinex",
+    "forum": "https://bitcointalk.org/index.php?topic=2824735.0",
+    "github": "https://github.com/ethfinex/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ethfinex/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GgM7eBFC-BdMYaC_3hN4Kg",
+    "twitter": "https://twitter.com/ethfinex",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Ethfinex Nectar Token",
+      "address": "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
+      "erc20": {
+        "symbol": "NEC",
+        "decimals": 18,
+        "name": "Ethfinex Nectar Token"
+      }
+    }
+  ]
+}

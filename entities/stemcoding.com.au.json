@@ -1,0 +1,42 @@
+{
+  "name": "STEM Token",
+  "ens_address": "",
+  "website": "https://stemcoding.com.au/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "STEM Token",
+      "address": "0x672b178875fAD8DDd817DA5cc4E367B63fdEe9aa",
+      "erc20": {
+        "symbol": "STEM",
+        "decimals": 18,
+        "name": "STEM Token"
+      }
+    }
+  ]
+}

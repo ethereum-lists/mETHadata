@@ -1,0 +1,52 @@
+{
+  "name": "Persians",
+  "ens_address": "",
+  "website": "http://persians.network",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {},
+    "origin": "http://persians.network/img/logo_btl.png"
+  },
+  "support": {
+    "email": "king.serse@gmx.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2043872.0",
+    "github": "https://github.com/Neurone/persians",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://battlesmartcontract.slack.com",
+    "telegram": "https://t.me/BattleToken",
+    "twitter": "https://twitter.com/persian_token",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Battle",
+      "address": "0x2accaB9cb7a48c3E82286F0b2f8798D201F4eC3f",
+      "erc20": {
+        "symbol": "BTL",
+        "decimals": 18,
+        "name": "Battle"
+      }
+    },
+    {
+      "name": "Persians",
+      "address": "0x163733bcc28dbf26B41a8CfA83e369b5B3af741b",
+      "erc20": {
+        "symbol": "PRS",
+        "decimals": 18,
+        "name": "Persians"
+      }
+    }
+  ]
+}

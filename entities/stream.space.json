@@ -1,0 +1,47 @@
+{
+  "name": "StreamShares",
+  "ens_address": "",
+  "website": "https://www.stream.space",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6e2050cbfb3ed8a4d39b64cc9f47e711a03a5a89.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVW1SbZnaDNVq6SMkMQ4nD8gqYKPdZEyQwhkdvEZtJRXb",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6e2050cbfb3ed8a4d39b64cc9f47e711a03a5a89.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6e2050cbfb3ed8a4d39b64cc9f47e711a03a5a89.png",
+    "ipfs_origin": "QmWTZfKG8hECei7Xpu2RANaSxfju96JKG523Mp6asw29Yq"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "StreamShares",
+      "address": "0x6e2050CBFB3eD8A4d39b64cC9f47E711a03a5a89",
+      "erc20": {
+        "symbol": "SSH",
+        "decimals": 18,
+        "name": "StreamShares"
+      }
+    }
+  ]
+}

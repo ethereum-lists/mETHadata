@@ -1,0 +1,48 @@
+{
+  "name": "HuobiToken",
+  "ens_address": "",
+  "website": "https://www.huobi.pro/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6f259637dcd74c767781e37bc6133cd6a68aa161.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZZWCKmNrC8sSVz5orDVnqyCxFXopgYxxi46G3QRJUKTB",
+    "sources": {
+      "twitter": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6f259637dcd74c767781e37bc6133cd6a68aa161.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x6f259637dcd74c767781e37bc6133cd6a68aa161.png",
+    "ipfs_origin": "QmfNUgDPRUsp8iLsJGqimwjrjXhaRCAeUXFFCFCaGmsPGD"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/huobiproofficial",
+    "twitter": "https://twitter.com/HUOBI_Pro",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "HuobiToken",
+      "address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
+      "erc20": {
+        "symbol": "HT",
+        "decimals": 18,
+        "name": "HuobiToken"
+      }
+    }
+  ]
+}

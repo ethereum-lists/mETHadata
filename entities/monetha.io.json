@@ -1,0 +1,49 @@
+{
+  "name": "Monetha",
+  "ens_address": "",
+  "website": "http://www.monetha.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaf4dce16da2877f8c9e00544c93b62ac40631f16.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSQkHrSyUHzJb33a1KdKA5DS4bKHcBt8ytdDeAKokoXbq",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/mth.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/904754937745346561/ilq2ux9F.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaf4dce16da2877f8c9e00544c93b62ac40631f16.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/904754937745346561/ilq2ux9F.jpg",
+    "ipfs_origin": "QmaukH8fMgt4YmqB4S6rdLevmwUNv6XMrb8DG1GhuHuLGr"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@monetha",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Monetha.io",
+    "forum": "https://bitcointalk.org/index.php?topic=1978067.0",
+    "github": "https://github.com/monetha",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18045713/",
+    "reddit": "https://www.reddit.com/r/ethereum/comments/6iln7f/a_brief_overview_and_critique_of_the_monetha",
+    "slack": "https://monetha.slack.com",
+    "telegram": "https://t.me/monetha_io",
+    "twitter": "https://twitter.com/Monetha_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Monetha",
+      "address": "0xaF4DcE16Da2877f8c9e00544c93B62Ac40631F16",
+      "erc20": {
+        "symbol": "MTH",
+        "decimals": 5,
+        "name": "Monetha"
+      }
+    }
+  ]
+}

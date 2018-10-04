@@ -1,0 +1,47 @@
+{
+  "name": "CryptoMart",
+  "ens_address": "",
+  "website": "https://www.cryptomart.me",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7e667525521cf61352e2e01b50faaae7df39749a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUviqpoWyBj95PRj2M8h4muABWKV4V32fkE7E7QroFSYq",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7e667525521cf61352e2e01b50faaae7df39749a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7e667525521cf61352e2e01b50faaae7df39749a.png",
+    "ipfs_origin": "QmdCzNwaFaxkVNAN5oG7DXN5p75dBVf6meEYnFqGNyy1QJ"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CryptoMartCMC",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CryptoMart",
+      "address": "0x7e667525521cF61352e2E01b50FaaaE7Df39749a",
+      "erc20": {
+        "symbol": "CMC",
+        "decimals": 18,
+        "name": "CryptoMart"
+      }
+    }
+  ]
+}

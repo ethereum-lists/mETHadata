@@ -1,0 +1,42 @@
+{
+  "name": "StakeIt",
+  "ens_address": "",
+  "website": "https://www.stake-it.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/StakeIt_Token",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "StakeIt",
+      "address": "0xBec8f6D667594FB181c9d68e5c80C910888Be93D",
+      "erc20": {
+        "symbol": "STAKE",
+        "decimals": 8,
+        "name": "StakeIt"
+      }
+    }
+  ]
+}

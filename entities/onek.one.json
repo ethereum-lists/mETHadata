@@ -1,0 +1,47 @@
+{
+  "name": "One K Token",
+  "ens_address": "",
+  "website": "http://onek.one",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXvRdNshdiaLjNsro3dt6VqhGfPAjxbW6bN5NBzXxYZo2",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/904249799624482816/8JfIrK1R.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/904249799624482816/8JfIrK1R.jpg",
+    "ipfs_origin": "QmUMnLCWWtmnjowagmPBCoeeSYab4YHfABsk4ZF7DFTbfi"
+  },
+  "support": {
+    "email": "onektoken@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/oneK-1959151624359478",
+    "forum": "https://bitcointalk.org/index.php?topic=2172874.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18282905/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "http://twitter.com/OnekToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "One K Token",
+      "address": "0xB23be73573bC7E03DB6e5dfc62405368716d28a8",
+      "erc20": {
+        "symbol": "ONEK",
+        "decimals": 18,
+        "name": "One K Token"
+      }
+    }
+  ]
+}

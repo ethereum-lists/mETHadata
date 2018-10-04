@@ -1,0 +1,48 @@
+{
+  "name": "LEADCOIN",
+  "ens_address": "",
+  "website": "https://www.leadcoin.network/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5102791ca02fc3595398400bfe0e33d7b6c82267.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQXSUovLyxbSqnTAhbcXcbVywNS3DuYXvGFGznqtGcKUa",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/933718189174902789/IXXot0eN.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5102791ca02fc3595398400bfe0e33d7b6c82267.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5102791ca02fc3595398400bfe0e33d7b6c82267.png",
+    "ipfs_origin": "QmZHaaSZf4BR1iAFzzvptdqmFsj9xVna4uMPx8qCJym89P"
+  },
+  "support": {
+    "email": "info@leadcoin.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/11416555/",
+    "reddit": "https://www.reddit.com/r/leadcoin/",
+    "slack": "",
+    "telegram": "https://t.me/LeadCoinNetwork",
+    "twitter": "https://twitter.com/LeadCoinNetwork",
+    "youtube": "https://www.youtube.com/channel/UCWl9l8LRP816rEcAzY66kJg"
+  },
+  "eth": [
+    {
+      "name": "LEADCOIN",
+      "address": "0x5102791cA02FC3595398400BFE0e33d7B6C82267",
+      "erc20": {
+        "symbol": "LDC",
+        "decimals": 18,
+        "name": "LEADCOIN"
+      }
+    }
+  ]
+}

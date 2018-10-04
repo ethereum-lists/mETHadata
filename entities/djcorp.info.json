@@ -1,0 +1,47 @@
+{
+  "name": "DJ Corporation",
+  "ens_address": "",
+  "website": "https://djcorp.info/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSPuNEwgWMtxhr9NuFpTMoW6gqPhE9nA2CKu5zzyGHaVH",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/925647391436439553/Wtx5QlQY.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/925647391436439553/Wtx5QlQY.jpg",
+    "ipfs_origin": "QmPkMWYCa78uPQAF4p9WsvVzMT7QQ975LhweQwhzjdxE57"
+  },
+  "support": {
+    "email": "contact@djcorp.info",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/DJCorporation",
+    "twitter": "https://twitter.com/dj_corporation",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DJ Corporation",
+      "address": "0x86410dB4D61c40a8e1Df9f859069d5A15896195B",
+      "erc20": {
+        "symbol": "DJC",
+        "decimals": 18,
+        "name": "DJ Corporation"
+      }
+    }
+  ]
+}

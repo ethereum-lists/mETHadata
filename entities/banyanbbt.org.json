@@ -1,0 +1,48 @@
+{
+  "name": "BBNToken",
+  "ens_address": "",
+  "website": "https://www.banyanbbt.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x35a69642857083ba2f30bfab735dacc7f0bac969.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVgdoeVjAQHkD8wSUbCdfwbY342styT7Sd2LPgWvodvZF",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1014168307283517440/cPwxviIe.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x35a69642857083ba2f30bfab735dacc7f0bac969.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1014168307283517440/cPwxviIe.jpg",
+    "ipfs_origin": "QmW8EJ7PLvRtGW5gu4xevKLnRr7UfBVqU8HMnqniWUy8fz"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://blog.banyanbbt.org/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BanyanNetwork/",
+    "slack": "",
+    "telegram": "http://t.me/bbnglobalfans",
+    "twitter": "https://twitter.com/banyan_network",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BBNToken",
+      "address": "0x35a69642857083BA2F30bfaB735dacC7F0bac969",
+      "erc20": {
+        "symbol": "BBN",
+        "decimals": 18,
+        "name": "BBNToken"
+      }
+    }
+  ]
+}

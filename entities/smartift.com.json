@@ -1,0 +1,48 @@
+{
+  "name": "SIFT",
+  "ens_address": "",
+  "website": "https://smartift.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a187d5285d316bcbc9adafc08b51d70a0d8e000.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTdop411U4KCn5tzF8G3Zb1yjgTnc9uRBe5HMnB1TdmUc",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/887011140265537536/8cQ9b56x.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a187d5285d316bcbc9adafc08b51d70a0d8e000.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8a187d5285d316bcbc9adafc08b51d70a0d8e000.png",
+    "ipfs_origin": "QmWtPEjozwvd2sZ8LKP4W75s5f8jGnz766nLFZpw22YmaB"
+  },
+  "support": {
+    "email": "ico@smartift.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2037464.0",
+    "github": "https://github.com/smartift",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/smartift.com",
+    "twitter": "https://twitter.com/smartift",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SIFT",
+      "address": "0x8a187D5285d316bcBC9ADafc08b51d70a0d8e000",
+      "erc20": {
+        "symbol": "SIFT",
+        "decimals": 0,
+        "name": "SIFT"
+      }
+    }
+  ]
+}

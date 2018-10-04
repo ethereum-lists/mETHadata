@@ -1,0 +1,47 @@
+{
+  "name": "SeratioCoin",
+  "ens_address": "",
+  "website": "https://seratio-coins.world/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRrfPVcKoDEDgXeNvpD3pb6XV5ZFSoLUsw3gJ1bVW1nAD",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/660045835959476224/a0kbYWGi.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/660045835959476224/a0kbYWGi.png",
+    "ipfs_origin": "QmbTrsxxhEBa5KSJfjnVYSvmKVAFZFvPtAdvhUfy3EKXpb"
+  },
+  "support": {
+    "email": "blockchain.lab@cceg.org.uk",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TheCCEG/",
+    "forum": "",
+    "github": "https://github.com/seratio/whitepaper",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company-beta/3102994/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/ECIJnw1q-Ivywj2vYFe3tw",
+    "twitter": "https://twitter.com/theSERatio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SeratioCoin",
+      "address": "0xB561fEF0d624C0826ff869946f6076B7c4f2ba42",
+      "erc20": {
+        "symbol": "SER",
+        "decimals": 7,
+        "name": "SeratioCoin"
+      }
+    }
+  ]
+}

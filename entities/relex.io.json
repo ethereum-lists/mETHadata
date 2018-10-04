@@ -1,0 +1,48 @@
+{
+  "name": "Relex",
+  "ens_address": "",
+  "website": "http://www.relex.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4a42d2c580f83dce404acad18dab26db11a1750e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmafKrfZRZYMcMLBzgtjYCccndztk4PwNU27V9hcryDqFv",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1006004224428142593/YHXpJ-WP.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4a42d2c580f83dce404acad18dab26db11a1750e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4a42d2c580f83dce404acad18dab26db11a1750e.png",
+    "ipfs_origin": "QmSjPV9VnXwfvSAPcAhQscF4aQTYFSrHXJumQK46K4HgSH"
+  },
+  "support": {
+    "email": "hello@relex.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/RelexTalk",
+    "forum": "https://bitcointalk.org/index.php?topic=2075473.20",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/relextalk",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Relex",
+      "address": "0x4A42d2c580f83dcE404aCad18dab26Db11a1750E",
+      "erc20": {
+        "symbol": "RLX",
+        "decimals": 18,
+        "name": "Relex"
+      }
+    }
+  ]
+}

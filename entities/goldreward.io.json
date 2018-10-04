@@ -1,0 +1,47 @@
+{
+  "name": "Gold Reward Token",
+  "ens_address": "",
+  "website": "https://goldreward.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x219218f117dc9348b358b8471c55a073e5e0da0b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYHwfe7ob1KEFjm4Yj4jDXk6RY8oFQ89cymWa1P7MMNmC",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x219218f117dc9348b358b8471c55a073e5e0da0b.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x219218f117dc9348b358b8471c55a073e5e0da0b.png",
+    "ipfs_origin": "QmZ3bQNDC6PSLHxZVB1JVTSFxsEWDMWXmtCuu1NrFFnm4X"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Goldreward/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/AAAAAEH3O3kOexOTBEuZFg",
+    "twitter": "https://twitter.com/GoldReward_GRX",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Gold Reward Token",
+      "address": "0x219218f117DC9348b358b8471c55A073E5e0dA0b",
+      "erc20": {
+        "symbol": "GRX",
+        "decimals": 18,
+        "name": "Gold Reward Token"
+      }
+    }
+  ]
+}

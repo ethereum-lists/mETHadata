@@ -1,0 +1,48 @@
+{
+  "name": "onG",
+  "ens_address": "",
+  "website": "https://ongcoin.io",
+  "logo": {
+    "src": "https://etherscan.io/token/images/ongcoin_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmaSyccd2ZPzMwQfJAszWiRKPZ8GAPACwVQM4rVj8XLKVM",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/ongcoin_28.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd341d1680eeee3255b8c4c75bcce7eb57f144dae.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd341d1680eeee3255b8c4c75bcce7eb57f144dae.png",
+    "ipfs_origin": "QmUkoXgG43zuEx7AyD7jP4EYbQbhZuXAV4B3wdrNWqpFBJ"
+  },
+  "support": {
+    "email": "success@ong.social",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@onG.Social",
+    "chat": "",
+    "facebook": "https://www.facebook.com/OfficialonGsocial",
+    "forum": "https://ong.social",
+    "github": "https://github.com/onGsocial",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://ongsocial.slack.com",
+    "telegram": "https://t.me/onG_social",
+    "twitter": "https://twitter.com/Ong_Social",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "onG",
+      "address": "0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe",
+      "erc20": {
+        "symbol": "onG",
+        "decimals": 18,
+        "name": "onG"
+      }
+    }
+  ]
+}

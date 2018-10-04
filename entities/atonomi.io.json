@@ -1,0 +1,48 @@
+{
+  "name": "Atonomi",
+  "ens_address": "",
+  "website": "https://atonomi.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x97aeb5066e1a590e868b511457beb6fe99d329f5.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmc6aTpeRpWyewdH5jrYcuVN5xxL8N5z7xtCtqtdiYarBy",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/923977444071108608/c_yuivof.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x97aeb5066e1a590e868b511457beb6fe99d329f5.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x97aeb5066e1a590e868b511457beb6fe99d329f5.png",
+    "ipfs_origin": "QmY6aeUr4V4SuBSJA3VqN8baNmCfg6EMNgx993FVHi4Ee9"
+  },
+  "support": {
+    "email": "info@atonomi.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/atonomi/",
+    "forum": "",
+    "github": "https://github.com/atonomi",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/atonomi/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/atonomi_io",
+    "twitter": "https://twitter.com/atonomi",
+    "youtube": "https://www.youtube.com/c/Atonomi"
+  },
+  "eth": [
+    {
+      "name": "Atonomi",
+      "address": "0x97AEB5066E1A590e868b511457BEb6FE99d329F5",
+      "erc20": {
+        "symbol": "ATMI",
+        "decimals": 18,
+        "name": "Atonomi"
+      }
+    }
+  ]
+}

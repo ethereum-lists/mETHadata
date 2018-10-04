@@ -1,0 +1,49 @@
+{
+  "name": "Realisto",
+  "ens_address": "",
+  "website": "https://www.realisto.io",
+  "logo": {
+    "src": "https://realisto.io/files/images/rea-token-logo-128x136.png",
+    "width": "128",
+    "height": "136",
+    "ipfs_hash": "Qme5Y155X2snNV5ijhjReDokDGpoqr1ccznBYVZmWsSHjz",
+    "sources": {
+      "token-list": "https://realisto.io/files/images/rea-token-logo-128x136.png",
+      "twitter": "http://pbs.twimg.com/profile_images/922744203213443072/XKVtKRG-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x767ba2915ec344015a7938e3eedfec2785195d05.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x767ba2915ec344015a7938e3eedfec2785195d05.png",
+    "ipfs_origin": "QmP2HERAs4mkZhfDj4vCccCBSXhjp6dXJGTycVnFqYkokc"
+  },
+  "support": {
+    "email": "contact@realisto.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@realisto",
+    "chat": "",
+    "facebook": "https://www.facebook.com/REALISTOICO",
+    "forum": "https://bitcointalk.org/index.php?topic=2353634.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/realistochat",
+    "twitter": "https://twitter.com/REALISTO_TOKEN",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Realisto",
+      "address": "0x767bA2915EC344015a7938E3eEDfeC2785195D05",
+      "erc20": {
+        "symbol": "REA",
+        "decimals": 18,
+        "name": "Realisto"
+      }
+    }
+  ]
+}

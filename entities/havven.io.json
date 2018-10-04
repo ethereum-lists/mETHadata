@@ -1,0 +1,75 @@
+{
+  "name": "Havven",
+  "ens_address": "",
+  "website": "https://havven.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf244176246168f24e3187f7288edbca29267739b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdCUCk15NrDARbJiFRsgXS4MwEEBDbVv29E2JNLkzNFCZ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/898876211232886784/RSGRhf2Z.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf244176246168f24e3187f7288edbca29267739b.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf244176246168f24e3187f7288edbca29267739b.png",
+    "ipfs_origin": "QmYNpQPcEfRVAQ3b9ESMGCueaeCiGFe7gtXMu95AwcGMuG"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.havven.io/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/havven.io/",
+    "forum": "https://bitcointalk.org/index.php?topic=2702470",
+    "github": "https://github.com/havven/havven",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/havven/",
+    "reddit": "https://www.reddit.com/r/havven/",
+    "slack": "",
+    "telegram": "https://t.me/havven_official2",
+    "twitter": "https://twitter.com/havven_io",
+    "youtube": "https://www.youtube.com/channel/UCGrPolyOAj3cODJIN5ssVTw"
+  },
+  "eth": [
+    {
+      "name": "Havven",
+      "address": "0xF244176246168F24e3187f7288EdbCA29267739b",
+      "erc20": {
+        "symbol": "HAV",
+        "decimals": 18,
+        "name": "Havven"
+      }
+    },
+    {
+      "name": "Havven-Backed USD Nomins (nUSD)",
+      "address": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3",
+      "erc20": {
+        "symbol": "nUSD",
+        "decimals": 18,
+        "name": "Havven-Backed USD Nomins (nUSD)"
+      }
+    },
+    {
+      "name": "Ether-Backed USD Nomins (erc20)",
+      "address": "0x523630976eB6147621B5c31c781eBe2Ec2a806E0",
+      "erc20": {
+        "symbol": "eUSD",
+        "decimals": 18,
+        "name": "Ether-Backed USD Nomins (erc20)"
+      }
+    },
+    {
+      "name": "Havven",
+      "address": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F",
+      "erc20": {
+        "symbol": "HAV",
+        "decimals": 18,
+        "name": "Havven"
+      }
+    }
+  ]
+}

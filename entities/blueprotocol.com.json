@@ -1,0 +1,49 @@
+{
+  "name": "Ethereum Blue",
+  "ens_address": "",
+  "website": "https://blueprotocol.com/",
+  "logo": {
+    "src": "https://s2.coinmarketcap.com/static/img/coins/32x32/2076.png",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": "QmU19PWP7dLSRez7YrzdgqPpKMDnG33yxUxeQkQ3cAmTad",
+    "sources": {
+      "token-list": "https://s2.coinmarketcap.com/static/img/coins/32x32/2076.png",
+      "twitter": "http://pbs.twimg.com/profile_images/938138483998171136/H-cSwPnu.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x539efe69bcdd21a83efd9122571a64cc25e0282b.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/938138483998171136/H-cSwPnu.jpg",
+    "ipfs_origin": "QmaRzXtrkTbKLsD6tXRNprnyCXWfGv8HGVQhCdGnynUW9r"
+  },
+  "support": {
+    "email": "team@etherblue.org",
+    "url": "https://www.blueprotocol.com/contact/"
+  },
+  "social": {
+    "blog": "https://medium.com/@EthereumBlue",
+    "chat": "",
+    "facebook": "https://www.facebook.com/BlueProtocol/",
+    "forum": "",
+    "github": "https://github.com/BlueCrypto",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/blue_protocol/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/HBDo00IO49STMJuIwJi08g",
+    "twitter": "https://twitter.com/blue_protocol",
+    "youtube": "https://www.youtube.com/channel/UCNtv0tIgBYofh4LTWKKZj7A"
+  },
+  "eth": [
+    {
+      "name": "Ethereum Blue",
+      "address": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b",
+      "erc20": {
+        "symbol": "BLUE",
+        "decimals": 8,
+        "name": "Ethereum Blue"
+      }
+    }
+  ]
+}

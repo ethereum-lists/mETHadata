@@ -1,0 +1,57 @@
+{
+  "name": "Aigang",
+  "ens_address": "",
+  "website": "https://aigang.network/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1063ce524265d5a3a624f4914acd573dd89ce988.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVkuhiUU1J6J332yHiXybXd7BFFhkoN3LxrEfTdqKA5vP",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/880320020852744192/BofTrkGU.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1063ce524265d5a3a624f4914acd573dd89ce988.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1063ce524265d5a3a624f4914acd573dd89ce988.png",
+    "ipfs_origin": "QmWdfdiJojUPcncWKk2sjPNrHgcWgPhnoM51kYKYdtmEzA"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/aigang-network",
+    "chat": "",
+    "facebook": "https://www.facebook.com/aigangnetwork/",
+    "forum": "",
+    "github": "https://github.com/AigangNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/AigangNetwork/",
+    "slack": "https://slack.aigang.network",
+    "telegram": "https://t.me/aigangnetwork",
+    "twitter": "https://twitter.com/aigangnetwork",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Aigang",
+      "address": "0x1063ce524265d5a3A624f4914acd573dD89ce988",
+      "erc20": {
+        "symbol": "AIX",
+        "decimals": 18,
+        "name": "Aigang"
+      }
+    },
+    {
+      "name": "AIGang",
+      "address": "0x23aE3C5B39B12f0693e05435EeaA1e51d8c61530",
+      "erc20": {
+        "symbol": "APT",
+        "decimals": 18,
+        "name": "AIGang"
+      }
+    }
+  ]
+}

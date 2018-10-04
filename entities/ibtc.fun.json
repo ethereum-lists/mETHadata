@@ -1,0 +1,47 @@
+{
+  "name": "IBTC",
+  "ens_address": "",
+  "website": "http://ibtc.fun",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmawe5YrncwhJu6MDWB4S82CmBd2ndo48J5wCVgTwJDove",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/926828814390513664/ZTWQ9OqD.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/926828814390513664/ZTWQ9OqD.jpg",
+    "ipfs_origin": "QmQDKVQjhQH9eL57D2PKLyPUAjqRRM4XBUNwDwustVH5r5"
+  },
+  "support": {
+    "email": "info@ibtctoken.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FNH590OePKXIG4kci-Z--w",
+    "twitter": "https://twitter.com/ibtctoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "IBTC",
+      "address": "0x90c88CCd74e57e016acaE8aD1EAA12ECf4C06F33",
+      "erc20": {
+        "symbol": "IBTC",
+        "decimals": 18,
+        "name": "IBTC"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "BIONT Token",
+  "ens_address": "",
+  "website": "https://www.biotechintel.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "info@biotechintel.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BIONT Token",
+      "address": "0x5882D49d3511E09096CBbaB7E19fBFb82f65f28D",
+      "erc20": {
+        "symbol": "BIONT",
+        "decimals": 18,
+        "name": "BIONT Token"
+      }
+    }
+  ]
+}

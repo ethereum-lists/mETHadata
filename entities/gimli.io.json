@@ -1,0 +1,48 @@
+{
+  "name": "Gimli",
+  "ens_address": "",
+  "website": "https://gimli.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xae4f56f072c34c0a65b3ae3e4db797d831439d93.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZH9CtkL5J5M9rvxzZvqEpKzAXbQPte7gcErNsi4nnkck",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/954082351398572032/e5fktxtO.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xae4f56f072c34c0a65b3ae3e4db797d831439d93.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xae4f56f072c34c0a65b3ae3e4db797d831439d93.png",
+    "ipfs_origin": "QmQdekRW8QqBtuCBKmc41h9VXv7a9uV9xjpWqfoA1MaHzt"
+  },
+  "support": {
+    "email": "contact@gimli.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/gimli-project",
+    "chat": "",
+    "facebook": "https://www.facebook.com/thegimliproject",
+    "forum": "https://bitcointalk.org/index.php?topic=2014659.0",
+    "github": "https://github.com/thegimliproject/GimliToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/11193076/",
+    "reddit": "",
+    "slack": "https://slack.firstblood.io",
+    "telegram": "https://www.t.me/thegimliproject",
+    "twitter": "https://twitter.com/thegimliproject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Gimli",
+      "address": "0xaE4f56F072c34C0a65B3ae3E4DB797D831439D93",
+      "erc20": {
+        "symbol": "GIM",
+        "decimals": 8,
+        "name": "Gimli"
+      }
+    }
+  ]
+}

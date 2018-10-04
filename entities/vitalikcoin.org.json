@@ -1,0 +1,42 @@
+{
+  "name": "VitalikCoin",
+  "ens_address": "",
+  "website": "http://vitalikcoin.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "VitalikCoin",
+      "address": "0x8C01aDa8e708993A891D57D1b3169479a20aCB3A",
+      "erc20": {
+        "symbol": "VIT",
+        "decimals": 18,
+        "name": "VitalikCoin"
+      }
+    }
+  ]
+}

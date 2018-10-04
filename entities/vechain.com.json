@@ -1,0 +1,49 @@
+{
+  "name": "VeChain",
+  "ens_address": "",
+  "website": "https://www.vechain.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd850942ef8811f2a866692a623011bde52a462c1.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVUEw4M6wg2cLXgRpZJ15E3B8dvfjW3XSTL1EXjrRwfcm",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ven.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/918430104308432896/iB1IqXhK.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd850942ef8811f2a866692a623011bde52a462c1.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd850942ef8811f2a866692a623011bde52a462c1.png",
+    "ipfs_origin": "QmeBi3PLuJoUoU77XsVSnA1Ap8VPgAAsVGdAbLp2ahoXTM"
+  },
+  "support": {
+    "email": "support@vechain.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@vechainofficial",
+    "chat": "http://u.wechat.com/MH_e7eabTidsPXiG842RsHM",
+    "facebook": "https://www.facebook.com/vechainfoundation",
+    "forum": "https://bitcointalk.org/index.php?topic=2233779.0",
+    "github": "https://github.com/vechain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/10692399/",
+    "reddit": "https://www.reddit.com/r/Vechain/",
+    "slack": "https://vechainofficial.slack.com",
+    "telegram": "https://t.me/vechain_official_english",
+    "twitter": "https://twitter.com/vechainofficial",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "VeChain",
+      "address": "0xD850942eF8811f2A866692A623011bDE52a462C1",
+      "erc20": {
+        "symbol": "VEN",
+        "decimals": 18,
+        "name": "VeChain"
+      }
+    }
+  ]
+}

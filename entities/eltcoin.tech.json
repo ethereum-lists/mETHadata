@@ -1,0 +1,48 @@
+{
+  "name": "ELTCOIN",
+  "ens_address": "",
+  "website": "http://www.eltcoin.tech/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x44197a4c44d6a059297caf6be4f7e172bd56caaf.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNVZmqVPLT2GaSZLrdgcRvCqnd1sBdumEQNMyk9hdDBQD",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/992875790625837058/ImosKJam.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x44197a4c44d6a059297caf6be4f7e172bd56caaf.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x44197a4c44d6a059297caf6be4f7e172bd56caaf.png",
+    "ipfs_origin": "QmWeifVhvcJtWJ92LXLFWcnEXmRrt4Sj5q2t8fvMGDhLEs"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/officialeltcoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/officialELTCOIN",
+    "forum": "https://bitcointalk.org/index.php?topic=2425069",
+    "github": "https://github.com/eltcoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/eLTCoin",
+    "slack": "",
+    "telegram": "https://t.me/ELTCOIN",
+    "twitter": "https://twitter.com/officialELTCoin",
+    "youtube": "https://www.youtube.com/channel/UCCpJqoXegl501zfHevtTilQ"
+  },
+  "eth": [
+    {
+      "name": "ELTCOIN",
+      "address": "0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf",
+      "erc20": {
+        "symbol": "ELTCOIN",
+        "decimals": 8,
+        "name": "ELTCOIN"
+      }
+    }
+  ]
+}

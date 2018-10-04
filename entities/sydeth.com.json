@@ -1,0 +1,46 @@
+{
+  "name": "SET",
+  "ens_address": "",
+  "website": "http://sydeth.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe06eda7435ba749b047380ced49121dde93334ae.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPxwFQ3KuVQjVKyikCSiiHkvNNg3MThjBB5nwPE6dCBrQ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/882804809715392512/1RqKKydU.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe06eda7435ba749b047380ced49121dde93334ae.png"
+    },
+    "ipfs_origin": "QmUYJaFy4ByzvSJngLkc3Gb8ytQLUw6wh6rvuCRNoKBSsJ"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/SydEthereum/meetup-token#meetup-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://chat.sydeth.com",
+    "twitter": "https://twitter.com/sydethereum",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SET",
+      "address": "0xe06eda7435bA749b047380CEd49121ddE93334Ae",
+      "erc20": {
+        "symbol": "SET",
+        "decimals": 0,
+        "name": "SET"
+      }
+    }
+  ]
+}

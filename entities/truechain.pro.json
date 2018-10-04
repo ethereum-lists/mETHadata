@@ -1,0 +1,48 @@
+{
+  "name": "TRUE Token",
+  "ens_address": "",
+  "website": "https://www.truechain.pro/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa4d17ab1ee0efdd23edc2869e7ba96b89eecf9ab.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNPkZPbkjmkScGKiVrZJwDiWfi8wtxsUNPWG9dvzcgFUj",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/988733051696955392/TO1Jt4hm.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa4d17ab1ee0efdd23edc2869e7ba96b89eecf9ab.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa4d17ab1ee0efdd23edc2869e7ba96b89eecf9ab.png",
+    "ipfs_origin": "QmeTfen9hmncnUxG1w4WAmReycRt2ehsitNSqutZNvdAHW"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.truechain.pro/news",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/truechain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/truechain/",
+    "slack": "",
+    "telegram": "http://www.t.me/truechainglobal",
+    "twitter": "https://www.twitter.com/truechaingroup",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TRUE Token",
+      "address": "0xA4d17AB1eE0efDD23edc2869E7BA96B89eEcf9AB",
+      "erc20": {
+        "symbol": "TRUE",
+        "decimals": 18,
+        "name": "TRUE Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "BitClave",
+  "ens_address": "",
+  "website": "https://www.bitclave.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1234567461d3f8db7496581774bd869c83d51c93.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNbkUKWfP1d4mfVYc7AEtWhKohYESRqdt4rL3X5YaFu3H",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1009610911714168832/hscF2v7c.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1234567461d3f8db7496581774bd869c83d51c93.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1009610911714168832/hscF2v7c.jpg",
+    "ipfs_origin": "QmZcKchn64t6VmBdrF4TSGtS4ceBFLzomD163DudBxUeJp"
+  },
+  "support": {
+    "email": "help@bitclave.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@BitClave",
+    "chat": "",
+    "facebook": "https://facebook.com/bitclave",
+    "forum": "https://bitcointalk.org/index.php?topic=2005370",
+    "github": "https://github.com/bitclave/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BitClave/",
+    "slack": "https://slack.bitclave.com",
+    "telegram": "https://t.me/BitClaveCommunity",
+    "twitter": "https://twitter.com/BitClave",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BitClave",
+      "address": "0x1234567461d3f8Db7496581774Bd869C83D51c93",
+      "erc20": {
+        "symbol": "CAT",
+        "decimals": 18,
+        "name": "BitClave"
+      }
+    },
+    {
+      "name": "Consumer Activity Token",
+      "address": "0x111111f7e9B1Fe072ade438F77E1Ce861C7eE4E3",
+      "erc20": {
+        "symbol": "CAT",
+        "decimals": 18,
+        "name": "Consumer Activity Token"
+      }
+    },
+    {
+      "name": "CAT",
+      "address": "0x68e14bb5A45B9681327E16E528084B9d962C1a39",
+      "erc20": {
+        "symbol": "CATs (BitClave)_Old",
+        "decimals": 18,
+        "name": "CATs (BitClave)_Old"
+      },
+      "deprecation": {
+        "hello": "hello"
+      }
+    },
+    {
+      "name": "BCL",
+      "address": "0xbc1234552EBea32B5121190356bBa6D3Bb225bb5",
+      "erc20": {
+        "symbol": "BCL",
+        "decimals": 18,
+        "name": "BCL"
+      }
+    }
+  ]
+}

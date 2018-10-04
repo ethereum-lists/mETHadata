@@ -1,0 +1,42 @@
+{
+  "name": "eLiteCoin",
+  "ens_address": "",
+  "website": "http://elitecoin.tech",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eLiteCoin",
+      "address": "0x6f1A769952C60B2d03f46419Adeda91D87866dAb",
+      "erc20": {
+        "symbol": "ELTC",
+        "decimals": 18,
+        "name": "eLiteCoin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "WePower Token",
+  "ens_address": "",
+  "website": "https://wepower.network",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cf488387f035ff08c371515562cba712f9015d4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdeyHYnjKBctwKHyGDZnf5JUZZdyLhrvugx3xRYAfoRQK",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/wpr.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1009888576736071680/4FzVzDKi.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cf488387f035ff08c371515562cba712f9015d4.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4cf488387f035ff08c371515562cba712f9015d4.png",
+    "ipfs_origin": "QmXvGhRpagbdEENPbC6QZGPQEX5ADJXtkXR6YeViuXiefL"
+  },
+  "support": {
+    "email": "team@wepower.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/wepower",
+    "chat": "",
+    "facebook": "https://www.facebook.com/WePowerNetwork",
+    "forum": "",
+    "github": "https://github.com/WePowerNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/wepower-ltd/",
+    "reddit": "",
+    "slack": "https://wepower.network/slack",
+    "telegram": "https://t.me/WePowerNetwork",
+    "twitter": "https://twitter.com/WePowerN",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "WePower Token",
+      "address": "0x4CF488387F035FF08c371515562CBa712f9015d4",
+      "erc20": {
+        "symbol": "WPR",
+        "decimals": 18,
+        "name": "WePower Token"
+      }
+    },
+    {
+      "name": "WePower",
+      "address": "0x6a0A97E47d15aAd1D132a1Ac79a480E3F2079063",
+      "erc20": {
+        "symbol": "WCT",
+        "decimals": 18,
+        "name": "WePower"
+      }
+    }
+  ],
+  "description": ""
+}

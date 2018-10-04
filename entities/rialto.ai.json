@@ -1,0 +1,48 @@
+{
+  "name": "XRL",
+  "ens_address": "",
+  "website": "https://rialto.ai",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb24754be79281553dc1adc160ddf5cd9b74361a4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRZYBMXkLLXsLVqReeMhjfSmzbtmWA2ZNgrS9bQQyKkZg",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/913679088606482432/RJTVQ7NH.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb24754be79281553dc1adc160ddf5cd9b74361a4.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb24754be79281553dc1adc160ddf5cd9b74361a4.png",
+    "ipfs_origin": "QmVq1VUi6ivdpedPCtRRo8sc2gqaQvyxy1aayMqnNUHWSX"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@RialtoAI",
+    "chat": "",
+    "facebook": "https://www.facebook.com/RIALTOAI-1908809969366651/?pnref=lhc",
+    "forum": "https://bitcointalk.org/index.php?topic=2033346",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/rialto.ai/",
+    "reddit": "https://www.reddit.com/r/RialtoAI/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/AAAAAEJIJRvGtIsNu7zOvw",
+    "twitter": "https://twitter.com/RialtoAI",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "XRL",
+      "address": "0xB24754bE79281553dc1adC160ddF5Cd9b74361a4",
+      "erc20": {
+        "symbol": "XRL",
+        "decimals": 9,
+        "name": "XRL"
+      }
+    }
+  ]
+}

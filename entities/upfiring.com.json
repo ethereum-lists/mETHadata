@@ -1,0 +1,48 @@
+{
+  "name": "Upfiring",
+  "ens_address": "",
+  "website": "https://www.upfiring.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea097a2b1db00627b2fa17460ad260c016016977.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcWYgA6phhyvXxmcAASDkmhg51WhqodLD6gequwruzReR",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/999471671072313344/qiykGYZ1.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xea097a2b1db00627b2fa17460ad260c016016977.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/999471671072313344/qiykGYZ1.jpg",
+    "ipfs_origin": "QmUxDwhDgJBBm5Wco54tYJTnRYxMR7jBBUc8a1DH9VfvgM"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/upfiring",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Upfiring",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://www.twitter.com/upfiringHQ",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Upfiring",
+      "address": "0xEA097A2b1dB00627B2Fa17460Ad260c016016977",
+      "erc20": {
+        "symbol": "UFR",
+        "decimals": 18,
+        "name": "Upfiring"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "J8T Token",
+  "ens_address": "",
+  "website": "https://jet8.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQbfgq4rMzZ6zxrfKAmtvf2vYR7WwygHmJrpSJG2xjcma",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1022422865012871168/Y9ZZbKOD.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4.png",
+    "ipfs_origin": "QmSodEYrQxyAdMapvT2xQAVfyQCijoepCeY53iewwnSpmB"
+  },
+  "support": {
+    "email": "token@jet8.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/jet8-token",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2862213.0",
+    "github": "https://github.com/jet8",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/jet8/",
+    "reddit": "https://www.reddit.com/r/Jet8",
+    "slack": "",
+    "telegram": "https://t.me/Jet8_ecosystem",
+    "twitter": "https://twitter.com/jet8app",
+    "youtube": "http://bit.ly/JET8_videos"
+  },
+  "eth": [
+    {
+      "name": "J8T Token",
+      "address": "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4",
+      "erc20": {
+        "symbol": "J8T",
+        "decimals": 8,
+        "name": "J8T Token"
+      }
+    }
+  ]
+}

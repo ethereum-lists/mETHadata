@@ -1,0 +1,48 @@
+{
+  "name": "QunQunCommunities",
+  "ens_address": "",
+  "website": "https://qunqun.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x264dc2dedcdcbb897561a57cba5085ca416fb7b4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVkAFqzkfW85MtkEjKSsqsLfegp11CeQnUZTcksvTxwuq",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1024536296377671681/YDxGEO5S.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x264dc2dedcdcbb897561a57cba5085ca416fb7b4.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x264dc2dedcdcbb897561a57cba5085ca416fb7b4.png",
+    "ipfs_origin": "QmdqJmpCUTsAqmddjYCiSgeWd8VApsx5VvjsUNwrNe8KXS"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://twitter.com/qunqun_io",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/QunQun/",
+    "slack": "",
+    "telegram": "https://t.me/qunqun_io",
+    "twitter": "https://twitter.com/qunqun_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "QunQunCommunities",
+      "address": "0x264Dc2DedCdcbb897561A57CBa5085CA416fb7b4",
+      "erc20": {
+        "symbol": "QUN",
+        "decimals": 18,
+        "name": "QunQunCommunities"
+      }
+    }
+  ]
+}

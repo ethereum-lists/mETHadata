@@ -1,0 +1,48 @@
+{
+  "name": "TrakInvest Token",
+  "ens_address": "",
+  "website": "https://trakinvest.ai/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12759512d326303b45f1cec8f7b6fd96f387778e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmecmSNmB5dDdHDYMUuisMZ2JSo4sSWXzE47yqf5dFsxem",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/938287970792230912/cPFIQV-X.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x12759512d326303b45f1cec8f7b6fd96f387778e.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/938287970792230912/cPFIQV-X.jpg",
+    "ipfs_origin": "Qmbscr6NcgZkiiwBwhu6qtycG6N38cc3TuxrgP5svAmqYy"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Trakinvest/",
+    "forum": "",
+    "github": "https://github.com/ankit-trakinvest/trakinvest/tree/master/blockchain/tokens",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/TrakInvest/",
+    "slack": "",
+    "telegram": "https://t.me/trakinvest",
+    "twitter": "https://twitter.com/TrakInvest",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TrakInvest Token",
+      "address": "0x12759512D326303B45f1ceC8F7B6fd96F387778E",
+      "erc20": {
+        "symbol": "TRAK",
+        "decimals": 18,
+        "name": "TrakInvest Token"
+      }
+    }
+  ]
+}

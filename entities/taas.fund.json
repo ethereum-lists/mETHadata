@@ -1,0 +1,49 @@
+{
+  "name": "Token-as-a-Service",
+  "ens_address": "",
+  "website": "https://taas.fund",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXZCbdH4qF9pf7nsoZhVDrWifNQ6cMcyszhBQycZ2c6Bi",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/taas.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/940934375469977600/XKZH3dk-.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/940934375469977600/XKZH3dk-.jpg",
+    "ipfs_origin": "Qmc9mj25VckvTSRNpLAdKVnwWk9TQU5THJS1VLaY6svof1"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@Taas",
+    "chat": "",
+    "facebook": "https://www.facebook.com/taasfund/",
+    "forum": "",
+    "github": "https://github.com/TAAS-fund",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/17897835/",
+    "reddit": "https://www.reddit.com/r/taasfund/",
+    "slack": "https://taasfund.signup.team",
+    "telegram": "https://t.me/taasfund",
+    "twitter": "https://twitter.com/taasfund/",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Token-as-a-Service",
+      "address": "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C",
+      "erc20": {
+        "symbol": "TaaS",
+        "decimals": 6,
+        "name": "Token-as-a-Service"
+      }
+    }
+  ]
+}

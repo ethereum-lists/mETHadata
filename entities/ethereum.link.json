@@ -1,0 +1,49 @@
+{
+  "name": "Link Platform",
+  "ens_address": "",
+  "website": "https://ethereum.link",
+  "logo": {
+    "src": "https://etherscan.io/token/images/linkplatform28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmT5mnSbMhzzuwdUWiNCennieGHKK4she7dNg1YB1gUGbx",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/linkplatform28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1013080322731212802/HQ63eIhJ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe2e6d4be086c6938b53b22144855eef674281639.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1013080322731212802/HQ63eIhJ.jpg",
+    "ipfs_origin": "QmYg52ALgdKF8KtRFvTu2HgBbphH7ADWFBdbXJH2YinQuk"
+  },
+  "support": {
+    "email": "support@ethereum.link",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.medium.com/@ethlink",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ethereumlink",
+    "forum": "https://bitcointalk.org/index.php?topic=1864795.40",
+    "github": "https://github.com/ethlink",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Ethereum_Link/",
+    "slack": "https://ethereum.link/invite.php",
+    "telegram": "",
+    "twitter": "https://www.twitter.com/linkplatform",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Link Platform",
+      "address": "0xE2E6D4BE086c6938B53B22144855eef674281639",
+      "erc20": {
+        "symbol": "LINK Platform",
+        "decimals": 18,
+        "name": "Link Platform"
+      }
+    }
+  ]
+}

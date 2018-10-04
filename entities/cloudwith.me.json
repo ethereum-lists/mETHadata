@@ -1,0 +1,48 @@
+{
+  "name": "Cloud",
+  "ens_address": "",
+  "website": "https://cloudwith.me/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc3951d77737733174152532e8b0f27e2c4e9f0dc.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVuPwPYWEEEnV3jFQwrNeuU3snsff1Jj8NDLqqtQaB2PU",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/902181224432754689/U-B5gHwF.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc3951d77737733174152532e8b0f27e2c4e9f0dc.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/902181224432754689/U-B5gHwF.jpg",
+    "ipfs_origin": "QmbwvH8cwF2dudZg8h6ZDidv4WQVgEMKvrvUfUsgUeURNw"
+  },
+  "support": {
+    "email": "info@cloudwith.me",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cloudwithme/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/cloud-with-me?trk=mini-profile",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/Cloudwith_me",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Cloud",
+      "address": "0xC3951d77737733174152532e8B0f27e2c4E9F0dC",
+      "erc20": {
+        "symbol": "CLD",
+        "decimals": 6,
+        "name": "Cloud"
+      }
+    }
+  ]
+}

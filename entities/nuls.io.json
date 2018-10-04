@@ -1,0 +1,49 @@
+{
+  "name": "NULS",
+  "ens_address": "",
+  "website": "https://nuls.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNj2QPQTbHDW3vYxbHoDJATLu8Fagfg4ywMpV8SGSB433",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/nuls.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/943413622100836352/6I5Ptpa_.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c.png",
+    "ipfs_origin": "QmSmJp83xSTZwbUW66WbFkNyJJrAq7jMeipXWG9JbpeJ4R"
+  },
+  "support": {
+    "email": "hi@nuls.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://steemit.com/@nuls",
+    "chat": "",
+    "facebook": "https://www.facebook.com/nulscommunity",
+    "forum": "https://bitcointalk.org/index.php?topic=2253487.0",
+    "github": "https://github.com/nuls-io/nuls",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/nulsservice",
+    "slack": "",
+    "telegram": "https://t.me/Nulsio",
+    "twitter": "https://twitter.com/nulsservice",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NULS",
+      "address": "0xB91318F35Bdb262E9423Bc7c7c2A3A93DD93C92C",
+      "erc20": {
+        "symbol": "NULS",
+        "decimals": 18,
+        "name": "NULS"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "IIC",
+  "ens_address": "",
+  "website": "https://ibiscoin.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPyMPK4vfhxibKKRaQdjhHa5qxg1Bf1TxP86wg68XpmbA",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/932365601103908864/AR6QrM4D.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/932365601103908864/AR6QrM4D.jpg",
+    "ipfs_origin": "Qme2oWMUzU16GrUQDB76UrNNhsDwGEm7EcUuqAisThB291"
+  },
+  "support": {
+    "email": "support@ibiscoin.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/iiccoin",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/ibiscoin",
+    "slack": "",
+    "telegram": "https://t.me/ibiscoin",
+    "twitter": "https://twtter.com/ibiscoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "IIC",
+      "address": "0x16662F73dF3e79e54c6c5938b4313f92C524C120",
+      "erc20": {
+        "symbol": "IIC",
+        "decimals": 18,
+        "name": "IIC"
+      }
+    }
+  ]
+}

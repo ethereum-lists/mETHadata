@@ -1,0 +1,49 @@
+{
+  "name": "Nexium",
+  "ens_address": "",
+  "website": "https://beyond-the-void.net",
+  "logo": {
+    "src": "https://www.beyond-the-void.net/nxc.png",
+    "width": 300,
+    "height": 300,
+    "ipfs_hash": "QmUncA88sqaEDyh8gkDNzBgFVbyoyCvYAYR2NrBntoMRfM",
+    "sources": {
+      "token-list": "https://www.beyond-the-void.net/nxc.png",
+      "twitter": "http://pbs.twimg.com/profile_images/897817078543126529/Gt66ANuV.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x45e42d659d9f9466cd5df622506033145a9b89bc.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x45e42d659d9f9466cd5df622506033145a9b89bc.png",
+    "ipfs_origin": "QmQEF84P4KMeK3MmHFcUV4fTVQkacYWibJfPLwQxRzk7kY"
+  },
+  "support": {
+    "email": "contact@beyond-the-void.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.beyond-the-void.net/wiki/posts",
+    "chat": "https://discordapp.com/invite/C7TqmaQ",
+    "facebook": "https://www.facebook.com/beyondvoid",
+    "forum": "https://bitcointalk.org/index.php?topic=1630816.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BeyondTheVoidGame",
+    "slack": "http://beyond-the-void.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/BeyondVoidGame",
+    "youtube": "https://www.youtube.com/channel/UCD1IdjsnzXFdOarY20gMPQQ"
+  },
+  "eth": [
+    {
+      "name": "Nexium",
+      "address": "0x45e42D659D9f9466cD5DF622506033145a9b89Bc",
+      "erc20": {
+        "symbol": "NxC",
+        "decimals": 3,
+        "name": "Nexium"
+      }
+    }
+  ]
+}

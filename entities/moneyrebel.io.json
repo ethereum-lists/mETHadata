@@ -1,0 +1,48 @@
+{
+  "name": "MoneyRebel Token",
+  "ens_address": "",
+  "website": "https://moneyrebel.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x21f0f0fd3141ee9e11b3d7f13a1028cd515f459c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUwQfLTEjgMmmMAh9mhrmC9qhoTzLvKpE3a3AME5ZYQ3H",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/963319648514117633/JEqyjiAp.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x21f0f0fd3141ee9e11b3d7f13a1028cd515f459c.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/963319648514117633/JEqyjiAp.jpg",
+    "ipfs_origin": "QmXuovud2KBLyorFdsu65o2zYEsw2x6V8CFrPgmxYJqmsW"
+  },
+  "support": {
+    "email": "",
+    "url": "https://t.me/moneyrebel"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/moneyrebelteam",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MoneyRebel Token",
+      "address": "0x21f0F0fD3141Ee9E11B3d7f13a1028CD515f459c",
+      "erc20": {
+        "symbol": "MRP",
+        "decimals": 18,
+        "name": "MoneyRebel Token"
+      }
+    }
+  ]
+}

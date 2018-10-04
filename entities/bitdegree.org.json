@@ -1,0 +1,49 @@
+{
+  "name": "BitDegree Token",
+  "ens_address": "",
+  "website": "https://bitdegree.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/bitdegree/banners/master/logos/2515x3285_letter_black.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmVo54sTtvk8jNeb3x32RyVMaVUTJsSbz8Csqa4dRk7bhs",
+    "sources": {
+      "token-list": "https://raw.githubusercontent.com/bitdegree/banners/master/logos/2515x3285_letter_black.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1017382172821544960/K-DsAYEV.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1961b3331969ed52770751fc718ef530838b6dee.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1961b3331969ed52770751fc718ef530838b6dee.png",
+    "ipfs_origin": "QmUpYQ8UkyEtzeXH7VM4qAYxoBRCujUArtcaffN3aeYqwf"
+  },
+  "support": {
+    "email": "hello@bitdegree.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "blog.bitdegree.org",
+    "chat": "",
+    "facebook": "www.facebook.com/bitdegree.org",
+    "forum": "https://bitcointalk.org/index.php?topic=2214321.0",
+    "github": "https://github.com/bitdegree",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/bitdegree",
+    "linkedin": "https://www.linkedin.com/company/bitdegree",
+    "reddit": "reddit.com/r/bitdegree",
+    "slack": "",
+    "telegram": "t.me/bitdegree",
+    "twitter": "https://twitter.com/bitdegree_org",
+    "youtube": "https://www.youtube.com/channel/UCuiGDksOmsM8y-_txG3wPYg"
+  },
+  "eth": [
+    {
+      "name": "BitDegree Token",
+      "address": "0x1961B3331969eD52770751fC718ef530838b6dEE",
+      "erc20": {
+        "symbol": "BDG",
+        "decimals": 18,
+        "name": "BitDegree Token"
+      }
+    }
+  ]
+}

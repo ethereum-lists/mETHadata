@@ -1,0 +1,42 @@
+{
+  "name": "Delphi",
+  "ens_address": "",
+  "website": "https://delphi.markets/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Delphi",
+      "address": "0x02B9806a64cB05F02AA8dcc1C178b88159A61304",
+      "erc20": {
+        "symbol": "DEL",
+        "decimals": 18,
+        "name": "Delphi"
+      }
+    }
+  ]
+}

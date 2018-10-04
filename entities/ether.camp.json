@@ -1,0 +1,48 @@
+{
+  "name": "HKG",
+  "ens_address": "",
+  "website": "http://www.ether.camp",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x14f37b574242d366558db61f3335289a5035c506.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmbh48kHTpg5To5B6iSpTEP8wMkGsxgzHhnVKYgfesgSf3",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/762543781275115520/hUqb9I-q.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x14f37b574242d366558db61f3335289a5035c506.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/762543781275115520/hUqb9I-q.jpg",
+    "ipfs_origin": "Qmd4sDwBkoG6SJCVRaTo8w1uEaZduZLrk4NLjZGWxYNTjX"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://ether-camp-friends.slack.com",
+    "telegram": "",
+    "twitter": "https://twitter.com/CampEther",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "HKG",
+      "address": "0x14F37B574242D366558dB61f3335289a5035c506",
+      "erc20": {
+        "symbol": "HKG",
+        "decimals": 3,
+        "name": "HKG"
+      }
+    }
+  ]
+}

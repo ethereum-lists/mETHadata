@@ -1,0 +1,48 @@
+{
+  "name": "StoxToken",
+  "ens_address": "",
+  "website": "https://www.stox.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYxnoL1ic3nWw3rzpUf2oZAHTrdmVN5gnTxTXjLSzHq2b",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/885513913336344576/ZwL549dp.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png",
+    "ipfs_origin": "QmW2Nh9MizWNPEHCnb8f1YUGmtHefRmTpvRRH3odnWbjar"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.stox.com/?_ga=2.185788073.1887986102.1515741524-618482613.1515741524",
+    "chat": "",
+    "facebook": "https://www.facebook.com/STXCoin/",
+    "forum": "https://bitcointalk.org/index.php?topic=2035348.0",
+    "github": "https://github.com/stx-technologies/stox-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18162752/",
+    "reddit": "https://www.reddit.com/r/STOX",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/DByWw0Pnq9BAy4FqPv_Lyg",
+    "twitter": "https://twitter.com/stx_coin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "StoxToken",
+      "address": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
+      "erc20": {
+        "symbol": "STX",
+        "decimals": 18,
+        "name": "StoxToken"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Tokenbox",
+  "ens_address": "",
+  "website": "https://tokenbox.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZCDd33Q2tr1GHLoXbLQPUidfFhnA9uMJaCw39B66vetk",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/890853345841340419/PPXRkoAK.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/890853345841340419/PPXRkoAK.jpg",
+    "ipfs_origin": "QmdVQrzff93cUcXiEpe4LgAVXpGYAfKdReJ6jjZLAqBjPN"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/wulf.kaal",
+    "forum": "",
+    "github": "https://github.com/zeriontech/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/tokenbox/",
+    "slack": "",
+    "telegram": "https://t.me/Tokenbox",
+    "twitter": "https://twitter.com/tokenbox",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Tokenbox",
+      "address": "0x3A92bD396aEf82af98EbC0Aa9030D25a23B11C6b",
+      "erc20": {
+        "symbol": "TBX",
+        "decimals": 18,
+        "name": "Tokenbox"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "SocialCoin",
+  "ens_address": "",
+  "website": "https://ico.nexus.social",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPT4Tob9fN4T9ELosr8CrS1WcPhACLLVc85XYVsJoaixW",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8.png",
+    "ipfs_origin": "QmeDtWecwPxtwvDHcDNL4BQoah6PL3xK5yHd8JahbjaSk5"
+  },
+  "support": {
+    "email": "support@nexus.social",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@sociall.io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/nexussocialnetwork",
+    "forum": "https://bitcointalk.org/index.php?topic=2039735",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/nexus_social",
+    "slack": "http://slack.nexus.social",
+    "telegram": "https://t.me/nexus_social",
+    "twitter": "https://twitter.com/nexus_socials",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SocialCoin",
+      "address": "0xd7631787B4dCc87b1254cfd1e5cE48e96823dEe8",
+      "erc20": {
+        "symbol": "SCL",
+        "decimals": 8,
+        "name": "SocialCoin"
+      }
+    }
+  ]
+}

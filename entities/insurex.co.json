@@ -1,0 +1,48 @@
+{
+  "name": "InsureX",
+  "ens_address": "",
+  "website": "https://www.insurex.co",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfca47962d45adfdfd1ab2d972315db4ce7ccf094.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUVvymtY4uvnYqkC9VexHYPVXsWAys9fhHmY4tATzM1ke",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1009122185217179648/QT-kEMx6.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfca47962d45adfdfd1ab2d972315db4ce7ccf094.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1009122185217179648/QT-kEMx6.jpg",
+    "ipfs_origin": "QmT4XwVoajm29ynHgmQ49wHCDYjWYE189JbRUEabUYo3Pt"
+  },
+  "support": {
+    "email": "info@insurex.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@ixledger",
+    "chat": "",
+    "facebook": "https://www.facebook.com/iXledger/",
+    "forum": "https://bitcointalk.org/index.php?topic=1963974.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/iXledger/",
+    "slack": "",
+    "telegram": "https://t.me/iXledger",
+    "twitter": "https://twitter.com/iXledger",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "InsureX",
+      "address": "0xfcA47962D45ADFdfd1Ab2D972315dB4ce7CCf094",
+      "erc20": {
+        "symbol": "IXT",
+        "decimals": 8,
+        "name": "InsureX"
+      }
+    }
+  ]
+}

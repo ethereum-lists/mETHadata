@@ -1,0 +1,48 @@
+{
+  "name": "ZMINE",
+  "ens_address": "",
+  "website": "https://www.zmine.com",
+  "logo": {
+    "src": "https://zmine.com/img/logo_300x300.png",
+    "width": "300",
+    "height": "300",
+    "ipfs_hash": "QmXUcycqzf5vK2xC6jmDhLvq2ABJai4Jzdr94rY1EAUZxM",
+    "sources": {
+      "token-list": "https://zmine.com/img/logo_300x300.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x554ffc77f4251a9fb3c0e3590a6a205f8d4e067d.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x554ffc77f4251a9fb3c0e3590a6a205f8d4e067d.png",
+    "ipfs_origin": "QmNVieP9eeRXNkc9HH6LLYPtZDAUURxyJZY8PAAbGx9Yzb"
+  },
+  "support": {
+    "email": "support@zmine.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://zmine.com/blog/en/",
+    "chat": "https://t.me/zminegroupchat",
+    "facebook": "https://www.facebook.com/zmineofficial",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/zmineofficial",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ZMINE",
+      "address": "0x554FFc77F4251a9fB3c0E3590a6a205f8d4e067D",
+      "erc20": {
+        "symbol": "ZMN",
+        "decimals": 18,
+        "name": "ZMINE"
+      }
+    }
+  ]
+}

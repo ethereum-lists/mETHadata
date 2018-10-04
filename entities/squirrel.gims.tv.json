@@ -1,0 +1,42 @@
+{
+  "name": "SquirrelGims",
+  "ens_address": "",
+  "website": "https://squirrel.gims.tv/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SquirrelGims",
+      "address": "0xF99f901124CbbE180984A247BA94CfbA0C764b2e",
+      "erc20": {
+        "symbol": "SQRL",
+        "decimals": 6,
+        "name": "SquirrelGims"
+      }
+    }
+  ]
+}

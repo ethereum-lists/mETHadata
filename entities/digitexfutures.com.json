@@ -1,0 +1,50 @@
+{
+  "type": "ERC20",
+  "name": "DigitexFutures",
+  "ens_address": "",
+  "website": "https://digitexfutures.com/",
+  "logo": {
+    "src": "https://digitexfutures.com/img/DGTX.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": "QmeA2ZXiFUy3bqDKiyriRYkWad7Y2Deb1UL9Va9CP3gPJd",
+    "sources": {
+      "token-list": "https://digitexfutures.com/img/DGTX.png",
+      "twitter": "http://pbs.twimg.com/profile_images/997379779597922305/vTiphY-W.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1c83501478f1320977047008496dacbd60bb15ef.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/997379779597922305/vTiphY-W.jpg",
+    "ipfs_origin": "QmcHaso9RxfBioiPy8cBj7JHBP5WRzemxLoenJ34db81NN"
+  },
+  "support": {
+    "email": "support@digitexfutures.com",
+    "url": "https://digitexfutures.com/contact/"
+  },
+  "social": {
+    "blog": "https://blog.digitexfutures.com/",
+    "chat": "https://t.me/digitexfutureschat",
+    "facebook": "https://www.facebook.com/DigitexFutures",
+    "forum": "https://www.reddit.com/r/DigitexFutures/",
+    "github": "https://github.com/DigitexFutures",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/digitexfutures/",
+    "linkedin": "https://www.linkedin.com/company/digitex-futures-exchange/",
+    "reddit": "https://www.reddit.com/r/DigitexFutures",
+    "slack": "https://discordapp.com/invite/eZkxuZg",
+    "telegram": "https://t.me/digitexfutureschat",
+    "twitter": "https://twitter.com/digitexfutures",
+    "youtube": "https://www.youtube.com/channel/UCjY3JG9agHi2ePDTm6sJysw"
+  },
+  "eth": [
+    {
+      "name": "DigitexFutures",
+      "address": "0x1C83501478f1320977047008496DACBD60Bb15ef",
+      "erc20": {
+        "symbol": "DGTX",
+        "decimals": 18,
+        "name": "DigitexFutures"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Elcoin Token",
+  "ens_address": "",
+  "website": "https://elcoin.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/926917468035174400/C9berSzF.jpg"
+    }
+  },
+  "support": {
+    "email": "info@elcoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/elcoinio/",
+    "forum": "",
+    "github": "https://github.com/elcoinio",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/elcoin_io",
+    "slack": "",
+    "telegram": "https://t.me/elcoin_io",
+    "twitter": "https://twitter.com/ELCOIN_IO",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Elcoin Token",
+      "address": "0x18edc1b644839eed61C69E624e96Bbd469a2eF52",
+      "erc20": {
+        "symbol": "ELC",
+        "decimals": 18,
+        "name": "Elcoin Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Yee - A Blockchain-powered & Cloud-based Social Ecosystem",
+  "ens_address": "",
+  "website": "http://www.yeefoundation.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x922105fad8153f516bcfb829f56dc097a0e1d705.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUtyPSEedVYn1iqwenTo3kdPjE7VeDa99e3cTw3TrrZRi",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/955430353262424070/pbmSUPbg.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x922105fad8153f516bcfb829f56dc097a0e1d705.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/955430353262424070/pbmSUPbg.jpg",
+    "ipfs_origin": "QmbxHUgKdhwvQbcgVwgPwU8ZgkTgqYZq135XWnVn2cNRqv"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/YeeToken/",
+    "slack": "",
+    "telegram": "https://t.me/yeeofficialEn",
+    "twitter": "https://twitter.com/YeeToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Yee - A Blockchain-powered & Cloud-based Social Ecosystem",
+      "address": "0x922105fAd8153F516bCfB829f56DC097a0E1D705",
+      "erc20": {
+        "symbol": "YEE",
+        "decimals": 18,
+        "name": "Yee - A Blockchain-powered & Cloud-based Social Ecosystem"
+      }
+    }
+  ]
+}

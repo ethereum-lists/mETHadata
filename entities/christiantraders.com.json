@@ -1,0 +1,44 @@
+{
+  "name": "CT Global Token",
+  "ens_address": "christiantraders.eth",
+  "website": "https://christiantraders.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/921544172007440384/FbHOnCDJ.jpg"
+    }
+  },
+  "support": {
+    "email": "support@christiantraders.com",
+    "url": "https://christiantraders.com"
+  },
+  "social": {
+    "blog": "http://emini.cfrn.net",
+    "chat": "https://christiantraders.com",
+    "facebook": "facebook.com/cryptodailyinfo/",
+    "forum": "https://discordapp.com/channels/432450856319975424/432451525093359618",
+    "github": "github.com/CTGlobal/ChristianTraders",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/dewayne-reeves/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ChristianTraders",
+    "twitter": "https://twitter.com/cryptodailyinfo",
+    "youtube": "https://youtube.com/CFRN"
+  },
+  "eth": [
+    {
+      "name": "CT Global Token",
+      "address": "0xC87c5dD86A3d567fF28701886fB0745aaa898da4",
+      "erc20": {
+        "symbol": "CTG",
+        "decimals": 18,
+        "name": "CT Global Token"
+      }
+    }
+  ]
+}

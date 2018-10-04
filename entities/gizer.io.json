@@ -1,0 +1,49 @@
+{
+  "name": "Gizer",
+  "ens_address": "",
+  "website": "https://gizer.io",
+  "logo": {
+    "src": "https://etherscan.io/token/images/gizer2_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmZksZ7FjYJTNCFhbHm6Vie4y3i8WGcD6Y2jV9FsPke9sh",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/gizer2_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/920235057981337600/V2qOZd2b.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe638dc39b6adbee8526b5c22380b4b45daf46d8e.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe638dc39b6adbee8526b5c22380b4b45daf46d8e.png",
+    "ipfs_origin": "QmWacXS4iWxeQQjV5tBZ5shf9DfvPGQkkQt5YgN14Pd1rU"
+  },
+  "support": {
+    "email": "support@gizer.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@Gizer_Gaming/",
+    "chat": "https://discord.me/Gizer",
+    "facebook": "https://www.facebook.com/gazecoin",
+    "forum": "",
+    "github": "https://github.com/GizerInc/Gizer",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/gizer_gaming/",
+    "linkedin": "https://www.linkedin.com/company/gizer-inc.",
+    "reddit": "https://www.reddit.com/r/Gizer/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/Em71dQ4KZ8G-XxpArXNuHg",
+    "twitter": "https://twitter.com/GazeCoin",
+    "youtube": "https://www.youtube.com/channel/UCfWwp8uANCJTm1HAYd2iDQQ/videos"
+  },
+  "eth": [
+    {
+      "name": "Gizer",
+      "address": "0xE638dc39b6aDBEE8526b5C22380b4b45dAf46d8e",
+      "erc20": {
+        "symbol": "GZR",
+        "decimals": 6,
+        "name": "Gizer"
+      }
+    }
+  ]
+}

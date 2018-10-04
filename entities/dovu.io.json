@@ -1,0 +1,48 @@
+{
+  "name": "DOVU",
+  "ens_address": "",
+  "website": "https://dovu.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xac3211a5025414af2866ff09c23fc18bc97e79b1.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcBVYUeaws7TFbDzumjtDXzmbXXBTsZpXoCLjhcEYhdJ7",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/861888824787562500/VuiE2Fqy.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xac3211a5025414af2866ff09c23fc18bc97e79b1.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/861888824787562500/VuiE2Fqy.jpg",
+    "ipfs_origin": "QmXJKecyan8z9wSKhF5bk3tJ6xUUkbTD3pjn142fYMA86V"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.dovu.io/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/DOVUglobal/",
+    "forum": "",
+    "github": "https://github.com/TokenMarketNet/ico",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/DOVU/",
+    "slack": "",
+    "telegram": "https://t.me/dovuofficial",
+    "twitter": "https://twitter.com/dovuofficial",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DOVU",
+      "address": "0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
+      "erc20": {
+        "symbol": "DOV",
+        "decimals": 18,
+        "name": "DOVU"
+      }
+    }
+  ]
+}

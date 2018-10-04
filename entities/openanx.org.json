@@ -1,0 +1,49 @@
+{
+  "name": "OAX",
+  "ens_address": "",
+  "website": "https://www.openanx.org/en",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x701c244b988a513c945973defa05de933b23fe1d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUQJU8kuCcBMa7VhGgUPBapMKVF9HxPpV3oFGLHmiR3ym",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/oax.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/978878661104414724/E9Rz5P3o.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x701c244b988a513c945973defa05de933b23fe1d.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/oax.svg",
+    "ipfs_origin": "QmTFirDreEg4m8cfo1PkXnCC38A2FnLbnJ6ZZ4j97RdmEk"
+  },
+  "support": {
+    "email": "projectstallman@openanx.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@OAX_Foundation",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1943946.20",
+    "github": "https://github.com/openanx",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/OpenANX",
+    "slack": "https://openanx.slack.com",
+    "telegram": "https://t.me/openanxteam",
+    "twitter": "https://twitter.com/OAX_Foundation",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "OAX",
+      "address": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
+      "erc20": {
+        "symbol": "OAX",
+        "decimals": 18,
+        "name": "OAX"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Lympo tokens",
+  "ens_address": "",
+  "website": "https://lympo.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXNKMrTiSWhgGHk6qTLu8xSBXWarnygryik8eE1uNKQMF",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/941412321422962689/Tf7yq21C.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec.png",
+    "ipfs_origin": "Qme5XJhRYg47UaqA8esSJiANtqDksxFuSXoJg19rDY8zH5"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Lympo.io/",
+    "forum": "",
+    "github": "https://github.com/LympoICO",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/LYMPO/",
+    "slack": "",
+    "telegram": "https://t.me/lympo",
+    "twitter": "https://twitter.com/Lympo_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Lympo tokens",
+      "address": "0x57aD67aCf9bF015E4820Fbd66EA1A21BED8852eC",
+      "erc20": {
+        "symbol": "LYM",
+        "decimals": 18,
+        "name": "Lympo tokens"
+      }
+    }
+  ]
+}

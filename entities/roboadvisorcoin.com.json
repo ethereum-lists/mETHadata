@@ -1,0 +1,47 @@
+{
+  "name": "RoboAdvisorCoin",
+  "ens_address": "",
+  "website": "https://roboadvisorcoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTuHNgqoTcgPY6zdrBDHeqcNRh5ACSwBtJB59QMRdPtoB",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1002555577942335491/5wyz5GgX.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1002555577942335491/5wyz5GgX.jpg",
+    "ipfs_origin": "QmfXJhaWYH8EBysDjErfPLo6K1BF3CW7tWa7NNy9jJXkV7"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://roboadvisorcoin.com/diary/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company-beta/18296854/admin/updates/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/roboadvisorcoin",
+    "twitter": "https://twitter.com/roboadvisorcoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "RoboAdvisorCoin",
+      "address": "0x342Ba159F988F24f0b033F3cc5232377eE500543",
+      "erc20": {
+        "symbol": "RAC",
+        "decimals": 18,
+        "name": "RoboAdvisorCoin"
+      }
+    }
+  ]
+}

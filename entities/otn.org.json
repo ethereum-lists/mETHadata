@@ -1,0 +1,48 @@
+{
+  "name": "Open Trading Network",
+  "ens_address": "",
+  "website": "https://otn.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x881ef48211982d01e2cb7092c915e647cd40d85c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVswyi5n45EQsVqCeadixmPDcQ5mSYL6WWW8D6zHNQKMS",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/919901184734957568/_lCGRlix.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x881ef48211982d01e2cb7092c915e647cd40d85c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x881ef48211982d01e2cb7092c915e647cd40d85c.png",
+    "ipfs_origin": "QmWBzirZ21YQYqH528fWh9q3zneLDF8ttDYXHQZV73vzBL"
+  },
+  "support": {
+    "email": "support@otn.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/OpenTradingNetwork/",
+    "forum": "",
+    "github": "https://github.com/OpenTradingNetworkFoundation/otn-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Open_Trading_Network/",
+    "slack": "",
+    "telegram": "https://t.me/OTNgroup",
+    "twitter": "https://twitter.com/otncoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Open Trading Network",
+      "address": "0x881Ef48211982D01E2CB7092C915E647Cd40D85C",
+      "erc20": {
+        "symbol": "OTN",
+        "decimals": 18,
+        "name": "Open Trading Network"
+      }
+    }
+  ]
+}

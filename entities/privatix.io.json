@@ -1,0 +1,48 @@
+{
+  "name": "Privatix",
+  "ens_address": "",
+  "website": "https://privatix.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaPsaGDmoCieCyUUqMTzddBnaqmv3sXJ1F8Trn4ezk5Yf",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/997535106238574593/sF7Yx6Bx.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a.png",
+    "ipfs_origin": "QmfW7v3mYPZGahpTPQmx6bzqhRwU9GCCjBGaxkCKM6d6c7"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://facebook.com/privatix.ltd",
+    "forum": "",
+    "github": "https://github.com/Privatix",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/privatix",
+    "slack": "",
+    "telegram": "https://t.me/Privatix",
+    "twitter": "https://twitter.com/Privatix1",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Privatix",
+      "address": "0x3ADfc4999F77D04c8341BAC5F3A76f58DfF5B37A",
+      "erc20": {
+        "symbol": "PRIX",
+        "decimals": 8,
+        "name": "Privatix"
+      }
+    }
+  ]
+}

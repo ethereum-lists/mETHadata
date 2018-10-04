@@ -1,0 +1,49 @@
+{
+  "type": "ERC20",
+  "name": "ORCA Token",
+  "ens_address": "",
+  "website": "https://www.orcaalliance.eu",
+  "logo": {
+    "src": "https://drive.google.com/open?id=1lCrBZQ7CNkVcUwPPet4j4WU7p1TUrY_1",
+    "width": "120px",
+    "height": "120px",
+    "ipfs_hash": "QmTmGzNgZhoyNKShUgNFa25aMJEYXnZZDmN3pgSbf3q7FV",
+    "sources": {
+      "token-list": "https://drive.google.com/open?id=1lCrBZQ7CNkVcUwPPet4j4WU7p1TUrY_1",
+      "twitter": "http://pbs.twimg.com/profile_images/918030606163947520/kmSwRU6W.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/918030606163947520/kmSwRU6W.jpg",
+    "ipfs_origin": "QmQZmfRE5dQBUXwZAUWAokbujwjsckj4zg2aufftfiBoEG"
+  },
+  "support": {
+    "email": "hello@orcaalliance.eu",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@ORCA_Alliance",
+    "chat": "https://t.me/ORCAalliance",
+    "facebook": "https://www.facebook.com/ORCAAlliance/",
+    "forum": "",
+    "github": "https://github.com/orcaalliance",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/orca_foundation_io",
+    "reddit": "https://www.reddit.com/r/ORCA_Alliance/",
+    "slack": "",
+    "telegram": "https://t.me/ORCAalliance",
+    "twitter": "https://twitter.com/ORCA_Alliance",
+    "youtube": "https://www.youtube.com/channel/UCSGGZqtOFOD1dpj3rMJrCYw"
+  },
+  "eth": [
+    {
+      "name": "ORCA Token",
+      "address": "0x6F59e0461Ae5E2799F1fB3847f05a63B16d0DbF8",
+      "erc20": {
+        "symbol": "ORCA",
+        "decimals": 18,
+        "name": "ORCA Token"
+      }
+    }
+  ]
+}

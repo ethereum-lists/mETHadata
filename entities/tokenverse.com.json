@@ -1,0 +1,47 @@
+{
+  "name": "TokenVerse",
+  "ens_address": "",
+  "website": "http://www.tokenverse.com/services/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmP5ebASU5zhoYjbPhNc9BcazmvhzauRJQ8aEmGTLBmkme",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/902863402048962560/BF2LCEbQ.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/902863402048962560/BF2LCEbQ.jpg",
+    "ipfs_origin": "QmTG9eCPzYqhw3EpeujnFMPPn44fDnQiBctU274mkRuK3M"
+  },
+  "support": {
+    "email": "info@tokenverse.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "http://www.tokenverse.com/blog/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TokenVerse/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/24791411/",
+    "reddit": "https://www.reddit.com/r/TokenVerse/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/TokenVerse",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TokenVerse",
+      "address": "0xAa26B73BFdc80B5c7D2cFBFc30930038FB7FA657",
+      "erc20": {
+        "symbol": "TOV",
+        "decimals": 0,
+        "name": "TokenVerse"
+      }
+    }
+  ]
+}

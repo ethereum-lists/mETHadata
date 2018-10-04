@@ -1,0 +1,49 @@
+{
+  "name": "RChain",
+  "ens_address": "",
+  "website": "https://rchain.coop/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x168296bb09e24a88805cb9c33356536b980d3fc5.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWJ22xvaXvo17rC8QSYug7PiHr6cmRZXLYDALJtMXLjpL",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/rhoc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1037234377556680706/kDHoISsN.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x168296bb09e24a88805cb9c33356536b980d3fc5.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/rhoc.svg",
+    "ipfs_origin": "QmVikpBBhicEsjGcc7n6zcA6QaQ75VzqFzde6fBgRSe21i"
+  },
+  "support": {
+    "email": "info@rchain.coop",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/rchaincooperative/",
+    "forum": "https://discordapp.com/invite/fvY8qhx",
+    "github": "https://github.com/rchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/rchain-cooperative/",
+    "reddit": "https://www.reddit.com/r/RChain/",
+    "slack": "",
+    "telegram": "https://t.me/rchain_coop",
+    "twitter": "https://twitter.com/rchain_coop",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "RChain",
+      "address": "0x168296bb09e24A88805CB9c33356536B980D3fC5",
+      "erc20": {
+        "symbol": "RHOC",
+        "decimals": 8,
+        "name": "RChain"
+      }
+    }
+  ]
+}

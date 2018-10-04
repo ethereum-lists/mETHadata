@@ -1,0 +1,42 @@
+{
+  "name": "Just",
+  "ens_address": "",
+  "website": "https://justwallet.trade/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Just",
+      "address": "0x0B24fDf35876bbE2A1cC925321B8c301017474D4",
+      "erc20": {
+        "symbol": "JWT",
+        "decimals": 0,
+        "name": "Just"
+      }
+    }
+  ]
+}

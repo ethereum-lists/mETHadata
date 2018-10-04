@@ -1,0 +1,58 @@
+{
+  "name": "INS Ecosystem",
+  "ens_address": "instoken.eth",
+  "website": "https://ins.world",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b2e4a700dfbc560061e957edec8f6eeeb74a320.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSNeoHXGohF54DLYjZfqEQ4ZM4P3Zt8noaxGiv7bBZWCa",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ins.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/953637146048581632/J86-qWH3.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b2e4a700dfbc560061e957edec8f6eeeb74a320.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5b2e4a700dfbc560061e957edec8f6eeeb74a320.png",
+    "ipfs_origin": "Qmc8dginPaKjato1CzNQ1sRyyynFbmPbM9mxhu5H9Sssbq"
+  },
+  "support": {
+    "email": "info@ins.world",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.ins.world/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ins.ecosystem",
+    "forum": "https://bitcointalk.org/index.php?topic=2208591.0",
+    "github": "https://github.com/ins-ecosystem/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/INS_Ecosystem/",
+    "slack": "",
+    "telegram": "https://t.me/ins_ecosystem",
+    "twitter": "https://twitter.com/INS_Ecosystem",
+    "youtube": "https://www.youtube.com/channel/UCyAkkLSuxsuwBIRo6u1keHA/featured"
+  },
+  "eth": [
+    {
+      "name": "INS",
+      "address": "0x5B2e4a700dfBc560061e957edec8F6EeEb74a320",
+      "erc20": {
+        "symbol": "INS",
+        "decimals": 10,
+        "name": "INS"
+      }
+    },
+    {
+      "name": "INS Promo",
+      "address": "0x52903256dd18D85c2Dc4a6C999907c9793eA61E3",
+      "erc20": {
+        "symbol": "INSP",
+        "decimals": 0,
+        "name": "INS Promo"
+      }
+    }
+  ]
+}

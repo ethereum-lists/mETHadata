@@ -1,0 +1,48 @@
+{
+  "name": "Athenian Warrior Token",
+  "ens_address": "",
+  "website": "https://athenianwarriortoken.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17052d51e954592c1046320c2371abab6c73ef10.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQieHq6hSJxJ8xxNLYcKBcgrVzHHnQBpUWoETEa1twRWm",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/891410843920986113/4ZzHSSH8.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x17052d51e954592c1046320c2371abab6c73ef10.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/891410843920986113/4ZzHSSH8.jpg",
+    "ipfs_origin": "QmTdw642isSDP2npZApaCHEq6oW29hB5uaaN9EzaxDCcmb"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/ATHwarriortoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Athenian Warrior Token",
+      "address": "0x17052d51E954592C1046320c2371AbaB6C73Ef10",
+      "erc20": {
+        "symbol": "ATH",
+        "decimals": 18,
+        "name": "Athenian Warrior Token"
+      }
+    }
+  ]
+}

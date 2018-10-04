@@ -1,0 +1,49 @@
+{
+  "name": "Finally Usable Crypto Karma",
+  "ens_address": "",
+  "website": "https://fucktoken.com",
+  "logo": {
+    "src": "https://etherscan.io/token/images/fucktoken_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "Qmd8ia4Ea3y2CTDPV9mwPLUgWV246nXN4id2JPuQDbRo3Q",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/fucktoken_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/880209213661642752/btRc1qU9.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65be44c747988fbf606207698c944df4442efe19.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65be44c747988fbf606207698c944df4442efe19.png",
+    "ipfs_origin": "QmVvmWkf6cSaWFTRz2xKvU48xF44Yon4zEYqVm88DZ6GnG"
+  },
+  "support": {
+    "email": "contact@fucktoken.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1945661.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/FuckToken",
+    "slack": "https://fucktoken.slack.com/join/shared_invite/MjMyNDgzNzc4MDY1LTE1MDM5Nzg2MTctY2FlOWMzMGNiMw",
+    "telegram": "",
+    "twitter": "https://twitter.com/FuckToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Finally Usable Crypto Karma",
+      "address": "0x65Be44C747988fBF606207698c944Df4442efE19",
+      "erc20": {
+        "symbol": "FUCK",
+        "decimals": 4,
+        "name": "Finally Usable Crypto Karma"
+      }
+    }
+  ]
+}

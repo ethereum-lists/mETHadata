@@ -1,0 +1,48 @@
+{
+  "name": "Soviet Union Ruble",
+  "ens_address": "",
+  "website": "http://www.ruble.trade/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTJEWEvhktsJuEm3MCgXxVz45tAxugASEBKqt24ynC3SB",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/rub.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/916607378723885056/aEyttYnh.jpg"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/rub.svg",
+    "ipfs_origin": "QmYpBFTNzTmi587W1zzYwG5pFpJ3ruzj6w8iJFWcx7E7mA"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/BBODTradingPlatform",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18247922/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/BBODTrading",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Soviet Union Ruble",
+      "address": "0xD884F9881e0aeABad79BE8A69122Cf998d067FfF",
+      "erc20": {
+        "symbol": "RUB",
+        "decimals": 18,
+        "name": "Soviet Union Ruble"
+      }
+    }
+  ]
+}

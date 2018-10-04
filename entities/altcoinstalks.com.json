@@ -1,0 +1,47 @@
+{
+  "name": "ALTS Token",
+  "ens_address": "",
+  "website": "http://www.altcoinstalks.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSWN41ocyPb2dYSmhbSG78czFijybVMMdCy4JHnrgsUWq",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/921142807066304513/3iddINf7.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/921142807066304513/3iddINf7.jpg",
+    "ipfs_origin": "QmNiXzPtYbCVv1aNzSZq3RVv2cU5PR1jyBuku5YVGhK9mm"
+  },
+  "support": {
+    "email": "dev@altcoinstalks.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/AltcoinsTalks",
+    "forum": "http://www.altcoinstalks.com/index.php?topic=142.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/FVTLFELkfHI6_CKz7AbIpQ",
+    "twitter": "https://twitter.com/AltcoinsTalks",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ALTS Token",
+      "address": "0x638AC149eA8EF9a1286C41B977017AA7359E6Cfa",
+      "erc20": {
+        "symbol": "ALTS",
+        "decimals": 18,
+        "name": "ALTS Token"
+      }
+    }
+  ]
+}

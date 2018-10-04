@@ -1,0 +1,42 @@
+{
+  "name": "CARBON TOKEN CLASSIC",
+  "ens_address": "",
+  "website": "https://ctchub.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CARBON TOKEN CLASSIC",
+      "address": "0xF1d9139C6512452Db91F25635457B844d7e22B8b",
+      "erc20": {
+        "symbol": "CTC",
+        "decimals": 4,
+        "name": "CARBON TOKEN CLASSIC"
+      }
+    }
+  ]
+}

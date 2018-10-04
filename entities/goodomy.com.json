@@ -1,0 +1,48 @@
+{
+  "name": "Good Karma",
+  "ens_address": "",
+  "website": "http://goodomy.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xae616e72d3d89e847f74e8ace41ca68bbf56af79.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmensUye6dxeFR4rrSt7qzFvrRQ7bDGvXHdPAC5eUWnmD6",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/956562430942785536/VZ45Tob1.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xae616e72d3d89e847f74e8ace41ca68bbf56af79.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/956562430942785536/VZ45Tob1.jpg",
+    "ipfs_origin": "Qmdbhc3VEne2eAgC7LrUxHvBCQ87Cc84T4zNSTqbBZ3zme"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/goodomytoken/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Goodomy/",
+    "slack": "",
+    "telegram": "https://t.me/Goodomy_community",
+    "twitter": "https://twitter.com/goodomy_token",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Good Karma",
+      "address": "0xaE616e72D3d89e847f74E8ace41Ca68bbF56af79",
+      "erc20": {
+        "symbol": "GOOD",
+        "decimals": 6,
+        "name": "Good Karma"
+      }
+    }
+  ]
+}

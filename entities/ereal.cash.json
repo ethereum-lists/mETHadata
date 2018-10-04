@@ -1,0 +1,47 @@
+{
+  "name": "eREAL",
+  "ens_address": "",
+  "website": "https://ereal.cash/en/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZMjsKfiDJke8HFTiTSAwQZYfLdoS62Yi1UUGd29HtyYm",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/917857320851378177/5bNbxtt4.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/917857320851378177/5bNbxtt4.jpg",
+    "ipfs_origin": "QmfKHpfGmkt5ejRoPd72eKwmiLu1nV4GGHR8Wwbs88HGyF"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/groups/ereal/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GACY40JExuZ2WdgGTwD6YQ",
+    "twitter": "https://twitter.com/eREAL_coin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eREAL",
+      "address": "0x15f173b7aca7Cd4a01d6f8360e65fb4491d270C1",
+      "erc20": {
+        "symbol": "eREAL",
+        "decimals": 18,
+        "name": "eREAL"
+      }
+    }
+  ]
+}

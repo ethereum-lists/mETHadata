@@ -1,0 +1,48 @@
+{
+  "name": "Musiconomi",
+  "ens_address": "",
+  "website": "https://musiconomi.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x138a8752093f4f9a79aaedf48d4b9248fab93c9c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUePpSNAVkT6d3LZXzddLLZUympLqEKQx3CGLMiPB2Nzv",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/871528368184872961/1Q0uZg4m.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x138a8752093f4f9a79aaedf48d4b9248fab93c9c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x138a8752093f4f9a79aaedf48d4b9248fab93c9c.png",
+    "ipfs_origin": "QmSHRPopY9GvXAaTgvkW6Q6uXemJiU4bERR7qWZ6GHvbhu"
+  },
+  "support": {
+    "email": "musiconomi@musiconomi.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/musiconomi",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Musiconomi/",
+    "forum": "https://bitcointalk.org/index.php?topic=2012760.0",
+    "github": "https://github.com/musiconomi/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/22335901/",
+    "reddit": "https://www.reddit.com/r/Musiconomi/",
+    "slack": "https://musiconomi.com/slack",
+    "telegram": "",
+    "twitter": "https://twitter.com/musiconomi",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Musiconomi",
+      "address": "0x138A8752093F4f9a79AaeDF48d4B9248fab93c9C",
+      "erc20": {
+        "symbol": "MCI",
+        "decimals": 18,
+        "name": "Musiconomi"
+      }
+    }
+  ]
+}

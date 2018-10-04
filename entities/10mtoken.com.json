@@ -1,0 +1,54 @@
+{
+  "name": "10MT Investment token",
+  "ens_address": "",
+  "website": "https://www.10mtoken.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1006852247639207937/GWa3IIUU.jpg"
+    }
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tenmillions.token.5",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GoQE_0JH4-Ids_G4X6Japw",
+    "twitter": "https://twitter.com/10m_token",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "10MT Investment token",
+      "address": "0x9742fA8CB51d294C8267DDFEad8582E16f18e421",
+      "erc20": {
+        "symbol": "10MTI",
+        "decimals": 10,
+        "name": "10MT Investment token"
+      }
+    },
+    {
+      "name": "10M Token",
+      "address": "0xE701CD3329057AeA9D54300DdD05e41b8D74727A",
+      "erc20": {
+        "symbol": "10MT",
+        "decimals": 10,
+        "name": "10M Token"
+      }
+    }
+  ],
+  "description": "123"
+}

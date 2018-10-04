@@ -1,0 +1,48 @@
+{
+  "name": "JOYSO",
+  "ens_address": "joysoToken.eth",
+  "website": "https://joyso.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdde12a12a6f67156e0da672be05c374e1b0a3e57.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQc4ohd4rZya7pdMEJ4NZkBxnh76uQ7pHH4NzDrPEHqfw",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/950392259559677952/of0r1vB3.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdde12a12a6f67156e0da672be05c374e1b0a3e57.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdde12a12a6f67156e0da672be05c374e1b0a3e57.png",
+    "ipfs_origin": "QmbRpnrZipYN8vzdqX6kHsB2sB1xqATN5Av6EwVjm621Sk"
+  },
+  "support": {
+    "email": "support@joyso.io",
+    "url": "https://joyso.io/#faq"
+  },
+  "social": {
+    "blog": "https://medium.com/joyso",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Joyso.io",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/joyso/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joyso_io",
+    "twitter": "https://twitter.com/joyso_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "JOYSO",
+      "address": "0xDDe12a12A6f67156e0DA672be05c374e1B0a3e57",
+      "erc20": {
+        "symbol": "JOY",
+        "decimals": 6,
+        "name": "JOYSO"
+      }
+    }
+  ]
+}

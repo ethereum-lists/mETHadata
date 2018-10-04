@@ -1,0 +1,48 @@
+{
+  "name": "BHPCash",
+  "ens_address": "",
+  "website": "https://bhpcash.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xee74110fb5a1007b06282e0de5d73a61bf41d9cd.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qma3nkqibBCEqAWRtLNeQyZf9jNaEGHNo6NZtXS9oM3Yad",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/961908303461629953/p1LBZ9Iq.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xee74110fb5a1007b06282e0de5d73a61bf41d9cd.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xee74110fb5a1007b06282e0de5d73a61bf41d9cd.png",
+    "ipfs_origin": "QmWic3VRs1fqNYRfsRtoBRHnjwjyKr9n12DKNaULWBqch1"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/BHPFinancialGroupGlobal",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/bhpfinance",
+    "twitter": "https://twitter.com/BHPFinance",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BHPCash",
+      "address": "0xEE74110fB5A1007b06282e0DE5d73A61bf41d9Cd",
+      "erc20": {
+        "symbol": "BHPC",
+        "decimals": 18,
+        "name": "BHPCash"
+      }
+    }
+  ]
+}

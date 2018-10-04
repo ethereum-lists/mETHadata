@@ -1,0 +1,48 @@
+{
+  "name": "Network Token",
+  "ens_address": "",
+  "website": "http://networktoken.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2233799ee2683d75dfefacbcd2a26c78d34b470d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdLtGRVNmnXyQVjWAn2FrPByPQsnnZZAY4BNe1YR2xTDX",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1022155100901580800/VyiAX7WS.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2233799ee2683d75dfefacbcd2a26c78d34b470d.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2233799ee2683d75dfefacbcd2a26c78d34b470d.png",
+    "ipfs_origin": "QmPRzjXobvZ2vAaWpjiJDD1yswPGPgox1gvKNAVLvonBXu"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/networktoken/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ntwk/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/F6uTcRGNAFiiD3nXBCQYMQ",
+    "twitter": "https://twitter.com/networktoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Network Token",
+      "address": "0x2233799Ee2683d75dfefAcbCd2A26c78D34b470d",
+      "erc20": {
+        "symbol": "NTWK",
+        "decimals": 18,
+        "name": "Network Token"
+      }
+    }
+  ]
+}

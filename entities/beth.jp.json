@@ -1,0 +1,42 @@
+{
+  "name": "Beth",
+  "ens_address": "",
+  "website": "https://beth.jp/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Beth",
+      "address": "0xd5b9A2737C9B2Ff35EcB23B884EB039303BBBb61",
+      "erc20": {
+        "symbol": "BTH",
+        "decimals": 18,
+        "name": "Beth"
+      }
+    }
+  ]
+}

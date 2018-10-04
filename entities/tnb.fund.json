@@ -1,0 +1,49 @@
+{
+  "name": "Time New Bank",
+  "ens_address": "",
+  "website": "http://tnb.fund/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf7920b0768ecb20a123fac32311d07d193381d6f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRqf8sVdMW83M1mRhErhxMXN5Akqi6t3PPV9bRNsuf2DN",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/tnb.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/929652234358464512/iPIrKf9m.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf7920b0768ecb20a123fac32311d07d193381d6f.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/tnb.svg",
+    "ipfs_origin": "QmUi9PGRTvv5vUGXqTHByxjLXFsS3pKigqTpCVqbEuod13"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/fanxiong/crowdsale-contracts",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/tnbgroup",
+    "twitter": "https://twitter.com/TimeNewBank",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Time New Bank",
+      "address": "0xF7920B0768Ecb20A123fAc32311d07D193381d6f",
+      "erc20": {
+        "symbol": "TNB",
+        "decimals": 18,
+        "name": "Time New Bank"
+      }
+    }
+  ]
+}

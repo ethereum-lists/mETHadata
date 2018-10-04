@@ -1,0 +1,42 @@
+{
+  "name": "QRG",
+  "ens_address": "",
+  "website": "http://qrg-stamps.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "QRG",
+      "address": "0xFFAA5ffc455d9131f8A2713A741fD1960330508B",
+      "erc20": {
+        "symbol": "QRG",
+        "decimals": 18,
+        "name": "QRG"
+      }
+    }
+  ]
+}

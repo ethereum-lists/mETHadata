@@ -1,0 +1,42 @@
+{
+  "name": "FAM",
+  "ens_address": "",
+  "website": "http://www.battledrome.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "icosupport@battledrome.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@BattleDrome",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1979041.0",
+    "github": "https://github.com/BattleDrome",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "FAM",
+      "address": "0x190e569bE071F40c704e15825F285481CB74B6cC",
+      "erc20": {
+        "symbol": "FAM",
+        "decimals": 12,
+        "name": "FAM"
+      }
+    }
+  ]
+}

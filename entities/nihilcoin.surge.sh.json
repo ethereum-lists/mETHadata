@@ -1,0 +1,47 @@
+{
+  "name": "NihilCoin",
+  "ens_address": "",
+  "website": "http://nihilcoin.surge.sh/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZALHBUjAinH42DqXgNiFgMG5CPAbW9Qc1mGamkN3Ho8c",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/895908810560241664/zgFvmcCq.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/895908810560241664/zgFvmcCq.jpg",
+    "ipfs_origin": "QmYMH5Pci4QwGkJo2VFgFDCW7b61FiMtJ6XsS9SdFnUUtG"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ethtrader/comments/6sfg6b/erc20_nihilcoin_32bit_currency_for_the_lost/",
+    "slack": "https://nihilcoin.slack.com/join/shared_invite/MjMyMTE2OTIyOTk0LTE1MDM3MzE1NTItMmQzNzgxOWE4OQ",
+    "telegram": "",
+    "twitter": "https://twitter.com/NihilCoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NihilCoin",
+      "address": "0x202e295dF742BefA5E94e9123149360dB9d9F2DC",
+      "erc20": {
+        "symbol": "NIH",
+        "decimals": 8,
+        "name": "NihilCoin"
+      }
+    }
+  ]
+}

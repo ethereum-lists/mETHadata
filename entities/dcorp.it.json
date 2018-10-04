@@ -1,0 +1,65 @@
+{
+  "name": "Datacorp DAO",
+  "ens_address": "",
+  "website": "https://www.dcorp.it/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmfE4A491kg3MWw4NHokvjvrej1pv8VDYnVxucE2fgxwrK",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/863664231048241154/428iXy0w.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/863664231048241154/428iXy0w.jpg",
+    "ipfs_origin": "QmRQM8aoBfRBfXntTASLL3Fj66z95UnXTFfQDcuQhJxAca"
+  },
+  "support": {
+    "email": "info@dcorp.it",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@DCORP",
+    "chat": "",
+    "facebook": "https://www.facebook.com/DecentralizedCorporation",
+    "forum": "https://bitcointalk.org/index.php?topic=1928628.msg19144362#msg19144362",
+    "github": "https://github.com/frankbonnet/DCORP",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/18132525/",
+    "reddit": "https://www.reddit.com/r/dcorp/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/ErLl70MDUkz_ip7HsxXjGA",
+    "twitter": "https://twitter.com/DcorpVC",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DRP Security",
+      "address": "0x3E250A4f78410c29cfC39463a81f14a226690eB4",
+      "erc20": {
+        "symbol": "DRPS",
+        "decimals": 8,
+        "name": "DRP Security"
+      }
+    },
+    {
+      "name": "DCorp",
+      "address": "0x621d78f2EF2fd937BFca696CabaF9A779F59B3Ed",
+      "erc20": {
+        "symbol": "DRP",
+        "decimals": 2,
+        "name": "DCorp"
+      }
+    },
+    {
+      "name": "DRP Utility",
+      "address": "0xe30e02f049957e2A5907589e06Ba646fB2c321bA",
+      "erc20": {
+        "symbol": "DRPU",
+        "decimals": 8,
+        "name": "DRP Utility"
+      }
+    }
+  ]
+}

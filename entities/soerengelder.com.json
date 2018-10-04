@@ -1,0 +1,56 @@
+{
+  "name": "SoerenGelder",
+  "ens_address": "",
+  "website": "https://www.soerengelder.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYCvzwkL1RtuFSmGb5LZ5RE3vSDXS7n9Msgdk7e5dz9ct",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/914150868768845824/PSE__cnh.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/914150868768845824/PSE__cnh.jpg",
+    "ipfs_origin": "QmNiwgPHWG43KpzrNF9KoW6SQ8PHA4wbqQA4xU6nsNjPpy"
+  },
+  "support": {
+    "email": "supportgelder@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/gelder",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GELD",
+      "address": "0x24083Bb30072643C3bB90B44B7285860a755e687",
+      "erc20": {
+        "symbol": "GELD",
+        "decimals": 18,
+        "name": "GELD"
+      }
+    },
+    {
+      "name": "SGELDER",
+      "address": "0xa1ccc166faf0E998b3E33225A1A0301B1C86119D",
+      "erc20": {
+        "symbol": "SGEL",
+        "decimals": 18,
+        "name": "SGELDER"
+      }
+    }
+  ]
+}

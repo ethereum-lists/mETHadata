@@ -1,0 +1,49 @@
+{
+  "name": "Bitether",
+  "ens_address": "",
+  "website": "http://bitether.co",
+  "logo": {
+    "src": "https://www.bitether.co/wp-content/uploads/thegem-logos/logo_865d0b770c80162beeec3624ca062e6d_1x.png",
+    "width": 164,
+    "height": 63,
+    "ipfs_hash": "QmUwfdH8WCxHmxmMjSnyaiEsesVQZ8NXZk3H3CpUgodVbw",
+    "sources": {
+      "token-list": "https://www.bitether.co/wp-content/uploads/thegem-logos/logo_865d0b770c80162beeec3624ca062e6d_1x.png",
+      "twitter": "http://pbs.twimg.com/profile_images/940601683683479552/-74RbiXw.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x080aa07e2c7185150d7e4da98838a8d2feac3dfc.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/940601683683479552/-74RbiXw.jpg",
+    "ipfs_origin": "Qmd9RxNbY5Tw4q3BQ42614Qr17iKYGUkdehJDRY4YwX5vp"
+  },
+  "support": {
+    "email": "support@bitether.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://t.me/BitEthercoin",
+    "forum": "",
+    "github": "https://github.com/Andyss4545/BitEther",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BitEthercoin",
+    "twitter": "https://twitter.com/bitEther_coin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bitether",
+      "address": "0x080aa07E2C7185150d7e4DA98838A8d2feac3dfC",
+      "erc20": {
+        "symbol": "BTT",
+        "decimals": 0,
+        "name": "Bitether"
+      }
+    }
+  ]
+}

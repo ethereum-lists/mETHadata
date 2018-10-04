@@ -1,0 +1,48 @@
+{
+  "name": "MTX",
+  "ens_address": "",
+  "website": "https://www.matryx.ai",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0af44e2784637218dd1d32a322d44e603a8f0c6a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTVsxoRxebfopyKtpmScLYu1NigNJ6eBWosDCd6QRsrcf",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/902373811856793601/pYa6Ycwu.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0af44e2784637218dd1d32a322d44e603a8f0c6a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0af44e2784637218dd1d32a322d44e603a8f0c6a.png",
+    "ipfs_origin": "QmT7tm21N4FQVRVevTPvhp6E2BHVwJ3VXNffvgDuTCsGHM"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.matryx.ai/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/matryxai",
+    "forum": "https://bitcointalk.org/index.php?topic=2141614.0",
+    "github": "https://github.com/matryx",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/matryx/",
+    "slack": "",
+    "telegram": "https://t.me/matryxai",
+    "twitter": "https://twitter.com/matryx_ai",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MTX",
+      "address": "0x0AF44e2784637218dD1D32A322D44e603A8f0c6A",
+      "erc20": {
+        "symbol": "MTX",
+        "decimals": 18,
+        "name": "MTX"
+      }
+    }
+  ]
+}

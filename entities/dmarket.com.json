@@ -1,0 +1,47 @@
+{
+  "name": "DMarket Token",
+  "ens_address": "",
+  "website": "https://dmarket.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQsrkhKs3kN4Ag1STyLeyW3qYgF8EJj9DzAHX7GuNRgXY",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1.png",
+    "ipfs_origin": "QmbG5MaBYkCpGfR6c6BujRL8f57dWdzpToftpca1m9x8Y3"
+  },
+  "support": {
+    "email": "support@dmarket.io",
+    "url": "https://dmarket.io"
+  },
+  "social": {
+    "blog": "https://dmarket.io/info/en/updates",
+    "chat": "",
+    "facebook": "https://www.facebook.com/dmarketcommunity",
+    "forum": "https://bitcointalk.org/index.php?topic=2041720.new#new",
+    "github": "https://github.com/suntechsoft/dmarket-smartcontract",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/dmarket.io",
+    "linkedin": "https://www.linkedin.com/company/18149400",
+    "reddit": "https://www.reddit.com/r/D_Market",
+    "slack": "https://dmarket.io/slack",
+    "telegram": "https://t.me/joinchat/CV8tCULRq_vJ2Xzu9Iopqg",
+    "twitter": "https://twitter.com/dmarket_io",
+    "youtube": "https://www.youtube.com/watch?v=h5fI1A2gB-E"
+  },
+  "eth": [
+    {
+      "name": "DMarket Token",
+      "address": "0x2ccbFF3A042c68716Ed2a2Cb0c544A9f1d1935E1",
+      "erc20": {
+        "symbol": "DMT",
+        "decimals": 8,
+        "name": "DMarket Token"
+      }
+    }
+  ]
+}

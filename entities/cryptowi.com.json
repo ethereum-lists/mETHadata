@@ -1,0 +1,47 @@
+{
+  "name": "Wi Coin",
+  "ens_address": "",
+  "website": "https://www.cryptowi.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e4abe6419650ca839ce5bb7db422b881a6064bb.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeNaKKhBrKQkLxNnDXw7UtBPzcQ4NrS7PjNvSJkZtDcw6",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e4abe6419650ca839ce5bb7db422b881a6064bb.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5e4abe6419650ca839ce5bb7db422b881a6064bb.png",
+    "ipfs_origin": "QmRWWYRkmJbtgkHnYnqrqWfKcDfREc9Cg7oRDLmTrpdbua"
+  },
+  "support": {
+    "email": "admin@cryptowi.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/WiC-1411131028954062",
+    "forum": "https://bitcointalk.org/index.php?topic=2043933",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://join.slack.com/t/wictokensale/shared_invite/MjE2NzA4ODI0NDgyLTE1MDA4OTM3NzUtODEzZGY0YjFhYw",
+    "telegram": "https://t.me/joinchat/FLaoRUChXsc2PD_QCBziZQ",
+    "twitter": "https://twitter.com/WiC_Crypto",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Wi Coin",
+      "address": "0x5e4ABE6419650CA839Ce5BB7Db422b881a6064bB",
+      "erc20": {
+        "symbol": "WiC",
+        "decimals": 18,
+        "name": "Wi Coin"
+      }
+    }
+  ]
+}

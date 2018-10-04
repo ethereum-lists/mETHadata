@@ -1,0 +1,47 @@
+{
+  "name": "TrustedHealth",
+  "ens_address": "",
+  "website": "https://trustedhealth.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaB2DgJ6ZyAixzxyNjetZxF2u5uFbkEJgFbP6bQMLwMtn",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/917268234621026304/slYDbPdh.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/917268234621026304/slYDbPdh.jpg",
+    "ipfs_origin": "QmaQ35R9wNVnx2T8ksYLMNejADwWA361f1GseDxpRHGo4Q"
+  },
+  "support": {
+    "email": "info@trustedhealth.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/trustedhealth-io",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/trustedhealth-io/",
+    "reddit": "https://www.reddit.com/r/TrustedHealth/",
+    "slack": "",
+    "telegram": "https://t.me/TrustedHealth_io",
+    "twitter": "https://twitter.com/_trustedhealth",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TrustedHealth",
+      "address": "0x2a1dbabe65c595B0022e75208C34014139d5d357",
+      "erc20": {
+        "symbol": "TDH",
+        "decimals": 18,
+        "name": "TrustedHealth"
+      }
+    }
+  ]
+}

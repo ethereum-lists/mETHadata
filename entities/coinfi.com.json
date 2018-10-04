@@ -1,0 +1,49 @@
+{
+  "name": "CoinFi Token",
+  "ens_address": "",
+  "website": "https://www.coinfi.com",
+  "logo": {
+    "src": "https://blog.coinfi.com/wp-content/uploads/2018/01/coinfi-token-logo_28x28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmT8SdTKHnzwCr9uHrncjSQN2eFsWV4CSMg8H7k2H1Li5v",
+    "sources": {
+      "token-list": "https://blog.coinfi.com/wp-content/uploads/2018/01/coinfi-token-logo_28x28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/930269309883969537/fh2_q976.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3136ef851592acf49ca4c825131e364170fa32b3.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3136ef851592acf49ca4c825131e364170fa32b3.png",
+    "ipfs_origin": "QmY2mbZmvhfxwwdZrxpZ76LCq19Fen9CT41meP3TboXR5Q"
+  },
+  "support": {
+    "email": "contact@coinfi.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.coinfi.com",
+    "chat": "",
+    "facebook": "https://www.facebook.com/coinfiproject",
+    "forum": "https://bitcointalk.org/index.php?topic=2571554",
+    "github": "https://github.com/coinfi",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/u/coinfi",
+    "slack": "",
+    "telegram": "https://t.me/coinfi",
+    "twitter": "https://twitter.com/coin_fi",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CoinFi Token",
+      "address": "0x3136eF851592aCf49CA4C825131E364170FA32b3",
+      "erc20": {
+        "symbol": "COFI",
+        "decimals": 18,
+        "name": "CoinFi Token"
+      }
+    }
+  ]
+}

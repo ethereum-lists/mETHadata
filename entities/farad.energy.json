@@ -1,0 +1,48 @@
+{
+  "name": "FARAD Cryptoken",
+  "ens_address": "",
+  "website": "https://farad.energy",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0abefb7611cb3a01ea3fad85f33c3c934f8e2cf4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmckzCsDdkkJ7KCE1rxJUDRnbif4pshN7aSSWn4Li4c5RU",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/885394148328562688/rZbWqWjX.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0abefb7611cb3a01ea3fad85f33c3c934f8e2cf4.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0abefb7611cb3a01ea3fad85f33c3c934f8e2cf4.png",
+    "ipfs_origin": "QmZUoVS8Kz24Jxpp9zjnKkcv5S5dUpspM22YMkM6bhbe1a"
+  },
+  "support": {
+    "email": "info@virtue.finance",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/faradcryptoken",
+    "forum": "https://bitcointalk.org/index.php?topic=2075985",
+    "github": "https://github.com/VirtueFintech/FaradCryptoken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://faradcryptoken.slack.com",
+    "telegram": "https://t.me/joinchat/E5ORhEN6T6yqaAk8aKJkRQ",
+    "twitter": "https://twitter.com/FARADCryptoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "FARAD Cryptoken",
+      "address": "0x0ABeFb7611Cb3A01EA3FaD85f33C3C934F8e2cF4",
+      "erc20": {
+        "symbol": "FRD",
+        "decimals": 18,
+        "name": "FARAD Cryptoken"
+      }
+    }
+  ]
+}

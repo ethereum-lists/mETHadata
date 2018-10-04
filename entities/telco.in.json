@@ -1,0 +1,50 @@
+{
+  "name": "Telcoin",
+  "ens_address": "",
+  "website": "https://www.telco.in",
+  "logo": {
+    "src": "https://www.telco.in/logo.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPG2uh5Low9ApFUQpaRo5hy4rDa8PxJWG3CeTf7k5hhR4",
+    "sources": {
+      "token-list": "https://www.telco.in/logo.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/tel.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/933388441475194881/57fOk40N.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85e076361cc813a908ff672f9bad1541474402b2.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x85e076361cc813a908ff672f9bad1541474402b2.png",
+    "ipfs_origin": "QmbTYUYHAsR5DeRPrUzV3ss63sfmMstvFdHZsUEW7QHiVp"
+  },
+  "support": {
+    "email": "tokensupport@telco.in",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@telcoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/telcoin/",
+    "forum": "https://bitcointalk.org/index.php?topic=2387659.0",
+    "github": "https://github.com/telcoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Telcoin",
+    "slack": "",
+    "telegram": "https://t.me/TelcoinCommunity",
+    "twitter": "https://twitter.com/telcoin_team",
+    "youtube": "https://www.youtube.com/channel/UCBEKBh64cZy7U3O7VtKsLOg"
+  },
+  "eth": [
+    {
+      "name": "Telcoin",
+      "address": "0x85e076361cc813A908Ff672F9BAd1541474402b2",
+      "erc20": {
+        "symbol": "TEL",
+        "decimals": 2,
+        "name": "Telcoin"
+      }
+    }
+  ]
+}

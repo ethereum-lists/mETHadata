@@ -1,0 +1,49 @@
+{
+  "name": "Aeron Token",
+  "ens_address": "",
+  "website": "https://aeron.aero",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba5f11b16b155792cf3b2e6880e8706859a8aeb6.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmaFgdvZ3jR4PwbjtTkd24V5ASQejHjPE1i3fXYgnKW4dn",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/arn.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/906053780457828352/9g5e5Osy.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xba5f11b16b155792cf3b2e6880e8706859a8aeb6.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/arn.svg",
+    "ipfs_origin": "QmWNLaUHBpbU7UH6cEWDNMm6M3PpKs3RaN4N3x5xyP1UVd"
+  },
+  "support": {
+    "email": "info@aeron.aero",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@aeronaero",
+    "chat": "",
+    "facebook": "https://www.facebook.com/aeronpublic",
+    "forum": "https://bitcointalk.org/index.php?topic=2078239.0",
+    "github": "https://github.com/aeronaero/aeron",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/24983043/",
+    "reddit": "https://www.reddit.com/r/AeronAero/",
+    "slack": "",
+    "telegram": "https://t.me/aeronaero",
+    "twitter": "https://twitter.com/aeron_aero",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Aeron Token",
+      "address": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
+      "erc20": {
+        "symbol": "ARN",
+        "decimals": 8,
+        "name": "Aeron Token"
+      }
+    }
+  ]
+}

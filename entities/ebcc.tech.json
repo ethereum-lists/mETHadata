@@ -1,0 +1,47 @@
+{
+  "name": "eBitcoinCash",
+  "ens_address": "",
+  "website": "https://ebcc.tech",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmX3RDocBXJjo5H4ajcrxwekeFz27cUV8krK9rRy679D5N",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/927201429600833538/_4OU3jrc.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/927201429600833538/_4OU3jrc.jpg",
+    "ipfs_origin": "QmXKKmLvZMaZ59BypLevxkgAYaXVTeMGqCSYLaTZBShwvC"
+  },
+  "support": {
+    "email": "support@ebcc.tech",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/EBCC-726533964202222/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ebcctoken",
+    "twitter": "https://twitter.com/EBCC15",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eBitcoinCash",
+      "address": "0x76e82406a5040B605C6D30cAF4802e7EB3184Bbc",
+      "erc20": {
+        "symbol": "eBCC",
+        "decimals": 6,
+        "name": "eBitcoinCash"
+      }
+    }
+  ]
+}

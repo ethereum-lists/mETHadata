@@ -1,0 +1,47 @@
+{
+  "name": "DACPLAY Token",
+  "ens_address": "",
+  "website": "https://dacplay.org",
+  "logo": {
+    "src": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/434e45cc-cbe6-4df2-b4d7-156b7ef78a8f.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": "QmQkGKoVv6uuBJXGdUWKkXYNXeY9HTqw9TsziZnTcYqCQT",
+    "sources": {
+      "token-list": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/434e45cc-cbe6-4df2-b4d7-156b7ef78a8f.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/434e45cc-cbe6-4df2-b4d7-156b7ef78a8f.png",
+    "ipfs_origin": "QmacPUtRSX7q77kjakjesApJ5BV4bxFNv5aonRh2Pqe5AZ"
+  },
+  "support": {
+    "email": "info@dacplay.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://dacplay.org/posts",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/bitsuperlab",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://slack.dacplay.org",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DACPLAY Token",
+      "address": "0xe43ac1714F7394173b15E7CfF31A63d523Ce4fB9",
+      "erc20": {
+        "symbol": "PLS",
+        "decimals": 18,
+        "name": "DACPLAY Token"
+      }
+    }
+  ]
+}

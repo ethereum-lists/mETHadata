@@ -1,0 +1,48 @@
+{
+  "name": "Mothership",
+  "ens_address": "",
+  "website": "https://mothership.cx",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68aa3f232da9bdc2343465545794ef3eea5209bd.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPCunAYLP6682owRd2V8x2xNFhU8K8Bu4NutXwFrwnzG5",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1009790207707766784/JOCubLPb.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68aa3f232da9bdc2343465545794ef3eea5209bd.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x68aa3f232da9bdc2343465545794ef3eea5209bd.png",
+    "ipfs_origin": "QmZtvKDHQ92piScKDbGdHnj8NH87CecAWqbhBqm9zw4ysP"
+  },
+  "support": {
+    "email": "hello@mothership.cx",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.mothership.cx/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/mothershipcx/",
+    "forum": "https://bitcointalk.org/index.php?topic=2003693.0",
+    "github": "https://github.com/mothershipcx",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Mothershipexchange/",
+    "slack": "",
+    "telegram": "https://t.me/mothershipcx",
+    "twitter": "https://twitter.com/MothershipCX",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Mothership",
+      "address": "0x68AA3F232dA9bdC2343465545794ef3eEa5209BD",
+      "erc20": {
+        "symbol": "MSP",
+        "decimals": 18,
+        "name": "Mothership"
+      }
+    }
+  ]
+}

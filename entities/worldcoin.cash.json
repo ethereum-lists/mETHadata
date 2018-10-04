@@ -1,0 +1,48 @@
+{
+  "name": "WorldCoinNetwork",
+  "ens_address": "",
+  "website": "https://worldcoin.cash/",
+  "logo": {
+    "src": "https://i.imgur.com/I4Rzoad.png ",
+    "width": "800",
+    "height": "400",
+    "ipfs_hash": "QmYw2dvMY6Nyaz62ouU6Czqa84pcEED78RFfPAhLhREUsm",
+    "sources": {
+      "token-list": "https://i.imgur.com/I4Rzoad.png ",
+      "twitter": "http://pbs.twimg.com/profile_images/959973499463917568/-19_iNWY.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/959973499463917568/-19_iNWY.jpg",
+    "ipfs_origin": "QmbfAQgrZ5UWCsV3Uv5XECodgXmUGVmG42DzzEhEDDzy8B"
+  },
+  "support": {
+    "email": "info@worldcoin.cash",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://worldcoincash.wordpress.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/worldcoin.cash/",
+    "forum": "https://bitcointalk.org/index.php?topic=2877436.new#new",
+    "github": "https://github.com/WorldCoinNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/world-coin-network/",
+    "reddit": "https://www.reddit.com/user/WorIdcoincash",
+    "slack": "https://worldcoinnetwork.slack.com",
+    "telegram": "https://t.me/WorldCoincash",
+    "twitter": "https://twitter.com/WorldCoin_Cash",
+    "youtube": "https://youtu.be/FUqsAm36_hQ"
+  },
+  "eth": [
+    {
+      "name": "WorldCoinNetwork",
+      "address": "0x8F936fE0faF0604c9C0Ef2406bde0A65365515d6",
+      "erc20": {
+        "symbol": "WCN",
+        "decimals": 18,
+        "name": "WorldCoinNetwork"
+      }
+    }
+  ]
+}

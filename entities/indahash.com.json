@@ -1,0 +1,48 @@
+{
+  "name": "indaHash Coin",
+  "ens_address": "",
+  "website": "https://indahash.com/ico",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5136c98a80811c3f46bdda8b5c4555cfd9f812f0.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSZisp4vKeYQacQEvrCSn1Wc7LM3k6U3us8wX57oQsMYJ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/770188773841899520/CdONsJbf.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5136c98a80811c3f46bdda8b5c4555cfd9f812f0.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5136c98a80811c3f46bdda8b5c4555cfd9f812f0.png",
+    "ipfs_origin": "QmWg4MjV2gGcevsugPZEV7KAe2yRq6RBsYN62gfXKiTg1N"
+  },
+  "support": {
+    "email": "tokens@indahash.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/indahash/",
+    "forum": "",
+    "github": "https://github.com/indahash",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/indahash/",
+    "linkedin": "https://www.linkedin.com/company/indahash/",
+    "reddit": "https://www.reddit.com/r/indaHash/",
+    "slack": "",
+    "telegram": "https://t.me/indahash_news",
+    "twitter": "https://twitter.com/indaHashhttps://twitter.com/indaHash",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "indaHash Coin",
+      "address": "0x5136C98A80811C3f46bDda8B5c4555CFd9f812F0",
+      "erc20": {
+        "symbol": "IDH",
+        "decimals": 6,
+        "name": "indaHash Coin"
+      }
+    }
+  ]
+}

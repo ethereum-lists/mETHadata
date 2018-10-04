@@ -1,0 +1,47 @@
+{
+  "name": "Ethereum Centurion",
+  "ens_address": "",
+  "website": "https://ethereumcenturion.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmehaLmJvtAqBTXyohXypX62UCepAFQUt3EEbZxvyzeSce",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/925563128854827008/fPBA7WKm.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/925563128854827008/fPBA7WKm.jpg",
+    "ipfs_origin": "QmXLt612fSmY36GhgQoYsSQ58fKwctDMVpjGtzic3Q5YUV"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/Ethereum_Centurion",
+    "twitter": "https://twitter.com/EtherCenturion",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Ethereum Centurion",
+      "address": "0x44830e5FBE354Af3c1C8d405170c08d3BC8A2cD9",
+      "erc20": {
+        "symbol": "ETHC",
+        "decimals": 8,
+        "name": "Ethereum Centurion"
+      }
+    }
+  ]
+}

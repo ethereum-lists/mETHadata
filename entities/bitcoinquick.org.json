@@ -1,0 +1,47 @@
+{
+  "name": "Bitcoin Quick",
+  "ens_address": "",
+  "website": "https://bitcoinquick.org/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNMqZ2Sv7TBvSThtQJy5t6t5DLmjnQKRDf7jbSHix3V3G",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/942467465107324928/S4WYN4gU.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/942467465107324928/S4WYN4gU.jpg",
+    "ipfs_origin": "QmbAh855bb5YwMquUYpXtmxwC9eF6iK6svs8V7xMincZpu"
+  },
+  "support": {
+    "email": "support@bitcoinquick.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/BitcoinQuick/BitcoinQuickOfficial",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BitcoinQuick",
+    "twitter": "https://twitter.com/BitcoinQuick",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bitcoin Quick",
+      "address": "0xD7AA94f17d60bE06414973a45FfA77efd6443f0F",
+      "erc20": {
+        "symbol": "BTCQ",
+        "decimals": 8,
+        "name": "Bitcoin Quick"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "BTCMoon",
+  "ens_address": "",
+  "website": "https://btcmoon.info",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa9aad2dc3a8315caeee5f458b1d8edc31d8467bd.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmced74tXZ8NCRDzr6je6yXr9jhjSLNTfqH43Dt88mKonh",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/920679577537601536/MjkO8wcw.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa9aad2dc3a8315caeee5f458b1d8edc31d8467bd.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa9aad2dc3a8315caeee5f458b1d8edc31d8467bd.png",
+    "ipfs_origin": "QmS42f9rbChsvE3qntN53bE3RDL1LxQmndeCRBVHyQR7jN"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/BTCmoonproject",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/BTCMoonProject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BTCMoon",
+      "address": "0xA9Aad2dC3a8315caeee5F458B1d8EDc31D8467BD",
+      "erc20": {
+        "symbol": "BTCM",
+        "decimals": 18,
+        "name": "BTCMoon"
+      }
+    }
+  ]
+}

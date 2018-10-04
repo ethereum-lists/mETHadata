@@ -1,0 +1,47 @@
+{
+  "name": "Bitlle Token",
+  "ens_address": "",
+  "website": "https://bitlle.com",
+  "logo": {
+    "src": "https://bitlle.com/img/btl.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmRncRUAGxYjmXYgPijbxdLs9Nwpk83szbSqGKhroUWwxD",
+    "sources": {
+      "token-list": "https://bitlle.com/img/btl.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://bitlle.com/img/btl.png",
+    "ipfs_origin": "QmRBEE4djZ9JAQo8jXCXNADHv3LXrk6EPZjG4Quvn5a7sG"
+  },
+  "support": {
+    "email": "info@bitlle.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/bitlle",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bitlle Token",
+      "address": "0x92685E93956537c25Bb75D5d47fca4266dd628B8",
+      "erc20": {
+        "symbol": "BTL (Bitlle)",
+        "decimals": 4,
+        "name": "Bitlle Token"
+      }
+    }
+  ]
+}

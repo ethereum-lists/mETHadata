@@ -1,0 +1,48 @@
+{
+  "name": "BMT",
+  "ens_address": "",
+  "website": "https://bmchain.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf028adee51533b1b47beaa890feb54a457f51e89.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmRGo8ZScK3mwRpzvdbQwjoZAiMaMCrh7Mu5ywaERxLah8",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/892647812940410881/_xzEG7NN.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf028adee51533b1b47beaa890feb54a457f51e89.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf028adee51533b1b47beaa890feb54a457f51e89.png",
+    "ipfs_origin": "QmNT819gS4papRnX1vFaA7th5Mvtmx1Lx6fYmNVJMPM6SP"
+  },
+  "support": {
+    "email": "support@bmchain.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.io@bmchain",
+    "chat": "",
+    "facebook": "https://www.facebook.com/BMChain",
+    "forum": "https://bitcointalk.org/index.php?topic=2096750.0",
+    "github": "https://github.com/BMChain/BMChain-Token-Distribution-Interface",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BMCHAIN",
+    "slack": "",
+    "telegram": "https://t.me/bmchain",
+    "twitter": "https://twitter.com/bmchain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BMT",
+      "address": "0xf028ADEe51533b1B47BEaa890fEb54a457f51E89",
+      "erc20": {
+        "symbol": "BMT",
+        "decimals": 18,
+        "name": "BMT"
+      }
+    }
+  ]
+}

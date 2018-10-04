@@ -1,0 +1,49 @@
+{
+  "name": "DTR",
+  "ens_address": "",
+  "website": "https://www.tokens.net",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd234bf2410a0009df9c3c63b610c09738f18ccd7.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPaYhkJ2QqBEsJJUc7fX26UixZZjbYkkwxxTBx2DpK8ro",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/dtr.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/950771927311929344/ANMwv1aa.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd234bf2410a0009df9c3c63b610c09738f18ccd7.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd234bf2410a0009df9c3c63b610c09738f18ccd7.png",
+    "ipfs_origin": "QmTjkTm7mLQVH3ZaUHzXFtT2R7SRnRYUAAYSnoCJgwiQQS"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@tokensnet",
+    "chat": "",
+    "facebook": "https://www.facebook.com/tokens.net",
+    "forum": "https://bitcointalk.org/index.php?topic=2339770",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/DTRcoin",
+    "twitter": "https://twitter.com/tokensnet",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "DTR",
+      "address": "0xd234BF2410a0009dF9c3C63b610c09738f18ccD7",
+      "erc20": {
+        "symbol": "DTR",
+        "decimals": 8,
+        "name": "DTR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "NUGD",
+  "ens_address": "",
+  "website": "https://www.nuearthlotto.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "founder@nuentertainment.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.nuearthlotto.org/blog-nu-entertainment",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NUGD",
+      "address": "0x32c785E4E8477B277FEA2CA2301727084D79D933",
+      "erc20": {
+        "symbol": "NUGD",
+        "decimals": 0,
+        "name": "NUGD"
+      }
+    }
+  ]
+}

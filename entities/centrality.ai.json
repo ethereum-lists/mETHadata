@@ -1,0 +1,48 @@
+{
+  "name": "Centrality Token",
+  "ens_address": "",
+  "website": "https://www.centrality.ai/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1122b6a0e00dce0563082b6e2953f3a943855c1f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPoLaLs2DLoV6GVrkFhtRh2a7pWe789V9Mg9dGAsaXmAR",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/897607517542400000/bBPi1Sv3.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1122b6a0e00dce0563082b6e2953f3a943855c1f.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/897607517542400000/bBPi1Sv3.jpg",
+    "ipfs_origin": "QmRjG2qN79eoMtobTdzD5yL2C3tA3tyP2jo87Ez4UUfuNS"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://facebook.com/centralityai",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/centralityai",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Centrality Token",
+      "address": "0x1122B6a0E00DCe0563082b6e2953f3A943855c1F",
+      "erc20": {
+        "symbol": "CENNZ",
+        "decimals": 18,
+        "name": "Centrality Token"
+      }
+    }
+  ]
+}

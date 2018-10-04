@@ -1,0 +1,48 @@
+{
+  "name": "Rebellious",
+  "ens_address": "",
+  "website": "https://www.rebellious.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPBbE9Qaf5edtBJiuQE4LoJZ1XCXGBG7bThyJCRxVHe1Z",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/977492816606781440/1RbUDW--.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/977492816606781440/1RbUDW--.jpg",
+    "ipfs_origin": "QmPYXc5Cp2p98G511XPVQTfC14QxqxeDk8zf8QFgnHsXQS"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://discord.gg/q4yBxct",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2357352.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/RebelliousCoin",
+    "twitter": "https://twitter.com/RebelliousCoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Rebellious",
+      "address": "0x5F53f7A8075614b699Baad0bC2c899f4bAd8FBBF",
+      "erc20": {
+        "symbol": "REBL",
+        "decimals": 18,
+        "name": "Rebellious"
+      }
+    }
+  ]
+}

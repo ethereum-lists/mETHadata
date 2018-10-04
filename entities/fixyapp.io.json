@@ -1,0 +1,45 @@
+{
+  "name": "$FIXY NETWORK",
+  "ens_address": "",
+  "website": "https://fixyapp.io",
+  "logo": {
+    "src": "https://ibb.co/diUwiJ",
+    "width": "300",
+    "height": "299",
+    "ipfs_hash": "",
+    "sources": {
+      "token-list": "https://ibb.co/diUwiJ",
+      "twitter": "http://abs.twimg.com/sticky/default_profile_images/default_profile.png"
+    }
+  },
+  "support": {
+    "email": "ht@fixyapp.io",
+    "url": "https://fixyapp.io"
+  },
+  "social": {
+    "blog": "https://medium.com/@fixynetwork",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Fixyapp.io/",
+    "forum": "https://bitcointalk.org/index.php?topic=3084108.0",
+    "github": "https://github.com/fixynetwork/FIXY-NETWORK",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/fixynetwork",
+    "twitter": "https://twitter.com/fixy_app",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "$FIXY NETWORK",
+      "address": "0xA024E8057EEC474a9b2356833707Dd0579E26eF3",
+      "erc20": {
+        "symbol": "$FXY",
+        "decimals": 18,
+        "name": "$FIXY NETWORK"
+      }
+    }
+  ]
+}

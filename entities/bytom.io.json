@@ -1,0 +1,50 @@
+{
+  "name": "Bytom",
+  "ens_address": "",
+  "website": "https://bytom.io",
+  "logo": {
+    "src": "https://etherscan.io/token/images/bytom_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmNq1hApkFH1EcNipUWH3LXm5HTcyCCk6zcyuyFD13ZejW",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/bytom_28.png",
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/btm.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/897366827138924544/TCpha9sV.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/btm.svg",
+    "ipfs_origin": "QmZor7t1G5psZWzVgm5c4wKUg9Yt5xutQWNSernkrmpnHD"
+  },
+  "support": {
+    "email": "contact@bytom.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@Bytom_Official",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1975390.0",
+    "github": "https://github.com/bytom",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BytomBlockchain/",
+    "slack": "",
+    "telegram": "https://t.me/BytomInternational",
+    "twitter": "https://twitter.com/Bytom_Official",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bytom",
+      "address": "0xcB97e65F07DA24D46BcDD078EBebd7C6E6E3d750",
+      "erc20": {
+        "symbol": "BTM",
+        "decimals": 8,
+        "name": "Bytom"
+      }
+    }
+  ]
+}

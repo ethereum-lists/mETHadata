@@ -1,0 +1,48 @@
+{
+  "name": "Vite",
+  "ens_address": "",
+  "website": "https://www.vite.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b793e49237758dbd8b752afc9eb4b329d5da016.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXSgPfmqvCDhmuupQ8Cwq4frRF7RR3y9TaRXf9LqXDF5S",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/980819986905051138/YV_Slb3z.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1b793e49237758dbd8b752afc9eb4b329d5da016.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/980819986905051138/YV_Slb3z.jpg",
+    "ipfs_origin": "QmfN1C2QvZPJZeeLBGQ1vhfi1mtdA6ukN5nAzbCMPg1fe4"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/vitelabs",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/vitelabs",
+    "slack": "",
+    "telegram": "https://t.me/vite_en",
+    "twitter": "https://twitter.com/vitelabs",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Vite",
+      "address": "0x1b793E49237758dBD8b752AFC9Eb4b329d5Da016",
+      "erc20": {
+        "symbol": "VITE",
+        "decimals": 18,
+        "name": "Vite"
+      }
+    }
+  ]
+}

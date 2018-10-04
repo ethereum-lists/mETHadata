@@ -1,0 +1,48 @@
+{
+  "name": "Ruff Chain",
+  "ens_address": "",
+  "website": "http://ruffchain.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf278c1ca969095ffddded020290cf8b5c424ace2.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmPo6NVybqzqjS1P3ApULJ9osnRDHs4VALv9WiXah6JcXr",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/952770286167863297/-FQqZfp9.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf278c1ca969095ffddded020290cf8b5c424ace2.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf278c1ca969095ffddded020290cf8b5c424ace2.png",
+    "ipfs_origin": "QmNQG5Rg3A3x7vnHJEHhh8BQFHwkkKZMHgfsCVJfrAVcsu"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/RuffChainProject/",
+    "forum": "",
+    "github": "https://github.com/RuffNotes",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/RuffChain",
+    "twitter": "https://twitter.com/Ruff_Chain",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Ruff Chain",
+      "address": "0xf278c1CA969095ffddDED020290cf8B5C424AcE2",
+      "erc20": {
+        "symbol": "RUFF",
+        "decimals": 18,
+        "name": "Ruff Chain"
+      }
+    }
+  ]
+}

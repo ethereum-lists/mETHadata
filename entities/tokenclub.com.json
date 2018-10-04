@@ -1,0 +1,48 @@
+{
+  "name": "TokenClub Token",
+  "ens_address": "",
+  "website": "http://www.tokenclub.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcuaKUa3wHfeUJtamfbwq2Xqr9pcavK8AECucUbLAhSfQ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1035357378906972160/2F1IvqUo.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1035357378906972160/2F1IvqUo.jpg",
+    "ipfs_origin": "QmZf4q9k6ZsBqefGMDrQ75Ssr65NeSTXw5veDX62LtbvzW"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://web.facebook.com/token.club.71?_rdc=1&_rdr",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/token_club",
+    "twitter": "https://twitter.com/Token8Club",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TokenClub Token",
+      "address": "0x4824A7b64E3966B0133f4f4FFB1b9D6bEb75FFF7",
+      "erc20": {
+        "symbol": "TCT",
+        "decimals": 18,
+        "name": "TokenClub Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Zilla Token",
+  "ens_address": "",
+  "website": "https://www.zla.io/en",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYMSXN8b3qWXiVyu5YnqX9nXCmN11q9qNAsJjYJU81hmf",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/946239102889861120/limbDpa7.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/946239102889861120/limbDpa7.jpg",
+    "ipfs_origin": "QmVyCyBbrfF5emRb92X5GuhAwNQU54AGz2mdCMaQaHtz6W"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ZILLAtoken/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ZILLAtoken/",
+    "slack": "",
+    "telegram": "https://t.me/zilla_app",
+    "twitter": "https://twitter.com/zillatoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Zilla Token",
+      "address": "0xfd8971d5E8E1740cE2d0A84095fCA4De729d0c16",
+      "erc20": {
+        "symbol": "ZLA",
+        "decimals": 18,
+        "name": "Zilla Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "TIO",
+  "ens_address": "",
+  "website": "https://trade.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x80bc5512561c7f85a3a9508c7df7901b370fa1df.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQdogKqzxWYzTLELxcpiSv1FnfmyJMRxJrL8z887sjXo3",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/913280608863969280/-MzYMaE5.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x80bc5512561c7f85a3a9508c7df7901b370fa1df.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x80bc5512561c7f85a3a9508c7df7901b370fa1df.png",
+    "ipfs_origin": "QmfHHo2mGuiZRKnvnUN9jqK2yfhBwbvUtNP4p9cvbBcmaW"
+  },
+  "support": {
+    "email": "support@trade.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@trade.io",
+    "chat": "",
+    "facebook": "https://www.facebook.com/trade.io",
+    "forum": "https://bitcointalk.org/index.php?topic=2367245",
+    "github": "https://github.com/trade-io",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/TradeToken",
+    "twitter": "https://twitter.com/TradeToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "TIO",
+      "address": "0x80BC5512561c7f85A3A9508c7df7901b370Fa1DF",
+      "erc20": {
+        "symbol": "TIO",
+        "decimals": 18,
+        "name": "TIO"
+      }
+    }
+  ]
+}

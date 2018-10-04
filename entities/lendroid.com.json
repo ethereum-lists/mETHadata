@@ -1,0 +1,48 @@
+{
+  "name": "Lendroid Support Token",
+  "ens_address": "",
+  "website": "https://lendroid.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4de2573e27e648607b50e1cfff921a33e4a34405.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdhuV9KkXqnkrxNHPX9DCd78WAWUe6MUaoMupU7PxgkhM",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1017702068159590401/q7l_Q66q.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x4de2573e27e648607b50e1cfff921a33e4a34405.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1017702068159590401/q7l_Q66q.jpg",
+    "ipfs_origin": "QmPtF3z9Qt3AucnSrqpY1wSokyxH3ktfWD1rPd1xE6AMRx"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.lendroid.com/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/lendroidproject/",
+    "slack": "",
+    "telegram": "https://t.me/lendroidproject",
+    "twitter": "https://twitter.com/lendroidproject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Lendroid Support Token",
+      "address": "0x4de2573e27E648607B50e1Cfff921A33E4A34405",
+      "erc20": {
+        "symbol": "LST",
+        "decimals": 18,
+        "name": "Lendroid Support Token"
+      }
+    }
+  ]
+}

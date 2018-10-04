@@ -1,0 +1,49 @@
+{
+  "name": "CMBToken",
+  "ens_address": "",
+  "website": "https://www.coinmarketbrasil.com.br",
+  "logo": {
+    "src": "https://2.bp.blogspot.com/-J35HB-_P0u8/WngvMTjjb6I/AAAAAAAAKzI/KO0DgrLZAV0TxF8dc3faw36XqR9msmP2gCLcBGAs/s1600/eth-cmbt.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmcyPs8yskZ4UHEmSMSoZaQ5zXEpoadVFjsNbFoTtF7a98",
+    "sources": {
+      "token-list": "https://2.bp.blogspot.com/-J35HB-_P0u8/WngvMTjjb6I/AAAAAAAAKzI/KO0DgrLZAV0TxF8dc3faw36XqR9msmP2gCLcBGAs/s1600/eth-cmbt.png",
+      "twitter": "http://pbs.twimg.com/profile_images/954303590423842817/kUNUT8UX.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3edd235c3e840c1f29286b2e39370a255c7b6fdb.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/954303590423842817/kUNUT8UX.jpg",
+    "ipfs_origin": "QmXpPFrXuF3mnMZtwmMJBNYyXSv2kJJEcgcwoyEBuMoqPm"
+  },
+  "support": {
+    "email": "atendimento@coinmarketbrasil.com.br",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.coinmarketbrasil.com.br/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/coinmarketbr",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/11386115/",
+    "reddit": "https://www.reddit.com/r/CryptoMartCMC",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/CoinMarketBR",
+    "youtube": "https://www.youtube.com/channel/UC97StlfGfolk4nsxDv4tcsw"
+  },
+  "eth": [
+    {
+      "name": "CMBToken",
+      "address": "0x3EDD235C3E840C1F29286B2e39370a255C7B6fdb",
+      "erc20": {
+        "symbol": "CMBT",
+        "decimals": 8,
+        "name": "CMBToken"
+      }
+    }
+  ]
+}

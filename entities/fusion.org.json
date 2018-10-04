@@ -1,0 +1,49 @@
+{
+  "name": "FUSION",
+  "ens_address": "",
+  "website": "https://fusion.org/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0352a019e9ab9d757776f532377aaebd36fd541.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZZkYErjAhbAp4mtcTPVxS49ss2vN4TDFGotETn2YHUNv",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/fsn.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/999302454381457409/yaz9BK_q.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd0352a019e9ab9d757776f532377aaebd36fd541.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/999302454381457409/yaz9BK_q.jpg",
+    "ipfs_origin": "QmTFwpNVm33VjGTKuWKG4Y6UktifursWdK9XQPUiRuCHN1"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/FUSIONProtocol",
+    "forum": "",
+    "github": "https://github.com/FUSIONFoundation",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/FusionFoundation/",
+    "slack": "",
+    "telegram": "https://t.me/FUSIONFoundation",
+    "twitter": "https://twitter.com/FUSIONProtocol",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "FUSION",
+      "address": "0xD0352a019e9AB9d757776F532377aAEbd36Fd541",
+      "erc20": {
+        "symbol": "FSN",
+        "decimals": 18,
+        "name": "FUSION"
+      }
+    }
+  ]
+}

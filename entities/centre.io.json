@@ -1,0 +1,47 @@
+{
+  "name": "USD//Coin",
+  "ens_address": "",
+  "website": "https://www.centre.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUs1rfSeKeerxSzNnHQSbHphiNEk99Mt6LYj7Y99NcujW",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "ipfs_origin": "QmUkanQMAYQM9GbPg2UoUAJjKbUj8hXxxPNeyftidxJRwt"
+  },
+  "support": {
+    "email": "",
+    "url": "https://www.centre.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/centrehq/centre-tokens",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "USD//Coin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "erc20": {
+        "symbol": "USDC",
+        "decimals": 6,
+        "name": "USD//Coin"
+      }
+    }
+  ]
+}

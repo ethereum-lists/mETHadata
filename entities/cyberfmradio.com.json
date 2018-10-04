@@ -1,0 +1,50 @@
+{
+  "type": "ERC20",
+  "name": "CyberFM",
+  "ens_address": "",
+  "website": "https://cyberfmradio.com",
+  "logo": {
+    "src": "https://mftu.net/tokeninfo/cyfm/0x3f06B5D78406cD97bdf10f5C420B241D32759c80.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": "QmTyBYpFJp3DBZ6HsVpx472unb6GbKrTrayP9EEMygW1Zr",
+    "sources": {
+      "token-list": "https://mftu.net/tokeninfo/cyfm/0x3f06B5D78406cD97bdf10f5C420B241D32759c80.png",
+      "twitter": "http://pbs.twimg.com/profile_images/378800000311333510/86ee6145c8b6b81e7a9578b5b63faebf_normal.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3f06b5d78406cd97bdf10f5c420b241d32759c80.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3f06b5d78406cd97bdf10f5c420b241d32759c80.png",
+    "ipfs_origin": "QmZBsMobBGmAwvft4AG9asU8gBmiAw8Lu3HvN8rc2e7KKW"
+  },
+  "support": {
+    "email": "service@cyberfmradio.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://mftu.net/site",
+    "chat": "",
+    "facebook": "https://facebook.com/cyberfm",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/cyberfm",
+    "slack": "",
+    "telegram": "https://t.me/mftudotnet",
+    "twitter": "https://twitter.com/cyber_fm",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CyberFM",
+      "address": "0x3f06B5D78406cD97bdf10f5C420B241D32759c80",
+      "erc20": {
+        "symbol": "CYFM",
+        "decimals": 18,
+        "name": "CyberFM"
+      }
+    }
+  ]
+}

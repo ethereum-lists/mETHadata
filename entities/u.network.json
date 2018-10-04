@@ -1,0 +1,48 @@
+{
+  "name": "U Networks",
+  "ens_address": "",
+  "website": "https://u.network/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3543638ed4a9006e4840b105944271bcea15605d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTyjhoDQ6DfrHKXBcSaZBA2HFTSvNX41UBgwgiBPZkfXW",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/960607498842468352/hLZCo1dn.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3543638ed4a9006e4840b105944271bcea15605d.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3543638ed4a9006e4840b105944271bcea15605d.png",
+    "ipfs_origin": "QmZtjq13XJEj1wFNvkaDED4CyGgtzjEz8axqcuQHGboceu"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/unetwork",
+    "chat": "",
+    "facebook": "https://github.com/U-Network/unetwork",
+    "forum": "https://bitcointalk.org/index.php?topic=2907130.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/UNetwork/",
+    "slack": "",
+    "telegram": "https://t.me/UNetworkEN",
+    "twitter": "https://twitter.com/UNetworkHQ",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "U Networks",
+      "address": "0x3543638eD4a9006E4840B105944271Bcea15605D",
+      "erc20": {
+        "symbol": "UUU",
+        "decimals": 18,
+        "name": "U Networks"
+      }
+    }
+  ]
+}

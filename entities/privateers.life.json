@@ -1,0 +1,44 @@
+{
+  "name": "Ludum",
+  "ens_address": "",
+  "website": "https://privateers.life/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/904323266411671552/0ztDRiS3.jpg"
+    }
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/The-Privateer-Island-111860842803284/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/alienter2",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Ludum",
+      "address": "0x28a40acF39b1D3C932f42dD8068ad00A5Ad6448F",
+      "erc20": {
+        "symbol": "LDM",
+        "decimals": 18,
+        "name": "Ludum"
+      }
+    }
+  ]
+}

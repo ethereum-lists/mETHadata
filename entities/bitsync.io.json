@@ -1,0 +1,47 @@
+{
+  "name": "BITC",
+  "ens_address": "",
+  "website": "http://www.bitsync.io/home.php",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdzuRJMAB2P1zeYPQNhkn5yDdmwzLChy66K1y7tNAyvxF",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/909529666687451137/1rBVeiQf.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/909529666687451137/1rBVeiQf.jpg",
+    "ipfs_origin": "QmPmpMqWcFk4iFijLSbBTWzchtSdnF4s3ymamnxfwvhUbe"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://redd.it/75y2f6",
+    "slack": "https://join.slack.com/t/bitsynctokens/shared_invite/enQtMjU1Mzg5NTczMDI1LTYzMGMyMmZjYWMyMDkwYzFlMD",
+    "telegram": "https://t.me/bitsyncio",
+    "twitter": "https://twitter.com/BitSyncio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BITC",
+      "address": "0xE0c21b3F45fEa3E5fDC811021Fb1F8842caccAd2",
+      "erc20": {
+        "symbol": "BITC",
+        "decimals": 0,
+        "name": "BITC"
+      }
+    }
+  ]
+}

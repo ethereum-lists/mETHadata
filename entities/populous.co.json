@@ -1,0 +1,58 @@
+{
+  "name": "Populous",
+  "ens_address": "",
+  "website": "https://populous.co",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmfDsXkpknCpPecbAVzUQTH9Nntof3VpWDR1X1n8TgLTxP",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ppt.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/961520240285945856/W8TjnzKW.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/961520240285945856/W8TjnzKW.jpg",
+    "ipfs_origin": "QmaKaDrnGEXoJWqBYDcdqgAToaJftVgWvWw63v7foPAVpF"
+  },
+  "support": {
+    "email": "info@populous.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@BitPopulous",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1866936.0",
+    "github": "https://github.com/bitpopulous",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/populous_platform/",
+    "slack": "https://bitpopulous.slack.com",
+    "telegram": "https://t.me/ppttalk",
+    "twitter": "https://twitter.com/bitpopulous",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Populous",
+      "address": "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a",
+      "erc20": {
+        "symbol": "PPT",
+        "decimals": 8,
+        "name": "Populous"
+      }
+    },
+    {
+      "name": "Populous XBRL Token",
+      "address": "0xc14830E53aA344E8c14603A91229A0b925b0B262",
+      "erc20": {
+        "symbol": "PXT",
+        "decimals": 8,
+        "name": "Populous XBRL Token"
+      }
+    }
+  ]
+}

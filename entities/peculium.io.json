@@ -1,0 +1,61 @@
+{
+  "name": "Peculium",
+  "ens_address": "",
+  "website": "https://peculium.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3618516f45cd3c913f81f9987af41077932bc40d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQfPRnYEw2LtqS3g6Zcqr8ZhHE9tUswCUdy8hur4yUSFt",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/988876346876157953/L6-T58zR.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x3618516f45cd3c913f81f9987af41077932bc40d.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/988876346876157953/L6-T58zR.jpg",
+    "ipfs_origin": "QmVv3XHUpN1svPkhgmmQWCrn3HEza7okjSGwPdTJg3DyW1"
+  },
+  "support": {
+    "email": "support@peculium.io",
+    "url": "https://peculium.io"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/PeculiumICO/",
+    "forum": "",
+    "github": "https://github.com/PeculiumPCL/Peculium",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/rashid-oukhai-18888337/",
+    "reddit": "https://www.reddit.com/r/Peculium/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GdlCOw07yJbs2Pt1H8_zrg",
+    "twitter": "https://twitter.com/_Peculium",
+    "youtube": "https://www.youtube.com/watch?v=kg2vYFJ_R50"
+  },
+  "eth": [
+    {
+      "name": "Peculium",
+      "address": "0x3618516F45CD3c913F81F9987AF41077932Bc40d",
+      "erc20": {
+        "symbol": "PCL",
+        "decimals": 8,
+        "name": "Peculium"
+      }
+    },
+    {
+      "name": "Peculium",
+      "address": "0x53148Bb4551707edF51a1e8d7A93698d18931225",
+      "erc20": {
+        "symbol": "PCL",
+        "decimals": 8,
+        "name": "Peculium"
+      },
+      "deprecation": {
+        "hello": "hello",
+        "new_address": "0x3618516F45CD3c913F81F9987AF41077932Bc40d"
+      }
+    }
+  ]
+}

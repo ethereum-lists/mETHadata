@@ -1,0 +1,48 @@
+{
+  "name": "Neverdie",
+  "ens_address": "",
+  "website": "https://neverdie.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdvJwyows7XPsVs6YpVoZZxyTx3jkkz5LqWn7s3RkbTrh",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/673642801024798720/O4Od0to9.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970.png",
+    "ipfs_origin": "QmZFkh1BNK5fHTtin15P1HS5daLXgkE4pbVeqkWiewjP5o"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@Nevereverdie",
+    "chat": "",
+    "facebook": "https://www.facebook.com/NEVERDIECoin/",
+    "forum": "https://bitcointalk.org/index.php?topic=2025735.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/NDCGeneral",
+    "twitter": "https://twitter.com/nevereverdie",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Neverdie",
+      "address": "0xA54ddC7B3CcE7FC8b1E3Fa0256D0DB80D2c10970",
+      "erc20": {
+        "symbol": "NDC",
+        "decimals": 18,
+        "name": "Neverdie"
+      }
+    }
+  ]
+}

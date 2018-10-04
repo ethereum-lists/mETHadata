@@ -1,0 +1,48 @@
+{
+  "name": "InvestFeed",
+  "ens_address": "",
+  "website": "https://investfeed.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7654915a1b82d6d2d0afc37c52af556ea8983c7e.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNZC39LZRSp9KrFH8DsgpipoHhYcGZCu54hWVJoqLMrQU",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/912784137412661250/m-o9tDah.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7654915a1b82d6d2d0afc37c52af556ea8983c7e.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/912784137412661250/m-o9tDah.jpg",
+    "ipfs_origin": "QmTZw8CsJHv12BCZJ1gELJibFX1RZ9zyNGQiG8hgKNXN1V"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@investFeed",
+    "chat": "",
+    "facebook": "https://www.facebook.com/investfeed/",
+    "forum": "https://bitcointalk.org/index.php?topic=1989821.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/investFeedOfficial",
+    "slack": "",
+    "telegram": "https://t.me/investfeed",
+    "twitter": "https://twitter.com/investFeed",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "InvestFeed",
+      "address": "0x7654915A1b82D6D2D0AFc37c52Af556eA8983c7E",
+      "erc20": {
+        "symbol": "IFT",
+        "decimals": 18,
+        "name": "InvestFeed"
+      }
+    }
+  ]
+}

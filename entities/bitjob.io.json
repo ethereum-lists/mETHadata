@@ -1,0 +1,48 @@
+{
+  "name": "Student Coin",
+  "ens_address": "",
+  "website": "http://bitjob.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0371a82e4a9d0a4312f3ee2ac9c6958512891372.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUACBNpEHtPZMFAH2QwCCBSFWjEZxQm6v55jLnp3uohbW",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/968584900797521920/wqgE926L.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0371a82e4a9d0a4312f3ee2ac9c6958512891372.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/968584900797521920/wqgE926L.jpg",
+    "ipfs_origin": "QmUCgLRiFrb3kSMAiByuxDH3FMwH2AJUnSGbGJhFrvV6TK"
+  },
+  "support": {
+    "email": "info@bitjob.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bitJobmarket/",
+    "forum": "",
+    "github": "https://github.com/bitjobteam",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company-beta/18013385/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/bitjob",
+    "twitter": "https://twitter.com/BitJob_Team",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Student Coin",
+      "address": "0x0371A82e4A9d0A4312f3ee2Ac9c6958512891372",
+      "erc20": {
+        "symbol": "STU",
+        "decimals": 18,
+        "name": "Student Coin"
+      }
+    }
+  ]
+}

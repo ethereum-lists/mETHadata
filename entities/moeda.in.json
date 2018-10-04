@@ -1,0 +1,49 @@
+{
+  "name": "MDA",
+  "ens_address": "",
+  "website": "https://moeda.in",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x51db5ad35c671a87207d88fc11d593ac0c8415bd.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZP1hib3b4rDcFYV84cYypsG5iBUoeGWVHDzuucyNS69c",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/mda.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/994638097534144514/ZaSdYhIV.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x51db5ad35c671a87207d88fc11d593ac0c8415bd.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/mda.svg",
+    "ipfs_origin": "QmSyoAfz8U8JhYVnsoPoahw1kvWRBHQvPB9LnPy1pPKSKU"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/moeda",
+    "chat": "",
+    "facebook": "https://www.facebook.com/moedabanking/",
+    "forum": "https://bitcointalk.org/index.php?topic=2027555.0",
+    "github": "https://github.com/moedabank",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/moeda/",
+    "reddit": "https://www.reddit.com/r/MoedaBanking/",
+    "slack": "",
+    "telegram": "https://t.me/moedaproject",
+    "twitter": "https://twitter.com/moedabanking",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "MDA",
+      "address": "0x51DB5Ad35C671a87207d88fC11d593AC0C8415bd",
+      "erc20": {
+        "symbol": "MDA",
+        "decimals": 18,
+        "name": "MDA"
+      }
+    }
+  ]
+}

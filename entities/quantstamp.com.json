@@ -1,0 +1,49 @@
+{
+  "name": "Quantstamp Token",
+  "ens_address": "",
+  "website": "https://quantstamp.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qma7NQn5THBKDiU6oanigzs8GJMR3bovg2CfeJahAkDhhY",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/qsp.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/973356164581810177/c5O-DcFd.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d.png",
+    "ipfs_origin": "QmQsrThf7ZNuc8NG7wdkXT8kgJEmErFYHbyXB2wDcNW47i"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/quantstamp",
+    "chat": "",
+    "facebook": "https://www.facebook.com/quantstamp/",
+    "forum": "https://bitcointalk.org/index.php?topic=2220795.0",
+    "github": "https://github.com/quantstamp",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Quantstamp/",
+    "slack": "",
+    "telegram": "https://t.me/quantstamp",
+    "twitter": "https://twitter.com/Quantstamp",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Quantstamp Token",
+      "address": "0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d",
+      "erc20": {
+        "symbol": "QSP",
+        "decimals": 18,
+        "name": "Quantstamp Token"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Stake Pool",
+  "ens_address": "",
+  "website": "http://stakepool.co",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmbJaRQZAHyBekWbPpFtx8Ldwi4ka4XJ5FEVRXYhReLadV",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/898753758485544960/V3tvQOE1.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/898753758485544960/V3tvQOE1.jpg",
+    "ipfs_origin": "QmbN7HaPmXtgovWGsVKQNGzg2LKobHEHTnFY1q4goYBv2M"
+  },
+  "support": {
+    "email": "stakepool@stakepool.co",
+    "url": "stakepool@stakepool.co"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/POS-Mining-Co-StakePoolco-136398393631970/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/POSMiningCo",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Stake Pool",
+      "address": "0x779B7b713C86e3E6774f5040D9cCC2D43ad375F8",
+      "erc20": {
+        "symbol": "POOL",
+        "decimals": 8,
+        "name": "Stake Pool"
+      }
+    }
+  ]
+}

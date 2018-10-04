@@ -1,0 +1,56 @@
+{
+  "name": "JBOX",
+  "ens_address": "",
+  "website": "https://www.jboxcoin.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmQqeNBE7x2wzEPxvrbuVWezKBibFRrfBit5UQKcPEtJPP",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/916729127494922241/3Vi9zd6l.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/916729127494922241/3Vi9zd6l.jpg",
+    "ipfs_origin": "QmUNrGc3PUm1ZHnCqxu2jnSHTQ4Hh9Ci87xCBx7TuTykai"
+  },
+  "support": {
+    "email": "support@jboxcoin.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/jboxcommunity",
+    "forum": "https://bitcointalk.org/index.php?topic=2330794.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/jboxcoin",
+    "twitter": "https://twitter.com/@Jbox_coin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "JBOX",
+      "address": "0x884e3902C4d5cFA86de4aCE7A96AA91EbC25C0Ff",
+      "erc20": {
+        "symbol": "JBX",
+        "decimals": 18,
+        "name": "JBOX"
+      }
+    },
+    {
+      "name": "JBX",
+      "address": "0x0Aaf561eFF5BD9c8F911616933F84166A17cfE0C",
+      "erc20": {
+        "symbol": "JBX",
+        "decimals": 0,
+        "name": "JBX"
+      }
+    }
+  ]
+}

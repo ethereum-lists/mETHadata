@@ -1,0 +1,48 @@
+{
+  "name": "Mitrav",
+  "ens_address": "",
+  "website": "https://mitrav.co",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7fc408011165760ee31be2bf20daf450356692af.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmP9Ai1GEnBTy2hCZN9EPmZrFxwEFQ9cdqL8JyYWf1CRpR",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/905435584864305156/0R3e3yE9.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7fc408011165760ee31be2bf20daf450356692af.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7fc408011165760ee31be2bf20daf450356692af.png",
+    "ipfs_origin": "Qmbje3yN8BG9LQ1prb4h5WpH141Rq3WYmauE9q51zubhEN"
+  },
+  "support": {
+    "email": "support@mitrav.co",
+    "url": "https://mitrav.co"
+  },
+  "social": {
+    "blog": "",
+    "chat": "skype:team mitrav?add",
+    "facebook": "https://www.facebook.com/mitrav.mitrav.58",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/25049387",
+    "reddit": "https://www.reddit.com/user/Mitrav",
+    "slack": "https://mitrav.slack.com/open",
+    "telegram": "https://t.me/mitravteam",
+    "twitter": "https://twitter.com/mitrav_m",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Mitrav",
+      "address": "0x7FC408011165760eE31bE2BF20dAf450356692Af",
+      "erc20": {
+        "symbol": "MTR",
+        "decimals": 8,
+        "name": "Mitrav"
+      }
+    }
+  ]
+}

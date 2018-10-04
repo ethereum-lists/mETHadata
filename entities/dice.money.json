@@ -1,0 +1,49 @@
+{
+  "name": "DICE Money Dicet",
+  "ens_address": "",
+  "website": "https://dice.money/",
+  "logo": {
+    "src": "https://www.dropbox.com/s/5ag9npp048m1qf0/logo_transparent_small.png?dl=0",
+    "width": "480",
+    "height": "480",
+    "ipfs_hash": "QmepBLc6szWmKd1YqQUvRkzi51FXh2Sjf3qFHKXdmGUXGf",
+    "sources": {
+      "token-list": "https://www.dropbox.com/s/5ag9npp048m1qf0/logo_transparent_small.png?dl=0",
+      "twitter": "http://pbs.twimg.com/profile_images/967013549640962050/z4s8EDfY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf660ca1e228e7be1fa8b4f5583145e31147fb577.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf660ca1e228e7be1fa8b4f5583145e31147fb577.png",
+    "ipfs_origin": "QmXTqaBfh62GMvXNdyVwv37wFrykLiztbuCLw1nwCpGm4n"
+  },
+  "support": {
+    "email": "contact@dice.money",
+    "url": "https://dice.money"
+  },
+  "social": {
+    "blog": "https://medium.com/@DICEsup/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/DICEsup/",
+    "forum": "",
+    "github": "https://github.com/DICE-Money/",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/DICEsup/",
+    "linkedin": "linkedin.com/company/dice-money/",
+    "reddit": "https://www.reddit.com/r/DICEsup/",
+    "slack": "",
+    "telegram": "https://t.me/DICEMoneyNews",
+    "twitter": "https://twitter.com/DICEsup",
+    "youtube": "https://www.youtube.com/channel/UCQAJZnp670MZWnNbZY_ovsg"
+  },
+  "eth": [
+    {
+      "name": "DICE Money Dicet",
+      "address": "0xF660cA1e228e7BE1fA8B4f5583145E31147FB577",
+      "erc20": {
+        "symbol": "CET",
+        "decimals": 18,
+        "name": "DICE Money Dicet"
+      }
+    }
+  ]
+}

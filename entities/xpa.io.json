@@ -1,0 +1,49 @@
+{
+  "name": "XPA",
+  "ens_address": "",
+  "website": "https://xpa.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVNESLsfsrqBj2pUgWJfGuGikGRNcz2mtZnby3gGLtJZe",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/xpa.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/956700086821568512/8D3XxLdI.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170.png"
+    },
+    "sourceBest": "trivial",
+    "origin": "http://trivial.co/static/vendor/icons/svg/color/xpa.svg",
+    "ipfs_origin": "QmYe8zWBMj7FoJiuJ6eW4zmRPhTC5HNyZh9LBX881P9d8V"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/xplayfund-127871081149211/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company-beta/13371153/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/HwXfYhKMUa_DGlYDuGVVOg",
+    "twitter": "https://twitter.com/XPAtwopointoh",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "XPA",
+      "address": "0x90528aeb3a2B736B780fD1B6C478bB7E1d643170",
+      "erc20": {
+        "symbol": "XPA",
+        "decimals": 18,
+        "name": "XPA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "BSDC",
+  "ens_address": "",
+  "website": "http://bitsidea.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "bitsideahelp@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/BitsIdea/BitsIdea",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/BitsIdea",
+    "twitter": "https://twitter.com/bitsideahelp",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BSDC",
+      "address": "0xF26ef5E0545384b7Dcc0f297F2674189586830DF",
+      "erc20": {
+        "symbol": "BSDC",
+        "decimals": 18,
+        "name": "BSDC"
+      }
+    }
+  ]
+}

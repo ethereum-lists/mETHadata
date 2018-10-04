@@ -1,0 +1,48 @@
+{
+  "name": "NEU Fund",
+  "ens_address": "",
+  "website": "https://neufund.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa823e6722006afe99e91c30ff5295052fe6b8e32.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmY4zmJZC1ebFtJDSiAE28U3nfRwE6hLkNK9ZxBYrpBaoD",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/978619540962729985/8Q-NXzEI.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa823e6722006afe99e91c30ff5295052fe6b8e32.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xa823e6722006afe99e91c30ff5295052fe6b8e32.png",
+    "ipfs_origin": "QmQjkno1DVuWtfvkH6dindrPsRHi2iqFHAgve8m5Gk8EXq"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.neufund.org/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/neufundorg",
+    "forum": "https://bitcointalk.org/index.php?topic=2335433",
+    "github": "https://github.com/neufund",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/neufund",
+    "slack": "https://neufund.org/slack",
+    "telegram": "https://t.me/neufund",
+    "twitter": "https://twitter.com/neufundorg",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NEU Fund",
+      "address": "0xA823E6722006afe99E91c30FF5295052fe6b8E32",
+      "erc20": {
+        "symbol": "NEU",
+        "decimals": 18,
+        "name": "NEU Fund"
+      }
+    }
+  ]
+}

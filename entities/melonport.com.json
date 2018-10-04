@@ -1,0 +1,49 @@
+{
+  "name": "Melonport",
+  "ens_address": "",
+  "website": "https://melonport.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZ7iknjHLQUUmXALrkQ22xChC6SEDwsFNFX4KeR9heoye",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/mln.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/951042085146198016/BR3JZ8dh.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/951042085146198016/BR3JZ8dh.jpg",
+    "ipfs_origin": "Qmag7W8hUQp91Yy9MuCpStAzPMBP4Gb6cpjPoRm1vMW1R5"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/melonport-blog",
+    "chat": "https://chat.melonport.com",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/melonproject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/10700416/",
+    "reddit": "https://www.reddit.com/r/Melonport/",
+    "slack": "",
+    "telegram": "https://t.me/melonport",
+    "twitter": "https://twitter.com/melonport",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Melonport",
+      "address": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1",
+      "erc20": {
+        "symbol": "MLN",
+        "decimals": 18,
+        "name": "Melonport"
+      }
+    }
+  ]
+}

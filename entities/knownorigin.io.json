@@ -1,0 +1,48 @@
+{
+  "name": "Known Origin Digital Asset",
+  "ens_address": "",
+  "website": "https://knownorigin.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdde2d979e8d39bb8416eafcfc1758f3cab2c9c72.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNXP7hEUQUREVpMuzkFFByeTjjvD428uCVEQqFRrDsoqH",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/957703591367794689/uWz1Nlx9.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdde2d979e8d39bb8416eafcfc1758f3cab2c9c72.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/957703591367794689/uWz1Nlx9.jpg",
+    "ipfs_origin": "QmaXHWZYK51xQT8Cb9zwbv6aXxPnSXvuaaV8H1aQvoyfzo"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/knownorigin_io",
+    "twitter": "https://twitter.com/knownorigin_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Known Origin Digital Asset",
+      "address": "0xDdE2D979e8d39BB8416eAfcFC1758f3CaB2C9C72",
+      "erc20": {
+        "symbol": "KODA",
+        "decimals": 0,
+        "name": "Known Origin Digital Asset"
+      }
+    }
+  ]
+}

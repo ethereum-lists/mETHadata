@@ -1,0 +1,42 @@
+{
+  "name": "BtcSegwit2X",
+  "ens_address": "",
+  "website": "http://b2x.technology/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/btcsegwit2x",
+    "twitter": "https://twitter.com/Btcsegwit2x",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BtcSegwit2X",
+      "address": "0x9c9891F7795eB127BA4783B671573275fF3a83A9",
+      "erc20": {
+        "symbol": "B2X",
+        "decimals": 8,
+        "name": "BtcSegwit2X"
+      }
+    }
+  ]
+}

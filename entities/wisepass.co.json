@@ -1,0 +1,49 @@
+{
+  "type": "ERC20",
+  "name": "PASS Token",
+  "ens_address": "",
+  "website": "http://www.wisepass.co",
+  "logo": {
+    "src": "http://www.wisepass.co/wordpress/home/images/logo.png",
+    "width": 40,
+    "height": 40,
+    "ipfs_hash": "QmX5gC6Yrmw1y2ePiA7J6uLf1QozUFsHBUK5poNcJmuMVE",
+    "sources": {
+      "token-list": "http://www.wisepass.co/wordpress/home/images/logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/858578860677382144/zL5UAqV8.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/858578860677382144/zL5UAqV8.jpg",
+    "ipfs_origin": "Qmd4SY4wrPTQFv8hzm7oWdteScxVRvAuo2HcHsKXHbsLWB"
+  },
+  "support": {
+    "email": "ico@wisepass.co",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/wisepass",
+    "facebook": "https://fb.com/wisepass",
+    "forum": "https://bitcointalk.org/index.php?topic=4458873.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/solidity-trade/",
+    "reddit": "https://www.reddit.com/r/WisePassICO/",
+    "slack": "",
+    "telegram": "https://t.me/wisepass",
+    "twitter": "https://twitter.com/wisepass_co",
+    "youtube": "https://www.youtube.com/channel/UCKZ4LdzdKo1aHg0ruK43Aww"
+  },
+  "eth": [
+    {
+      "name": "PASS Token",
+      "address": "0x77761e63C05aeE6648FDaeaa9B94248351AF9bCd",
+      "erc20": {
+        "symbol": "PASS",
+        "decimals": 18,
+        "name": "PASS Token"
+      }
+    }
+  ]
+}

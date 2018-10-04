@@ -1,0 +1,42 @@
+{
+  "name": "BannerCoin",
+  "ens_address": "",
+  "website": "https://www.bannerview.com/bannercoin/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.bannerview.com/blog/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/BannerView/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BannerCoin",
+      "address": "0xd3e2f9dFff5A6feeECE5dBCEE3b86cb375fd8C98",
+      "erc20": {
+        "symbol": "BCOIN",
+        "decimals": 8,
+        "name": "BannerCoin"
+      }
+    }
+  ]
+}

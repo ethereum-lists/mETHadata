@@ -1,0 +1,47 @@
+{
+  "name": "LUCK",
+  "ens_address": "",
+  "website": "http://www.luckytoken.info",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXpbgaGmFBfLjD1K6d7CqiVR2k8nmTY6gWgNrYRy1ZQkm",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/896073979324190720/OaBMvyiZ.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/896073979324190720/OaBMvyiZ.jpg",
+    "ipfs_origin": "QmRYQrNNAPDBhcfhUTJpAFq7UALePYqKLSFL2NZGuB1Dk1"
+  },
+  "support": {
+    "email": "contact@luckytoken.info",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2258636.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://www.twitter.com/lucky_token",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "LUCK",
+      "address": "0xFB12e3CcA983B9f59D90912Fd17F8D745A8B2953",
+      "erc20": {
+        "symbol": "LUCK",
+        "decimals": 0,
+        "name": "LUCK"
+      }
+    }
+  ]
+}

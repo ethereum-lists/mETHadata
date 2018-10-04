@@ -1,0 +1,48 @@
+{
+  "name": "CoinOil",
+  "ens_address": "",
+  "website": "https://coinoil.io/",
+  "logo": {
+    "src": "https://coinoil.io/oldw/assets/images/logo/icon.png",
+    "width": "146",
+    "height": "157",
+    "ipfs_hash": "QmXnC86bNK9X1RyuuMJyuFAwMoZLv43dWkLPizng7ub5Qe",
+    "sources": {
+      "token-list": "https://coinoil.io/oldw/assets/images/logo/icon.png",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0c91b015aba6f7b4738dcd36e7410138b29adc29.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0c91b015aba6f7b4738dcd36e7410138b29adc29.png",
+    "ipfs_origin": "QmaTwbUPtLNRJnwvuvU3FUzJUPUk8XUU6ZkevAJqnZmtgk"
+  },
+  "support": {
+    "email": "support@coinoil.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://fb.com/CoinOil",
+    "forum": "",
+    "github": "https://github.com/CoinOil",
+    "gitter": "",
+    "instagram": "https://instagram.com/coinoil.io",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://www.twitter.com/Coinoil",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CoinOil",
+      "address": "0x0C91B015AbA6f7B4738dcD36E7410138b29ADC29",
+      "erc20": {
+        "symbol": "COIL",
+        "decimals": 8,
+        "name": "CoinOil"
+      }
+    }
+  ]
+}

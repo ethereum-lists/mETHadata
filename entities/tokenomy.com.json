@@ -1,0 +1,48 @@
+{
+  "name": "Tokenomy",
+  "ens_address": "",
+  "website": "https://www.tokenomy.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd16ec0f66e54d453e6756713e533355989040e4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSfCrboY57oxE596gDvwG9jEXNyVXb2XM6dfD5FZRQhKG",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1034274605878239232/NoS0jCd1.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdd16ec0f66e54d453e6756713e533355989040e4.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1034274605878239232/NoS0jCd1.jpg",
+    "ipfs_origin": "QmeygF2nYWQ7w6Z8uNc4XuQzSricgjx1MPuBBGJThn5mGv"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TOKENOMY/",
+    "forum": "",
+    "github": "https://github.com/tokenomy",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://t.me/tokenomyinfo",
+    "twitter": "https://twitter.com/tokenomy",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Tokenomy",
+      "address": "0xDD16eC0F66E54d453e6756713E533355989040E4",
+      "erc20": {
+        "symbol": "TEN",
+        "decimals": 18,
+        "name": "Tokenomy"
+      }
+    }
+  ]
+}

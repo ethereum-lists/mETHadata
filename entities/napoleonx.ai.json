@@ -1,0 +1,48 @@
+{
+  "name": "NapoleonX Token",
+  "ens_address": "",
+  "website": "https://napoleonx.ai/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28b5e12cce51f15594b0b91d5b5adaa70f684a02.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUhp3o3f1qaDyCEfcFWV4N7GDGkizL45LqLj74LM31bRm",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/952900182630453248/K4uuzS_C.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28b5e12cce51f15594b0b91d5b5adaa70f684a02.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x28b5e12cce51f15594b0b91d5b5adaa70f684a02.png",
+    "ipfs_origin": "QmXRd86pHL15xnHLBJ4rWcAJFD41w2vbSnktyDpSpyFKVp"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/NapoleonXProject/",
+    "forum": "",
+    "github": "https://github.com/ProjectNapoleonX/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/NapoleonX/",
+    "slack": "",
+    "telegram": "https://t.me/napoleonx_ICO",
+    "twitter": "https://twitter.com/NapoleonXai",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NapoleonX Token",
+      "address": "0x28b5E12CcE51f15594B0b91d5b5AdaA70F684a02",
+      "erc20": {
+        "symbol": "NPX",
+        "decimals": 2,
+        "name": "NapoleonX Token"
+      }
+    }
+  ]
+}

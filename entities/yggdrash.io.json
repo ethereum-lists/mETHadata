@@ -1,0 +1,52 @@
+{
+  "name": "YGGDRASH",
+  "ens_address": "",
+  "website": "https://yggdrash.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "info@yggdrash.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@yggdrash",
+    "chat": "",
+    "facebook": "https://www.facebook.com/yggdrash",
+    "forum": "",
+    "github": "https://github.com/yggdrash",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/YggdrashNews",
+    "youtube": "https://www.youtube.com/yggdrash"
+  },
+  "eth": [
+    {
+      "name": "YEED",
+      "address": "0x6F7A4bac3315B5082F793161a22e26666d22717f",
+      "erc20": {
+        "symbol": "YEED",
+        "decimals": 18,
+        "name": "YEED"
+      }
+    },
+    {
+      "name": "YGGDRASH",
+      "address": "0xcA2796F9F61dc7b238Aab043971e49c6164DF375",
+      "erc20": {
+        "symbol": "YEED",
+        "decimals": 18,
+        "name": "YGGDRASH"
+      }
+    }
+  ],
+  "description": "Trust-based Multi-dimensional Blockchains"
+}

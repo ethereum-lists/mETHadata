@@ -1,0 +1,48 @@
+{
+  "name": "GreenMed",
+  "ens_address": "",
+  "website": "https://www.greenmed.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb444208cb0516c150178fcf9a52604bc04a1acea.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUAeKa7S4T4UTf6v9TrXhpVq6WSaY85XyHXX4XmZJZacc",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/913436559977754626/-5oa7s3w.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb444208cb0516c150178fcf9a52604bc04a1acea.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/913436559977754626/-5oa7s3w.jpg",
+    "ipfs_origin": "QmQdv2rwZEvXmDWoBXKAufqCCrjhpwGgDxiTChsLQgTPss"
+  },
+  "support": {
+    "email": "info@greenmed.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://www.greenmed.io/blog/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/GreenmedApp/",
+    "forum": "",
+    "github": "https://github.com/GreenMed/Token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/GreenMed/",
+    "slack": "https://greenmed-ico.slack.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/GreenMed_Team",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "GreenMed",
+      "address": "0xb444208cB0516C150178fCf9a52604BC04A1aCEa",
+      "erc20": {
+        "symbol": "GRMD",
+        "decimals": 18,
+        "name": "GreenMed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Brightcoin",
+  "ens_address": "",
+  "website": "https://brightcoin.club/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://m.facebook.com/Brightcoin/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/TeamBrightcoin?s=09",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Brightcoin",
+      "address": "0xe25f0974fea47682F6A7386E4217dA70512ec997",
+      "erc20": {
+        "symbol": "BRC",
+        "decimals": 18,
+        "name": "Brightcoin"
+      }
+    }
+  ]
+}

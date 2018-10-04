@@ -1,0 +1,49 @@
+{
+  "name": "Nami ICO",
+  "ens_address": "",
+  "website": "https://nami.trade",
+  "logo": {
+    "src": "https://drive.google.com/file/d/1D8Oh0j1l_Q7MFbqyGmNFHNE2pw-lyXmw/view",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": "QmWCmotbPLzkVAeVFU34Rfhqmert7tNVE6HaujUWPig9wi",
+    "sources": {
+      "token-list": "https://drive.google.com/file/d/1D8Oh0j1l_Q7MFbqyGmNFHNE2pw-lyXmw/view",
+      "twitter": "http://pbs.twimg.com/profile_images/953941567298916354/1L8z_Fx8.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x8d80de8a78198396329dfa769ad54d24bf90e7aa.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/953941567298916354/1L8z_Fx8.jpg",
+    "ipfs_origin": "QmfUdhjovAatDudSP3mKzyV8QcgoTD1Ja5Avxp37epyeFC"
+  },
+  "support": {
+    "email": "hello@nami.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "nami.io/newsroom",
+    "chat": "",
+    "facebook": "https://www.facebook.com/NAMI.TRADE.OFFICIAL/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/namitrade",
+    "twitter": "https://twitter.com/namidotio",
+    "youtube": "https://www.youtube.com/channel/UCYAqEagemhtu0MOtnE7rNJQ"
+  },
+  "eth": [
+    {
+      "name": "Nami ICO",
+      "address": "0x8d80de8A78198396329dfA769aD54d24bF90E7aa",
+      "erc20": {
+        "symbol": "NAC",
+        "decimals": 18,
+        "name": "Nami ICO"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "CryCash Token",
+  "ens_address": "",
+  "website": "https://crycash.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf41e5fbc2f6aac200dd8619e121ce1f05d150077.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmU7g6SiLoePSYteY5FA2LexaM2MTXsLzsitRfWEoAqh9o",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/933817761133973509/dOgcLyTM.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf41e5fbc2f6aac200dd8619e121ce1f05d150077.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/933817761133973509/dOgcLyTM.jpg",
+    "ipfs_origin": "Qma7Gs9zFi3ghBZq2KZP8ybo46VWpCxkULia6G2eUewzMP"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/crycash.io/",
+    "forum": "",
+    "github": "https://github.com/CRYCASH/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/crycashio_official/",
+    "slack": "",
+    "telegram": "https://t.me/crycash",
+    "twitter": "https://twitter.com/cry_cash",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "CryCash Token",
+      "address": "0xF41e5Fbc2F6Aac200Dd8619E121CE1f05D150077",
+      "erc20": {
+        "symbol": "CRC",
+        "decimals": 18,
+        "name": "CryCash Token"
+      }
+    }
+  ]
+}

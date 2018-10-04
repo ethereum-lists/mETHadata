@@ -1,0 +1,48 @@
+{
+  "name": "300 Token Sparta",
+  "ens_address": "",
+  "website": "https://300tokensparta.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaec98a708810414878c3bcdf46aad31ded4a4557.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUKgb9ZTMbMR58CVi4p8DLfvam9ycmb5Ro2BFJQPaKA8T",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/881468956493664256/rp2LIwC8.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaec98a708810414878c3bcdf46aad31ded4a4557.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xaec98a708810414878c3bcdf46aad31ded4a4557.png",
+    "ipfs_origin": "QmbbmpwQyfJS4SMEVte3Z8mHsafpC3vGsgrp3g2mJaXZDM"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/300_Token",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "300 Token Sparta",
+      "address": "0xaEc98A708810414878c3BCDF46Aad31dEd4a4557",
+      "erc20": {
+        "symbol": "300",
+        "decimals": 18,
+        "name": "300 Token Sparta"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "SWAP",
+  "ens_address": "",
+  "website": "https://swapity.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmcANJftwzmjnafS1ir4saXZkh1HyMUMbBJzKwt95nSoyx",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/905884349811142656/3ZH8aq74.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/905884349811142656/3ZH8aq74.jpg",
+    "ipfs_origin": "QmdNh1D5frrRxUsX32QbBog7mLHXTrRQ5SjY3JrrLUWh2R"
+  },
+  "support": {
+    "email": "contact@swapity.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/Swapity_io",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SWAP",
+      "address": "0x4b35e0AB998Ebe8414871c13cf778F9D0Bbdf609",
+      "erc20": {
+        "symbol": "SWP",
+        "decimals": 18,
+        "name": "SWAP"
+      }
+    }
+  ]
+}

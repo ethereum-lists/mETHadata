@@ -1,0 +1,47 @@
+{
+  "name": "Krosscoin",
+  "ens_address": "",
+  "website": "https://krosscoin.io",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmNbU4mx7JmvXp9VvRPiBpa91LBeA8ffQrDURkFpmYV6Ka",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/969006658692108289/0QzNzKUM.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/969006658692108289/0QzNzKUM.jpg",
+    "ipfs_origin": "Qmdjim6tBpaKsvG9SbWtmu98dcWG81YTJUgzZktfHGysR1"
+  },
+  "support": {
+    "email": "support@krosscoin.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.krosscoin.io&t=Krosscoin.io",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.krosscoin.io&title=Krosscoin.io",
+    "reddit": "http://www.reddit.com/submit?url=https%3A%2F%2Fwww.krosscoin.io&title=Krosscoin.io",
+    "slack": "",
+    "telegram": "http://t.me/krosscoin_KSS",
+    "twitter": "http://twitter.com/krosscoin_team",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Krosscoin",
+      "address": "0xf94e44D8EA46CCd8451D7E15264C6C4A78d3E10f",
+      "erc20": {
+        "symbol": "KSS",
+        "decimals": 18,
+        "name": "Krosscoin"
+      }
+    }
+  ]
+}

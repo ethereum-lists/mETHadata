@@ -1,0 +1,48 @@
+{
+  "name": "Change Bank",
+  "ens_address": "",
+  "website": "https://change-bank.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d4b8cce0591c9044a22ee543533b72e976e36c3.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYCHknSYhHUzguPMWoqKUorcP76mbYZyUbWxnHnDDvvxw",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1009062411675029505/E9pwy3L7.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d4b8cce0591c9044a22ee543533b72e976e36c3.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x7d4b8cce0591c9044a22ee543533b72e976e36c3.png",
+    "ipfs_origin": "QmRv2RmeSDxX96hqWVtJqTsMhC9cAHzVtFmCEnep7PodeB"
+  },
+  "support": {
+    "email": "support@change-bank.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/changefinance",
+    "chat": "",
+    "facebook": "https://www.facebook.com/changefinance",
+    "forum": "https://bitcointalk.org/index.php?topic=2087937.0",
+    "github": "https://github.com/ChangeFinance",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/getchange/",
+    "slack": "https://coinchange.slack.com",
+    "telegram": "https://t.me/joinchat/GWX8HkLwpOoocINbLXfRtg",
+    "twitter": "https://twitter.com/changefinance",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Change Bank",
+      "address": "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3",
+      "erc20": {
+        "symbol": "CAG",
+        "decimals": 18,
+        "name": "Change Bank"
+      }
+    }
+  ]
+}

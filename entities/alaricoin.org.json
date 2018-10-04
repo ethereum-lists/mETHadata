@@ -1,0 +1,47 @@
+{
+  "name": "ALCO",
+  "ens_address": "",
+  "website": "https://alaricoin.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXHkQ5piZsKm3fKicUU5KobZbxvySsb78SVjwwsa2zz2M",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/929342202341462019/I4Zl6hHH.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/929342202341462019/I4Zl6hHH.jpg",
+    "ipfs_origin": "QmNPyGAQgshrLT2xfmMchumRFtEv6vMs3q4yPmj73T4msk"
+  },
+  "support": {
+    "email": "team@alaricoin.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/alaricoin",
+    "forum": "https://bitcointalk.org/index.php?topic=2316083.0",
+    "github": "https://github.com/marcuzzu/Alaricoin/tree/master/token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/G3-aP0G_NmiV0cYIsbPf5Q",
+    "twitter": "https://twitter.com/Alaricoin",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ALCO",
+      "address": "0x181a63746d3Adcf356CBc73aCE22832FFBB1EE5A",
+      "erc20": {
+        "symbol": "ALCO",
+        "decimals": 8,
+        "name": "ALCO"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Jury.Online Token",
+  "ens_address": "",
+  "website": "https://jury.online/ico",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdb455c71c1bc2de4e80ca451184041ef32054001.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXUG48gzJsvTCSJnFvffeai7ACTvCVZ4VmiEKaGcUoVVD",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/961895457407500288/l2bw1bWj.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xdb455c71c1bc2de4e80ca451184041ef32054001.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/961895457407500288/l2bw1bWj.jpg",
+    "ipfs_origin": "QmTHTvLorc1pDGh1fzcZhDWfvZ5bffcBx1a3u923r98Tm3"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Jury.Online.Page/",
+    "forum": "",
+    "github": "https://github.com/juryonline",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/juryonline_community",
+    "twitter": "https://twitter.com/jury2beonline",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Jury.Online Token",
+      "address": "0xdb455c71C1bC2de4e80cA451184041Ef32054001",
+      "erc20": {
+        "symbol": "JOT",
+        "decimals": 18,
+        "name": "Jury.Online Token"
+      }
+    }
+  ]
+}

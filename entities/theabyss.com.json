@@ -1,0 +1,49 @@
+{
+  "name": "ABYSS",
+  "ens_address": "",
+  "website": "https://www.theabyss.com",
+  "logo": {
+    "src": "https://www.theabyss.com/static/img/abyss_28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": "QmSDqgmKcmhxPvusQs3TnK16Y6D4gZgdbswWVqiz6Pyqvk",
+    "sources": {
+      "token-list": "https://www.theabyss.com/static/img/abyss_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1021792283400826883/q6oZxByJ.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1021792283400826883/q6oZxByJ.jpg",
+    "ipfs_origin": "QmfAudmWzJJxXbhUcT3ZbEBNFcpLX2wm8jrE63Vxwv2F5x"
+  },
+  "support": {
+    "email": "support@theabyss.com",
+    "url": "https://t.me/theabyss"
+  },
+  "social": {
+    "blog": "https://medium.com/theabyss",
+    "discord": "https://discord.theabyss.com",
+    "facebook": "https://www.facebook.com/theabyss",
+    "forum": "https://bitcointalk.theabyss.com",
+    "github": "https://github.com/theabyssportal",
+    "gitter": "",
+    "instagram": "https://instagram.com/theabyssportal",
+    "linkedin": "https://www.linkedin.com/company/theabyss",
+    "reddit": "https://reddit.theabyss.com",
+    "slack": "",
+    "telegram": "https://t.me/theabyss",
+    "twitter": "https://twitter.com/theabyss",
+    "vimeo": "https://www.vimeo.com/theabyss"
+  },
+  "eth": [
+    {
+      "name": "ABYSS",
+      "address": "0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6",
+      "erc20": {
+        "symbol": "ABYSS",
+        "decimals": 18,
+        "name": "ABYSS"
+      }
+    }
+  ]
+}

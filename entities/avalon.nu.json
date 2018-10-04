@@ -1,0 +1,47 @@
+{
+  "name": "AVA",
+  "ens_address": "",
+  "website": "https://avalon.nu",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xed247980396b10169bb1d36f6e278ed16700a60f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYvXbAoe36VjjQA5FvhHLvUwqTWeLkV4sE3cjhMAgSRkL",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xed247980396b10169bb1d36f6e278ed16700a60f.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xed247980396b10169bb1d36f6e278ed16700a60f.png",
+    "ipfs_origin": "QmQ6jbE73pSQZQFfzR7h39xkYUNjkxZknLym9DPhXeVy6K"
+  },
+  "support": {
+    "email": "hello@avalon.nu",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@AvalonPlatform",
+    "chat": "",
+    "facebook": "https://www.facebook.com/avalonplatform",
+    "forum": "https://bitcointalk.org/index.php?topic=2065193",
+    "github": "https://github.com/AvalonPlatform",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/AvalonPlatform",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GQEIcg6hXg-QWXwzDDiOgA",
+    "twitter": "https://twitter.com/Avalonplatform",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "AVA",
+      "address": "0xeD247980396B10169BB1d36f6e278eD16700a60f",
+      "erc20": {
+        "symbol": "AVA",
+        "decimals": 4,
+        "name": "AVA"
+      }
+    }
+  ]
+}

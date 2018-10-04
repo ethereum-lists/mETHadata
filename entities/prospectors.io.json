@@ -1,0 +1,48 @@
+{
+  "name": "Prospectors Gold",
+  "ens_address": "",
+  "website": "https://www.prospectors.io/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x089a6d83282fb8988a656189f1e7a73fa6c1cac2.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmWLMHFED9ufkok4UaSFPSVNgyxEtDA3oFAohCGeW7HNAi",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/998514226900561922/fsyjz_Zq.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x089a6d83282fb8988a656189f1e7a73fa6c1cac2.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x089a6d83282fb8988a656189f1e7a73fa6c1cac2.png",
+    "ipfs_origin": "QmRhk8pBkV8apft7Gc3wGDVhH894eYqFYvpTNqkifWXuAG"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/prospectors.io/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/prospectorsgame",
+    "twitter": "https://twitter.com/prospectorsgame",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Prospectors Gold",
+      "address": "0x089A6D83282Fb8988A656189F1E7A73FA6C1caC2",
+      "erc20": {
+        "symbol": "PGL",
+        "decimals": 18,
+        "name": "Prospectors Gold"
+      }
+    }
+  ]
+}

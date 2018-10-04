@@ -1,0 +1,47 @@
+{
+  "name": "SUB1X",
+  "ens_address": "",
+  "website": "https://sub1x.org/Home/Index",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmedWEse1ZoUf8fvWJhCHgVB67j1PUuGbUGK1KBVBvsZTh",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1019970368415490049/z3RdXuwK.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1019970368415490049/z3RdXuwK.jpg",
+    "ipfs_origin": "QmSqicc4UviRLzEQTv2KExPneHwQd1FVijdTqLcy9envuw"
+  },
+  "support": {
+    "email": "sub1x.tutorials@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/SUB1X/",
+    "slack": "https://sub1x.slack.com/join/shared_invite/enQtMjU1OTYzNzQ1MjM1LTRmM2JlYmIwYTU4MDMzZGMxYzJiNWQzNmM1YWEzZTE3ZjRkN2I1YWJmZGQ3NjdkMzA1Zjk4MTIzZTMyNTY2NDM",
+    "telegram": "https://t.me/joinchat/FeDyzg6MbSGTo_PWpzx0TA",
+    "twitter": "https://twitter.com/SUB_1X_",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "SUB1X",
+      "address": "0xA8BA4095833a3F924D86CB3941099C1ABB75ea13",
+      "erc20": {
+        "symbol": "SUB1X",
+        "decimals": 18,
+        "name": "SUB1X"
+      }
+    }
+  ]
+}

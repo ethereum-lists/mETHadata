@@ -1,0 +1,42 @@
+{
+  "name": "Rent Token",
+  "ens_address": "",
+  "website": "http://rent-token.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Rent Token",
+      "address": "0x64C86899bc02dD9af823B131e5ACD4369F72bD39",
+      "erc20": {
+        "symbol": "RENT",
+        "decimals": 18,
+        "name": "Rent Token"
+      }
+    }
+  ]
+}

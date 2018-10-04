@@ -1,0 +1,48 @@
+{
+  "name": "eBTC",
+  "ens_address": "",
+  "website": "https://ebitcoin.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xeb7c20027172e5d143fb030d50f91cece2d1485d.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmSx3TvtV5qLTiTr7tWf91GKncj63SbjqErCnvjk67Qja6",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1017450064522997761/drA6RWEP.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xeb7c20027172e5d143fb030d50f91cece2d1485d.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xeb7c20027172e5d143fb030d50f91cece2d1485d.png",
+    "ipfs_origin": "QmRJv2fg8KPzjc67D2aD5fDkeXy9CDizy5vehtAw4BRQDj"
+  },
+  "support": {
+    "email": "contact@ebitcoin.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@eBTCFoundation",
+    "chat": "",
+    "facebook": "https://www.facebook.com/eBitcoin.org",
+    "forum": "https://bitcointalk.org/index.php?topic=2210565.0",
+    "github": "https://github.com/eBTCCommunityTrustToken/eBTC",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/eBTC",
+    "slack": "",
+    "telegram": "https://t.me/ComTrust",
+    "twitter": "https://twitter.com/ebtcfoundation",
+    "youtube": "https://www.youtube.com/channel/UC3qfrY1tpUFEy3nOjqaGBDw/videos"
+  },
+  "eth": [
+    {
+      "name": "eBTC",
+      "address": "0xeB7C20027172E5d143fB030d50f91Cece2D1485D",
+      "erc20": {
+        "symbol": "eBTC",
+        "decimals": 8,
+        "name": "eBTC"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Sola Token",
+  "ens_address": "",
+  "website": "https://sola.foundation",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1f54638b7737193ffd86c19ec51907a7c41755d8.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZ55thmuxFkTtVJDfqnN12HQ8BAMF1ykYZD15GquVopz3",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/915589387676782593/TNdBRVQi.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1f54638b7737193ffd86c19ec51907a7c41755d8.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1f54638b7737193ffd86c19ec51907a7c41755d8.png",
+    "ipfs_origin": "QmQoSHwXk98bg2rZQ2DLvguRPfu9VhKSaxWSBHdvySomdt"
+  },
+  "support": {
+    "email": "hi@sola.foundation",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/solaplatform",
+    "chat": "",
+    "facebook": "https://facebook.com/solaplatform",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/solaplatform",
+    "twitter": "https://twitter.com/solaplatform",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Sola Token",
+      "address": "0x1F54638b7737193FFd86c19Ec51907A7c41755D8",
+      "erc20": {
+        "symbol": "SOL",
+        "decimals": 6,
+        "name": "Sola Token"
+      }
+    }
+  ]
+}

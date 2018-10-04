@@ -1,0 +1,49 @@
+{
+  "name": "ATL",
+  "ens_address": "",
+  "website": "https://atlant.io",
+  "logo": {
+    "src": "https://atlant.io/promo/Atlant_custom_300x300_logo.png",
+    "width": "300",
+    "height": "300",
+    "ipfs_hash": "QmcH9QWKoNnWSMgA76ifgpuWi983a5KTf8Z3VoRiZ5ogQJ",
+    "sources": {
+      "token-list": "https://atlant.io/promo/Atlant_custom_300x300_logo.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1020736318131892224/oJ-TnGd_.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05.png",
+    "ipfs_origin": "QmQxrM26V5kC7CGvfpZJ38PTpM7yFYnYUVTvjAKUyjegCw"
+  },
+  "support": {
+    "email": "help@atlant.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@atlantio",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Atlant-Real-Estate-Platform-455717934793081/",
+    "forum": "https://bitcointalk.org/index.php?topic=2053239",
+    "github": "https://github.com/AtlantPlatform",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/Atlantio/",
+    "slack": "",
+    "telegram": "https://t.me/atlant_eng",
+    "twitter": "https://twitter.com/atlantio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ATL",
+      "address": "0x78B7FADA55A64dD895D8c8c35779DD8b67fA8a05",
+      "erc20": {
+        "symbol": "ATL",
+        "decimals": 18,
+        "name": "ATL"
+      }
+    }
+  ]
+}

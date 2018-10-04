@@ -1,0 +1,57 @@
+{
+  "name": "Coss Token",
+  "ens_address": "",
+  "website": "https://coss.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65292eeadf1426cd2df1c4793a3d7519f253913b.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdjzWipWovoaDM9jrRDrt92YYKm1fQz1xuGf3TnB9CrMw",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/934450930858242049/XtmuxKIb.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65292eeadf1426cd2df1c4793a3d7519f253913b.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x65292eeadf1426cd2df1c4793a3d7519f253913b.png",
+    "ipfs_origin": "QmdmxWqo1dxhTnxAeMYYnGaTKkXvngVziXmcChRSoXSTDZ"
+  },
+  "support": {
+    "email": "info@coss.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://coss.io/news",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cosscrypto/",
+    "forum": "https://bitcointalk.org/index.php?topic=2050735.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/COSS/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/cosscrypto",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Coss Token",
+      "address": "0x65292EeadF1426Cd2dF1C4793a3d7519f253913b",
+      "erc20": {
+        "symbol": "COSS",
+        "decimals": 18,
+        "name": "Coss Token"
+      }
+    },
+    {
+      "name": "Coss Token",
+      "address": "0x9e96604445Ec19fFed9a5e8dd7B50a29C899A10C",
+      "erc20": {
+        "symbol": "COSS",
+        "decimals": 18,
+        "name": "Coss Token"
+      }
+    }
+  ]
+}

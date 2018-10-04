@@ -1,0 +1,48 @@
+{
+  "name": "Transcodium",
+  "ens_address": "",
+  "website": "https://transcodium.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb0280743b44bf7db4b6be482b2ba7b75e5da096c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmXVMbh38kh8sTMEzuJf4V3JBntfaENrWjZFfU3qVgmUqu",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/930903944271818753/2m_iCP9D.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xb0280743b44bf7db4b6be482b2ba7b75e5da096c.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/930903944271818753/2m_iCP9D.jpg",
+    "ipfs_origin": "QmNQb1NWe2vDrD9tVkRuGS8X6XqCRU13NquxU8ZjGSjhEV"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.transcodium.com/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/transcodium/",
+    "forum": "",
+    "github": "https://github.com/transcodium",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/transcodium",
+    "slack": "",
+    "telegram": "https://t.me/transcodium",
+    "twitter": "https://twitter.com/transcodium",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Transcodium",
+      "address": "0xb0280743b44bF7db4B6bE482b2Ba7b75E5dA096C",
+      "erc20": {
+        "symbol": "TNS",
+        "decimals": 18,
+        "name": "Transcodium"
+      }
+    }
+  ]
+}

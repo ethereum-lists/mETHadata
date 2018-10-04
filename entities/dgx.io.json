@@ -1,0 +1,49 @@
+{
+  "name": "Digix DAO",
+  "ens_address": "",
+  "website": "https://www.dgx.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmR4Uo7rCUH2XQ8izcSMegeffhMbtBYPQTj64u9yRtszXY",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/dgd.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/1013679720704065536/lAU5IAkA.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a.png",
+    "ipfs_origin": "QmUR3ZUZouPXvJrhtikDoxDqiYqPyqwg49QdhacdcpzkQb"
+  },
+  "support": {
+    "email": "support@digix.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@digix",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=1515335.0",
+    "github": "https://github.com/digixglobal",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/digixglobal/",
+    "reddit": "https://www.reddit.com/r/digix",
+    "slack": "",
+    "telegram": "https://t.me/DigixDAO",
+    "twitter": "https://twitter.com/digixglobal",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Digix DAO",
+      "address": "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A",
+      "erc20": {
+        "symbol": "DGD",
+        "decimals": 9,
+        "name": "Digix DAO"
+      }
+    }
+  ]
+}

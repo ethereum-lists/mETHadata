@@ -1,0 +1,47 @@
+{
+  "name": "Artemine",
+  "ens_address": "",
+  "website": "https://www.artemine.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmTdddY9EhVHpUYpw7Fe3eDw3hZv943LpfFp6mqUy1mMUJ",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/899940796522278912/eVGs2B7z.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/899940796522278912/eVGs2B7z.jpg",
+    "ipfs_origin": "Qmb393PwQ9ye6uBtJyhSrtxdXb8uNu219JdAbcs2297AUe"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/artemine/",
+    "slack": "",
+    "telegram": "https://t.me/artemine",
+    "twitter": "https://twitter.com/arteminetoken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Artemine",
+      "address": "0x5f6E7fb7Fe92EA7822472bB0E8f1BE60D6A4EA50",
+      "erc20": {
+        "symbol": "ARTE",
+        "decimals": 18,
+        "name": "Artemine"
+      }
+    }
+  ]
+}

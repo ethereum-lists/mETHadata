@@ -1,0 +1,48 @@
+{
+  "name": "FuzeX Token",
+  "ens_address": "",
+  "website": "https://fuzex.co/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1829aa045e21e0d59580024a951db48096e01782.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmYzH2t3vYJr33okpomiD2QMG7zFY7w1Z45eBoHswqRRBS",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1011896176222695424/PMtMsdSy.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1829aa045e21e0d59580024a951db48096e01782.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x1829aa045e21e0d59580024a951db48096e01782.png",
+    "ipfs_origin": "QmcSQ9QAtpBp13agZF3hYGk9zBcHXfQ61U37BgBF9tdnke"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://facebook.com/fuzex.co",
+    "forum": "",
+    "github": "https://github.com/fuzex",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/fuzex/",
+    "slack": "",
+    "telegram": "https://t.me/FuzeX",
+    "twitter": "http://www.twitter.com/fuzex_co",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "FuzeX Token",
+      "address": "0x1829aA045E21E0D59580024A951DB48096e01782",
+      "erc20": {
+        "symbol": "FXT",
+        "decimals": 18,
+        "name": "FuzeX Token"
+      }
+    }
+  ]
+}

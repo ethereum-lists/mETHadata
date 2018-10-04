@@ -1,0 +1,49 @@
+{
+  "name": "XENON",
+  "ens_address": "",
+  "website": "https://xenon.network",
+  "logo": {
+    "src": "https://etherscan.io/token/images/xenon_28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": "QmXQMXwBjEfPRJG3fRawXdgiWr7CrFFiRyL4E1PhvkGPse",
+    "sources": {
+      "token-list": "https://etherscan.io/token/images/xenon_28.png",
+      "twitter": "http://pbs.twimg.com/profile_images/911531119203323906/LcAR-MOb.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xab95e915c123fded5bdfb6325e35ef5515f1ea69.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xab95e915c123fded5bdfb6325e35ef5515f1ea69.png",
+    "ipfs_origin": "QmYrtPvqSzwEkXqbrJNExL2eWJFhS7TCuPMBLg3RnrbGT8"
+  },
+  "support": {
+    "email": "contact@xenon.network",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2209559",
+    "github": "https://github.com/vmware/xenon",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/XenonXnn/",
+    "slack": "https://join.slack.com/t/xenonnetwork/shared_invite/enQtMjQ1NzQ2MTQ1OTA2LWI5MjkzZWQxNzRmYzNmOGE5Nzc2MWYyN2NjM2Y2MTZjNjA2MDUyNmI5ZGFkNjU3YzE5NGVjNjA0YzkzMDk5ZGU",
+    "telegram": "",
+    "twitter": "https://twitter.com/XenonNet",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "XENON",
+      "address": "0xab95E915c123fdEd5BDfB6325e35ef5515F1EA69",
+      "erc20": {
+        "symbol": "XNN",
+        "decimals": 18,
+        "name": "XENON"
+      }
+    }
+  ]
+}

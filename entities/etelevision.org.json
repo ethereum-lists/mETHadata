@@ -1,0 +1,42 @@
+{
+  "name": "eTelevision",
+  "ens_address": "",
+  "website": "https://etelevision.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ETelevision-Etv-371497376637952/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "eTelevision",
+      "address": "0x4E279D8638e8669Fad40e018Fc181D26EE780380",
+      "erc20": {
+        "symbol": "eTV",
+        "decimals": 8,
+        "name": "eTelevision"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "NucleusVision",
+  "ens_address": "",
+  "website": "https://nucleus.vision/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x809826cceab68c387726af962713b64cb5cb3cca.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmccrfvXHRe1hGq6et5KeMiaL971KM93WtJQwB4vdUJCyz",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/ncash.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/924878608388075521/Zrb6l1dR.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x809826cceab68c387726af962713b64cb5cb3cca.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x809826cceab68c387726af962713b64cb5cb3cca.png",
+    "ipfs_origin": "QmQpAmxKwdEtHTMtds4Ts4NyRaxXrG3ZVTubjEiNGzpKnm"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@NucleusVision",
+    "chat": "",
+    "facebook": "https://www.facebook.com/NucleusVision-1626428670765385/",
+    "forum": "https://bitcointalk.org/index.php?topic=2461585.0",
+    "github": "https://github.com/NucleusVision",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/NucleusVision/",
+    "slack": "",
+    "telegram": "https://t.me/NucleusVision",
+    "twitter": "https://twitter.com/NucleusVision",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "NucleusVision",
+      "address": "0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
+      "erc20": {
+        "symbol": "nCash",
+        "decimals": 18,
+        "name": "NucleusVision"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "BRAT",
+  "ens_address": "",
+  "website": "http://bro-consortium.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmeoBjpqoRP5aoJqHWVyrgsFZieRKvQgFmddYvwdXBGPjS",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/941295809215238147/v_YK4aJY.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891.png"
+    },
+    "sourceBest": "src",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891.png",
+    "ipfs_origin": "QmTjh5QSM9EXWGG9pwxVZAPnt6RVcdjSnzTdc7AMjG8CA4"
+  },
+  "support": {
+    "email": "info@brat.red",
+    "url": "https://brat.red"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2024699.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/coinbrat",
+    "twitter": "https://twitter.com/coinbrat/",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "BRAT",
+      "address": "0x9E77D5a1251b6F7D456722A6eaC6D2d5980bd891",
+      "erc20": {
+        "symbol": "BRAT",
+        "decimals": 8,
+        "name": "BRAT"
+      }
+    }
+  ]
+}

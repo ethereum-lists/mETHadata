@@ -1,0 +1,54 @@
+{
+  "name": "Knoxstertoken",
+  "ens_address": "",
+  "website": "https://fortknoxster.com",
+  "logo": {
+    "src": "https://fortknoxster.com/wp-content/uploads/2017/11/FortKnoxster-Icon-256.png",
+    "width": "",
+    "height": "",
+    "ipfs": {
+      "origin": "",
+      "256": "",
+      "128": ""
+    },
+    "sources": {
+      "token-list": "https://fortknoxster.com/wp-content/uploads/2017/11/FortKnoxster-Icon-256.png",
+      "twitter": "http://pbs.twimg.com/profile_images/1034408025543585792/HXzyfdND.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x009e864923b49263c7f10d19b7f8ab7a9a5aad33.png"
+    },
+    "best_source": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1034408025543585792/HXzyfdND.jpg",
+    "ipfs_hash": "QmPPhogv6GyftVTdPgm6S8jJREoNp7X3xCzg9svoPDv352",
+    "ipfs_origin": "QmTQsFtTp5oU5psDw9Ci2t8jaXUMvmNB8sUbB6YJqJ2XnD"
+  },
+  "support": {
+    "email": "hello@fortknoxster.com",
+    "url": "https://fortknoxster.com/knowledge-base/"
+  },
+  "social": {
+    "blog": "https://medium.com/fortknoxster",
+    "chat": "",
+    "facebook": "https://www.facebook.com/FortKnoxster",
+    "forum": "",
+    "github": "https://github.com/FortKnoxster",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/FortKnoxster/",
+    "slack": "",
+    "telegram": "https://t.me/FortKnoxster",
+    "twitter": "https://twitter.com/FortKnoxster",
+    "youtube": "https://www.youtube.com/channel/UCZB8URO26cktviSxp3SeHig/videos"
+  },
+  "eth": [
+    {
+      "name": "Knoxstertoken",
+      "address": "0x009e864923b49263c7F10D19B7f8Ab7a9A5AAd33",
+      "erc20": {
+        "symbol": "FKX",
+        "decimals": 18,
+        "name": "Knoxstertoken"
+      }
+    }
+  ]
+}

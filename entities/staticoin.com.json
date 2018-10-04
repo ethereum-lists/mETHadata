@@ -1,0 +1,105 @@
+{
+  "name": "Staticoin",
+  "ens_address": "",
+  "website": "http://staticoin.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "genkifs@gmail.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/genkifs/staticoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/ethdev/comments/78xg15/this_is_the_code_behind_staticoin_a_new_stable/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "USD Static",
+      "address": "0x1dAAF3d62582639C6a7EaBb467E2db9b56faFbBD",
+      "erc20": {
+        "symbol": "USD_S",
+        "decimals": 18,
+        "name": "USD Static"
+      }
+    },
+    {
+      "name": "GBP Risk",
+      "address": "0xdFe2BD1d3Dcbb97804ACF3ee85230E832C4a7B5d",
+      "erc20": {
+        "symbol": "GBP_R",
+        "decimals": 18,
+        "name": "GBP Risk"
+      }
+    },
+    {
+      "name": "JPY Risk",
+      "address": "0x22a3D74c363379189B6Cc059D8FBd888E98Df5Ec",
+      "erc20": {
+        "symbol": "JPY_R",
+        "decimals": 18,
+        "name": "JPY Risk"
+      }
+    },
+    {
+      "name": "JPY Static",
+      "address": "0x5F54C1512d036a0dD92744EE0A55Ed183dde0484",
+      "erc20": {
+        "symbol": "JPY_S",
+        "decimals": 18,
+        "name": "JPY Static"
+      }
+    },
+    {
+      "name": "GBP Static",
+      "address": "0xa9666166D3c7fD15e874801f99e9aD5Bfb70c5cF",
+      "erc20": {
+        "symbol": "GBP_S",
+        "decimals": 18,
+        "name": "GBP Static"
+      }
+    },
+    {
+      "name": "EUR Static",
+      "address": "0x1831887fBabF783910dB128E60C41BFa016059D8",
+      "erc20": {
+        "symbol": "EUR_S",
+        "decimals": 18,
+        "name": "EUR Static"
+      }
+    },
+    {
+      "name": "EUR Risk",
+      "address": "0xe5a219d4DB92A701e79B6E548803C8ce55138686",
+      "erc20": {
+        "symbol": "EUR_R",
+        "decimals": 18,
+        "name": "EUR Risk"
+      }
+    },
+    {
+      "name": "USD Risk",
+      "address": "0xD0800859D6f4bc0210B7807E770bc44A9eCE7372",
+      "erc20": {
+        "symbol": "USD_R",
+        "decimals": 18,
+        "name": "USD Risk"
+      }
+    }
+  ]
+}

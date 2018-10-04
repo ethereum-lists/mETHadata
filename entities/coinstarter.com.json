@@ -1,0 +1,48 @@
+{
+  "name": "Starter Coin",
+  "ens_address": "",
+  "website": "https://coinstarter.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a005c9a89bd72a4bd27721e7a09a3c11d2b03c4.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmd71wJiaMCaBQ8kU4WowrNda182pRSPWwsaGH28CPmJXn",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/1026199351121469441/ll6FVzPA.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x9a005c9a89bd72a4bd27721e7a09a3c11d2b03c4.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1026199351121469441/ll6FVzPA.jpg",
+    "ipfs_origin": "QmXguXzgrhHg7anqjv4atfTHjQb92avTfPPmc1Qh4yBSE5"
+  },
+  "support": {
+    "email": "support@coinstarter.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/realCoinStarter",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/coinstarter",
+    "twitter": "https://twitter.com/realCoinStarter",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Starter Coin",
+      "address": "0x9a005c9a89BD72a4Bd27721E7a09A3c11D2b03C4",
+      "erc20": {
+        "symbol": "STAC",
+        "decimals": 18,
+        "name": "Starter Coin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Mikado",
+  "ens_address": "",
+  "website": "https://mikado.io",
+  "logo": {
+    "src": "https://avatars3.githubusercontent.com/u/38851395?s=400",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": "QmVHhtcndnsosTo4EAwK4NYGqHYLnokZnVFhT8CwNy221i",
+    "sources": {
+      "token-list": "https://avatars3.githubusercontent.com/u/38851395?s=400",
+      "twitter": "http://pbs.twimg.com/profile_images/1016208171382247425/5qFJybG3.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/1016208171382247425/5qFJybG3.jpg",
+    "ipfs_origin": "QmSBdGdLeW2Xh7bo2CJ7w86WL27XtsGx1YDir9ucAxQbJk"
+  },
+  "support": {
+    "email": "support@mikado.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@mikado.io",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/mikadohq",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/mikadoio/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/mikadoio",
+    "twitter": "https://twitter.com/mikadoio",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Mikado",
+      "address": "0x7939882b54fcf0bCAe6b53dEc39Ad6e806176442",
+      "erc20": {
+        "symbol": "MKT",
+        "decimals": 8,
+        "name": "Mikado"
+      }
+    }
+  ]
+}

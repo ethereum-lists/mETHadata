@@ -1,0 +1,47 @@
+{
+  "name": "RobomedToken",
+  "ens_address": "",
+  "website": "https://robomed.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmVpgSFi3WDuuD7CjTmNkGsXFSFmeEagHbe88GoYgWKN7t",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/901034482324709376/LM98MReB.jpg"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/901034482324709376/LM98MReB.jpg",
+    "ipfs_origin": "QmbQmPZu6XBaLtPDNmxxspqS5cXjnmrdHheKShvgpi6Jru"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/RobomedNetwork",
+    "forum": "",
+    "github": "https://github.com/RoboMed",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/robomed",
+    "slack": "",
+    "telegram": "https://t.me/RoboMed",
+    "twitter": "https://twitter.com/Robomed_Network",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "RobomedToken",
+      "address": "0xA5d1e58ECe1fC438d64E65769d2ab730143a4Caf",
+      "erc20": {
+        "symbol": "RBM",
+        "decimals": 18,
+        "name": "RobomedToken"
+      }
+    }
+  ]
+}

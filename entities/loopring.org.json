@@ -1,0 +1,49 @@
+{
+  "name": "LRC",
+  "ens_address": "",
+  "website": "https://loopring.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xef68e7c694f40c8202821edf525de3782458639f.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmdXvRy9YCHySX6y6mqKHAooDJvBw7N1JfjqZRT7cAKkMg",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/lrc.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/964741030649069568/1ahmOc4d.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xef68e7c694f40c8202821edf525de3782458639f.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/964741030649069568/1ahmOc4d.jpg",
+    "ipfs_origin": "QmVvKqi2nZH6YfSGmQqY1q9ZUjoFiAZUDCrC2CWtcjLR6Q"
+  },
+  "support": {
+    "email": "foundation@loopring.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/loopring-protocol",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2069498",
+    "github": "https://github.com/loopring",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/loopringorg/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/loopringorg",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "LRC",
+      "address": "0xEF68e7C694F40c8202821eDF525dE3782458639f",
+      "erc20": {
+        "symbol": "LRC",
+        "decimals": 18,
+        "name": "LRC"
+      }
+    }
+  ]
+}

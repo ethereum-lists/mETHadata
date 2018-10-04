@@ -1,0 +1,47 @@
+{
+  "name": "Rocketchain",
+  "ens_address": "",
+  "website": "https://rockchain.org",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc9de4b7f0c3d991e967158e4d4bfa4b51ec0b114.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmS11xnirvbjg1Cw29M5eUGnUANPdVuZNfHDouqy6SPqkw",
+    "sources": {
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc9de4b7f0c3d991e967158e4d4bfa4b51ec0b114.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc9de4b7f0c3d991e967158e4d4bfa4b51ec0b114.png",
+    "ipfs_origin": "QmYAz1hYeQXCLYAZYXs2Mk1KBjJdgMyZ3UvzFBDh7h4REn"
+  },
+  "support": {
+    "email": "yosra.helal@rockchain.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Rocketchain",
+      "address": "0xc9De4B7F0C3d991e967158E4D4bFA4b51Ec0b114",
+      "erc20": {
+        "symbol": "ROK",
+        "decimals": 18,
+        "name": "Rocketchain"
+      }
+    }
+  ]
+}

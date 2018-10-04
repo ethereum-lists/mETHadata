@@ -1,0 +1,49 @@
+{
+  "name": "ENJIN",
+  "ens_address": "",
+  "website": "https://enjincoin.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmZ6ho1tAkRBPshhZsi5S8YqTy5UAsoedHt97R6ShqBZRP",
+    "sources": {
+      "trivial": "http://trivial.co/static/vendor/icons/svg/color/enj.svg",
+      "twitter": "http://pbs.twimg.com/profile_images/931594541223809024/A9ERo3xs.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png",
+    "ipfs_origin": "QmanAhMjfjbTRKcM5pdMG6BrxMH5pyGgPaPL5NSbgxFDDr"
+  },
+  "support": {
+    "email": "info@enjin.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@coinfork",
+    "chat": "",
+    "facebook": "https://www.facebook.com/enjinsocial",
+    "forum": "https://bitcointalk.org/index.php?topic=2042871.0",
+    "github": "https://github.com/enjin/contracts",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/EnjinCoin/",
+    "slack": "https://enjincoin.io/slack",
+    "telegram": "https://t.me/enjin_coin",
+    "twitter": "https://twitter.com/enjincs",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "ENJIN",
+      "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+      "erc20": {
+        "symbol": "ENJ",
+        "decimals": 18,
+        "name": "ENJIN"
+      }
+    }
+  ]
+}

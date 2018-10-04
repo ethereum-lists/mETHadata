@@ -1,0 +1,48 @@
+{
+  "name": "Fitrova",
+  "ens_address": "",
+  "website": "https://www.fitrova.com/",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x48df4e0296f908ceab0428a5182d19b31fc037d6.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "Qmd1ANYBk7BPtqQNhYAeUjasbWZxHA53QRtKCQXgz4L4fv",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/974963362919481345/bcDW9qea.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x48df4e0296f908ceab0428a5182d19b31fc037d6.png"
+    },
+    "sourceBest": "trustwallet",
+    "origin": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x48df4e0296f908ceab0428a5182d19b31fc037d6.png",
+    "ipfs_origin": "QmasrZy1oct2e8Z9CJs4Xx9BjJAvg8qMmCB2tWnmDikhmZ"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://twitter.com/FitrovaToken",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://telegram.me/fitrovachat",
+    "twitter": "https://twitter.com/FitrovaToken",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Fitrova",
+      "address": "0x48DF4E0296f908CEAb0428A5182D19B31fC037d6",
+      "erc20": {
+        "symbol": "FRV",
+        "decimals": 8,
+        "name": "Fitrova"
+      }
+    }
+  ]
+}

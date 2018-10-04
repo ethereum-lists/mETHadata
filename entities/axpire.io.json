@@ -1,0 +1,57 @@
+{
+  "name": "aXpire",
+  "ens_address": "",
+  "website": "https://www.axpire.io",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc39e626a04c5971d770e319760d7926502975e47.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "QmUWULDUaFAHnW8dEtCcLY1RaL52bwWUJQ9kLej4jRsuSa",
+    "sources": {
+      "twitter": "http://pbs.twimg.com/profile_images/965686934289907713/nXUb3AzA.jpg",
+      "trustwallet": "https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0xc39e626a04c5971d770e319760d7926502975e47.png"
+    },
+    "sourceBest": "twitter",
+    "origin": "http://pbs.twimg.com/profile_images/965686934289907713/nXUb3AzA.jpg",
+    "ipfs_origin": "QmRRb3YinqyKEnFhczit9o1AEpztu12w7bxKkaC1GzLd9k"
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@aXpire/",
+    "chat": "https://t.me/AxpireOfficial",
+    "facebook": "https://www.facebook.com/Axpire-537274833301303",
+    "forum": "https://bitcointalk.org/index.php?topic=2759348.0",
+    "github": "https://www.github.com/axpire",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/axpire/",
+    "reddit": "https://www.reddit.com/r/aXpire/",
+    "slack": "",
+    "telegram": "https://t.me/AxpireOfficial",
+    "twitter": "https://twitter.com/aXpire_official",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "aXpire",
+      "address": "0xC39E626A04C5971D770e319760D7926502975e47",
+      "erc20": {
+        "symbol": "AXPR",
+        "decimals": 18,
+        "name": "aXpire"
+      }
+    },
+    {
+      "name": "AXP",
+      "address": "0x9af2c6B1A28D3d6BC084bd267F70e90d49741D5B",
+      "erc20": {
+        "symbol": "AXP",
+        "decimals": 8,
+        "name": "AXP"
+      }
+    }
+  ]
+}
