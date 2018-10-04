@@ -17,24 +17,28 @@ TOKEN_LIST = {
     ]
 }
 
-entity_name = 'augur'
-fpath = "../entities/{}.json".format(entity_name)
 
-with open(fpath) as f:
-    entity = json.loads(f.read())
+entities = []
 
+for filename in os.listdir('../entities'):
+    if filename not in ['full_list.json','known_addresses.json']:
+        entities.append(filename[:-5])
 
-    fname = 'bancor.json'
-    data = json.dumps(json.loads(open('../entities/{}'.format(fname)).read()), indent=2);
+for entity_name in entities:
+    fpath = "../entities/{}.json".format(entity_name)
 
-    file_name = 'entity.html'
-    template = ENV.get_template('entity.html')
-    html = template.render(e = entity, fname=fname, data=data)
+    with open(fpath) as f:
+        entity = json.loads(f.read())
 
-    # Write output in the corresponding HTML file
-    print ('Writing', file_name)
-    with open(file_name, 'w') as out_file:
-        out_file.write(html)
+        fname = '{}.json'.format(entity_name)
+        data = json.dumps(json.loads(open('../entities/{}'.format(fname)).read()), indent=2);
+
+        template = ENV.get_template('entity.html')
+        html = template.render(e = entity, fname=fname, data=data)
+
+        # Write output in the corresponding HTML file
+        with open('entities/{}.html'.format(entity_name), 'w') as out_file:
+            out_file.write(html)
 
 
 tokens = {}

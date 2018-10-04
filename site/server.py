@@ -22,10 +22,8 @@ class S(BaseHTTPRequestHandler):
     def do_GET(self):
         logging.info("GET request,\nPath: %s\nHeaders:\n%s\n", str(self.path), str(self.headers))
         self._set_response()
-        with open("entity.html") as f:
+        with open("entities{}.html".format(self.path)) as f:
             self.wfile.write(f.read().encode('utf-8'))
-#        self.wfile.write()
-        self.wfile.write("GET request for {}".format(self.path).encode('utf-8'))
 
     def do_POST(self):
         content_length = int(self.headers['Content-Length']) # <--- Gets the size of data
