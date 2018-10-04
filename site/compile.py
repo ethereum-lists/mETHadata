@@ -23,9 +23,13 @@ fpath = "../entities/{}.json".format(entity_name)
 with open(fpath) as f:
     entity = json.loads(f.read())
 
+
+    fname = 'bancor.json'
+    data = json.dumps(json.loads(open('../entities/{}'.format(fname)).read()), indent=2);
+
     file_name = 'entity.html'
-    template = ENV.get_template(file_name)
-    html = template.render(e = entity)
+    template = ENV.get_template('entity.html')
+    html = template.render(e = entity, fname=fname, data=data)
 
     # Write output in the corresponding HTML file
     print ('Writing', file_name)
