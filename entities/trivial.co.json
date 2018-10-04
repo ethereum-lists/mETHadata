@@ -1,0 +1,82 @@
+{
+  "name": "Trivial.co",
+  "ens_address": "",
+  "website": "http://www.trivial.co/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": "",
+    "sources": {}
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Magic Token",
+      "address": "0x92185519dC5A3aB41396d1DA2bb4134eA3921172",
+      "erc20": {
+        "symbol": "TMC",
+        "decimals": 0,
+        "name": "Magic Token"
+      }
+    },
+    {
+      "name": "Chain Token",
+      "address": "0x55Fc04A73f058832b4F3498Dc83cEb6E53a9e314",
+      "erc20": {
+        "symbol": "TCT",
+        "decimals": 0,
+        "name": "Chain Token"
+      }
+    },
+    {
+      "name": "Elektronika Token",
+      "address": "0x0312982BE24b63344558d3B3D8c58119A22B1E63",
+      "erc20": {
+        "symbol": "TET",
+        "decimals": 0,
+        "name": "Elektronika Token"
+      }
+    },
+    {
+      "name": "Tintin Token",
+      "address": "0xDE11e2b7235FCb6E5039EAdAaACe5e4fF99c6B5B",
+      "erc20": {
+        "symbol": "TTN",
+        "decimals": 0,
+        "name": "Tintin Token"
+      }
+    },
+    {
+      "name": "Arcade Token",
+      "address": "0x1Ef729B095d5C657099607a662c1aE29F932cB5a",
+      "erc20": {
+        "symbol": "TAT",
+        "decimals": 0,
+        "name": "Arcade Token"
+      }
+    }
+
+
+
+  ],
+  "description": "Trivial.co originally did tokens attached to real-world items."
+}
