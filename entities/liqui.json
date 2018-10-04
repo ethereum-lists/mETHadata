@@ -1,0 +1,40 @@
+{
+  "name": "Liqui.io",
+  "ens_address": "",
+  "website": "https://www.liqui.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Exchange",
+      "address": "0x8271b2e8cbe29396e9563229030c89679b9470db"
+    },
+    {
+      "name": "Exchange",
+      "address": "0x5e575279bf9f4acf0a130c186861454247394c06"
+    }
+  ]
+}

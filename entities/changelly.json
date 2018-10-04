@@ -1,0 +1,36 @@
+{
+  "name": "Changelly",
+  "ens_address": "",
+  "website": "https://changelly.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Exchange",
+      "address": "0x96fc4553a00c117c5b0bed950dd625d1c16dc894"
+    }
+  ]
+}

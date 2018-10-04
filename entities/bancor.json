@@ -1,0 +1,67 @@
+{
+  "name": "Bancor",
+  "website": "https://www.bancor.network/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.bancor.network/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bancor/",
+    "forum": "https://bitcointalk.org/index.php?topic=1789222.0",
+    "github": "https://github.com/bancorprotocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Bancor/",
+    "slack": "",
+    "telegram": "https://t.me/bancor",
+    "twitter": "https://twitter.com/Bancor",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Token",
+      "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
+      "erc20": {
+        "symbol": "BNT",
+        "decimals": 18,
+        "name": "Bancor"
+      }
+    },
+    {
+      "name": "POE Relay",
+      "address": "0xa5f2a49aafa052e28a50a575cd9e7488fa598e78",
+      "erc20": {
+        "symbol": "POEBNT",
+        "decimals": 18,
+        "name": "POE Smart Token Relay"
+      }
+    },
+    {
+      "name": "Storm Relay",
+      "address": "0xcad4da66e00fdecabec137a24e12af8edf303a1d",
+      "erc20": {
+        "symbol": "STORMBNT",
+        "decimals": 18,
+        "name": "STORM Smart Token Relay"
+      }
+    },
+    {
+      "name": "DBET Relay",
+      "address": "0xfe9e6111e45a6066374bf33e831e80b1949a9faa",
+      "erc20": {
+        "symbol": "DBETBNT",
+        "decimals": 18,
+        "name": "DBET Smart Token Relay"
+      }
+    }
+  ]
+}

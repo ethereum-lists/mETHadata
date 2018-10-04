@@ -1,0 +1,40 @@
+{
+  "name": "Bitstamp",
+  "ens_address": "",
+  "website": "http://bitstamp.net",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@bitstamp.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Bitstamp",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/bitstamp",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/Bitstamp",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Multisig",
+      "address": "0x1522900b6dafac587d499a862861c0869be6e428"
+    },
+    {
+      "name": "Multisig creator",
+      "address": "0x00bdb5699745f5b860228c8f939abf1b9ae374ed"
+    }
+  ]
+}

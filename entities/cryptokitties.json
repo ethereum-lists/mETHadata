@@ -1,0 +1,71 @@
+{
+  "name": "Cryptokitties",
+  "website": "https://www.cryptokitties.co",
+  "logo": {
+    "src": "https://www.cryptokitties.co/icons/logo.svg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "meow@cryptokitties.co",
+    "url": "https://www.cryptokitties.co/contact"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CryptoKitties/",
+    "forum": "https://discord.gg/cryptokitties",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/cryptokitties/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/CryptoKitties/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/cryptokitties",
+    "youtube": "https://www.youtube.com/channel/UClUgQBJcxAmHjOQgV4QgVXg",
+    "twitch": "https://www.twitch.tv/directory/game/CryptoKitties"
+  },
+  "whitepapers": [
+    "https://drive.google.com/open?id=1soo-eAaJHzhw_XhFGMJp3VNcQoM43byS"
+  ],
+  "eth": [
+    {
+      "name": "geneScience",
+      "address": "0xf97e0a5b616dffc913e72455fde9ea8bbe946a2b"
+    },
+    {
+      "name": "saleAuction",
+      "address": "0xb1690c08e213a35ed9bab7b318de14420fb57d8c"
+    },
+    {
+      "name": "COO",
+      "address": "0x09191d18729da57a83a9afc8ace0c8d7d104e118"
+    },
+    {
+      "name": "siringAuction",
+      "address": "0xc7af99fe5513eb6710e6d5f44f9989da40f27f26"
+    },
+    {
+      "name": "CEO",
+      "address": "0xaf1e54b359b0897133f437fc961dd16f20c045e1"
+    },
+    {
+      "name": "CFO",
+      "address": "0xa874aa3e03842a84e4b252315488d27837d89544"
+    },
+    {
+      "name": "Token",
+      "address": "0x06012c8cf97bead5deae237070f9587f8e7a266d",
+      "erc721": {
+        "symbol": "CK",
+        "name": "Token"
+      }
+    },
+    {
+      "name": "creator",
+      "address": "0xba52c75764d6f594735dc735be7f1830cdf58ddf"
+    }
+  ]
+}

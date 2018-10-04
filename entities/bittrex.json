@@ -1,0 +1,36 @@
+{
+  "name": "Bittrex",
+  "ens_address": "",
+  "website": "https://bittrex.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Exchange",
+      "address": "0xfbb1b73c4f0bda4f67dca266ce6ef42f520fbb98"
+    }
+  ]
+}

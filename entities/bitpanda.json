@@ -1,0 +1,36 @@
+{
+  "name": "Bitpanda",
+  "ens_address": "",
+  "website": "https://www.bitpanda.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Exchange",
+      "address": "0x7071f121c038a98f8a7d485648a27fcd48891ba8"
+    }
+  ]
+}

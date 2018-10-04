@@ -1,0 +1,40 @@
+{
+  "name": "Poloniex",
+  "ens_address": "",
+  "website": "https://poloniex.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "http://twitter.com/poloniex",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Exchange",
+      "address": "0xb794f5ea0ba39494ce839613fffba74279579268"
+    },
+    {
+      "name": "Exchange",
+      "address": "0x32be343b94f860124dc4fee278fdcbd38c102d88"
+    }
+  ]
+}

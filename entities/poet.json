@@ -1,0 +1,50 @@
+{
+  "name": "Po.et",
+  "ens_address": "",
+  "website": "https://po.et",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@po.et",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.po.et",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/poetapp",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/poetproject/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/GKMQ1kOQSdXVZpN1Rygcdw",
+    "twitter": "https://twitter.com/_poetproject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Token",
+      "address": "0x0e0989b1f9B8A38983c2BA8053269Ca62Ec9B195",
+      "erc20": {
+        "symbol": "POE",
+        "decimals": 8,
+        "name": "Po.et"
+      }
+    },
+    {
+      "name": "Bancor Relay",
+      "address": "0xa5f2a49aafa052e28a50a575cd9e7488fa598e78",
+      "erc20": {
+        "symbol": "POEBNT",
+        "decimals": 18,
+        "name": "POE Smart Token Relay"
+      }
+    }
+  ]
+}

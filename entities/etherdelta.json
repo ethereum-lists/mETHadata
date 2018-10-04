@@ -1,0 +1,69 @@
+{
+  "name": "Forkdelta",
+  "ens_address": "",
+  "website": "http://forkdelta.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Donation",
+      "address": "0x3a2aEdc3B54A99e429ae36637681d4560cE5C05b",
+      "url": "https://forkdelta.app/about/"
+    },
+    {
+      "name": "Exchange",
+      "address": "0x8d12a197cb00d4747a1fe03395095ce2a5cc6819"
+    },
+    {
+      "name": "Exchange",
+      "address": "0x373c55c277b866a69dc047cad488154ab9759466",
+      "deprecation": {
+        "new_address": "0x8d12a197cb00d4747a1fe03395095ce2a5cc6819"
+      }
+    },
+    {
+      "name": "Exchange",
+      "address": "0x4aea7cf559f67cedcad07e12ae6bc00f07e8cf65",
+      "deprecation": {
+        "new_address": "0x8d12a197cb00d4747a1fe03395095ce2a5cc6819"
+      }
+    },
+    {
+      "name": "Exchange",
+      "address": "0x2136bbba2edca21afdddee838fff19ea70d10f03",
+      "deprecation": {
+        "new_address": "0x8d12a197cb00d4747a1fe03395095ce2a5cc6819"
+      }
+    },
+    {
+      "name": "Exchange",
+      "address": "0xc6b330df38d6ef288c953f1f2835723531073ce2",
+      "deprecation": {
+        "new_address": "0x8d12a197cb00d4747a1fe03395095ce2a5cc6819"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Bitfinex",
+  "ens_address": "",
+  "website": "https://www.bitfinex.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/bitfinex",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Bitfinex Exchange",
+      "address": "0xcafb10ee663f465f9d10588ac44ed20ed608c11e"
+    },
+    {
+      "name": "Bitfinex Exchange",
+      "address": "0x7180eb39a6264938fdb3effd7341c4727c382153"
+    },
+    {
+      "name": "Bitfinex Exchange",
+      "address": "0x1151314c646ce4e0efd76d1af4760ae66a9fe30f"
+    },
+    {
+      "name": "Bitfinex Exchange",
+      "address": "0x7727e5113d1d161373623e5f49fd568b4f543a9e"
+    },
+    {
+      "name": "Bitfinex Exchange",
+      "address": "0x4fdd5eb2fb260149a3903859043e962ab89d8ed4"
+    },
+    {
+      "name": "Bitfinex Exchange",
+      "address": "0x876eabf441b2ee5b5b0554fd502a8e0600950cfa"
+    }
+  ]
+}

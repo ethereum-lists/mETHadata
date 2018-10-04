@@ -1,0 +1,58 @@
+{
+  "symbol": "NEU",
+  "decimals": 18,
+  "name": "Neufund",
+  "ens_address": "",
+  "website": "https://neufund.org",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://blog.neufund.org/",
+    "chat": "",
+    "facebook": "https://www.facebook.com/neufundorg",
+    "forum": "https://bitcointalk.org/index.php?topic=2335433",
+    "github": "https://github.com/neufund",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/neufund",
+    "slack": "https://neufund.org/slack",
+    "telegram": "https://t.me/neufund",
+    "twitter": "https://twitter.com/neufundorg",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Token",
+      "address": "0xA823E6722006afe99E91c30FF5295052fe6b8E32",
+      "erc20": {
+        "symbol": "NEU",
+        "decimals": "18"
+      }
+    },
+    {
+      "name": "EthereumForkArbiter",
+      "address": "0x4c688949578b4fd0cb8f8993a0ec608659e05cf1"
+    },
+    {
+      "name": "creator",
+      "address": "0x005705952ea259375b88f13467d5abdd82f9ad90"
+    },
+    {
+      "name": "AccessPolicy",
+      "address": "0xae38c27e646959735ec70d77ed4ecc03a3eff490"
+    },
+    {
+      "name": "ICO",
+      "address": "0xf432cec23b2a0d6062b969467f65669de81f4653"
+    }
+  ]
+}

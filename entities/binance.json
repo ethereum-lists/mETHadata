@@ -1,0 +1,40 @@
+{
+  "name": "Binance",
+  "ens_address": "",
+  "website": "https://www.binance.com",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": "https://support.binance.com/hc/en-us"
+  },
+  "social": {
+    "blog": "https://medium.com/binanceexchange",
+    "chat": "",
+    "facebook": "https://www.facebook.com/binanceexchange",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/binanceexchange/",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/binanceexchange",
+    "slack": "",
+    "telegram": "https://www.binance.com/contactUsCn.html#telegrams",
+    "twitter": "https://twitter.com/binance",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Exchange",
+      "address": "0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be"
+    },
+    {
+      "name": "Exchange",
+      "address": "0x564286362092d8e7936f0549571a803b203aaced"
+    }
+  ]
+}

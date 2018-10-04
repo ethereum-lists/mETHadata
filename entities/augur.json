@@ -1,0 +1,136 @@
+{
+  "name": "Augur",
+  "website": "https://augur.net",
+  "description": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@augur.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@augurproject",
+    "chat": "",
+    "facebook": "https://www.facebook.com/augurproject",
+    "forum": "",
+    "github": "https://github.com/AugurProject/augur/wiki/Reputation-Tokens-(REP)",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Augur",
+    "slack": "https://invite.augur.net",
+    "telegram": "",
+    "twitter": "https://twitter.com/AugurProject",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Controller",
+      "address": "0xb3337164e91b9f05c87c7662c7ac684e8e0ff3e7",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "Universe",
+      "address": "0xe991247b78f937d7b69cfc00f1a487a293557677",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "Legacy Reputation Token",
+      "address": "0xe94327d07fc17907b4db788e5adf2ed424addff6",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "Augur",
+      "address": "0x75228dce4d82566d93068a8d5d49435216551599",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "CancelOrder",
+      "address": "0x3448209268e97652bb67ea12777d4dfba81e3aaf",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "Cash",
+      "address": "0xd5524179cb7ae012f5b642c1d6d700bbaa76b96b",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "ClaimTradingProceeds",
+      "address": "0x4334477348222a986fc88a05410aa6b07507872a",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "CompleteSets",
+      "address": "0xa6bff4f91016c2b4aac140b2d8d7317b36afe5ab",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "CreateOrder",
+      "address": "0x7f27b0598949dbf9e539bbd217f15bf3f5e97999",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "FillOrder",
+      "address": "0x39c230f89981274177e79708c921582bd4bd0303",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "Order",
+      "address": "0x75d789ef6344579fbe75a4d2d9217ec23b005f8f",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "Orders",
+      "address": "0xd7a14019aeeba25e676a1b596bb19b6f37db74d2",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "OrdersFetcher",
+      "address": "0xa97a3e2ac932bc7a9c65393ee2c0f9d2f7b2e692",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "ShareToken",
+      "address": "0x2a21d90745dfed999aa0b6e08d648855c5f14663",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "Trade",
+      "address": "0x24e2b1d415e6e0d04042eaa45dc2a08fc33ca6cd",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "TradingEscapeHatch",
+      "address": "0x10b5589fc6922f5c27061ac79ad9a4af35e15806",
+      "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+    },
+    {
+      "name": "Legacy Augur Token",
+      "address": "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6",
+      "erc20": {
+        "symbol": "REP",
+        "decimals": 18,
+        "name": "Reputation"
+      },
+      "deprecation": {
+        "new_address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
+        "migration_type": "auto",
+        "announcement_url": "https://medium.com/@AugurProject/rep-migration-deployment-122e7189779d",
+        "time": "2018-07-09T18:01:00Z"
+      }
+    },
+    {
+      "name": "Augur Token",
+      "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
+      "erc20": {
+        "symbol": "REP",
+        "decimals": 18,
+        "name": "Augur"
+      }
+    }
+  ]
+}
