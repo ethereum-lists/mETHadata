@@ -18,6 +18,8 @@ TOKEN_LIST = {
 }
 
 
+# compile entity pages
+
 entities = []
 
 for filename in os.listdir('../entities'):
@@ -43,6 +45,13 @@ for entity_name in entities:
 
 tokens = {}
 
+def by_site(token):
+#    print(token)
+    if 'website' in token:
+        return token['website']
+    else:
+        return ''
+
 for network in TOKEN_LIST:
     tokens[network] = []
 
@@ -57,6 +66,16 @@ for network in TOKEN_LIST:
         with open(fpath) as f:
             token = json.loads(f.read())
             tokens[network].append(token)
+
+        tokens[network].sort(key=by_site)
+
+prev = 'NIL'
+for t in tokens[network]:
+    if 'website' not in t or t['website'] == '':
+        continue
+    if prev == t['website']:
+        t['merge'] = True
+    prev = t['website']
 
 
 for item in PAGE_LIST:
