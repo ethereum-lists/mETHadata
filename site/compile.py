@@ -17,6 +17,22 @@ TOKEN_LIST = {
     ]
 }
 
+entity_name = 'augur'
+fpath = "../entities/{}.json".format(entity_name)
+
+with open(fpath) as f:
+    entity = json.loads(f.read())
+
+    file_name = 'entity.html'
+    template = ENV.get_template(file_name)
+    html = template.render(e = entity)
+
+    # Write output in the corresponding HTML file
+    print ('Writing', file_name)
+    with open(file_name, 'w') as out_file:
+        out_file.write(html)
+
+
 tokens = {}
 
 for network in TOKEN_LIST:

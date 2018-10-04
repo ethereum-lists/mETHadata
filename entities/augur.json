@@ -1,6 +1,7 @@
 {
 	"name": "Augur",
 	"website": "https://augur.net",
+	"description": "",
 	"logo": {
 		"src": "",
 		"width": "",
@@ -8,7 +9,7 @@
 		"ipfs_hash": ""
 	},
 	"support": {
-		"email": "",
+		"email": "team@augur.net",
 		"url": ""
 	},
 	"social": {

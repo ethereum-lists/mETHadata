@@ -34,7 +34,7 @@
 				"symbol": "BNT",
 				"decimals": 18,
 				"name": "Bancor"
-			},
+			}
 		},{
 			"name": "POE Relay",
 			"address": "0xa5f2a49aafa052e28a50a575cd9e7488fa598e78",

@@ -1,0 +1,301 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Open Source database for contract metadata">
+
+    <title>Methadata - Open Source database for contract metadata</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+  </head>
+
+  <body>
+
+    <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
+      <h5 class="my-0 mr-md-auto font-weight-normal">Methadata.org <i>Beta</i></h5>
+    </div>
+
+    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center" style="margin-bottom:20px;">
+      <p class="lead">Open Source database for contract metadata</p>
+      <p>Currently <b>1208</b> tokens, across <b>6</b> networks.</p>
+    </div>
+
+    <div class="col-md-8 offset-2" id="app">
+
+<div class="row">
+  <div class="col-md-6">
+    <h3>Organisation:</h3>
+
+    <table style="width:100%">
+      <tr>
+        <td style="width:130px">Name:</td><td><input v-model="name"></td>
+      </tr>
+
+      <tr>
+        <td>Website:</td><td><input style="width:100%" v-model="website"></td>
+      </tr>
+
+      <tr>
+        <td>Description:</td><td><input style="width:100%" v-model="description"></td>
+      </tr>
+
+      <tr>
+        <td>Logo link:</td><td><input style="width:100%" v-model="logo.origin"></td>
+      </tr>
+
+      <tr>
+        <td>Support e-mail:</td><td><input placeholder="email@example.com" v-model="support.email"></td>
+      </tr>
+
+      <tr>
+        <td>Whitepaper:</td><td><input placeholder="https://example.com/whitepaper.pdf" 
+                                  style="width:100%" name="whitepaper" value="{{e.whitepaper}}"></td>
+      </tr>
+
+    </table>
+
+    <hr>
+    <h3>Addresses</h3>
+      <table>
+        <tr v-for="(a, i) in eth"><td data="address">
+          <input name="name" placeholder="name e.g. Token, Contract, Creator" style="width:100px" v-model="a.name">
+          <input name="address" style="width:400px" placeholder="0xfe9e6111e...." v-model="a.address"><br>
+
+          <div class="btn-group" role="group" aria-label="Network">
+            <button type="button" eth class="btn btn-sm btn-secondary">Ethereum</button>
+            <button type="button" poa class="btn btn-sm btn-light">POA</button>
+            <button type="button" kov class="btn btn-sm btn-light">Kovan</button>
+            <button type="button" rop class="btn btn-sm btn-light">Ropstein</button>
+            <button type="button" ubq class="btn btn-sm btn-light">UBQ</button>
+            <button type="button" rin class="btn btn-sm btn-light">Rinkeby</button>
+            <button type="button" ubq class="btn btn-sm btn-light">Ubq</button>
+            <button type="button" etc class="btn btn-sm btn-light">Classic</button>
+          </div>
+            
+            <input style="width:100%" placeholder="explain how you know or provide announcement url http://...." 
+                    name="url" v-model="a.url"><br>
+
+            
+            <div class="btn-group" role="group" aria-label="Attrs">            
+              <button type="button" erc20 class="btn btn-sm" v-bind:class="test(a,'erc20')" v-on:click="toggle(a, 'erc20')">ERC-20</button>
+
+              <button type="button" erc721 class="btn btn-sm" v-bind:class="test(a,'erc721')" v-on:click="toggle(a, 'erc721')">ERC-721</button>
+              <button type="button" exchange class="btn btn-sm" v-bind:class="testStr(a,'name','exchange')">Exchange</button>
+              <button type="button" donation class="btn btn-sm" v-bind:class="testStr(a,'name','donation')">Donation</button>
+              <button type="button" deprecated class="btn btn-sm" v-bind:class="test(a,'deprecation')"  v-on:click="toggle(a, 'deprecation')">Deprecated</button>
+
+            </div>
+
+            <div v-if="a.deprecation">
+              New address:<br>
+              <input style="width:100%" placeholder="new address, 0x...." 
+                       v-model="a.deprecation.new_address"><br>
+            </div>
+
+            <div v-if="a.erc20">
+              Symbol: <input v-model="a.erc20.symbol"></span><br>
+              Decimals: <input v-model="a.erc20.decimals"></span><br>
+              Name: <input v-model="a.erc20.name"></span><br>
+            </div>
+
+          <hr>
+        </td></tr>
+
+    </table>
+
+      <br>
+
+
+  </div>
+  <div class="col-md-4">
+    <h3>Social media:</h3>
+      <table>
+        {% for social in ['blog', 'chat', 'facebook', 'forum', 'github', 'gitter', 
+                          'instagram', 'linkedin', 'reddit', 'slack', 'telegram',
+                          'twitter','youtube'] %}
+          <tr>
+            <td align="right" style="padding-right:10px">{{social}}</td>
+            <td><input v-model="social.{{social}}" placeholder="{{social}}" style="width:350px"></td>
+          </tr>
+        {% endfor %}
+      </table>
+      <br>
+      <br>
+      <button type="button" class="btn btn-lg btn-success" style="margin-left:30px">Save &raquo;</button>
+
+    </div>
+</div>
+<div class="col-md-4">
+    <hr>
+
+    </div>
+</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+
+
+  <script>
+    var app = new Vue({
+        el: "#app",
+        methods: {
+
+          test: function(a, attr) {return a[attr]?"btn-secondary":"btn-light";},
+          testStr: function(a, attr, str) {return (a[attr]==str)?"btn-secondary":"btn-light";},
+          toggle: function(a, attr) {
+
+            console.log('toggle'+a+attr)
+            if (a[attr]) {
+                delete a[attr]
+            } else {
+              console.log('hello')
+              a[attr] = {'hello':'hello'};
+            }
+              this.$forceUpdate();
+
+          }
+
+        },
+        data: {
+  "name": "Augur",
+  "website": "https://augur.net",
+  "description": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@augur.net",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@augurproject",
+    "chat": "",
+    "facebook": "https://www.facebook.com/augurproject",
+    "forum": "",
+    "github": "https://github.com/AugurProject/augur/wiki/Reputation-Tokens-(REP)",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Augur",
+    "slack": "https://invite.augur.net",
+    "telegram": "",
+    "twitter": "https://twitter.com/AugurProject",
+    "youtube": ""
+  },
+  "eth": [ {
+    "name": "Controller",
+    "address": "0xb3337164e91b9f05c87c7662c7ac684e8e0ff3e7",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "Universe",
+    "address": "0xe991247b78f937d7b69cfc00f1a487a293557677",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "Legacy Reputation Token",
+    "address": "0xe94327d07fc17907b4db788e5adf2ed424addff6",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "Augur",
+    "address": "0x75228dce4d82566d93068a8d5d49435216551599",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "CancelOrder",
+    "address": "0x3448209268e97652bb67ea12777d4dfba81e3aaf",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "Cash",
+    "address": "0xd5524179cb7ae012f5b642c1d6d700bbaa76b96b",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "ClaimTradingProceeds",
+    "address": "0x4334477348222a986fc88a05410aa6b07507872a",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "CompleteSets",
+    "address": "0xa6bff4f91016c2b4aac140b2d8d7317b36afe5ab",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "CreateOrder",
+    "address": "0x7f27b0598949dbf9e539bbd217f15bf3f5e97999",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "FillOrder",
+    "address": "0x39c230f89981274177e79708c921582bd4bd0303",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "Order",
+    "address": "0x75d789ef6344579fbe75a4d2d9217ec23b005f8f",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "Orders",
+    "address": "0xd7a14019aeeba25e676a1b596bb19b6f37db74d2",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "OrdersFetcher",
+    "address": "0xa97a3e2ac932bc7a9c65393ee2c0f9d2f7b2e692",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "ShareToken",
+    "address": "0x2a21d90745dfed999aa0b6e08d648855c5f14663",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "Trade",
+    "address": "0x24e2b1d415e6e0d04042eaa45dc2a08fc33ca6cd",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "TradingEscapeHatch",
+    "address": "0x10b5589fc6922f5c27061ac79ad9a4af35e15806",
+    "url": "https://medium.com/@AugurProject/augur-launches-794fa7f88c6a"
+  }, {
+    "name": "Legacy Augur Token",
+    "address": "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6",
+    "erc20": {
+      "symbol": "REP",
+      "decimals": 18,
+      "name": "Reputation"
+    },
+    "deprecation": {
+      "new_address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
+      "migration_type": "auto",
+      "announcement_url": "https://medium.com/@AugurProject/rep-migration-deployment-122e7189779d",
+      "time": "2018-07-09T18:01:00Z"
+    }
+  }, {
+    "name": "Augur Token",
+    "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
+    "erc20": {
+      "symbol": "REP",
+      "decimals": 18,
+      "name": "Augur"
+    }
+  }
+  ]
+}
+});
+
+  </script>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+
+  </body>
+</html>
+
+
+
