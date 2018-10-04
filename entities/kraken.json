@@ -1,38 +1,48 @@
 {
-	"name": "Kraken",
-	"ens_address": "",
-	"website": "https://www.kraken.com/",
-	"logo": {
-		"src": "",
-		"width": "",
-		"height": "",
-		"ipfs_hash": ""
-	},
-	"support": {
-		"email": "",
-		"url": ""
-	},
-	"social": {
-		"blog": "",
-		"chat": "",
-		"facebook": "",
-		"forum": "",
-		"github": "",
-		"gitter": "",
-		"instagram": "",
-		"linkedin": "",
-		"reddit": "",
-		"slack": "",
-		"telegram": "",
-		"twitter": "",
-		"youtube": ""
-	},
-	"eth": [
-		{
-	        "0x2910543af39aba0cd09dbb2d50200b3e800a63d2": "Exchange",
-	        "0x0a869d79a7052c7f1b55a8ebabbea3420f0d1e13": "Exchange",
-	        "0xe853c56864a2ebe4576a807d26fdc4a0ada51919": "Exchange",
-	        "0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0": "Exchange"
-	    }
-	]
+  "name": "Kraken",
+  "ens_address": "",
+  "website": "https://www.kraken.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "eth": [
+    {
+      "name": "Exchange",
+      "address": "0x2910543af39aba0cd09dbb2d50200b3e800a63d2"
+    },
+    {
+      "name": "Exchange",
+      "address": "0x0a869d79a7052c7f1b55a8ebabbea3420f0d1e13"
+    },
+    {
+      "name": "Exchange",
+      "address": "0xe853c56864a2ebe4576a807d26fdc4a0ada51919"
+    },
+    {
+      "name": "Exchange",
+      "address": "0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0"
+    }
+  ]
 }
