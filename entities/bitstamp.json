@@ -30,7 +30,7 @@
 	"eth": [
 		{
 			"name": "Multisig",
-			"address": "0x1522900b6dafac587d499a862861c0869be6e428",
+			"address": "0x1522900b6dafac587d499a862861c0869be6e428"
 		},{
 			"name": "Multisig creator",
 			"address": "0x00bdb5699745f5b860228c8f939abf1b9ae374ed"

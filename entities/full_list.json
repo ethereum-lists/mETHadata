@@ -135,7 +135,7 @@
 	"website": "http://ibtc.fun",
 	"deprecation": {
 		"new_address": "0x0784dbabb6c6834bddfb7cfee116ba049e5dafab",
-		"announcement_url": "https://bitcointalk.org/index.php?topic=2251334.0",
+		"announcement_url": "https://bitcointalk.org/index.php?topic=2251334.0"
 	},
 	"logo": {
 		"src": "",

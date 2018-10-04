@@ -33,22 +33,22 @@
 	"eth": [
 	{
 		"name": "geneScience",
-		"address": "0xf97e0a5b616dffc913e72455fde9ea8bbe946a2b",
+		"address": "0xf97e0a5b616dffc913e72455fde9ea8bbe946a2b"
 	}, {
 		"name": "saleAuction",
-		"address": "0xb1690c08e213a35ed9bab7b318de14420fb57d8c",
+		"address": "0xb1690c08e213a35ed9bab7b318de14420fb57d8c"
 	}, {
 		"name": "COO",
-		"address": "0x09191d18729da57a83a9afc8ace0c8d7d104e118",
+		"address": "0x09191d18729da57a83a9afc8ace0c8d7d104e118"
 	}, {
 		"name": "siringAuction",
-		"address": "0xc7af99fe5513eb6710e6d5f44f9989da40f27f26",
+		"address": "0xc7af99fe5513eb6710e6d5f44f9989da40f27f26"
 	}, {
 		"name": "CEO",
-		"address": "0xaf1e54b359b0897133f437fc961dd16f20c045e1",
+		"address": "0xaf1e54b359b0897133f437fc961dd16f20c045e1"
 	}, {
 		"name": "CFO",
-		"address": "0xa874aa3e03842a84e4b252315488d27837d89544",
+		"address": "0xa874aa3e03842a84e4b252315488d27837d89544"
 	}, {
 		"name": "Token",
 		"address": "0x06012c8cf97bead5deae237070f9587f8e7a266d",
@@ -58,7 +58,7 @@
 		}
 	}, {
 		"name": "creator",
-		"address": "0xba52c75764d6f594735dc735be7f1830cdf58ddf",
+		"address": "0xba52c75764d6f594735dc735be7f1830cdf58ddf"
 	}
 	]
 }
