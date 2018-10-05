@@ -24,7 +24,7 @@
     "chat": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/etherdelta/etherdelta.github.io/blob/master/tokenGuides/EXRN.ejs",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
@@ -44,5 +44,6 @@
         "name": "EXRNchain"
       }
     }
-  ]
+  ],
+  "description": "Connecting blockchains using crosschain gateway  built with smart contracts."
 }

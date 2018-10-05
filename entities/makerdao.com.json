@@ -54,7 +54,9 @@
         "name": "MakerDAO"
       },
       "deprecation": {
-        "hello": "hello"
+        "hello": "hello",
+        "announcement_url": "https://makerdao.com/redeem/",
+        "new_address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
       }
     },
     {
@@ -74,6 +76,13 @@
         "decimals": 18,
         "name": "SAI"
       }
+    },
+    {
+      "name": "Redeemer",
+      "address": "0x642ae78fafbb8032da552d619ad43f1d81e4dd7c",
+      "description": "A redeemer script between v1 and v2",
+      "url": "https://makerdao.com/redeem/"
     }
+
   ]
 }

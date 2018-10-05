@@ -31,7 +31,7 @@ event_handler = EvHandler()
 observer = Observer()
 observer.schedule(event_handler, "./templates", recursive=True)
 observer.schedule(PyHandler(), '.', recursive=False)
-observer.schedule(event_handler, '../tokens', recursive=True)
+#observer.schedule(event_handler, '../tokens', recursive=True)
 observer.schedule(event_handler, '../entities', recursive=True)
 
 

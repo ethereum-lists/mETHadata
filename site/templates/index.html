@@ -13,9 +13,17 @@
 
     <!-- Custom styles for this template -->
     <link href="pricing.css" rel="stylesheet">
+
   </head>
 
   <body>
+
+    <style>
+      .logo {
+          width:50px;
+
+      }
+    </style>
 
     <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
       <h5 class="my-0 mr-md-auto font-weight-normal">Methadata.org <i>Beta</i></h5>
@@ -41,9 +49,72 @@
 
     <table class="col-md-8 offset-2">
 
-    {% for net in tokens %}
-      {% for token in tokens[net] %}
+    {% for (fname,entity) in entities.items() %}
+    <tr>
+      <td valign=top>
+       {% if entity.logo and entity.logo.ipfs_hash %}
+          <img src="https://dweb.me/ipfs/{{entity.logo.ipfs_hash}}" class="logo" /><br>
+      {% endif %}
 
+    </td>
+    <td style="padding-left:10px; padding-bottom:30px">
+      <h4>{{entity.name}} <small><a href="http://localhost:8080/{{fname}}" class="text-muted">edit</a></small></h4><br>
+      {% if entity.description %}
+        <i>{{entity.description}}</i><br>
+      {% endif %}
+      {% if entity.website %}
+        Website: <a href="{{entity.website}}">{{entity.website|truncate(100, True)}}</a><br>
+      {% endif %}
+
+      {% for site in entity.social %}
+        {% if entity.social[site] %}
+          {{site|title}}: <a href="{{entity.social[site]}}">{{entity.social[site]|truncate(60, True)}}</a><br>
+        {% endif %}
+      {% endfor %}
+      <br>
+
+      {% for address in entity.eth %}
+      <div style='box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important; margin-bottom:5px; border:1px solid rgba(0,0,0,.125); border-radius: .25rem; padding:5px' class="col-md-8">
+        {% if address.deprecation %}<span style="text-decoration: line-through;">{% endif %}
+          <h6>{% if address.deprecation %}Legacy {% endif %}{{address.name}} {% if address.erc20 %}({{address.erc20.symbol}}){% endif %}</h6>
+          {% if address.deprecation %}</span>{% endif %}
+
+          <small class="text-muted">{{address.address}}<br>
+          {% if address.url %} <a href="{{address.url}}" style="color:#212529; text-decoration:underlin">{{address.url}}</a><br> {% endif %}
+
+          {% if address.deprecation %}
+            <b>Deprecated</b><br>
+            Announcement: {{address.deprecation.announcement_url}}<br>
+            New Address: {{address.deprecation.new_address}}<br>
+          {% endif %}
+
+          {% if address.erc20 %}
+            <b>ERC-20 token</b><br>
+            {{address.erc20.name}} ({{address.erc20.symbol}})<br>
+            Decimals: {{address.erc20.decimals}}<br>
+          {% endif %}
+          {% if address.erc721 %}
+            <b>ERC-721 token</b><br>
+            Symbol: {{address.erc721.symbol}}<br>
+          {% endif %}
+
+
+          </small>
+      </div>
+      {% endfor %}
+    </td>
+{#    <td valign="top">
+       <b>ERC-20 token</b><br>
+       decimals: <b>{{token.decimals}}</b><br>
+       symbol: <b>{{token.symbol}}</b><br>
+       <br>
+             {% if token.logo.ipfs_hash %}
+      <img src="https://dweb.me/ipfs/{{token.logo.ipfs_hash}}" style="width:64px" /><br>
+      {% endif %}
+
+    </td>#}
+  </tr>
+{#
       <tr>
         <td valign=top>
       <a href="https://github.com/ethereum-lists/mETHadata/edit/master/tokens/{{net}}/{{token.address}}.json">edit</a>
@@ -74,8 +145,7 @@
       {% endif %}
 
     </td>
-  </tr>
-  {% endfor %}
+  </tr>#}
   {%endfor%}
 </table>
 

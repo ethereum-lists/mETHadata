@@ -53,7 +53,7 @@
 
       <tr>
         <td>Whitepaper:</td><td><input placeholder="https://example.com/whitepaper.pdf" 
-                                  style="width:100%" name="e.whitepaper" value="{{e.whitepaper}}"></td>
+                                  style="width:100%" name="e.whitepaper" v-model="e.whitepaper"></td>
       </tr>
 
     </table>
@@ -91,6 +91,11 @@
             </div>
 
             <div v-if="a.deprecation">
+              Announcement url:<br>
+              <input style="width:100%" placeholder="new address, 0x...." 
+                       v-model="a.deprecation.announcement_url"><br>
+
+
               New address:<br>
               <input style="width:100%" placeholder="new address, 0x...." 
                        v-model="a.deprecation.new_address"><br>
@@ -101,6 +106,11 @@
               Decimals: <input v-model="a.erc20.decimals"></span><br>
               Name: <input v-model="a.erc20.name"></span><br>
             </div>
+
+            <div v-if="a.erc721">
+              Symbol: <input v-model="a.erc721.symbol"></span><br>
+            </div>
+
 
           <hr>
         </td></tr>

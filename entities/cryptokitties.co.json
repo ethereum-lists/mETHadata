@@ -1,5 +1,5 @@
 {
-  "name": "CK",
+  "name": "CryptoKitties",
   "ens_address": "",
   "website": "https://cryptokitties.co",
   "logo": {
@@ -36,12 +36,11 @@
   },
   "eth": [
     {
-      "name": "CK",
+      "name": "CryptoKitties",
       "address": "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
-      "erc20": {
-        "symbol": "CK",
-        "decimals": 0,
-        "name": "CK"
+      "erc721": {
+        "hello": "hello",
+        "symbol": "CK"
       }
     }
   ]

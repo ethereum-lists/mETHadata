@@ -43,6 +43,10 @@
     {
       "name": "Exchange",
       "address": "0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0"
+    },
+    {
+      "name": "Exchange",
+      "address": "0xfa52274dd61e1643d2205169732f29114bc240b3"
     }
   ]
 }

@@ -19,18 +19,18 @@
     "url": ""
   },
   "social": {
-    "blog": "",
+    "blog": "https://blog.madnetwork.io/",
     "chat": "",
-    "facebook": "",
-    "forum": "",
+    "facebook": "https://www.facebook.com/MAD-Network-126357984721725/",
+    "forum": "https://bitcointalk.org/index.php?topic=2373975.msg24212558#msg24212558",
     "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/company/11310767/",
+    "reddit": "https://www.reddit.com/r/madnetwork/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/joinchat/GKMQ1hEqhtQDst2cdiiwUw",
+    "twitter": "https://twitter.com/madnetwork_",
     "youtube": ""
   },
   "eth": [
@@ -43,5 +43,6 @@
         "name": "MAD"
       }
     }
-  ]
+  ],
+  "description": "MAD is the first blockchain network for advertising with privacy by design"
 }
