@@ -16,6 +16,8 @@ for filename in os.listdir('../entities'):
 #        if 'augur' in filename:
             entity_names.append(filename[:-5])
 
+tokens = {}
+
 for entity_name in entity_names:
     fname = '{}.json'.format(entity_name)
     fpath = "../entities/{}.json".format(entity_name)
@@ -26,6 +28,11 @@ for entity_name in entity_names:
         entity_source = f.read()
         entity = json.loads(entity_source)
         entities[entity_name] = entity
+
+        for net in ['eth', 'kov']:
+            if net in entity:
+                for t in entity[net]:
+                    tokens[t['address']] = t
 
         template = ENV.get_template('entity.html')
         html = template.render(e = entity, fname=fname, data=entity_source)
@@ -41,7 +48,7 @@ with open('entities.json', 'w') as out_file:
 
 file_name = 'index.html'
 template = ENV.get_template(file_name)
-html = template.render(title='Homepage', entities=entities)
+html = template.render(title='Homepage', entities=entities, token_count = len(tokens))
 
 # Write output in the corresponding HTML file
 print ('Writing', file_name)
